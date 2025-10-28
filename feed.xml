@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+><channel>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas no padrão web.</description>
+<language>pt-BR</language>
+<item>
+<title><![CDATA[Ciclistas de Lages alcançam pódios na final do catarinense de ciclismo]]></title>
+<link>https://visornoticias.com.br/final-catarinense-ciclismo-lages/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Oct 2025 22:21:39 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=298096</guid>
+<description><![CDATA[Ciclistas de Lages se destacam na final do campeonato catarinense de ciclismo]]></description>
+<content:encoded><![CDATA[Ciclistas de Lages se destacam na final do campeonato catarinense de ciclismo
+
+Três atletas de Lages, Ricardo Vieira, Ricardo Conte e Andrei Vanzella, conquistaram pódios na etapa final do campeonato catarinense de ciclismo em Itapema. Com excelentes desempenhos, encerraram a temporada entre os melhores do estado em suas categorias.
+
+Os ciclistas demonstraram talento e dedicação, representando a cidade de Lages com muita competência e garra. As conquistas nos pódios refletem o trabalho árduo e a paixão pelo esporte.
+
+A comunidade de Lages se orgulha dos resultados dos seus representantes no ciclismo, que levaram o nome da cidade ao pódio do campeonato catarinense. O esforço e a determinação dos atletas são inspiradores para os amantes do esporte na região.
+
+Parabéns aos ciclistas Ricardo Vieira, Ricardo Conte e Andrei Vanzella por suas conquistas no campeonato catarinense de ciclismo, mostrando que Lages tem talento de sobra no esporte de duas rodas. Fonte: Visor Notícias.]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2F28-10-2025_15-33872.webp" type="image/jpeg"/>
+</item></channel></rss>
