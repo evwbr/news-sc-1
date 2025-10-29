@@ -1,54 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News</title>
 <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/news-sc-1/</link>
 <description>Notícias locais reescritas no padrão web.</description>
-<lastBuildDate>Tue, 28 Oct 2025 22:57:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 00:41:53 GMT</lastBuildDate>
 <language>pt-BR</language>
 
 <item>
-<title><![CDATA[Porto Belo altera sentido de ruas no Centro a partir desta quinta-feira]]></title>
-<link>https://horadeportobelo.com.br/2025/10/28/porto-belo-altera-sentido-de-ruas-no-centro-a-partir-desta-quinta-feira/</link>
+<title><![CDATA[Colégio de Camboriú vence estadual e foca na formação de atletas]]></title>
+<link>https://visornoticias.com.br/formacao-atletas-colegio-recriarte-camboriu/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Oct 2025 19:50:40 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=19794</guid>
-<description><![CDATA[Porto Belo realiza alterações no sentido de ruas do Centro a partir desta quinta-feira O Governo de Porto Belo, por meio da Secretaria de Segurança Pública e Defesa do Cidadão, implementará a partir desta quinta-feira (30) mudanças no sentido de tráfego de seis ruas do bairro Centro. As medidas fazem parte do Plano de Mobilidade Urbana 2023-2025 do município, visando aprimorar o fluxo de veículos, principalmente durante a alta temporada turística.]]></description>
-<content:encoded><![CDATA[Porto Belo realiza alterações no sentido de ruas do Centro a partir desta quinta-feira
+<pubDate>Wed, 29 Oct 2025 00:32:19 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=298154</guid>
+<description><![CDATA[Colégio Recriarte de Camboriú conquista Campeonato Catarinense Escolar de Futebol A equipe do Colégio Recriarte de Camboriú sagrou-se campeã do Campeonato Catarinense Escolar de Futebol, evidenciando o trabalho de formação de atletas realizado pela instituição. Com um histórico de participações em competições promovidas pela Fesporte, o colégio também já revelou talentos que seguiram carreira no futebol profissional.]]></description>
+<content:encoded><![CDATA[Colégio Recriarte de Camboriú conquista Campeonato Catarinense Escolar de Futebol
 
-O Governo de Porto Belo, por meio da Secretaria de Segurança Pública e Defesa do Cidadão, implementará a partir desta quinta-feira (30) mudanças no sentido de tráfego de seis ruas do bairro Centro. As medidas fazem parte do Plano de Mobilidade Urbana 2023-2025 do município, visando aprimorar o fluxo de veículos, principalmente durante a alta temporada turística.
+A equipe do Colégio Recriarte de Camboriú sagrou-se campeã do Campeonato Catarinense Escolar de Futebol, evidenciando o trabalho de formação de atletas realizado pela instituição. Com um histórico de participações em competições promovidas pela Fesporte, o colégio também já revelou talentos que seguiram carreira no futebol profissional.
 
-As vias impactadas pelas alterações são: Rua Alda Tavares Matias, Rua Capitão Gualberto Leal Nunes, Rua José Guerreiro Filho, Rua Irineu José Moreira, Rua José Manoel Serpa e Rua Engenheiro Sérgio Serpkylou. Estas ruas terão seus sentidos de tráfego modificados para melhorar a circulação na região central da cidade, que abriga importantes estabelecimentos comerciais e de serviços.
+A vitória no estadual reforça o compromisso do Colégio Recriarte em desenvolver jovens talentos esportivos, proporcionando oportunidades para que possam se destacar no cenário esportivo. A conquista também representa um marco na trajetória esportiva da instituição, que continua investindo na formação integral de seus alunos.
 
-A Secretaria de Segurança Pública informou que as mudanças estão sendo implementadas antecipadamente para permitir que condutores e moradores se adaptem às novas direções antes da temporada de verão. A iniciativa visa contribuir para um trânsito mais seguro e organizado, com a expectativa de otimizar a mobilidade urbana no Centro, facilitando deslocamentos de residentes e turistas.
+Com a vitória no Campeonato Catarinense Escolar de Futebol, o Colégio Recriarte de Camboriú demonstra mais uma vez sua excelência no cenário esportivo escolar, consolidando-se como uma referência na formação de atletas. O trabalho dedicado e a dedicação dos alunos e equipe técnica foram fundamentais para alcançar esse importante título.
 
-A pasta ressalta que, se necessário, ajustes futuros poderão ser realizados para garantir a constante melhoria do trânsito no município.
-
-Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2FInstagram-post-azul-divertido-com-video-meme500.jpg" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Edital plataforma]]></title>
-<link>https://horadeportobelo.com.br/2025/10/27/edital-plataforma-51/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Oct 2025 22:16:16 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=19782</guid>
-<description><![CDATA[Edital plataforma A Prefeitura de Porto Belo divulgou um edital para a contratação de uma nova plataforma digital. A plataforma terá como objetivo facilitar o acesso dos cidadãos aos serviços públicos municipais, proporcionando maior agilidade e eficiência.]]></description>
-<content:encoded><![CDATA[Edital plataforma
-
-A Prefeitura de Porto Belo divulgou um edital para a contratação de uma nova plataforma digital.
-
-A plataforma terá como objetivo facilitar o acesso dos cidadãos aos serviços públicos municipais, proporcionando maior agilidade e eficiência.
-
-Os interessados em participar do processo de seleção podem consultar o edital completo no site oficial da Prefeitura de Porto Belo.
-
-Fonte: Hora de Porto Belo.]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2F27-10-edital-amanda-_1_.jpg" type="image/jpeg"/>
+Fonte: Visor Notícias]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2025%2F10%2F2a56182e1ae4a96990e69cbed90cd838_L.webp" type="image/jpeg"/>
 </item>
 
 </channel>
