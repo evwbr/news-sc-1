@@ -1,90 +1,189 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Not?cias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Sat, 06 Dec 2025 12:36:29 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sat, 06 Dec 2025 13:01:23 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Corpo ? encontrado com m?os amarradas e enterrado em ?cova rasa? em SC]]></title>
-		<link>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/</link>
-		<comments>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 22:22:13 +0000</pubDate>
-		<category><![CDATA[Regi?o]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171768</guid>
+<item>
+<title><![CDATA[INSS faz mutir?o com quase 19 mil per?cias neste fim de semana em 92 ag?ncias do pa?s]]></title>
+<link>https://visornoticias.com.br/inss-faz-mutirao-com-quase-19-mil-pericias-neste-fim-de-semana-em-92-agencias-do-pais/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 11:48:26 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=312882</guid>
+<description><![CDATA[INSS realiza mutir?o de per?cias em 92 ag?nciasO Instituto Nacional do Seguro Social (INSS) promover? um mutir?o de per?cias m?dicas neste fim de semana, nos dias 6 e 7 de dezembro. A a??o abrange 92 ag?ncias em todo o Brasil e visa agilizar a concess?o de benef?cios por incapacidade. Com a expectat...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Corpo ? encontrado com m?os amarradas em Santa CatarinaUm corpo foi descoberto enterrado em uma cova rasa em Santa Catarina, com as m?os amarradas. A situa??o foi reportada por um homem que estava em busca de um bezerro. Ao notar a terra revirada, ele se aproximou e identificou o que parecia ser um ...]]></description>
-		<content:encoded><![CDATA[<strong>Corpo ? encontrado com m?os amarradas em Santa Catarina</strong><br/><br/><strong>Um corpo foi descoberto enterrado em uma cova rasa em Santa Catarina, com as m?os amarradas. A situa??o foi reportada por um homem que estava em busca de um bezerro. Ao notar a terra revirada, ele se aproximou e identificou o que parecia ser um cad?ver parcialmente coberto.</strong><br/><br/>As autoridades foram acionadas e iniciaram uma investiga??o para apurar as circunst?ncias em que o corpo foi encontrado. A ?rea foi isolada para a realiza??o de per?cias, e os profissionais de seguran?a p?blica est?o coletando informa??es que possam levar ? identifica??o da v?tima e ? elucida??o do caso.<br/><br/>At? o momento, n?o h? detalhes sobre a identidade do homem encontrado ou poss?veis suspeitos. A comunidade local est? em estado de choque, e as autoridades pedem que qualquer informa??o relevante seja compartilhada para ajudar nas investiga??es.<br/><br/>As investiga??es continuam, e novas atualiza??es devem ser divulgadas ? medida que mais dados forem coletados. O caso ressalta a import?ncia da colabora??o da popula??o na resolu??o de crimes.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Jovem motociclista fica ferido ap?s acidente em SC]]></title>
+<link>https://visornoticias.com.br/jovem-motociclista-fica-ferido-apos-acidente-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 11:36:34 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=312878</guid>
+<description><![CDATA[jovem motociclista fica ferido em acidente em SCUm motociclista de 25 anos sofreu ferimentos ap?s um acidente na madrugada deste s?bado (6), por volta das 2h44, em Tr?s Barras, Santa Catarina. O incidente ocorreu na Rua Jos? Yvan da Costa, no bairro Vila Nova, nas proximidades do Areias Toporoski.A ...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[INSS faz mutir?o com quase 19 mil per?cias neste fim de semana em 92 ag?ncias do pa?s]]></title>
-		<link>https://visornoticias.com.br/inss-faz-mutirao-com-quase-19-mil-pericias-neste-fim-de-semana-em-92-agencias-do-pais/</link>
-		<comments>https://visornoticias.com.br/inss-faz-mutirao-com-quase-19-mil-pericias-neste-fim-de-semana-em-92-agencias-do-pais/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 11:48:26 +0000</pubDate>
-		<category><![CDATA[Regi?o]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=312882</guid>
+<item>
+<title><![CDATA[Comit? realiza ?ltima reuni?o sobre o Hospital Ruth Cardoso em BC]]></title>
+<link>https://visornoticias.com.br/hospital-ruth-cardoso/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 11:30:47 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=312751</guid>
+<description><![CDATA[Comit? finaliza reuni?o sobre o Hospital Ruth Cardoso em Balne?rio Cambori?A reuni?o final do comit? discutiu os ?ltimos passos da transi??o da gest?o do Hospital Ruth Cardoso. O encontro teve como objetivo alinhar as a??es necess?rias para garantir a continuidade dos servi?os prestados pela institu...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[INSS realiza mutir?o de per?cias em 92 ag?nciasO Instituto Nacional do Seguro Social (INSS) promover? um mutir?o de per?cias m?dicas neste fim de semana, nos dias 6 e 7 de dezembro. A a??o abrange 92 ag?ncias em todo o Brasil e visa agilizar a concess?o de benef?cios por incapacidade. Com a expectat...]]></description>
-		<content:encoded><![CDATA[<strong>INSS realiza mutir?o de per?cias em 92 ag?ncias</strong><br/><br/><strong>O Instituto Nacional do Seguro Social (INSS) promover? um mutir?o de per?cias m?dicas neste fim de semana, nos dias 6 e 7 de dezembro. A a??o abrange 92 ag?ncias em todo o Brasil e visa agilizar a concess?o de benef?cios por incapacidade. Com a expectativa de realizar quase 19 mil per?cias, o mutir?o busca reduzir a fila de espera existente e proporcionar um atendimento mais eficiente aos segurados.</strong><br/><br/>O mutir?o ? uma resposta ? demanda crescente por avalia??es m?dicas, que muitas vezes resultam em longos per?odos de espera para os benefici?rios. A iniciativa do INSS tem como objetivo n?o apenas atender a essa demanda, mas tamb?m oferecer um suporte mais ?gil e eficaz ? popula??o que necessita de avalia??o para a concess?o de benef?cios.<br/><br/>Os segurados que j? est?o agendados para esses dias poder?o ser atendidos nas unidades selecionadas, onde profissionais estar?o dispon?veis para realizar as per?cias. ? importante que os benefici?rios compare?am aos locais de atendimento munidos da documenta??o necess?ria para facilitar o processo.<br/><br/>Al?m de proporcionar um al?vio na fila de espera, o mutir?o ? parte de um esfor?o cont?nuo do INSS para melhorar a qualidade do atendimento e a efici?ncia na an?lise de pedidos. A expectativa ? que a??es como essa contribuam para um sistema mais justo e ?gil para todos os segurados.<br/><br/>Fonte: visornoticias.com.br]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/inss-faz-mutirao-com-quase-19-mil-pericias-neste-fim-de-semana-em-92-agencias-do-pais/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Homem é detido após ameaçar prefeito e secretário durante Mundial de Vôlei de Praia em Itapema]]></title>
+<link>https://jornalrazao.com/seguranca/homem-e-detido-apos-ameacar-prefeito-e-secretario-durante-mundial-de-volei-de-praia-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[ameaça]]></category>
+<category><![CDATA[desobediência]]></category>
+<category><![CDATA[Homem]]></category>
+<category><![CDATA[É]]></category>
+<category><![CDATA[Detido]]></category>
+<category><![CDATA[Após]]></category>
+<category><![CDATA[Ameaçar]]></category>
+<category><![CDATA[Prefeito]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 11:29:38 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171791</guid>
+<description><![CDATA[Um homem foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, realizado na Rua 307, em Itapema. A ocorrência ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo vários indivíduos em estado de embriaguez.]]></description>
+<content:encoded><![CDATA[<strong>Um homem foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, realizado na Rua 307, em Itapema. A ocorrência ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo vários indivíduos em estado de embriaguez. Segundo a Guarda Municipal, populares apontaram um grupo que estaria provocando desordem. Durante a tentativa de abordagem, um dos envolvidos passou a desobedecer às ordens legais, apresentando agressividade, resistência ativa e sinais claros de embriaguez, como fala arrastada, odor etílico e dificuldade para manter o equilíbrio. O homem ainda proferia xingamentos em meio ao público que acompanhava a competição. Após ser contido, o suspeito foi conduzido à Delegacia de Polícia para os procedimentos cabíveis.</strong><br/><br/>O prefeito de Itapema, Carlos Alexandre de Souza Ribeiro, relatou ter sido ameaçado e ofendido pelo mesmo indivíduo detido, enquanto o secretário de Esportes, Paulo Roberto Camargo, afirmou ter sido empurrado e insultado, expressando interesse em representar criminalmente. A Guarda Municipal destacou que o uso de algemas se fez necessário diante da resistência ativa e da tentativa constante de se desvencilhar da intervenção. Uma testemunha que presenciou o episódio acompanhou o registro para prestar depoimento formal. A corporação ressaltou que a atuação no local visava garantir a ordem pública e a segurança dos participantes e espectadores do evento esportivo. Segundo informações da Guarda Municipal, o autor detido possui 48 boletins de ocorrência em seu nome, incluindo registros por lesão corporal, violência doméstica, tráfico de drogas e porte ilegal de arma de fogo.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-	<item>
-		<title><![CDATA[Jovem motociclista fica ferido ap?s acidente em SC]]></title>
-		<link>https://visornoticias.com.br/jovem-motociclista-fica-ferido-apos-acidente-em-sc/</link>
-		<comments>https://visornoticias.com.br/jovem-motociclista-fica-ferido-apos-acidente-em-sc/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 11:36:34 +0000</pubDate>
-		<category><![CDATA[Regi?o]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=312878</guid>
+<item>
+<title><![CDATA[Polícia Militar flagra homem furtando materiais em obra no Centro de Itajaí]]></title>
+<link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Cidades]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Itajaí]]></category>
+<category><![CDATA[Polícia]]></category>
+<category><![CDATA[Militar]]></category>
+<category><![CDATA[Flagra]]></category>
+<category><![CDATA[Homem]]></category>
+<category><![CDATA[Furtando]]></category>
+<category><![CDATA[Materiais]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 11:27:34 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
+<description><![CDATA[Um homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, dia 06, após ser flagrado furtando materiais e ferramentas de uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. Por volta das 3h, a guarnição foi acionada para verificar a ocorrência e prontamente encontrou o suspeito ainda nas imediações do local do crime.]]></description>
+<content:encoded><![CDATA[<strong>Um homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, dia 06, após ser flagrado furtando materiais e ferramentas de uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. Por volta das 3h, a guarnição foi acionada para verificar a ocorrência e prontamente encontrou o suspeito ainda nas imediações do local do crime. De acordo com informações da PM, o indivíduo possui um histórico criminal com mais de 15 registros de passagens policiais.</strong><br/><br/>O homem foi imediatamente detido e conduzido à Central de Plantão Policial para os procedimentos legais. A ação rápida da Polícia Militar resultou na prisão em flagrante do suspeito, que agora responderá pelo crime de furto. A identidade do indivíduo não foi divulgada pelas autoridades. O caso reforça a importância da atuação policial na prevenção e combate a delitos, garantindo a segurança e a ordem pública na região.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[jovem motociclista fica ferido em acidente em SCUm motociclista de 25 anos sofreu ferimentos ap?s um acidente na madrugada deste s?bado (6), por volta das 2h44, em Tr?s Barras, Santa Catarina. O incidente ocorreu na Rua Jos? Yvan da Costa, no bairro Vila Nova, nas proximidades do Areias Toporoski.A ...]]></description>
-		<content:encoded><![CDATA[<strong>jovem motociclista fica ferido em acidente em SC</strong><br/><br/><strong>Um motociclista de 25 anos sofreu ferimentos ap?s um acidente na madrugada deste s?bado (6), por volta das 2h44, em Tr?s Barras, Santa Catarina. O incidente ocorreu na Rua Jos? Yvan da Costa, no bairro Vila Nova, nas proximidades do Areias Toporoski.</strong><br/><br/><strong>A ocorr?ncia foi atendida pelo Corpo de Bombeiros Militar, que prestou socorro ? v?tima. O jovem apresentava suspeita de fraturas e m?ltiplos ferimentos.</strong><br/><br/>Segundo informa??es, o motociclista perdeu o controle da moto, resultando na queda. A equipe de resgate agiu rapidamente para estabilizar a situa??o e encaminhar o ferido para uma unidade de sa?de, onde receber? atendimento adequado.<br/><br/>As circunst?ncias que levaram ao acidente ainda est?o sendo investigadas pelas autoridades locais. Moradores da regi?o expressaram preocupa??o com a seguran?a nas vias, especialmente em hor?rios noturnos, onde a visibilidade ? reduzida.<br/><br/>Fonte: visornoticias.com.br]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/jovem-motociclista-fica-ferido-apos-acidente-em-sc/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Polícia Militar prende homem de 41 anos por tentativa de furto em estacionamento de supermercado em Itajaí]]></title>
+<link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Cidades]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Itajaí]]></category>
+<category><![CDATA[Polícia]]></category>
+<category><![CDATA[Militar]]></category>
+<category><![CDATA[Prende]]></category>
+<category><![CDATA[Homem]]></category>
+<category><![CDATA[Anos]]></category>
+<category><![CDATA[Tentativa]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 10:19:31 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
+<description><![CDATA[Na tarde desta sexta-feira, 05, a Polícia Militar efetuou a prisão de um homem de 41 anos sob suspeita de tentativa de furto no estacionamento de um supermercado localizado no bairro Fazenda, em Itajaí. O fato ocorreu por volta das 17h, após a Central Regional de Emergência ser acionada.]]></description>
+<content:encoded><![CDATA[<strong>Na tarde desta sexta-feira, 05, a Polícia Militar efetuou a prisão de um homem de 41 anos sob suspeita de tentativa de furto no estacionamento de um supermercado localizado no bairro Fazenda, em Itajaí. O fato ocorreu por volta das 17h, após a Central Regional de Emergência ser acionada. Segundo informações da PM, a vítima, uma funcionária do estabelecimento que estava de folga, relatou ter flagrado o suspeito rondando os veículos no local. Antes mesmo de conseguir trancar seu veículo, o homem tentou abrir a porta e adentrar o automóvel, sendo contido pela vítima com auxílio da equipe de segurança do supermercado, que prontamente acionou as autoridades.</strong><br/><br/>O suspeito negou as acusações de ter mexido no veículo, alegando estar no local para adquirir medicamentos. No entanto, durante a abordagem, apresentou discurso incoerente e comportamento alterado. O homem foi conduzido à Delegacia de Polícia Civil sem ferimentos, portando uma mochila contendo livros, um celular danificado e um fone de ouvido quebrado. A vítima também compareceu à delegacia para prestar seu depoimento, sendo lavrado um boletim de ocorrência para as devidas providências.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-	<item>
-		<title><![CDATA[Comit? realiza ?ltima reuni?o sobre o Hospital Ruth Cardoso em BC]]></title>
-		<link>https://visornoticias.com.br/hospital-ruth-cardoso/</link>
-		<comments>https://visornoticias.com.br/hospital-ruth-cardoso/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 11:30:47 +0000</pubDate>
-		<category><![CDATA[Regi?o]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=312751</guid>
+<item>
+<title><![CDATA[Sábado será de sol e muita praia em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[PREVISÃO DO TEMPO]]></category>
+<category><![CDATA[Sábado]]></category>
+<category><![CDATA[Será]]></category>
+<category><![CDATA[Sol]]></category>
+<category><![CDATA[Muita]]></category>
+<category><![CDATA[Praia]]></category>
+<category><![CDATA[Balneário]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 09:55:23 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
+<description><![CDATA[Balneário Camboriú, neste sábado, terá um dia de tempo estável e temperaturas elevadas, de acordo com informações meteorológicas atualizadas. A previsão aponta uma mínima de 20°C e uma máxima de 28°C ao longo do dia.]]></description>
+<content:encoded><![CDATA[<strong>Balneário Camboriú, neste sábado, terá um dia de tempo estável e temperaturas elevadas, de acordo com informações meteorológicas atualizadas. A previsão aponta uma mínima de 20°C e uma máxima de 28°C ao longo do dia. A umidade relativa do ar se manterá elevada, variando entre 65% e 94%, o que resulta em sensação de abafamento, principalmente durante a tarde. O sol estará presente desde as primeiras horas da manhã, sem expectativa de chuva para o dia.</strong><br/><br/>Os ventos devem soprar com intensidade fraca a moderada, proporcionando uma leve sensação de frescor no início da noite. A estabilidade climática prevista para Balneário Camboriú é acompanhada pela ausência de precipitações, favorecendo um dia de céu claro e ensolarado. Essas condições climáticas são importantes para moradores e visitantes da região, que poderão desfrutar de um sábado com temperaturas agradáveis e sem interferências meteorológicas significativas.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[Comit? finaliza reuni?o sobre o Hospital Ruth Cardoso em Balne?rio Cambori?A reuni?o final do comit? discutiu os ?ltimos passos da transi??o da gest?o do Hospital Ruth Cardoso. O encontro teve como objetivo alinhar as a??es necess?rias para garantir a continuidade dos servi?os prestados pela institu...]]></description>
-		<content:encoded><![CDATA[<strong>Comit? finaliza reuni?o sobre o Hospital Ruth Cardoso em Balne?rio Cambori?</strong><br/><br/><strong>A reuni?o final do comit? discutiu os ?ltimos passos da transi??o da gest?o do Hospital Ruth Cardoso. O encontro teve como objetivo alinhar as a??es necess?rias para garantir a continuidade dos servi?os prestados pela institui??o de sa?de.</strong><br/><br/>Na ?ltima reuni?o do comit? respons?vel pela gest?o do Hospital Ruth Cardoso, os membros se reuniram para discutir os encaminhamentos finais da transi??o. A reuni?o foi marcada por debates sobre as melhores pr?ticas para assegurar a qualidade dos atendimentos e a efici?ncia da administra??o hospitalar.<br/><br/>Os participantes apresentaram propostas e sugest?es que visam aprimorar a gest?o do hospital, al?m de garantir que os servi?os oferecidos ? popula??o n?o sejam afetados durante o processo de transi??o. O comit? destacou a import?ncia de um acompanhamento rigoroso das a??es implementadas.<br/><br/>A expectativa ? que, com as decis?es tomadas durante o encontro, o Hospital Ruth Cardoso possa continuar a atender a comunidade de Balne?rio Cambori? com excel?ncia. Os pr?ximos passos incluem a implementa??o das diretrizes acordadas e a monitora??o dos resultados.<br/><br/>Fonte: visornoticias.com.br]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/hospital-ruth-cardoso/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-	</channel>
+<item>
+<title><![CDATA[‘O mais barato de SC’: moradores fazem a limpa em Outlet de móveis em Tijucas]]></title>
+<link>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Tijucas]]></category>
+<category><![CDATA[Economia]]></category>
+<category><![CDATA[comércio local]]></category>
+<category><![CDATA[descontos]]></category>
+<category><![CDATA[Mais]]></category>
+<category><![CDATA[Barato]]></category>
+<category><![CDATA[Sc]]></category>
+<category><![CDATA[Moradores]]></category>
+<category><![CDATA[Fazem]]></category>
+<category><![CDATA[Limpa]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Fri, 05 Dec 2025 23:38:56 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171772</guid>
+<description><![CDATA[A inauguração do Rei do Outlet agitou o comércio de Tijucas na sexta-feira (05), tornando o dia um dos mais movimentados da região. O novo empreendimento atraiu um grande público desde cedo, em busca de móveis com descontos agressivos, resultando em um fluxo intenso e acima das expectativas para a equipe.]]></description>
+<content:encoded><![CDATA[<strong>A inauguração do Rei do Outlet agitou o comércio de Tijucas na sexta-feira (05), tornando o dia um dos mais movimentados da região. O novo empreendimento atraiu um grande público desde cedo, em busca de móveis com descontos agressivos, resultando em um fluxo intenso e acima das expectativas para a equipe. A proposta de oferecer peças com até 80% de desconto e a possibilidade de levar o produto na hora se mostrou eficaz, com filas no pátio de retirada e diversos itens esgotados no primeiro dia.</strong><br/><br/>Localizado na Avenida Carlos Humberto Ternes, conhecida como P2, o Rei do Outlet conquistou os moradores de Tijucas e cidades vizinhas com seu lançamento bem-sucedido. A variedade de produtos e os preços abaixo do mercado prometem manter o movimento intenso neste sábado (06), com atendimento das 09h às 17h e reposição garantida. A loja já recebeu novos lotes para atender à demanda e continua atraindo consumidores em busca de oportunidades reais. Para mais informações e ofertas, o Instagram @reidooutlettijucas reúne os detalhes, assim como o acesso aos grupos de oportunidades no WhatsApp. (<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fcontrole.jornalrazao.com%2Fwp-content%2Fuploads%2F2025%2F12%2FImagem-do-WhatsApp-de-2025-12-05-as-19.54.25_3ed8696c.jpg" type="image/jpeg"/>
+</item>
+
+<item>
+<title><![CDATA[Corpo ? encontrado com m?os amarradas e enterrado em ?cova rasa? em SC]]></title>
+<link>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 22:22:13 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171768</guid>
+<description><![CDATA[Corpo ? encontrado com m?os amarradas em Santa CatarinaUm corpo foi descoberto enterrado em uma cova rasa em Santa Catarina, com as m?os amarradas. A situa??o foi reportada por um homem que estava em busca de um bezerro. Ao notar a terra revirada, ele se aproximou e identificou o que parecia ser um ...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Após mais de 30 anos, ‘terrenos intocáveis’ em Porto Belo e Itapema vão virar prédios de luxo]]></title>
+<link>https://jornalrazao.com/economia/apos-mais-de-30-anos-terrenos-intocaveis-em-porto-belo-e-itapema-vao-virar-predios-de-luxo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Economia]]></category>
+<category><![CDATA[Alexandre Winkel]]></category>
+<category><![CDATA[construções de luxo]]></category>
+<category><![CDATA[Após]]></category>
+<category><![CDATA[Mais]]></category>
+<category><![CDATA[Anos]]></category>
+<category><![CDATA[Terrenos]]></category>
+<category><![CDATA[Intocáveis]]></category>
+<category><![CDATA[Porto]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Fri, 05 Dec 2025 21:12:46 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171766</guid>
+<description><![CDATA[A imobiliária Verve Negócios encerrou a massa falida do antigo supermercado Marasil, localizado no litoral catarinense, liberando terrenos estratégicos em Porto Belo e Itapema para novos empreendimentos de alto padrão. Após décadas de impasse judicial, a Verve, liderada por Alexandre Winkel, conseguiu destravar essas áreas valiosas, antes consideradas intocáveis, abrindo espaço para investidores e construtoras renomadas.]]></description>
+<content:encoded><![CDATA[<strong>A imobiliária Verve Negócios encerrou a massa falida do antigo supermercado Marasil, localizado no litoral catarinense, liberando terrenos estratégicos em Porto Belo e Itapema para novos empreendimentos de alto padrão. Após décadas de impasse judicial, a Verve, liderada por Alexandre Winkel, conseguiu destravar essas áreas valiosas, antes consideradas intocáveis, abrindo espaço para investidores e construtoras renomadas.</strong><br/><br/>A operação conduzida pela Verve Negócios contou com apoio jurídico e contábil internos, resultando na aquisição dos terrenos pela LWM Participações, empresa recém-criada em Itapema com o objetivo de adquirir áreas de alto valor para futuras parcerias com grandes construtoras. Com os terrenos finalmente regularizados, a LWM já planeja projetos em Porto Belo e Tijucas, visando empreendimentos de alta rentabilidade e se posicionando como um novo player relevante no mercado imobiliário do litoral catarinense. Essa liberação de áreas antes intocáveis promete alterar a dinâmica imobiliária da região, impulsionando um novo ciclo de desenvolvimento com a construção de prédios de luxo e empreendimentos de grande porte nos próximos anos.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fcontrole.jornalrazao.com%2Fwp-content%2Fuploads%2F2025%2F12%2Fa3ed5158-ed7d-4818-ae61-da40a43f1608.jpg" type="image/jpeg"/>
+</item>
+
+</channel>
 </rss>
