@@ -1,32 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 06 Dec 2025 18:05:26 GMT</lastBuildDate>
-<language>pt-BR</language>
-<item>
-<title><![CDATA[Incêndio em apartamento no Centro de Balneário Camboriú gera evacuação de prédio]]></title>
-<link>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 17:43:54 +0000</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313020</guid>
-<description><![CDATA[Um incêndio tomou conta de um apartamento no Centro de Balneário Camboriú, gerando a evacuação do prédio. Apesar das chamas, não houve vítimas, mas dois animais permanecem desaparecidos.]]></description>
-<content:encoded><![CDATA[undefined]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Vila do Vôlei agita Itapema com música, gastronomia e torcida vibrante na etapa mundial]]></title>
-<link>https://visornoticias.com.br/vila-do-volei-movimenta-itapema-com-gastronomia-musica-e-torcida-animada-durante-etapa-do-circuito-mundial/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 15:26:22 +0000</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=312977</guid>
-<description><![CDATA[A Vila do Vôlei, montada na Meia Praia, tem atraído um público diversificado durante a etapa do Circuito Mundial. O evento promete uma grande final neste domingo, com muita animação e atrações para todas as idades.]]></description>
-<content:encoded><![CDATA[undefined]]></content:encoded>
-</item>
-</channel>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Sat, 06 Dec 2025 18:22:04 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Justiça aceita denúncia e torna réu homem acusado de feminicídio na trilha do Matadeiro, Florianópolis]]></title>
+		<link>https://jornalrazao.com/justica/justica-aceita-denuncia-e-torna-reu-acusado-de-feminicidio-na-trilha-do-matadeiro/</link>
+		<comments>https://jornalrazao.com/justica/justica-aceita-denuncia-e-torna-reu-acusado-de-feminicidio-na-trilha-do-matadeiro/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 15:36:26 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=171812</guid>
+
+		<description><![CDATA[A Justiça de Santa Catarina tornou réu um homem de 21 anos acusado de feminicídio, estupro e ocultação de cadáver da estudante Catarina Kasten, de 31 anos, morta na Praia do Matadeiro, em Florianópolis. A denúncia, oferecida pelo Ministério Público, aponta que a vítima foi emboscada, violentada e morta por asfixia.]]></description>
+		<content:encoded><![CDATA[<p>Na manhã do dia 21 de novembro de 2025, Catarina Kasten saiu para uma aula de natação em Florianópolis e desapareceu. Seu companheiro acionou a Polícia Militar após horas sem notícias, dando início a uma investigação que culminou na prisão de um jovem de 21 anos, que confessou o crime.</p><p>O Ministério Público de Santa Catarina (MPSC) apresentou denúncia formal contra o acusado na última segunda-feira (1º), que foi recebida pela Justiça, tornando o investigado réu por feminicídio, estupro e ocultação de cadáver.</p><p>Segundo a denúncia, o crime ocorreu próximo à trilha da Praia do Matadeiro, região conhecida por moradores e visitantes no litoral catarinense. O acusado teria preparado uma emboscada, escondendo-se atrás de uma lixeira para abordar a vítima. Ele teria cometido o estupro com violência, asfixiado Catarina com um objeto e, em seguida, arrastado seu corpo para um local de difícil acesso, afastado da trilha.</p><p>O crime está enquadrado como feminicídio devido ao menosprezo pela condição de mulher da vítima, conforme previsto na legislação brasileira atualizada em outubro de 2024 pelo chamado Pacote Antifeminicídio. A nova lei estabelece penas mais rigorosas para homicídios motivados por discriminação de gênero, mesmo sem relação de parentesco entre autor e vítima.</p><p>O processo corre em segredo de Justiça, dada a gravidade e o caráter de crime sexual. O promotor João Gonçalves de Souza Neto, responsável pelo caso, ressalta que o réu responderá por qualificadoras que incluem o uso de asfixia, emboscada e o ato de ocultar o cadáver, o que pode resultar na aplicação da pena máxima.</p><p>A região da Praia do Matadeiro, frequentada por moradores do Litoral Norte e turistas, é cenário do crime que mobilizou as autoridades locais e reforça o debate sobre a segurança nas trilhas e áreas naturais do litoral catarinense.</p><p>O caso segue em andamento na Justiça de Florianópolis, com expectativa de que o processo avance para julgamento em breve, oferecendo respostas à família de Catarina e à comunidade local.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/justica/justica-aceita-denuncia-e-torna-reu-acusado-de-feminicidio-na-trilha-do-matadeiro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Conflito por cadeira e guarda-sol na Praia dos Ingleses deixa sete feridos e acende alerta em Florianópolis]]></title>
+		<link>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/</link>
+		<comments>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 18:16:15 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=171827</guid>
+
+		<description><![CDATA[Uma disputa envolvendo um restaurante e um ambulante por uma cadeira e um guarda-sol na Praia dos Ingleses, em Florianópolis, resultou em confronto com sete pessoas feridas, incluindo uma com suspeita de traumatismo craniano que precisou ser remoção aérea.]]></description>
+		<content:encoded><![CDATA[<p>Na tarde da sexta-feira (5), a Praia dos Ingleses foi palco de um conflito entre funcionários de um restaurante e um ambulante responsável pelo aluguel de cadeiras e guarda-sóis. O incidente começou quando o estabelecimento colocou uma cadeira e um guarda-sol para um cliente na faixa de areia, atitude que teria irritado o ambulante.</p><p>Testemunhas relatam que o ambulante, armado com uma faca, foi até o restaurante para ameaçar os funcionários. Houve necessidade da equipe em desarmar o homem para evitar ferimentos graves. O confronto culminou com sete pessoas feridas, a maioria com escoriações leves, mas um dos envolvidos foi atendido pelos bombeiros guarda-vidas e levado de helicóptero para o hospital com suspeita de traumatismo craniano.</p><p>Após o incidente, tanto as partes envolvidas quanto as autoridades receberam orientações legais referentes ao prazo de representação criminal. O restaurante entregou às autoridades imagens de câmeras de segurança que registraram os momentos da confusão.</p><p>No dia seguinte, outro homem – que não participou da briga original – retornou ao local acompanhado de várias pessoas e fez novas ameaças, afirmando que, caso a fiscalização da Prefeitura não interditasse o estabelecimento, voltaria no dia seguinte com mais gente para “fechar o local à força”. O restaurante revelou que este indivíduo já esteve envolvido em conflitos anteriores com os funcionários, incluindo episódios de agressão e ameaças.</p><p>A direção do restaurante manifestou preocupação com a segurança de funcionários e clientes. Destacou também que fiscais da Prefeitura de Florianópolis e agentes da Guarda Municipal estavam presentes durante as novas ameaças, reforçando o apelo por uma investigação rigorosa e pela adoção de medidas que evitem novos episódios de violência na Praia dos Ingleses.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Apostador de Santa Catarina conquista prêmio de R$ 862 mil na Lotofácil]]></title>
+		<link>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/</link>
+		<comments>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 18:01:24 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=313006</guid>
+
+		<description><![CDATA[Bilhete premiado do concurso 3555 da Lotofácil dividiu R$ 1,7 milhão entre um ganhador de Santa Catarina e outro de São Paulo.]]></description>
+		<content:encoded><![CDATA[<p>Um apostador de Santa Catarina foi um dos ganhadores do concurso 3555 da Lotofácil, garantindo uma fatia de mais de R$ 862 mil. O prêmio total dessa edição foi dividido entre dois bilhetes, sendo o outro em São Paulo.</p><p>A Lotofácil é uma das loterias mais populares do país, conhecida por oferecer chances atraentes e prêmios expressivos. Para Santa Catarina, essa vitória representa uma conquista significativa, reforçando o interesse local pelas apostas.</p><p>Moradores do Litoral Norte, como Balneário Camboriú, Itajaí e Navegantes, têm cada vez mais acesso a pontos de venda e serviços digitais para fazer suas apostas, incentivando a participação em jogos oficiais que movimentam a economia regional.</p><p>O sorteio do concurso 3555 ocorreu recentemente, distribuindo uma bolada total de aproximadamente R$ 1,7 milhão entre as duas apostas vencedoras. O valor recebido pode impactar positivamente a vida do ganhador catarinense, abrindo possibilidades para investimentos e melhorias pessoais.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Trabalhador morre após queda no centro de Campos Novos (SC)]]></title>
+		<link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/</link>
+		<comments>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 16:37:33 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=171819</guid>
+
+		<description><![CDATA[Um homem de 37 anos perdeu a vida ao despencar do terceiro andar de um edifício no Centro de Campos Novos, nesta sexta-feira (5), enquanto realizava serviços de limpeza.]]></description>
+		<content:encoded><![CDATA[<p>O acidente ocorreu durante a manhã, quando o trabalhador, que atuava na limpeza do prédio, perdeu o equilíbrio e caiu na área entre a calçada e a via pública. O impacto gerou um trauma craniano grave, que resultou na morte imediata da vítima.</p><p>Equipes do Corpo de Bombeiros foram acionadas e chegaram rapidamente ao local, mas encontraram a vítima sem sinais vitais. A Polícia Científica isolou a cena para realizar a perícia e fazer a remoção do corpo.</p><p>Este tipo de acidente reforça a importância das medidas de segurança no trabalho em altura, especialmente em áreas urbanas movimentadas. Campos Novos, conhecida por sua atividade econômica diversificada, enfrenta desafios na fiscalização para garantir a segurança dos trabalhadores em obras e serviços externos.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Ciclone extratropical coloca Santa Catarina em alerta para temporais intensos na segunda e terça-feira]]></title>
+		<link>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/</link>
+		<comments>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 16:30:56 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=312985</guid>
+
+		<description><![CDATA[Após um domingo de sol e calor, Santa Catarina se prepara para uma mudança brusca no clima: um ciclone extratropical deve provocar temporais, com risco de alagamentos, ventos fortes e enxurradas especialmente entre segunda e terça-feira.]]></description>
+		<content:encoded><![CDATA[<p>O litoral norte catarinense, incluindo cidades como Balneário Camboriú, Itajaí e Penha, deve ficar em estado de atenção diante da chegada de um ciclone extratropical que impactará a região nos próximos dias.</p><p>Este domingo (25) será marcado por sol e temperaturas elevadas, o que favorece atividades ao ar livre e o comércio nas áreas turísticas do Litoral Norte. Porém, a situação muda rapidamente a partir da segunda-feira (26).</p><p>Entre a segunda e a terça-feira (27), a Defesa Civil alerta para o aumento da intensidade das chuvas, com temporais que podem causar alagamentos em áreas urbanas, especialmente nos municípios mais baixos e próximos ao mar.</p><p>Além dos riscos de enchentes, ventos fortes poderão provocar queda de árvores e danos a estruturas frágeis. Enxurradas também são previstas em regiões com terrenos íngremes, o que eleva o alerta para moradores das encostas e áreas rurais de cidades como Tijucas e Bombinhas.</p><p>As autoridades recomendam acompanhamento constante dos boletins meteorológicos e que a população evite deslocamentos desnecessários durante o período de maior intensidade do ciclone.</p><p>O cenário reforça a importância da preparação das equipes de emergência e da comunicação eficiente entre os órgãos municipais no Litoral Norte, a fim de minimizar impactos e garantir segurança à população.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Caminhão pega fogo na Serra Catarinense e bombeiros controlam as chamas sem feridos]]></title>
+		<link>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/</link>
+		<comments>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 15:53:14 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=312980</guid>
+
+		<description><![CDATA[Um caminhão foi tomado pelo fogo na Serra Catarinense, mas graças à rápida ação dos bombeiros, as chamas foram controladas rapidamente e ninguém se feriu.]]></description>
+		<content:encoded><![CDATA[<p>Na Serra Catarinense, um caminhão sofreu um incêndio que entrou em fase de desenvolvimento completo, gerando preocupação para motoristas na região. A ocorrência foi rapidamente atendida pelo Corpo de Bombeiros, que agiu com eficiência para controlar o fogo.</p><p>Felizmente, não houve feridos durante o incidente. O combate rápido evitou que as chamas se alastrassem para áreas próximas ou para a carga do veículo, minimizando impactos ambientais e riscos para a via.</p><p>Este tipo de ocorrência reforça a importância da prontidão das equipes de emergência em Santa Catarina, especialmente em regiões como a Serra Catarinense, onde o acesso pode ser desafiador e as condições climáticas variam.</p><p>Para motoristas que trafegam por áreas de serra, é fundamental manter a atenção redobrada e realizar a manutenção preventiva dos veículos, prevenindo situações como essa.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Jovem de 22 anos é preso após atropelar idoso em discussão de trânsito em Joinville]]></title>
+		<link>https://jornalrazao.com/seguranca/me-olhou-feio-jovem-de-22-anos-e-preso-apos-quase-matar-idoso-em-joinville/</link>
+		<comments>https://jornalrazao.com/seguranca/me-olhou-feio-jovem-de-22-anos-e-preso-apos-quase-matar-idoso-em-joinville/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 14:03:03 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=171806</guid>
+
+		<description><![CDATA[Uma disputa no trânsito em Joinville quase resultou em tragédia na tarde desta sexta-feira (5). Um idoso de 67 anos foi atropelado propositalmente por um motorista de 22 anos, após um desentendimento na Avenida Alwino Hansen, bairro Adhemar Garcia.]]></description>
+		<content:encoded><![CDATA[<p>O incidente ocorreu próximo a uma esquina com sinalização de “pare”, quando o idoso fazia entregas de salgados em um comércio local. Familiares informaram que a confusão começou após o motorista questionar a vítima por supostamente “olhar feio”.</p><p>Depois da breve discussão, o idoso tentou estacionar para descarregar o veículo, momento em que o jovem retornou pela contramão, acelerou o carro e atingiu o homem intencionalmente.</p><p>Câmeras de segurança registraram o atropelamento e o momento em que o motorista desce do veículo com um martelo, danificando o carro da vítima. O idoso ficou caído no chão, ferido e sem receber ajuda do agressor.</p><p>Ele foi socorrido e encaminhado ao hospital com fraturas em três costelas, lesão na bacia e possível trauma craniano. Atualmente está internado em estado estável, porém aguarda avaliação neurocirúrgica, apresentando confusão mental e dificuldades de memória.</p><p>O motorista de 22 anos foi preso em flagrante e permanece à disposição da Justiça, aguardando audiência de custódia. A Polícia Civil investiga o caso, que configura tentativa de homicídio e dano ao patrimônio.</p><p>Após o incidente, familiares da vítima relataram ameaças por parte de parentes do suspeito e solicitam medidas protetivas para garantir segurança. O fato repercutiu nas redes sociais, onde moradores de Joinville pedem justiça e reforçam o apelo por mais respeito no trânsito.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/me-olhou-feio-jovem-de-22-anos-e-preso-apos-quase-matar-idoso-em-joinville/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Kombi em chamas minutos após abastecer em posto de Palhoça mobiliza bombeiros]]></title>
+		<link>https://visornoticias.com.br/kombi-pega-fogo-apos-abastecimento-em-posto-de-combustiveis-em-palhoca/</link>
+		<comments>https://visornoticias.com.br/kombi-pega-fogo-apos-abastecimento-em-posto-de-combustiveis-em-palhoca/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 13:45:43 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=312974</guid>
+
+		<description><![CDATA[Uma Kombi começou a pegar fogo poucos instantes após sair da bomba de um posto de combustíveis em Palhoça, mobilizando prontamente os bombeiros para conter as chamas e garantir a segurança no local.]]></description>
+		<content:encoded><![CDATA[<p>O incêndio teve início minutos depois que o veículo, uma Kombi, terminou o abastecimento em um posto de combustíveis em Palhoça, na região metropolitana de Florianópolis.</p><p>Equipes do Corpo de Bombeiros foram acionadas rapidamente para controlar o fogo e evitar que o incidente se agravasse, atuando no resfriamento do veículo e na segurança do posto.</p><p>Não houve relatos de feridos durante o episódio, e a causa exata do fogo está sendo investigada pelas autoridades locais.</p><p>O atendimento rápido foi essencial para limitar os danos e garantir a segurança dos funcionários e clientes do estabelecimento.</p><p>Este tipo de ocorrência reforça a importância do cuidado ao manusear veículos em áreas de abastecimento, especialmente para evitar riscos tanto pessoais quanto ambientais.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/kombi-pega-fogo-apos-abastecimento-em-posto-de-combustiveis-em-palhoca/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Santa Catarina pode ter três filhos de Bolsonaro concorrendo nas eleições de 2026 pelo PL]]></title>
+		<link>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/</link>
+		<comments>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 12:48:42 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=171798</guid>
+
+		<description><![CDATA[Santa Catarina se destaca como possível campo principal para a família Bolsonaro nas eleições de 2026, com Flávio, Carlos e Renan Bolsonaro planejando disputar cargos eleitorais pelo Partido Liberal no estado.]]></description>
+		<content:encoded><![CDATA[<p>O Litoral Norte e outras regiões de Santa Catarina poderão ter forte presença da família Bolsonaro nas urnas de 2026. O governador Jorginho Mello, presidente estadual do PL, confirmou o apoio da sigla aos futuros candidatos e reforçou que o estado está preparado para receber as campanhas.</p><p>Flávio Bolsonaro, filho do ex-presidente Jair Bolsonaro, surge como o mais conhecido nacionalmente entre os três. Ele é pré-candidato do PL ao Governo Federal e terá no estado uma base estratégica para suas articulações políticas, visando disputar o cargo com o atual presidente Lula. Flávio já declarou que pretende começar suas movimentações a partir da aprovação da anistia, que considera o primeiro passo para sua campanha.</p><p>Carlos Bolsonaro, vereador do Rio de Janeiro, também foi oficializado como pré-candidato ao Senado pelo PL catarinense. Ele planeja intensificar sua presença em regiões como o Oeste, Norte e o próprio Litoral Norte, áreas importantes para ampliar o apoio local ao partido.</p><p>Fechando o trio, Renan Bolsonaro anunciou sua pré-candidatura a deputado federal em Santa Catarina pelo PL. A movimentação reforça a estratégia do partido de conquistar espaço na Câmara dos Deputados e fortalecer sua base no estado.</p><p>Santa Catarina, tradicionalmente cenário decisivo nas eleições estaduais e nacionais, passa a ser vista como um dos principais palcos para as eleições de 2026, especialmente pela aliança entre a família Bolsonaro e o PL, destacando a região do Litoral Norte, onde políticas públicas e apoios políticos costumam ganhar grande visibilidade local.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Alunos de São José Encantam com Peça ‘Adaptação do Hobbit’ nas Escolas Municipais]]></title>
+		<link>https://visornoticias.com.br/adaptacao-hobbit-sao-jose/</link>
+		<comments>https://visornoticias.com.br/adaptacao-hobbit-sao-jose/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 12:41:35 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=312885</guid>
+
+		<description><![CDATA[Estudantes da rede municipal de São José levam à cena ‘Adaptação do Hobbit’, apresentando uma versão teatral que aproxima os jovens da clássica obra de J.R.R. Tolkien, estimulando cultura e criatividade.]]></description>
+		<content:encoded><![CDATA[<p>Em uma iniciativa que une literatura e artes cênicas, alunos das escolas municipais de São José protagonizam a 'Adaptação do Hobbit', uma peça baseada na obra de J.R.R. Tolkien.</p><p>O projeto tem como objetivo incentivar a leitura, o trabalho em equipe e a expressão artística entre os estudantes, além de oferecer à comunidade local a oportunidade de acompanhar apresentações culturais nas unidades de ensino.</p><p>As apresentações ocorrem em diferentes escolas da rede municipal, promovendo o envolvimento da família e da comunidade no ambiente escolar, reforçando a importância da educação cultural na formação dos jovens cidadãos.</p><p>O espetáculo destaca personagens e temáticas do livro de Tolkien, adaptadas para uma linguagem acessível ao público infantil e juvenil, facilitando o entendimento e o interesse pela literatura fantástica.</p><p>Em São José, essa ação reforça o compromisso da Secretaria de Educação com projetos que ampliam o acesso à cultura e contribuem para o desenvolvimento integral dos estudantes.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/adaptacao-hobbit-sao-jose/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
