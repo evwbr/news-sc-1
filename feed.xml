@@ -1,185 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News</title>
 <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/news-sc-1/</link>
 <description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 06 Dec 2025 16:31:17 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 18:05:26 GMT</lastBuildDate>
 <language>pt-BR</language>
-
 <item>
-<title><![CDATA[PM prende dois suspeitos de tráfico e apreende mais de 800g de drogas em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/pm-prende-dois-suspeitos-de-trafico-e-apreende-mais-de-800g-de-drogas-em-balneario-camboriu/</link>
+<title><![CDATA[Incêndio em apartamento no Centro de Balneário Camboriú gera evacuação de prédio]]></title>
+<link>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[Pm]]></category>
-<category><![CDATA[Prende]]></category>
-<category><![CDATA[Dois]]></category>
-<category><![CDATA[Suspeitos]]></category>
-<category><![CDATA[Tráfico]]></category>
-<category><![CDATA[Apreende]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 16:28:43 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129284</guid>
-<description><![CDATA[Dois homens foram presos pela Polícia Militar na noite da última quinta-feira, 05, por tráfico de drogas em Balneário Camboriú. A ação ocorreu na Rua Venezuela, após monitoramento do endereço que, segundo a PM, era utilizado como ponto de armazenamento de entorpecentes para tele-entrega.]]></description>
-<content:encoded><![CDATA[<strong>Dois homens foram presos pela Polícia Militar na noite da última quinta-feira, 05, por tráfico de drogas em Balneário Camboriú. A ação ocorreu na Rua Venezuela, após monitoramento do endereço que, segundo a PM, era utilizado como ponto de armazenamento de entorpecentes para tele-entrega. Durante a vigilância, um indivíduo chegou ao local em uma motocicleta e adentrou rapidamente na residência. Ele foi abordado momentos depois na Avenida Martin Luther, portando maconha e cocaína embaladas para venda, sendo identificado como um suspeito de 36 anos.</strong><br/><br/>Posteriormente, outra equipe policial se dirigiu à residência monitorada, onde encontrou um morador de 41 anos, que já possuía antecedentes por tráfico. No local, foram apreendidos 400g de maconha e 478g de cocaína, acondicionadas de forma semelhante às encontradas com o motociclista. Além das substâncias ilícitas, a PM recolheu também R$ 479,90 e 1 dólar, e apreendeu a motocicleta utilizada no esquema. Os dois homens foram encaminhados à Delegacia de Polícia para os procedimentos legais cabíveis.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+<pubDate>Sat, 06 Dec 2025 17:43:54 +0000</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313020</guid>
+<description><![CDATA[Um incêndio tomou conta de um apartamento no Centro de Balneário Camboriú, gerando a evacuação do prédio. Apesar das chamas, não houve vítimas, mas dois animais permanecem desaparecidos.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[CONDUTOR EMBRIAGADO É PRESO APÓS DORMIR AO VOLANTE]]></title>
-<link>https://horadeportobelo.com.br/2025/12/06/condutor-embriagado-e-preso-apos-dormir-ao-volante/</link>
+<title><![CDATA[Vila do Vôlei agita Itapema com música, gastronomia e torcida vibrante na etapa mundial]]></title>
+<link>https://visornoticias.com.br/vila-do-volei-movimenta-itapema-com-gastronomia-musica-e-torcida-animada-durante-etapa-do-circuito-mundial/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Condutor]]></category>
-<category><![CDATA[Embriagado]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Preso]]></category>
-<category><![CDATA[Após]]></category>
-<category><![CDATA[Dormir]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 15:53:15 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20252</guid>
-<description><![CDATA[Na madrugada de ontem, dia 05, a Guarda Municipal de Porto Belo foi acionada para prestar apoio à Secretaria de Obras após um funcionário do local relatar a presença de um motorista que havia parado seu veículo no canteiro e aparentava estar passando mal, chegando a dormir ao volante. Ao deslocar-se até o automóvel, uma guarnição constatou que o condutor apresentava sinais claros de embriaguez, como forte odor etílico, fala arrastada, confusão mental, olhos vermelhos, dificuldade para caminhar e comportamento disperso.]]></description>
-<content:encoded><![CDATA[<strong>Na madrugada de ontem, dia 05, a Guarda Municipal de Porto Belo foi acionada para prestar apoio à Secretaria de Obras após um funcionário do local relatar a presença de um motorista que havia parado seu veículo no canteiro e aparentava estar passando mal, chegando a dormir ao volante. Ao deslocar-se até o automóvel, uma guarnição constatou que o condutor apresentava sinais claros de embriaguez, como forte odor etílico, fala arrastada, confusão mental, olhos vermelhos, dificuldade para caminhar e comportamento disperso. Apesar da oferta do teste de etilômetro, o motorista recusou-se a realizá-lo, resultando na confecção do Auto de Constatação de Sinais de Embriaguez. Diante disso, o condutor foi detido e encaminhado à Delegacia de Polícia para os procedimentos legais necessários.</strong><br/><br/>A recusa do motorista em realizar o teste de etilômetro e os claros sinais de embriaguez apresentados resultaram na detenção do condutor, que foi conduzido à Delegacia de Polícia para as providências legais cabíveis. A ação da Guarda Municipal de Porto Belo em atender ao chamado da Secretaria de Obras e agir diante da situação de risco evidencia a importância da fiscalização e combate à embriaguez ao volante, visando garantir a segurança no trânsito e prevenir acidentes decorrentes do consumo de álcool por condutores. A ocorrência reforça a necessidade de conscientização sobre os perigos da combinação de álcool e direção, bem como a importância da atuação das autoridades competentes para coibir essa prática ilegal.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+<pubDate>Sat, 06 Dec 2025 15:26:22 +0000</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=312977</guid>
+<description><![CDATA[A Vila do Vôlei, montada na Meia Praia, tem atraído um público diversificado durante a etapa do Circuito Mundial. O evento promete uma grande final neste domingo, com muita animação e atrações para todas as idades.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
-<item>
-<title><![CDATA[*Escuta, autoconhecimento e metas para 2026 são debatidas em ação voltada às mulheres em Porto Belo*]]></title>
-<link>https://horadeportobelo.com.br/2025/12/06/escuta-autoconhecimento-e-metas-para-2026-sao-debatidas-em-acao-voltada-as-mulheres-em-porto-belo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Região]]></category>
-<category><![CDATA[Escuta]]></category>
-<category><![CDATA[Autoconhecimento]]></category>
-<category><![CDATA[Metas]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Debatidas]]></category>
-<category><![CDATA[Ação]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 15:52:04 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20249</guid>
-<description><![CDATA[O Governo de Porto Belo, por meio da Secretaria de Assistência Social e da Diretoria da Mulher, realizou na quarta-feira (4), na orla da praia do Perequê, o encerramento das atividades de 2025 do projeto "Mateando com as Gurias". O evento reuniu mulheres para um momento de acolhimento, troca e reflexão, com o tema "O que vai nos guiar para 2026?", promovendo uma conversa sobre a importância do autoconhecimento e da escuta ativa para fortalecer relações interpessoais.]]></description>
-<content:encoded><![CDATA[<strong>O Governo de Porto Belo, por meio da Secretaria de Assistência Social e da Diretoria da Mulher, realizou na quarta-feira (4), na orla da praia do Perequê, o encerramento das atividades de 2025 do projeto "Mateando com as Gurias". O evento reuniu mulheres para um momento de acolhimento, troca e reflexão, com o tema "O que vai nos guiar para 2026?", promovendo uma conversa sobre a importância do autoconhecimento e da escuta ativa para fortalecer relações interpessoais. A roda de conversa foi mediada pela Terapeuta Guadalupe Haag, que destacou a relevância de compreender as próprias emoções e necessidades para planejar metas de forma consciente.</strong><br/><br/>Durante o encontro, as participantes foram estimuladas a refletir sobre seus objetivos para o próximo ano, compreendendo que o autoconhecimento e a escuta ativa são ferramentas essenciais para fortalecer vínculos e construir caminhos alinhados às expectativas individuais. O Projeto Mateando com as Gurias, desenvolvido pela Diretoria da Mulher de Porto Belo, tem como objetivo reunir mulheres para compartilhar experiências e promover reflexões sobre o empoderamento feminino, buscando fortalecer o papel das mulheres na sociedade.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Incêndio em prédio no Centro de Balneário Camboriú mobiliza bombeiros e causa evacuação]]></title>
-<link>https://jornalrazao.com/seguranca/incendio-provoca-evacuacao-de-predio-no-centro-de-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 14:58:49 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171809</guid>
-<description><![CDATA[Um incêndio em um apartamento no Centro de Balneário Camboriú levou à evacuação do prédio na manhã desta sexta-feira (6). As chamas foram avistadas por volta das 6h54 e mobilizaram rapidamente as equipes do Corpo de Bombeiros.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Incêndio atinge apartamento no Centro de BC e mobiliza Corpo de Bombeiros]]></title>
-<link>https://portalmenina.com.br/incendio-atinge-apartamento-no-centro-de-bc-e-mobiliza-corpo-de-bombeiros/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Incêndio]]></category>
-<category><![CDATA[Atinge]]></category>
-<category><![CDATA[Apartamento]]></category>
-<category><![CDATA[Centro]]></category>
-<category><![CDATA[Bc]]></category>
-<category><![CDATA[Mobiliza]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 14:34:18 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129279</guid>
-<description><![CDATA[Um incêndio atingiu um apartamento localizado no Centro de Balneário Camboriú na manhã deste sábado, 06 de novembro, por volta das 6h54. As chamas e a fumaça se tornaram visíveis do lado externo do edifício, levando terceiros a acionarem o Corpo de Bombeiros para intervir na situação.]]></description>
-<content:encoded><![CDATA[<strong>Um incêndio atingiu um apartamento localizado no Centro de Balneário Camboriú na manhã deste sábado, 06 de novembro, por volta das 6h54. As chamas e a fumaça se tornaram visíveis do lado externo do edifício, levando terceiros a acionarem o Corpo de Bombeiros para intervir na situação. No primeiro acesso ao imóvel, os bombeiros realizaram uma busca primária e confirmaram a inexistência de vítimas no local, apesar de informações iniciais sugerirem a presença de uma mulher adulta dentro do apartamento.</strong><br/><br/>Durante o combate ao fogo, foram empregados os sistemas preventivos da edificação e aproximadamente mil litros de água, além de recalque para reforçar a pressão da linha de ataque. Parte do prédio foi evacuada preventivamente enquanto as equipes atuavam no controle das chamas. Após a extinção do incêndio, procedeu-se à ventilação positiva para dispersão de gases, embora os dois gatos da moradora não tenham sido encontrados durante as buscas. Com a situação sob controle, o apartamento foi deixado aos cuidados da moradora e da síndica, aguardando a coleta de informações para o informe pericial.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[‘Todos presos’: justiça nega liberdade para torcedores após ataque em Itapema]]></title>
-<link>https://jornalrazao.com/seguranca/todos-presos-justica-nega-liberdade-para-torcedores-apos-ataque-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[destaque]]></category>
-<category><![CDATA[Todos]]></category>
-<category><![CDATA[Presos]]></category>
-<category><![CDATA[Justiça]]></category>
-<category><![CDATA[Nega]]></category>
-<category><![CDATA[Liberdade]]></category>
-<category><![CDATA[Torcedores]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 13:33:10 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171802</guid>
-<description><![CDATA[Cinco torcedores do Santos permanecem detidos após terem suas prisões convertidas em preventivas pela Justiça, um dia após a briga entre integrantes das torcidas do Santos e Internacional na BR-101, em Itapema, no Litoral Norte de Santa Catarina. As audiências de custódia foram realizadas nesta sexta-feira (5), e o juízo optou por manter o grupo sob custódia devido aos indícios suficientes dos crimes investigados.]]></description>
-<content:encoded><![CDATA[<strong>Cinco torcedores do Santos permanecem detidos após terem suas prisões convertidas em preventivas pela Justiça, um dia após a briga entre integrantes das torcidas do Santos e Internacional na BR-101, em Itapema, no Litoral Norte de Santa Catarina. As audiências de custódia foram realizadas nesta sexta-feira (5), e o juízo optou por manter o grupo sob custódia devido aos indícios suficientes dos crimes investigados. De acordo com a Polícia Civil, os cinco homens foram autuados por roubo após serem flagrados com materiais retirados do ônibus que transportava torcedores do Internacional.</strong><br/><br/>A ação ocorreu quando cerca de 200 pessoas, torcedores do Santos, retornavam em ao menos seis ônibus e teriam reduzido a velocidade da rodovia para interceptar o veículo do Internacional, que seguia no sentido contrário. O motorista do ônibus colorado tentou manobrar em marcha à ré para deixar o local, mas acabou colidindo com uma carreta. Em seguida, o veículo foi cercado e alvo de pedras, paus, barras de ferro e foguetes, resultando em feridos e danos materiais. Seis pessoas ficaram feridas, sendo que pelo menos três foram encaminhadas a hospitais, incluindo um homem atingido na cabeça por um foguete. Não houve vítimas fatais. As forças de segurança conduziram dez torcedores do Santos à Delegacia de Itapema, sendo que cinco tiveram suas prisões em flagrante convertidas em preventiva. O Ministério Público de Santa Catarina continuará as investigações sobre os crimes apurados, incluindo tentativa de homicídio, roubo e dano ao patrimônio, com base em imagens e relatos de vítimas.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Homem é detido após ameaçar prefeito e secretário durante Mundial de Vôlei de Praia em Itapema]]></title>
-<link>https://jornalrazao.com/seguranca/homem-e-detido-apos-ameacar-prefeito-e-secretario-durante-mundial-de-volei-de-praia-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[ameaça]]></category>
-<category><![CDATA[desobediência]]></category>
-<category><![CDATA[Homem]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Detido]]></category>
-<category><![CDATA[Após]]></category>
-<category><![CDATA[Ameaçar]]></category>
-<category><![CDATA[Prefeito]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 11:29:38 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171791</guid>
-<description><![CDATA[Um indivíduo foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, ocorrido na Rua 307, em Itapema. O incidente ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo diversos indivíduos embriagados.]]></description>
-<content:encoded><![CDATA[<strong>Um indivíduo foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, ocorrido na Rua 307, em Itapema. O incidente ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo diversos indivíduos embriagados. Segundo informações da Guarda Municipal, populares indicaram um grupo que estaria gerando desordem. Durante a tentativa de abordagem, um dos envolvidos desobedeceu às ordens legais, demonstrando agressividade, resistência ativa e sinais de embriaguez, como fala arrastada, odor etílico e dificuldade de equilíbrio. O homem também proferiu xingamentos diante do público presente no evento.</strong><br/><br/>Após ser contido, o suspeito foi conduzido à Delegacia de Polícia para os procedimentos necessários. O prefeito de Itapema, Carlos Alexandre de Souza Ribeiro, relatou à equipe ter sido ameaçado e ofendido pelo indivíduo detido, enquanto o secretário de Esportes, Paulo Roberto Camargo, afirmou ter sido empurrado e insultado, manifestando interesse em representar criminalmente. A Guarda Municipal destacou que o uso de algemas foi necessário devido à resistência ativa e à tentativa constante de escapar da intervenção. Uma testemunha que presenciou o ocorrido acompanhou o registro para prestar depoimento formal. A atuação da corporação no local teve como objetivo assegurar a ordem pública e a segurança dos participantes e espectadores do evento esportivo. Segundo a Guarda Municipal, o indivíduo detido possui 48 boletins de ocorrência em seu nome, incluindo registros por lesão corporal, violência doméstica, tráfico de drogas e porte ilegal de arma de fogo.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Homem é preso por furto em obra do HEMOSC no Centro de Itajaí]]></title>
-<link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 11:27:34 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
-<description><![CDATA[Na madrugada deste sábado, 6, a Polícia Militar prendeu um homem de 42 anos em Itajaí por furto de materiais em uma obra do HEMOSC. O incidente ocorreu na Rua Lauro Müller, gerando preocupações sobre a segurança na região.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Homem de 41 anos é preso por tentativa de furto em supermercado de Itajaí]]></title>
-<link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 10:19:31 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
-<description><![CDATA[Na tarde desta sexta-feira, 5, a Polícia Militar deteve um homem de 41 anos suspeito de tentativa de furto em um supermercado localizado no bairro Fazenda, em Itajaí. A ação foi desencadeada após o alerta de uma funcionária que estava de folga.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Sábado ensolarado promete agitar as praias de Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 09:55:23 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
-<description><![CDATA[Balneário Camboriú se prepara para um sábado de sol e calor, com temperaturas variando de 20°C a 28°C. A previsão é de um dia perfeito para aproveitar as belezas da região.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
 </channel>
 </rss>
