@@ -1,44 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Not&#237;cias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Sat, 06 Dec 2025 12:23:56 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Not?cias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sat, 06 Dec 2025 12:31:08 GMT</lastBuildDate>
+<language>pt-BR</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title>Crian&#231;as visitam o canil da PM e terminam a tarde jogando bola com policiais em SC</title>
-		<link>https://visornoticias.com.br/criancas-visitam-o-canil-da-pm-e-terminam-a-tarde-jogando-bola-com-policiais-em-sc/</link>
-		<comments>https://visornoticias.com.br/criancas-visitam-o-canil-da-pm-e-terminam-a-tarde-jogando-bola-com-policiais-em-sc/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 12:15:18 +0000</pubDate>
-		<category><![CDATA[Regi&#227;o]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=312904</guid>
+<image>
+  <url>https://evoweb.app.br/favicon-32x32.png</url>
+  <title>Evo Web News</title>
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <width>32</width>
+  <height>32</height>
+</image>
 
-		<description><![CDATA[Crian&#231;as se divertem em visita ao canil da PM em Santa Catarina**Uma tarde especial foi vivida por crian&#231;as que visitaram o canil da Pol&#237;cia Militar em Santa Catarina. O encontro proporcionou momentos de lazer e intera&#231;&#227;o entre os pequenos e os policiais.****Ap&#243;s conhecerem os c&#227;es que fazem parte do trabalho da PM, as crian&#231;as tiveram a oportunidade de jogar bola com os policiais, criando um ambi...]]></description>
-		<content:encoded><![CDATA[<strong>Crian&#231;as se divertem em visita ao canil da PM em Santa Catarina</strong><br/><br/><strong>**Uma tarde especial foi vivida por crian&#231;as que visitaram o canil da Pol&#237;cia Militar em Santa Catarina. O encontro proporcionou momentos de lazer e intera&#231;&#227;o entre os pequenos e os policiais.**</strong><br/><br/>**Ap&#243;s conhecerem os c&#227;es que fazem parte do trabalho da PM, as crian&#231;as tiveram a oportunidade de jogar bola com os policiais, criando um ambiente de descontra&#231;&#227;o e amizade.**<br/><br/>A visita ao canil foi organizada com o intuito de aproximar a comunidade da Pol&#237;cia Militar, promovendo um espa&#231;o de di&#225;logo e confian&#231;a. As crian&#231;as ficaram encantadas ao interagir com os c&#227;es treinados, aprendendo sobre a import&#226;ncia do trabalho que eles realizam na seguran&#231;a p&#250;blica.<br/><br/>Al&#233;m de brincar, os pequenos tamb&#233;m puderam conhecer mais sobre a rotina dos policiais e entender um pouco do papel da PM na sociedade. O evento foi bem recebido pelas fam&#237;lias, que destacaram a import&#226;ncia de iniciativas que promovem a uni&#227;o entre a pol&#237;cia e a comunidade.<br/><br/>Essa intera&#231;&#227;o n&#227;o apenas trouxe alegria &#224;s crian&#231;as, mas tamb&#233;m fortaleceu la&#231;os de amizade e respeito entre os cidad&#227;os e a Pol&#237;cia Militar, mostrando que &#233; poss&#237;vel construir uma rela&#231;&#227;o de confian&#231;a e colabora&#231;&#227;o.<br/><br/>Fonte: visornoticias.com.br]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/criancas-visitam-o-canil-da-pm-e-terminam-a-tarde-jogando-bola-com-policiais-em-sc/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+  <title><![CDATA[Previs?o em SC indica sol no fim de semana e risco de temporais fortes a partir de segunda]]></title>
+  <link>https://visornoticias.com.br/previsao-em-sc-indica-sol-no-fim-de-semana-e-risco-de-temporais-fortes-a-partir-de-segunda/</link>
+  <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+  <pubDate>Sat, 06 Dec 2025 12:25:26 +0000</pubDate>
+  <guid isPermaLink="false">https://visornoticias.com.br/?p=312940</guid>
+  <description><![CDATA[Sol no fim de semana em Santa Catarina, mas risco de temporais a partir de segunda-feiraSanta Catarina ter? um fim de semana ensolarado, com temperaturas que podem ultrapassar os 30?C. No entanto, a partir de segunda-feira, a previs?o indica uma mudan?a significativa no clima, com a possibilidade de...]]></description>
+  <content:encoded><![CDATA[<strong>Sol no fim de semana em Santa Catarina, mas risco de temporais a partir de segunda-feira</strong><br/><br/><strong>Santa Catarina ter? um fim de semana ensolarado, com temperaturas que podem ultrapassar os 30?C. No entanto, a partir de segunda-feira, a previs?o indica uma mudan?a significativa no clima, com a possibilidade de temporais fortes. A instabilidade deve se intensificar entre ter?a e quarta-feira, devido ? forma??o de um ciclone extratropical na regi?o.</strong><br/><br/>O Instituto de Meteorologia alerta para a combina??o de calor intenso e umidade, fatores que podem contribuir para a ocorr?ncia de chuvas fortes e tempestades em v?rias ?reas do estado. Enquanto os moradores aproveitam o sol e as altas temperaturas durante o fim de semana, ? importante que fiquem atentos ?s atualiza??es sobre as condi??es clim?ticas.<br/><br/>Na segunda-feira, a previs?o ? de que a instabilidade comece a se manifestar, com a forma??o de nuvens carregadas e a possibilidade de chuvas isoladas. A situa??o deve se agravar nos dias seguintes, especialmente com a aproxima??o do ciclone extratropical, que promete trazer ventos fortes e chuvas intensas.<br/><br/>Os meteorologistas recomendam que a popula??o se mantenha informada sobre as condi??es do tempo e tome precau??es, especialmente em regi?es mais vulner?veis a alagamentos e deslizamentos. ? fundamental estar preparado para eventuais mudan?as dr?sticas nas condi??es clim?ticas.<br/><br/>Fonte: visornoticias.com.br]]></content:encoded>
+</item>
 </channel>
 </rss>
