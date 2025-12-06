@@ -1,394 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
-
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Not?cias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 06 Dec 2025 19:22:55 GMT</lastBuildDate>
-  <language>pt-BR</language>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sat, 06 Dec 2025 19:40:41 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[Motorista embriagado ? preso ap?s dormir ao volante em Porto Belo]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/06/condutor-embriagado-e-preso-apos-dormir-ao-volante/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 15:53:15 GMT</pubDate>
-    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20252</guid>
+<item>
+<title><![CDATA[Apartamento pega fogo e mobiliza bombeiros em Balneário Camboriú]]></title>
+<link>https://jornalrazao.com/seguranca/incendio-apartamento-centro-balneario-camboriu-evacuacao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[bombeiros]]></category>
+<category><![CDATA[Apartamento]]></category>
+<category><![CDATA[Pega]]></category>
+<category><![CDATA[Fogo]]></category>
+<category><![CDATA[Mobiliza]]></category>
+<category><![CDATA[Bombeiros]]></category>
+<category><![CDATA[Balneário]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 19:37:30 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171834</guid>
+<description><![CDATA[Um incêndio ocorrido no início da manhã deste sábado, 6, resultou na evacuação parcial de um edifício situado na região central de Balneário Camboriú. O fogo teve início em um apartamento por volta das 6h54, chamando a atenção de moradores e transeuntes devido às chamas e à densa fumaça visíveis do lado externo do prédio.]]></description>
+<content:encoded><![CDATA[<strong>Um incêndio ocorrido no início da manhã deste sábado, 6, resultou na evacuação parcial de um edifício situado na região central de Balneário Camboriú. O fogo teve início em um apartamento por volta das 6h54, chamando a atenção de moradores e transeuntes devido às chamas e à densa fumaça visíveis do lado externo do prédio. A movimentação levou terceiros a acionarem o Corpo de Bombeiros imediatamente para realizar uma busca primária, apesar de informações iniciais indicarem a presença de uma mulher no interior do apartamento, não havendo vítimas no local.</strong><br/><br/>Durante o combate às chamas, que contou com o uso dos sistemas preventivos do edifício e cerca de mil litros de água, além de recalque para aumentar a pressão na linha de ataque, parte dos moradores precisou temporariamente deixar o prédio por questões de segurança. Após a extinção do incêndio, foi realizada ventilação positiva para dissipar a fumaça e os gases acumulados. Os dois gatos da responsável pelo apartamento não foram localizados durante as buscas, e a área foi deixada sob os cuidados da moradora e da síndica, após a coleta de informações necessárias para o trabalho pericial. (<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-    <description><![CDATA[<p>Na madrugada do dia 5, a Guarda Municipal de Porto Belo foi acionada para atender a uma ocorr?ncia envolvendo um motorista que dormia ao volante no canteiro da Secretaria de Obras. Um funcion?rio do local informou que o condutor aparentava estar passando mal.</p>]]></description>
-    <content:encoded><![CDATA[<p>Na madrugada do dia 5, a Guarda Municipal de Porto Belo foi acionada para atender a uma ocorr?ncia envolvendo um motorista que dormia ao volante no canteiro da Secretaria de Obras. Um funcion?rio do local informou que o condutor aparentava estar passando mal.</p>
-<p>Ao chegar ao local, a guarni??o identificou que o motorista apresentava sinais claros de embriaguez, como forte odor de ?lcool, fala arrastada, confus?o mental, olhos vermelhos, dificuldade para caminhar e comportamento disperso. O teste do baf?metro foi oferecido, mas o condutor recusou-se a realiz?-lo.</p>
-<p>Diante da recusa, foi confeccionado o Auto de Constata??o de Sinais de Embriaguez. O motorista foi detido e encaminhado ? Delegacia de Pol?cia para os procedimentos legais cab?veis.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Golpistas usam CPF e nome para enviar falsas cobran?as da Receita Federal]]></title>
+<link>https://visornoticias.com.br/golpe-usa-cpf-e-nome-para-criar-falsas-cobrancas-da-receita-federal/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 19:12:57 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313041</guid>
+<description><![CDATA[<p>Criminosos est?o aplicando um golpe que utiliza CPF e nome das v?timas para criar cobran?as falsas em nome da Receita Federal. O golpe envolve o envio de links que imitam o visual do site gov.br, com a inten??o de induzir o pagamento imediato.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Yasmin Fortuna ? vice-campe? no Sul-Americano de Jiu-Jitsu em S?o Paulo]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 20:56:02 GMT</pubDate>
-    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20246</guid>
+<item>
+<title><![CDATA[Desfile ?Minha Noite de Natal? acontece neste s?bado na Avenida Atl?ntica em Balne?rio Cambori?]]></title>
+<link>https://portalmenina.com.br/desfile-minha-noite-de-natal-ocorre-neste-sabado-na-avenida-atlantica-barra-tera-programacao-especial-no-domingo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 18:49:09 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129288</guid>
+<description><![CDATA[<p>O desfile ?Minha Noite de Natal? ser? a principal atra??o do Viva o Natal BC 2025 neste s?bado, 6, a partir das 20h, em Balne?rio Cambori?. O evento come?a na Barra Sul, na altura da Rua 4900, e segue pela Avenida Atl?ntica at? pr?ximo ao Hotel Marambaia, na Barra Norte.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-    <description><![CDATA[<p>A atleta bombinense Yasmin Fortuna, de 16 anos, conquistou o t?tulo de vice-campe? no Campeonato Sul-Americano de Jiu-Jitsu da IBJJF, realizado em S?o Paulo. Representando a FME Bombinhas, a Fesporte e seus patrocinadores, ela reafirmou seu talento no cen?rio internacional da modalidade.</p>]]></description>
-    <content:encoded><![CDATA[<p>A atleta bombinense Yasmin Fortuna, de 16 anos, conquistou o t?tulo de vice-campe? no Campeonato Sul-Americano de Jiu-Jitsu da IBJJF, realizado em S?o Paulo. Representando a FME Bombinhas, a Fesporte e seus patrocinadores, ela reafirmou seu talento no cen?rio internacional da modalidade.</p>
-<p>Yasmin integra a equipe Checkmat HQ, dos professores Sebastian e Let?cia Lali, e j? acumula importantes t?tulos nacionais e internacionais. A jovem atleta tem se destacado pela disciplina, foco e resultados consistentes, consolidando-se como uma das promessas do jiu-jitsu catarinense.</p>
-<p>A conquista no Sul-Americano refor?a a import?ncia do apoio recebido da FME Bombinhas, da Fesporte e dos patrocinadores. Yasmin segue com treinos intensos e j? se prepara para a temporada de 2026, que come?a com o Campeonato Europeu, entre os dias 15 e 25 de janeiro, em Lisboa, Portugal.</p>
-<p>Na pr?xima competi??o, a atleta continuar? representando o munic?pio e o estado, buscando levar o nome de Bombinhas ao p?dio das principais competi??es mundiais.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Banhista de 22 anos ? resgatado ap?s afogamento na Praia Brava, em Itaja?]]></title>
+<link>https://visornoticias.com.br/banhista-de-22-anos-e-resgatado-apos-afogamento-na-praia-brava-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 18:35:38 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313054</guid>
+<description><![CDATA[<p>Um jovem de 22 anos foi resgatado ap?s sofrer um afogamento na Praia Brava, em Itaja?. Ele apresentava espuma na boca, indicativa de afogamento grau 3, e recebeu atendimento imediato dos bombeiros.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Dois homens s?o presos por atos obscenos e agress?o em Porto Belo]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 19:36:58 GMT</pubDate>
-    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20243</guid>
+<item>
+<title><![CDATA[Motorista ? preso em Porto Belo ap?s ser flagrado dormindo ao volante sob efeito de ?lcool]]></title>
+<link>https://visornoticias.com.br/motorista-bebado-e-preso-apos-dormir-ao-volante-em-porto-belo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 18:28:27 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313050</guid>
+<description><![CDATA[<p>Um motorista foi preso em Porto Belo ap?s ser encontrado dormindo ao volante em situa??o de embriaguez. A Guarda Municipal localizou o condutor desorientado dentro do ve?culo.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-    <description><![CDATA[<p>Na tarde do dia 4, a Guarda Municipal de Porto Belo atendeu uma den?ncia de atos obscenos pr?ximos ? Escola Estadual Tiradentes. Dois homens foram flagrados abaixando as vestes e mostrando as n?degas aos alunos da institui??o.</p>]]></description>
-    <content:encoded><![CDATA[<p>Na tarde do dia 4, a Guarda Municipal de Porto Belo atendeu uma den?ncia de atos obscenos pr?ximos ? Escola Estadual Tiradentes. Dois homens foram flagrados abaixando as vestes e mostrando as n?degas aos alunos da institui??o.</p>
-<p>Durante o atendimento, uma das v?timas abordou a guarni??o e relatou ter sido agredida pelos mesmos suspeitos. Segundo o relato, a agress?o teria ocorrido por causa da cor da camiseta da v?tima, que os agressores associaram equivocadamente a um partido pol?tico.</p>
-<p>A Guarda Municipal realizou buscas na regi?o e localizou os homens, que apresentavam comportamento alterado e negaram as acusa??es. No entanto, as imagens obtidas comprovaram os fatos e a v?tima manifestou interesse em representar contra os agressores.</p>
-<p>Os dois suspeitos foram detidos e encaminhados ? Delegacia de Pol?cia Civil, onde passaram pelos procedimentos legais cab?veis.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Apostador de Santa Catarina ganha mais de R$ 862 mil na Lotof?cil]]></title>
+<link>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 18:01:24 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313006</guid>
+<description><![CDATA[<p>Uma aposta de Santa Catarina faturou R$ 862.854,50 na Lotof?cil do concurso 3555. O pr?mio foi dividido com outro ganhador de S?o Paulo.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Pol?cia Civil investiga confronto entre torcidas organizadas na BR-101 em Itapema]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 11:50:05 GMT</pubDate>
-    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20240</guid>
+<item>
+<title><![CDATA[Inc?ndio atinge apartamento no Centro de Balne?rio Cambori?]]></title>
+<link>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 17:43:54 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313020</guid>
+<description><![CDATA[<p>Um inc?ndio atingiu um apartamento no Centro de Balne?rio Cambori?, causando a evacua??o do pr?dio. As chamas eram vis?veis pelas janelas, mas n?o houve registro de v?timas no local.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-    <description><![CDATA[<p>A Pol?cia Civil de Santa Catarina investiga um confronto entre torcedores de duas torcidas organizadas na manh? desta quinta-feira (4), na BR-101, em Itapema. O epis?dio ocorreu por volta das 11h30, no km 148, quando um grupo de torcedores do Santos interceptou o ?nibus com torcedores do Internacional.</p>]]></description>
-    <content:encoded><![CDATA[<p>A Pol?cia Civil de Santa Catarina investiga um confronto entre torcedores de duas torcidas organizadas na manh? desta quinta-feira (4), na BR-101, em Itapema. O epis?dio ocorreu por volta das 11h30, no km 148, quando um grupo de torcedores do Santos interceptou o ?nibus com torcedores do Internacional.</p>
-<p>A Pol?cia Rodovi?ria Federal e a Pol?cia Militar atenderam a ocorr?ncia inicialmente. Dez torcedores foram levados ? Delegacia de Pol?cia da Comarca de Itapema para os procedimentos legais. Quatro deles foram presos por roubo, pois estavam com objetos pertencentes ? torcida advers?ria.</p>
-<p>Os envolvidos seguem sendo ouvidos pela equipe policial. A Pol?cia Civil mant?m a investiga??o para esclarecer os fatos e identificar outros participantes do confronto. Cinco dos detidos devem ser encaminhados ao pres?dio de Itapema.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Piloto brasileiro indica locais seguros para acelerar carros superpotentes]]></title>
+<link>https://visornoticias.com.br/piloto-brasileiro-explica-onde-e-possivel-acelerar-o-carro-mais-rapido-do-mundo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 17:20:59 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=313009</guid>
+<description><![CDATA[<p>Um piloto brasileiro destacou os locais mais apropriados para acelerar o carro mais r?pido do mundo, evitando riscos em vias p?blicas. Segundo ele, aeroportos e aut?dromos s?o os ambientes indicados para esse tipo de desempenho.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Desfile ?Minha Noite de Natal? acontece neste s?bado na Avenida Atl?ntica em Balne?rio Cambori?]]></title>
-    <link>https://portalmenina.com.br/desfile-minha-noite-de-natal-ocorre-neste-sabado-na-avenida-atlantica-barra-tera-programacao-especial-no-domingo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 18:49:09 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129288</guid>
+<item>
+<title><![CDATA[Entregador morre ap?s ser atingido por carro de luxo em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/entregador-morre-apos-ser-atingido-por-carro-de-luxo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 17:03:14 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=312988</guid>
+<description><![CDATA[<p>Um entregador morreu ap?s ser atingido por um carro de luxo em Santa Catarina. O motorista, de 25 anos, avan?ou contra barracas e atingiu estabelecimentos no local do acidente.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-    <description><![CDATA[<p>O desfile ?Minha Noite de Natal? ser? a principal atra??o do Viva o Natal BC 2025 neste s?bado, 6, a partir das 20h, em Balne?rio Cambori?. O evento come?a na Barra Sul, na altura da Rua 4900, e segue pela Avenida Atl?ntica at? pr?ximo ao Hotel Marambaia, na Barra Norte.</p>]]></description>
-    <content:encoded><![CDATA[<p>O desfile ?Minha Noite de Natal? ser? a principal atra??o do Viva o Natal BC 2025 neste s?bado, 6, a partir das 20h, em Balne?rio Cambori?. O evento come?a na Barra Sul, na altura da Rua 4900, e segue pela Avenida Atl?ntica at? pr?ximo ao Hotel Marambaia, na Barra Norte.</p>
-<p>Durante o percurso, moradores e turistas poder?o acompanhar tr?s pocket shows em pontos estrat?gicos: na Rua 3000, na Pra?a Almirante Tamandar? e na altura da Rua 1201. Essas apresenta??es foram preparadas especialmente para a ocasi?o.</p>
-<p>No domingo, 7, a programa??o continua no Bairro da Barra com uma parada tem?tica a partir das 11h. Bailarinos, m?sicos e o Papai Noel oficial do munic?pio estar?o na Pra?a do Pescador para interagir com o p?blico e refor?ar o clima natalino na comunidade.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Pol?cia Militar prende dois por tr?fico e apreende mais de 800g de drogas em Balne?rio Cambori?]]></title>
-    <link>https://portalmenina.com.br/pm-prende-dois-suspeitos-de-trafico-e-apreende-mais-de-800g-de-drogas-em-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 16:28:43 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129284</guid>
-
-    <description><![CDATA[<p>Dois homens foram presos por tr?fico de drogas na noite de quinta-feira, 5, em Balne?rio Cambori?. A abordagem aconteceu na Rua Venezuela, ap?s monitoramento do local que funcionava como ponto de armazenamento de entorpecentes para tele-entrega.</p>]]></description>
-    <content:encoded><![CDATA[<p>Dois homens foram presos por tr?fico de drogas na noite de quinta-feira, 5, em Balne?rio Cambori?. A abordagem aconteceu na Rua Venezuela, ap?s monitoramento do local que funcionava como ponto de armazenamento de entorpecentes para tele-entrega.</p>
-<p>Durante a vigil?ncia, uma motocicleta chegou ao endere?o e o condutor, de 36 anos, entrou rapidamente na resid?ncia. Ele foi abordado na Avenida Martin Luther com maconha e coca?na embaladas para venda.</p>
-<p>Outra equipe foi ao im?vel e localizou um morador de 41 anos, com registro anterior por tr?fico. No local, a pol?cia apreendeu 400 gramas de maconha e 478 gramas de coca?na, acondicionadas de forma semelhante ?s encontradas com o motociclista.</p>
-<p>Al?m das drogas, foram recolhidos R$ 479,90 em dinheiro e 1 d?lar. A motocicleta usada no esquema tamb?m foi apreendida. Os dois suspeitos foram levados ? Delegacia de Pol?cia para os procedimentos legais.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Inc?ndio atinge apartamento no Centro de Balne?rio Cambori? e mobiliza bombeiros]]></title>
-    <link>https://portalmenina.com.br/incendio-atinge-apartamento-no-centro-de-bc-e-mobiliza-corpo-de-bombeiros/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 14:34:18 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129279</guid>
-
-    <description><![CDATA[<p>Um inc?ndio atingiu um apartamento no Centro de Balne?rio Cambori? na manh? deste s?bado, 6, por volta das 6h54. As chamas e a fuma?a eram vis?veis do lado externo do pr?dio, o que levou terceiros a acionarem o Corpo de Bombeiros.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um inc?ndio atingiu um apartamento no Centro de Balne?rio Cambori? na manh? deste s?bado, 6, por volta das 6h54. As chamas e a fuma?a eram vis?veis do lado externo do pr?dio, o que levou terceiros a acionarem o Corpo de Bombeiros.</p>
-<p>No primeiro acesso ao im?vel, os bombeiros realizaram uma busca e confirmaram que n?o havia v?timas, apesar da informa??o inicial de que uma mulher adulta poderia estar dentro do apartamento. Para combater o fogo, foram usados os sistemas preventivos do edif?cio, cerca de mil litros de ?gua e um recalque para refor?ar a press?o da linha de ataque.</p>
-<p>Durante o combate ?s chamas, parte do pr?dio foi evacuada preventivamente. Ap?s a extin??o do inc?ndio, a equipe fez ventila??o positiva para dispersar os gases. A moradora informou ter dois gatos, mas os animais n?o foram encontrados nas buscas.</p>
-<p>Com a situa??o controlada, o local ficou sob os cuidados da moradora e da s?ndica, ap?s a coleta de informa??es para o informe pericial.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Pol?cia Militar prende homem furtando materiais em obra no Centro de Itaja?]]></title>
-    <link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 11:27:34 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
-
-    <description><![CDATA[<p>Na madrugada deste s?bado, 6, a Pol?cia Militar prendeu um homem de 42 anos ao flagr?-lo furtando materiais e ferramentas de uma obra do HEMOSC, na Rua Lauro M?ller, no Centro de Itaja?. A a??o aconteceu por volta das 3h, ap?s a guarni??o ser acionada para atender a ocorr?ncia.</p>]]></description>
-    <content:encoded><![CDATA[<p>Na madrugada deste s?bado, 6, a Pol?cia Militar prendeu um homem de 42 anos ao flagr?-lo furtando materiais e ferramentas de uma obra do HEMOSC, na Rua Lauro M?ller, no Centro de Itaja?. A a??o aconteceu por volta das 3h, ap?s a guarni??o ser acionada para atender a ocorr?ncia.</p>
-<p>Os policiais encontraram o suspeito ainda no local do furto. Segundo a Pol?cia Militar, ele possui mais de 15 passagens pela pol?cia. O homem recebeu voz de pris?o e foi encaminhado ? Central de Plant?o Policial para os procedimentos legais.</p>
-<p>A r?pida interven??o da Pol?cia Militar evitou o sucesso da tentativa de furto e garantiu a seguran?a do patrim?nio p?blico na regi?o central da cidade.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem de 41 anos ? preso por tentativa de furto em estacionamento de supermercado em Itaja?]]></title>
-    <link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 10:19:31 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
-
-    <description><![CDATA[<p>Um homem de 41 anos foi preso na tarde desta sexta-feira, 5, suspeito de tentativa de furto no estacionamento de um supermercado no bairro Fazenda, em Itaja?. A a??o da Pol?cia Militar ocorreu por volta das 17h, ap?s acionamento da Central Regional de Emerg?ncia.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um homem de 41 anos foi preso na tarde desta sexta-feira, 5, suspeito de tentativa de furto no estacionamento de um supermercado no bairro Fazenda, em Itaja?. A a??o da Pol?cia Militar ocorreu por volta das 17h, ap?s acionamento da Central Regional de Emerg?ncia.</p>
-<p>Segundo a PM, a v?tima, funcion?ria do estabelecimento que estava de folga, percebeu o suspeito rondando os ve?culos ao chegar ao local. Antes de travar seu carro, ela viu o homem tentando abrir a porta para entrar no autom?vel. Com o apoio da equipe de preven??o do supermercado, a mulher conteve o suspeito at? a chegada da pol?cia.</p>
-<p>Durante a abordagem, o homem negou ter mexido no ve?culo e afirmou que estava no local para comprar medicamentos. No entanto, apresentou falas desconexas e comportamento alterado. Ele foi encaminhado ? Delegacia de Pol?cia Civil sem les?es, portando uma mochila com livros, um celular danificado e um fone de ouvido quebrado.</p>
-<p>A v?tima tamb?m prestou depoimento na delegacia, onde um boletim de ocorr?ncia foi registrado para os procedimentos cab?veis.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[S?bado com sol e temperaturas elevadas em Balne?rio Cambori?]]></title>
-    <link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 09:55:23 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
-
-    <description><![CDATA[<p>Balne?rio Cambori? ter? um s?bado de tempo est?vel, com sol desde as primeiras horas da manh? e temperaturas que variam entre 20?C e 28?C. N?o h? previs?o de chuva para o dia, segundo dados meteorol?gicos atualizados nesta manh?.</p>]]></description>
-    <content:encoded><![CDATA[<p>Balne?rio Cambori? ter? um s?bado de tempo est?vel, com sol desde as primeiras horas da manh? e temperaturas que variam entre 20?C e 28?C. N?o h? previs?o de chuva para o dia, segundo dados meteorol?gicos atualizados nesta manh?.</p>
-<p>A umidade relativa do ar se mant?m alta, entre 65% e 94%, o que pode aumentar a sensa??o de abafamento durante a tarde. Os ventos soprar?o com intensidade de fraca a moderada, trazendo uma leve sensa??o de frescor ao anoitecer.</p>
-<p>O cen?rio favorece atividades ao ar livre e praia, com o sol brilhando desde as 5h da manh?. Moradores e turistas devem aproveitar o dia, que promete ser t?pico de ver?o na regi?o.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Rua Alberto Stein recebe segundo desfile do Natal em Blumenau neste s?bado]]></title>
-    <link>https://portalmenina.com.br/rua-alberto-stein-recebe-segundo-desfile-do-natal-em-blumenau/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 21:26:21 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129253</guid>
-
-    <description><![CDATA[<p>O segundo desfile do Natal em Blumenau acontece neste s?bado (6) na Rua Alberto Stein, a partir das 20h30. Com o tema ?O reino m?gico dos guardi?es do Natal?, o evento contar? com carros aleg?ricos, personagens tem?ticos e um espet?culo de luzes, cores e m?sica.</p>]]></description>
-    <content:encoded><![CDATA[<p>O segundo desfile do Natal em Blumenau acontece neste s?bado (6) na Rua Alberto Stein, a partir das 20h30. Com o tema ?O reino m?gico dos guardi?es do Natal?, o evento contar? com carros aleg?ricos, personagens tem?ticos e um espet?culo de luzes, cores e m?sica.</p>
-<p>Por conta do desfile, o tr?nsito na regi?o do Parque Vila Germ?nica ter? altera??es a partir das 19h30. A Rua Itapiranga ser? totalmente fechada para a concentra??o dos carros aleg?ricos. Tamb?m haver? interrup??es em trechos da Rua Humberto de Campos (sentido Centro), Rua Alberto Stein (sentido Herbert Wehmuth) e Rua Herbert Wehmuth. A Guarda Municipal de Tr?nsito recomenda o uso de rotas alternativas e aten??o ? sinaliza??o.</p>
-<p>O desfile ter? um espa?o exclusivo para pessoas com defici?ncia, com servi?os de Libras e audiodescri??o, localizado sob o portal do Parque Vila Germ?nica, para garantir acessibilidade e conforto ao p?blico.</p>
-<p>A programa??o do Natal em Blumenau vai at? 11 de janeiro de 2026. Os pr?ximos desfiles est?o previstos para os dias 10, 13, 17, 20 e 22 de dezembro, alternando entre as ruas 15 de Novembro e Alberto Stein. A programa??o completa pode ser consultada no site oficial e no Instagram do evento.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Tr?s ficam feridas em colis?o entre carro e caminh?o na BR-470, em Ilhota]]></title>
-    <link>https://portalmenina.com.br/tres-pessoas-ficam-feridas-em-acidente-entre-carro-e-caminhao-na-br-470/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 21:11:27 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129258</guid>
-
-    <description><![CDATA[<p>Tr?s pessoas ficaram feridas em um acidente envolvendo um Renault Sandero e um caminh?o no quil?metro 25 da BR-470, em Ilhota, na tarde desta sexta-feira (5). O impacto mobilizou equipes de resgate da regi?o.</p>]]></description>
-    <content:encoded><![CDATA[<p>Tr?s pessoas ficaram feridas em um acidente envolvendo um Renault Sandero e um caminh?o no quil?metro 25 da BR-470, em Ilhota, na tarde desta sexta-feira (5). O impacto mobilizou equipes de resgate da regi?o.</p>
-<p>Bombeiros de Ilhota, Gaspar e o helic?ptero Arcanjo 03 foram acionados para atender as v?timas, que eram todos ocupantes do carro. Elas foram socorridas e levadas ao Hospital Nossa Senhora do Perp?tuo Socorro, em Gaspar.</p>
-<p>O motorista do caminh?o n?o sofreu ferimentos no acidente. As circunst?ncias que levaram ? colis?o ainda n?o foram divulgadas pelas autoridades respons?veis.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Copa do Mundo 2026 define grupos; Brasil est? na chave C e jogar? em Boston, Miami e Nova York]]></title>
-    <link>https://portalmenina.com.br/copa-do-mundo-2026-tem-grupos-definidos-brasil-cai-na-chave-c-e-fara-jogos-em-boston-miami-e-nova-york/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 05 Dec 2025 19:26:21 GMT</pubDate>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=129233</guid>
-
-    <description><![CDATA[<p>O sorteio dos grupos da Copa do Mundo de 2026 foi realizado nesta sexta-feira, 5, no Kennedy Center, em Washington D.C. O evento marcou o in?cio oficial do maior Mundial da hist?ria, com 48 sele??es disputando a competi??o em Estados Unidos, Canad? e M?xico.</p>]]></description>
-    <content:encoded><![CDATA[<p>O sorteio dos grupos da Copa do Mundo de 2026 foi realizado nesta sexta-feira, 5, no Kennedy Center, em Washington D.C. O evento marcou o in?cio oficial do maior Mundial da hist?ria, com 48 sele??es disputando a competi??o em Estados Unidos, Canad? e M?xico.</p>
-<p>Tr?s sele??es j? tinham suas posi??es definidas antes do sorteio: M?xico no Grupo A, Canad? no Grupo B e Estados Unidos no Grupo D. O torneio manter? o formato com 12 grupos de quatro equipes, e 32 sele??es avan?ar?o para a fase eliminat?ria, incluindo os dois primeiros de cada grupo e os oito melhores terceiros colocados.</p>
-<p>O jogo de abertura ser? no dia 11 de junho, no Est?dio Azteca, com M?xico enfrentando ?frica do Sul. O Brasil caiu no Grupo C, ao lado de Marrocos, Haiti e Esc?cia, e far? seus jogos da primeira fase nas cidades americanas de Boston, Miami e Nova York.</p>
-<p>Ao todo, a Copa ter? 104 partidas disputadas em pouco mais de um m?s. Entre os grupos, destacam-se sele??es tradicionais como Alemanha, Fran?a, Argentina, Espanha, Portugal e Inglaterra, al?m de pa?ses que avan?aram por playoffs.</p>
-<p>Confira os advers?rios do Brasil e os locais dos jogos para acompanhar a sele??o na busca pelo hexa em 2026.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Trabalhador morre ap?s queda do terceiro pavimento em Campos Novos]]></title>
-    <link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 16:37:33 GMT</pubDate>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=171819</guid>
-
-    <description><![CDATA[<p>Um homem de 37 anos morreu na manh? desta sexta-feira (5) ap?s cair do terceiro pavimento de um edif?cio no Centro de Campos Novos, no Meio-Oeste de Santa Catarina. Ele realizava servi?os de limpeza quando perdeu o equil?brio e despencou.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um homem de 37 anos morreu na manh? desta sexta-feira (5) ap?s cair do terceiro pavimento de um edif?cio no Centro de Campos Novos, no Meio-Oeste de Santa Catarina. Ele realizava servi?os de limpeza quando perdeu o equil?brio e despencou.</p>
-<p>O trabalhador caiu na ?rea entre a cal?ada e a via p?blica. Equipes do Corpo de Bombeiros foram acionadas, mas encontraram a v?tima sem sinais vitais no local.</p>
-<p>Segundo os socorristas, o impacto causou um traumatismo craniano severo, incompat?vel com a sobreviv?ncia. A cena foi isolada para os trabalhos da Pol?cia Cient?fica, que realizou a per?cia e a remo??o do corpo.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Justi?a aceita den?ncia e torna r?u acusado de feminic?dio na trilha do Matadeiro]]></title>
-    <link>https://jornalrazao.com/justica/justica-aceita-denuncia-e-torna-reu-acusado-de-feminicidio-na-trilha-do-matadeiro/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 15:36:26 GMT</pubDate>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=171812</guid>
-
-    <description><![CDATA[<p>A Justi?a recebeu a den?ncia do Minist?rio P?blico de Santa Catarina contra o homem acusado do feminic?dio da estudante Catarina Kasten, de 31 anos, morta em uma trilha na Praia do Matadeiro, em Florian?polis. O r?u, preso preventivamente, responder? por feminic?dio, estupro e oculta??o de cad?ver.</p>]]></description>
-    <content:encoded><![CDATA[<p>A Justi?a recebeu a den?ncia do Minist?rio P?blico de Santa Catarina contra o homem acusado do feminic?dio da estudante Catarina Kasten, de 31 anos, morta em uma trilha na Praia do Matadeiro, em Florian?polis. O r?u, preso preventivamente, responder? por feminic?dio, estupro e oculta??o de cad?ver.</p>
-<p>Segundo o MPSC, o crime ocorreu no dia 21 de novembro de 2025, por volta das 7 horas. Catarina saiu de casa para uma aula de nata??o e desapareceu. O companheiro acionou a pol?cia ao notar a demora. O acusado, de 21 anos, confessou o crime, que envolveu estupro seguido de asfixia por meio de um objeto, al?m do arrastamento do corpo para um local de dif?cil acesso.</p>
-<p>A den?ncia aponta que o crime foi premeditado, com o r?u se escondendo atr?s de uma lixeira para emboscar a v?tima. Ele responder? por feminic?dio com qualificadoras por asfixia e recurso que dificultou a defesa, al?m da agravante para garantir a oculta??o do crime. Tamb?m foi denunciado por estupro com viol?ncia e emboscada, e por oculta??o de cad?ver.</p>
-<p>A mudan?a na legisla??o de outubro de 2024, conhecida como Pacote Antifeminic?dio, transformou o feminic?dio em um crime aut?nomo, com pena entre 20 e 40 anos. A lei considera feminic?dio quando a mulher ? morta por menosprezo ou discrimina??o ? sua condi??o, mesmo sem rela??o de parentesco. O promotor Jo?o Gon?alves de Souza Neto destacou que o crime foi motivado pelo fato de a v?tima ser mulher.</p>
-<p>O processo corre em sigilo devido ? natureza sexual do caso, e o Minist?rio P?blico busca a pena m?xima para o acusado.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Inc?ndio em apartamento mobiliza bombeiros e leva ? evacua??o no Centro de Balne?rio Cambori?]]></title>
-    <link>https://jornalrazao.com/seguranca/incendio-provoca-evacuacao-de-predio-no-centro-de-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 14:58:49 GMT</pubDate>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=171809</guid>
-
-    <description><![CDATA[<p>Um inc?ndio em um apartamento no Centro de Balne?rio Cambori? mobilizou o Corpo de Bombeiros na manh? desta sexta-feira (6). As chamas foram vistas ?s 6h54 saindo pelas janelas do im?vel, o que levou ? evacua??o preventiva de parte do pr?dio.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um inc?ndio em um apartamento no Centro de Balne?rio Cambori? mobilizou o Corpo de Bombeiros na manh? desta sexta-feira (6). As chamas foram vistas ?s 6h54 saindo pelas janelas do im?vel, o que levou ? evacua??o preventiva de parte do pr?dio.</p>
-<p>Ao chegar ao local, os bombeiros confirmaram o fogo em duas janelas e entraram no apartamento para busca, sem encontrar v?timas. No combate, foram usados os sistemas preventivos do edif?cio e refor?o h?drico, com cerca de mil litros de ?gua aplicados para conter e apagar as chamas.</p>
-<p>Ap?s o controle do inc?ndio, foi feita ventila??o positiva para eliminar fuma?a e gases acumulados. A moradora informou ter dois gatos, que n?o foram encontrados durante as buscas. O local ficou sob responsabilidade da moradora e da s?ndica ap?s a coleta de informa??es para o informe pericial.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Jovem de 22 anos ? preso ap?s atropelar idoso em Joinville ap?s discuss?o no tr?nsito]]></title>
-    <link>https://jornalrazao.com/seguranca/me-olhou-feio-jovem-de-22-anos-e-preso-apos-quase-matar-idoso-em-joinville/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 14:03:03 GMT</pubDate>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=171806</guid>
-
-    <description><![CDATA[<p>Um idoso de 67 anos foi atropelado intencionalmente por um motorista de 22 anos na tarde desta sexta-feira (5), na Avenida Alwino Hansen, bairro Adhemar Garcia, em Joinville. O ataque aconteceu ap?s uma discuss?o banal perto de uma esquina com sinaliza??o de ?pare?.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um idoso de 67 anos foi atropelado intencionalmente por um motorista de 22 anos na tarde desta sexta-feira (5), na Avenida Alwino Hansen, bairro Adhemar Garcia, em Joinville. O ataque aconteceu ap?s uma discuss?o banal perto de uma esquina com sinaliza??o de ?pare?.</p>
-<p>Segundo familiares, o idoso trabalhava fazendo entregas de salgados quando foi abordado pelo jovem, que teria reclamado do "olhar feio" dele. Ap?s o breve desentendimento, o idoso tentou estacionar para descarregar, momento em que o motorista retornou na contram?o, acelerou o carro e o atingiu violentamente.</p>
-<p>C?meras de seguran?a registraram o atropelamento e ainda mostram o agressor descendo do ve?culo com um martelo para destruir o carro da v?tima. O idoso ficou ferido no ch?o, sem receber socorro imediato. Ele foi levado a um hospital com fraturas em tr?s costelas, les?o na bacia e poss?vel trauma craniano, permanecendo internado em estado est?vel e sob avalia??o de um neurocirurgi?o.</p>
-<p>O jovem foi preso em flagrante e aguarda audi?ncia de cust?dia. Familiares da v?tima relataram ter sofrido amea?as de parentes do suspeito ap?s o crime. A Pol?cia Civil investiga o caso como tentativa de homic?dio e dano ao patrim?nio, enquanto os familiares buscam medidas protetivas devido ?s intimida??es.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Justi?a mant?m presos cinco torcedores ap?s ataque em Itapema]]></title>
-    <link>https://jornalrazao.com/seguranca/todos-presos-justica-nega-liberdade-para-torcedores-apos-ataque-em-itapema/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 13:33:10 GMT</pubDate>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=171802</guid>
-
-    <description><![CDATA[<p>Cinco torcedores do Santos tiveram suas pris?es convertidas em preventivas ap?s a briga envolvendo torcidas de Santos e Internacional na BR-101, em Itapema, no Litoral Norte de Santa Catarina. As audi?ncias de cust?dia ocorreram nesta sexta-feira (5), e o grupo foi mantido detido pela Justi?a.</p>]]></description>
-    <content:encoded><![CDATA[<p>Cinco torcedores do Santos tiveram suas pris?es convertidas em preventivas ap?s a briga envolvendo torcidas de Santos e Internacional na BR-101, em Itapema, no Litoral Norte de Santa Catarina. As audi?ncias de cust?dia ocorreram nesta sexta-feira (5), e o grupo foi mantido detido pela Justi?a.</p>
-<p>Segundo a Pol?cia Civil, os homens foram autuados por roubo, flagrados com materiais retirados do ?nibus que transportava torcedores do Internacional. O confronto aconteceu na manh? de quinta-feira (4), quando cerca de 200 pessoas participaram da a??o, segundo a Pol?cia Rodovi?ria Federal (PRF).</p>
-<p>Torcedores do Santos, em ao menos seis ?nibus, reduziram a velocidade da rodovia para interceptar o ve?culo do Internacional, que seguia no sentido contr?rio. O motorista do ?nibus colorada tentou recuar, mas colidiu com uma carreta. O ?nibus foi cercado e atacado com pedras, paus, barras de ferro e foguetes, que destru?ram v?rias janelas.</p>
-<p>Seis pessoas ficaram feridas, incluindo um homem atingido na cabe?a por um foguete, al?m de outros com ferimentos causados por estilha?os e agress?es f?sicas. N?o houve mortes. O motorista relatou o cerco e a dificuldade em evitar o ataque, que causou ferimentos em passageiros e nele pr?prio.</p>
-<p>A a??o mobilizou PRF, Pol?cia Militar, Guarda Municipal e apoio a?reo. Dez torcedores do Santos foram levados ? delegacia, sendo nove adultos e um adolescente. Cinco adultos tiveram pris?o preventiva decretada, enquanto os outros quatro e o menor foram liberados.</p>
-<p>O Minist?rio P?blico de Santa Catarina segue investigando os crimes, que incluem tentativa de homic?dio, roubo e dano ao patrim?nio, com base em imagens, depoimentos e documentos coletados pelas for?as de seguran?a.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Golpistas usam CPF e nome para enviar falsas cobran?as da Receita Federal]]></title>
-    <link>https://visornoticias.com.br/golpe-usa-cpf-e-nome-para-criar-falsas-cobrancas-da-receita-federal/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 19:12:57 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313041</guid>
-
-    <description><![CDATA[<p>Criminosos est?o aplicando um golpe que utiliza CPF e nome das v?timas para criar cobran?as falsas em nome da Receita Federal. O golpe envolve o envio de links que imitam o visual do site gov.br, com a inten??o de induzir o pagamento imediato.</p>]]></description>
-    <content:encoded><![CDATA[<p>Criminosos est?o aplicando um golpe que utiliza CPF e nome das v?timas para criar cobran?as falsas em nome da Receita Federal. O golpe envolve o envio de links que imitam o visual do site gov.br, com a inten??o de induzir o pagamento imediato.</p>
-<p>A Receita Federal alerta que n?o envia boletos ou cobran?as por meio de mensagens eletr?nicas, como e-mails ou SMS. O ?rg?o refor?a que os contribuintes devem desconfiar de comunica??es que pe?am pagamento imediato e verificar sempre os canais oficiais.</p>
-<p>Especialistas recomendam n?o clicar em links suspeitos e n?o fornecer dados pessoais ou financeiros em mensagens n?o solicitadas. Caso receba alguma cobran?a duvidosa, o ideal ? buscar confirma??o diretamente nos canais oficiais da Receita Federal.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Banhista de 22 anos ? resgatado ap?s afogamento na Praia Brava, em Itaja?]]></title>
-    <link>https://visornoticias.com.br/banhista-de-22-anos-e-resgatado-apos-afogamento-na-praia-brava-em-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 18:35:38 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313054</guid>
-
-    <description><![CDATA[<p>Um jovem de 22 anos foi resgatado ap?s sofrer um afogamento na Praia Brava, em Itaja?. Ele apresentava espuma na boca, indicativa de afogamento grau 3, e recebeu atendimento imediato dos bombeiros.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um jovem de 22 anos foi resgatado ap?s sofrer um afogamento na Praia Brava, em Itaja?. Ele apresentava espuma na boca, indicativa de afogamento grau 3, e recebeu atendimento imediato dos bombeiros.</p>
-<p>O socorro r?pido foi fundamental para evitar um desfecho mais grave. Os bombeiros prestaram os primeiros cuidados no local antes de encaminhar o banhista para atendimento m?dico.</p>
-<p>As autoridades orientam que os banhistas fiquem atentos ?s condi??es do mar e sigam as recomenda??es de seguran?a para evitar acidentes desse tipo.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Motorista ? preso em Porto Belo ap?s ser flagrado dormindo ao volante sob efeito de ?lcool]]></title>
-    <link>https://visornoticias.com.br/motorista-bebado-e-preso-apos-dormir-ao-volante-em-porto-belo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 18:28:27 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313050</guid>
-
-    <description><![CDATA[<p>Um motorista foi preso em Porto Belo ap?s ser encontrado dormindo ao volante em situa??o de embriaguez. A Guarda Municipal localizou o condutor desorientado dentro do ve?culo.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um motorista foi preso em Porto Belo ap?s ser encontrado dormindo ao volante em situa??o de embriaguez. A Guarda Municipal localizou o condutor desorientado dentro do ve?culo.</p>
-<p>O homem se recusou a realizar o teste do etil?metro, equipamento usado para medir a concentra??o de ?lcool no sangue. A abordagem aconteceu durante fiscaliza??o de rotina na cidade.</p>
-<p>Ap?s a recusa, o motorista foi detido e encaminhado para as autoridades competentes. A a??o refor?a o combate ? dire??o perigosa e o consumo de ?lcool ao volante na regi?o.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Apostador de Santa Catarina ganha mais de R$ 862 mil na Lotof?cil]]></title>
-    <link>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 18:01:24 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313006</guid>
-
-    <description><![CDATA[<p>Uma aposta de Santa Catarina faturou R$ 862.854,50 na Lotof?cil do concurso 3555. O pr?mio foi dividido com outro ganhador de S?o Paulo.</p>]]></description>
-    <content:encoded><![CDATA[<p>Uma aposta de Santa Catarina faturou R$ 862.854,50 na Lotof?cil do concurso 3555. O pr?mio foi dividido com outro ganhador de S?o Paulo.</p>
-<p>O bilhete vencedor acertou todos os n?meros sorteados, garantindo o valor acima. A Lotof?cil ? uma das loterias mais populares do pa?s, com sorteios frequentes e pr?mios altos.</p>
-<p>Os ganhadores podem resgatar os pr?mios nas casas lot?ricas credenciadas ou nas ag?ncias da Caixa Econ?mica Federal, respeitando os prazos legais para saque.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Inc?ndio atinge apartamento no Centro de Balne?rio Cambori?]]></title>
-    <link>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 17:43:54 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313020</guid>
-
-    <description><![CDATA[<p>Um inc?ndio atingiu um apartamento no Centro de Balne?rio Cambori?, causando a evacua??o do pr?dio. As chamas eram vis?veis pelas janelas, mas n?o houve registro de v?timas no local.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um inc?ndio atingiu um apartamento no Centro de Balne?rio Cambori?, causando a evacua??o do pr?dio. As chamas eram vis?veis pelas janelas, mas n?o houve registro de v?timas no local.</p>
-<p>Apesar da r?pida a??o dos bombeiros, dois animais de estima??o que estavam no apartamento seguem desaparecidos. As autoridades continuam as buscas para localiz?-los.</p>
-<p>O incidente mobilizou equipes de emerg?ncia para garantir a seguran?a dos moradores e controlar o fogo. As causas do inc?ndio ainda est?o sendo investigadas.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Piloto brasileiro indica locais seguros para acelerar carros superpotentes]]></title>
-    <link>https://visornoticias.com.br/piloto-brasileiro-explica-onde-e-possivel-acelerar-o-carro-mais-rapido-do-mundo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 17:20:59 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=313009</guid>
-
-    <description><![CDATA[<p>Um piloto brasileiro destacou os locais mais apropriados para acelerar o carro mais r?pido do mundo, evitando riscos em vias p?blicas. Segundo ele, aeroportos e aut?dromos s?o os ambientes indicados para esse tipo de desempenho.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um piloto brasileiro destacou os locais mais apropriados para acelerar o carro mais r?pido do mundo, evitando riscos em vias p?blicas. Segundo ele, aeroportos e aut?dromos s?o os ambientes indicados para esse tipo de desempenho.</p>
-<p>O empres?rio alertou para os perigos de usar supercarros nas ruas, ressaltando que a velocidade extrema exige condi??es controladas para garantir seguran?a. Ele enfatizou a import?ncia de respeitar as leis de tr?nsito e evitar situa??es que possam colocar em risco motoristas e pedestres.</p>
-<p>Dessa forma, o piloto refor?a a necessidade de locais espec?ficos para a pr?tica, onde as caracter?sticas do circuito ou pista permitem explorar a capacidade dos ve?culos sem comprometer a integridade f?sica de terceiros.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Entregador morre ap?s ser atingido por carro de luxo em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/entregador-morre-apos-ser-atingido-por-carro-de-luxo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 17:03:14 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=312988</guid>
-
-    <description><![CDATA[<p>Um entregador morreu ap?s ser atingido por um carro de luxo em Santa Catarina. O motorista, de 25 anos, avan?ou contra barracas e atingiu estabelecimentos no local do acidente.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um entregador morreu ap?s ser atingido por um carro de luxo em Santa Catarina. O motorista, de 25 anos, avan?ou contra barracas e atingiu estabelecimentos no local do acidente.</p>
-<p>O jovem foi preso em flagrante pela pol?cia. A a??o r?pida das autoridades impediu que a situa??o se agravasse ainda mais.</p>
-<p>As circunst?ncias do acidente ainda est?o sendo investigadas para esclarecer as causas que levaram ao avan?o do ve?culo sobre as barracas e o entregador.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Santa Catarina fica em alerta para temporais devido a ciclone extratropical]]></title>
-    <link>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 16:30:56 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=312985</guid>
-
-    <description><![CDATA[<p>Santa Catarina est? em alerta para temporais nos pr?ximos dias, por causa da atua??o de um ciclone extratropical na regi?o. O domingo ter? sol e calor, mas as condi??es mudam a partir de segunda-feira.</p>]]></description>
-    <content:encoded><![CDATA[<p>Santa Catarina est? em alerta para temporais nos pr?ximos dias, por causa da atua??o de um ciclone extratropical na regi?o. O domingo ter? sol e calor, mas as condi??es mudam a partir de segunda-feira.</p>
-<p>Os maiores riscos est?o previstos para segunda e ter?a-feira, quando podem ocorrer alagamentos, ventos fortes e enxurradas. As autoridades recomendam aten??o redobrada e acompanhamento das atualiza??es meteorol?gicas.</p>
-<p>O ciclone deve provocar mudan?as no tempo, elevando o potencial para eventos adversos, especialmente em ?reas mais vulner?veis. O alerta visa preparar a popula??o e minimizar poss?veis transtornos causados pelas condi??es clim?ticas.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Caminh?o pega fogo na Serra Catarinense e bombeiros controlam inc?ndio]]></title>
-    <link>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 15:53:14 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=312980</guid>
-
-    <description><![CDATA[<p>Um caminh?o pegou fogo na Serra Catarinense, mas as chamas foram rapidamente controladas pelos bombeiros. O inc?ndio estava em fase de desenvolvimento completo no momento da chegada da equipe.</p>]]></description>
-    <content:encoded><![CDATA[<p>Um caminh?o pegou fogo na Serra Catarinense, mas as chamas foram rapidamente controladas pelos bombeiros. O inc?ndio estava em fase de desenvolvimento completo no momento da chegada da equipe.</p>
-<p>Felizmente, n?o houve feridos durante o incidente. As causas do fogo ainda n?o foram divulgadas pelas autoridades.</p>
-<p>O trabalho dos bombeiros evitou que as chamas se alastrassem para outras ?reas, garantindo a seguran?a no local. As opera??es foram conclu?das sem maiores complica??es.</p>]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Vila do V?lei anima Itapema durante etapa do Circuito Mundial]]></title>
-    <link>https://visornoticias.com.br/vila-do-volei-movimenta-itapema-com-gastronomia-musica-e-torcida-animada-durante-etapa-do-circuito-mundial/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 06 Dec 2025 15:26:22 GMT</pubDate>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=312977</guid>
-
-    <description><![CDATA[<p>A Vila do V?lei tem movimentado Itapema com atra??es para todas as idades durante a etapa do Circuito Mundial. A arena montada na Meia Praia re?ne p?blico para aproveitar gastronomia, m?sica e uma torcida animada.</p>]]></description>
-    <content:encoded><![CDATA[<p>A Vila do V?lei tem movimentado Itapema com atra??es para todas as idades durante a etapa do Circuito Mundial. A arena montada na Meia Praia re?ne p?blico para aproveitar gastronomia, m?sica e uma torcida animada.</p>
-<p>O evento tem gerado um clima de festa enquanto os competidores se preparam para a grande final, marcada para este domingo. A programa??o inclui atividades que envolvem desde entretenimento at? o incentivo aos atletas.</p>
-<p>Com essa estrutura, a etapa do Circuito Mundial em Itapema atrai visitantes e moradores, promovendo o esporte e a cultura local em um ?nico espa?o. A expectativa ? de que o p?blico continue crescendo at? o encerramento das disputas.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Trabalhador morre ap?s queda do terceiro pavimento em Campos Novos]]></title>
+<link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 16:37:33 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171819</guid>
+<description><![CDATA[<p>Um homem de 37 anos morreu na manh? desta sexta-feira (5) ap?s cair do terceiro pavimento de um edif?cio no Centro de Campos Novos, no Meio-Oeste de Santa Catarina. Ele realizava servi?os de limpeza quando perdeu o equil?brio e despencou.</p>]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
 </channel>
 </rss>
