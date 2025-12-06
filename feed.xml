@@ -1,160 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 06 Dec 2025 18:41:25 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Sat, 06 Dec 2025 18:43:06 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Conflito por cadeira e guarda-sol na Praia dos Ingleses deixa sete feridos e acende alerta em Florianópolis]]></title>
-<link>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 18:16:15 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171827</guid>
-<description><![CDATA[Uma disputa envolvendo um restaurante e um ambulante por uma cadeira e um guarda-sol na Praia dos Ingleses, em Florianópolis, resultou em confronto com sete pessoas feridas, incluindo uma com suspeita de traumatismo craniano que precisou ser remoção aérea.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Jovem é salvo em ato heroico após afogamento na Praia Brava]]></title>
+    <link>https://visornoticias.com.br/banhista-de-22-anos-e-resgatado-apos-afogamento-na-praia-brava-em-itajai/</link>
+    <comments>https://visornoticias.com.br/banhista-de-22-anos-e-resgatado-apos-afogamento-na-praia-brava-em-itajai/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 18:35:38 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313054</guid>
 
-<item>
-<title><![CDATA[Apostador de Santa Catarina conquista prêmio de R$ 862 mil na Lotofácil]]></title>
-<link>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 18:01:24 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313006</guid>
-<description><![CDATA[Bilhete premiado do concurso 3555 da Lotofácil dividiu R$ 1,7 milhão entre um ganhador de Santa Catarina e outro de São Paulo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Banhista de 22 anos é resgatado em Itajaí após incidente grave. Saiba mais sobre o resgate na Praia Brava.]]></description>
+    <content:encoded><![CDATA[<p>Um ato heroico marcou o resgate de um jovem de 22 anos que se afogou na Praia Brava, em Itajaí. O banhista apresentava sinais graves de afogamento, com espuma na boca, indicando um quadro de grau 3. Os bombeiros agiram rapidamente e prestaram atendimento imediato no local.</p><h2>Bombeiros agem com rapidez</h2><p>A rápida ação dos bombeiros foi fundamental para salvar a vida do jovem em meio ao desespero da situação. Com experiência e técnica, a equipe conseguiu resgatar o banhista e prestar os primeiros socorros ainda na praia, estabilizando seu estado de saúde.</p><h2>Alerta para os riscos</h2><p>O incidente serve como alerta para os perigos das praias locais, especialmente em épocas de mar agitado. É essencial que os banhistas estejam atentos aos avisos de sinalização e evitem nadar em locais não supervisionados por salva-vidas.</p><p>A segurança nas praias depende não apenas da atuação dos bombeiros, mas também da conscientização e responsabilidade de cada indivíduo, garantindo momentos de lazer sem colocar a própria vida em risco.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/banhista-de-22-anos-e-resgatado-apos-afogamento-na-praia-brava-em-itajai//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Motorista embriagado é detido após cochilar ao volante em Porto Belo]]></title>
+    <link>https://visornoticias.com.br/motorista-bebado-e-preso-apos-dormir-ao-volante-em-porto-belo/</link>
+    <comments>https://visornoticias.com.br/motorista-bebado-e-preso-apos-dormir-ao-volante-em-porto-belo/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 18:28:27 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313050</guid>
 
-<item>
-<title><![CDATA[Trabalhador morre após queda no centro de Campos Novos (SC)]]></title>
-<link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 16:37:33 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171819</guid>
-<description><![CDATA[Um homem de 37 anos perdeu a vida ao despencar do terceiro andar de um edifício no Centro de Campos Novos, nesta sexta-feira (5), enquanto realizava serviços de limpeza.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Motorista é pego dormindo ao volante e se recusa a fazer teste do bafômetro em Porto Belo. Guarda Municipal atua na ocorrência.]]></description>
+    <content:encoded><![CDATA[<p>Um motorista embriagado foi detido após ser encontrado dormindo ao volante de seu veículo em Porto Belo, Litoral Norte de SC. Na madrugada de ontem, a Guarda Municipal encontrou o condutor desorientado dentro do carro, que se recusou a fazer o teste do etilômetro.</p><h2>Recusa ao teste do bafômetro</h2><p>A Guarda Municipal foi acionada por moradores que viram o veículo parado de forma irregular na via. Ao se aproximarem, os agentes encontraram o motorista dormindo, com sinais de embriaguez. Mesmo diante da solicitação para realizar o teste do bafômetro, o condutor se recusou.</p><h2>Detenção do condutor</h2><p>Diante da recusa, os guardas municipais detiveram o motorista e o encaminharam para a delegacia. O veículo foi removido ao pátio. A ação rápida da Guarda Municipal evitou possíveis acidentes e garantiu a segurança no trânsito da região.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/motorista-bebado-e-preso-apos-dormir-ao-volante-em-porto-belo//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Confusão em Praia de Florianópolis: Ambulante Armado Desencadeia Confronto]]></title>
+    <link>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/</link>
+    <comments>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 18:16:15 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171827</guid>
 
-<item>
-<title><![CDATA[Ciclone extratropical coloca Santa Catarina em alerta para temporais intensos na segunda e terça-feira]]></title>
-<link>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 16:30:56 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=312985</guid>
-<description><![CDATA[Após um domingo de sol e calor, Santa Catarina se prepara para uma mudança brusca no clima: um ciclone extratropical deve provocar temporais, com risco de alagamentos, ventos fortes e enxurradas especialmente entre segunda e terça-feira.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Confronto em praia de Florianópolis deixa sete feridos, um com suspeita de traumatismo. Ambulante armado com faca inicia briga por cadeira e guarda-sol.]]></description>
+    <content:encoded><![CDATA[<p>Uma briga por cadeira e guarda-sol na praia dos Ingleses, em Florianópolis, terminou em confronto violento, deixando sete pessoas machucadas. O incidente teve início quando um ambulante, responsável pelo aluguel das estruturas na praia, ficou irritado ao ver o restaurante colocar os móveis na areia, indo até lá armado com uma faca para ameaçar os funcionários. Para evitar ferimentos, a equipe precisou desarmá-lo.</p><h2>Confronto e Desdobramentos</h2><p>A maioria dos feridos teve apenas escoriações leves, mas um dos envolvidos precisou ser levado de helicóptero ao hospital com suspeita de traumatismo craniano. As partes foram orientadas sobre medidas legais e o restaurante entregou imagens das câmeras de segurança às autoridades. No dia seguinte, um homem voltou ao local com mais pessoas, fazendo novas ameaças e gerando temor no estabelecimento, que relata conflitos anteriores com o mesmo indivíduo.</p><h2>Pedido de Investigação e Segurança</h2><p>O restaurante pede investigação do caso e medidas para evitar novos confrontos na praia dos Ingleses, destacando a presença de fiscais da Prefeitura e agentes da Guarda Municipal durante as ameaças. A situação alerta para a necessidade de garantir a segurança de equipe e clientes em estabelecimentos na região litorânea.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/ambulante-estava-armado-com-faca-afirmam-testemunhas//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Sorte bate à porta de apostador catarinense com prêmio milionário na Lotofácil]]></title>
+    <link>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/</link>
+    <comments>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 18:01:24 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313006</guid>
 
-<item>
-<title><![CDATA[PM prende dois suspeitos de tráfico e apreende mais de 800g de drogas em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/pm-prende-dois-suspeitos-de-trafico-e-apreende-mais-de-800g-de-drogas-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[Pm]]></category>
-<category><![CDATA[Prende]]></category>
-<category><![CDATA[Dois]]></category>
-<category><![CDATA[Suspeitos]]></category>
-<category><![CDATA[Tráfico]]></category>
-<category><![CDATA[Apreende]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 16:28:43 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129284</guid>
-<description><![CDATA[Dois homens foram presos pela Polícia Militar na noite da última quinta-feira, dia 05, por tráfico de drogas na Rua Venezuela, em Balneário Camboriú. A ação policial ocorreu após monitoramento do endereço, identificado como ponto de armazenamento de entorpecentes para tele-entrega.]]></description>
-<content:encoded><![CDATA[<strong>Dois homens foram presos pela Polícia Militar na noite da última quinta-feira, dia 05, por tráfico de drogas na Rua Venezuela, em Balneário Camboriú. A ação policial ocorreu após monitoramento do endereço, identificado como ponto de armazenamento de entorpecentes para tele-entrega. Durante a vigilância, um indivíduo chegou ao local em uma motocicleta e entrou rapidamente na residência. Ele foi abordado momentos depois, na Avenida Martin Luther, com maconha e cocaína embaladas para venda, sendo o suspeito de 36 anos.</strong><br/><br/>Posteriormente, outra equipe policial se dirigiu à casa monitorada, onde encontrou um morador de 41 anos, com antecedentes por tráfico. No imóvel, foram apreendidos 400g de maconha e 478g de cocaína, embaladas de forma semelhante às encontradas com o motociclista. Além das substâncias ilícitas, foram recolhidos R$ 479,90 e 1 dólar, bem como a motocicleta utilizada no esquema, que também foi apreendida. Os dois homens foram encaminhados à Delegacia de Polícia para os procedimentos legais.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Aposta de Santa Catarina ganha mais de R$ 862 mil na Lotofácil, dividindo o prêmio com outro apostador de São Paulo.]]></description>
+    <content:encoded><![CDATA[<p>Um apostador de Santa Catarina teve sua sorte recompensada ao faturar mais de R$ 862 mil na Lotofácil, dividindo o prêmio do concurso 3555 com outro sortudo de São Paulo. O bilhete premiado trouxe alegria e surpresa, mudando a vida do ganhador que viu seu palpite se transformar em uma bolada inesperada.</p><h2>Uma aposta premiada</h2><p>O bilhete vencedor foi o centro das atenções, revelando números que agora representam não apenas uma combinação aleatória, mas sim a chave para uma nova realidade financeira. A emoção de acertar as dezenas sorteadas trouxe alegria e alívio para o sortudo apostador, que agora planeja o futuro com um sorriso no rosto.</p><h2>Compartilhando a felicidade</h2><p>A divisão do prêmio com outro ganhador de São Paulo não diminuiu a felicidade do catarinense, que mesmo tendo que dividir a quantia, ainda viu sua vida ser impactada de forma positiva. A experiência de ganhar na loteria é única e, para esse apostador, certamente inesquecível.</p><p>Que essa reviravolta financeira traga novas oportunidades e momentos de prosperidade para o sortudo apostador catarinense, mostrando que, de fato, a sorte pode bater à nossa porta quando menos esperamos.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/aposta-de-santa-catarina-fatura-mais-de-r-862-mil-na-lotofacil//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Incêndio causa pânico e animais desaparecidos no Centro de Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/</link>
+    <comments>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 17:43:54 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313020</guid>
 
-<item>
-<title><![CDATA[CONDUTOR EMBRIAGADO É PRESO APÓS DORMIR AO VOLANTE]]></title>
-<link>https://horadeportobelo.com.br/2025/12/06/condutor-embriagado-e-preso-apos-dormir-ao-volante/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Condutor]]></category>
-<category><![CDATA[Embriagado]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Preso]]></category>
-<category><![CDATA[Após]]></category>
-<category><![CDATA[Dormir]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 15:53:15 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20252</guid>
-<description><![CDATA[Na madrugada de ontem, dia 05, a Guarda Municipal de Porto Belo foi acionada para prestar apoio à Secretaria de Obras do município. Um funcionário do local relatou que um motorista havia parado seu veículo no canteiro e aparentava estar passando mal, chegando inclusive a dormir ao volante.]]></description>
-<content:encoded><![CDATA[<strong>Na madrugada de ontem, dia 05, a Guarda Municipal de Porto Belo foi acionada para prestar apoio à Secretaria de Obras do município. Um funcionário do local relatou que um motorista havia parado seu veículo no canteiro e aparentava estar passando mal, chegando inclusive a dormir ao volante. Diante disso, uma guarnição deslocou-se até o automóvel e constatou que o condutor apresentava sinais claros de embriaguez, como forte odor etílico, fala arrastada, confusão mental, olhos vermelhos, dificuldade para caminhar e comportamento disperso.</strong><br/><br/>Após a abordagem, foi oferecido ao motorista o teste de etilômetro, porém ele recusou-se a realizar o procedimento. Diante da recusa, foi confeccionado o Auto de Constatação de Sinais de Embriaguez e o condutor foi detido pela Guarda Municipal de Porto Belo. O indivíduo foi então encaminhado à Delegacia de Polícia para os procedimentos legais cabíveis. A ação teve como objetivo garantir a segurança no trânsito e prevenir acidentes decorrentes da combinação de álcool e direção.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Chamas em apartamento provocam evacuação e deixam dois animais sumidos. Moradores em choque relatam momento de terror.]]></description>
+    <content:encoded><![CDATA[<p>Um incêndio de grandes proporções atingiu um apartamento no Centro de Balneário Camboriú, causando pânico entre os moradores e deixando dois animais de estimação desaparecidos. As chamas intensas se alastraram rapidamente, obrigando o prédio a ser evacuado às pressas. Apesar do susto, não houve vítimas humanas no local.</p><h2>Desespero e solidariedade</h2><p>Os relatos dos moradores que presenciaram o incêndio são de desespero e solidariedade. Vizinhos se uniram para ajudar no resgate dos animais domésticos que ainda não foram encontrados. As imagens do fogo consumindo o apartamento impressionaram quem passava pelo local.</p><h2>Investigação em curso</h2><p>Os bombeiros atuaram rapidamente para controlar as chamas e evitar que o fogo se espalhasse para os demais cômodos do prédio. A causa do incêndio ainda é desconhecida e está sendo investigada pelas autoridades competentes.</p><p>Para mais informações, acesse a <a href='https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu/'>matéria original</a>.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/incendio-atinge-apartamento-no-centro-de-balneario-camboriu//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Segredos revelados: onde acelerar o carro mais rápido do mundo com segurança]]></title>
+    <link>https://visornoticias.com.br/piloto-brasileiro-explica-onde-e-possivel-acelerar-o-carro-mais-rapido-do-mundo/</link>
+    <comments>https://visornoticias.com.br/piloto-brasileiro-explica-onde-e-possivel-acelerar-o-carro-mais-rapido-do-mundo/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 17:20:59 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313009</guid>
 
-<item>
-<title><![CDATA[Caminhão pega fogo na Serra Catarinense e bombeiros controlam as chamas sem feridos]]></title>
-<link>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 15:53:14 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=312980</guid>
-<description><![CDATA[Um caminhão foi tomado pelo fogo na Serra Catarinense, mas graças à rápida ação dos bombeiros, as chamas foram controladas rapidamente e ninguém se feriu.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Empresário alerta sobre riscos e aponta locais adequados para supercarros. Descubra onde acelerar com responsabilidade!]]></description>
+    <content:encoded><![CDATA[<p>Empresário brasileiro revela os segredos para acelerar o carro mais rápido do mundo com segurança. Alertando sobre os riscos de utilizar supercarros em vias públicas, ele menciona que aeroportos e autódromos são locais mais apropriados para essa prática. Além de proporcionar mais segurança, esses espaços permitem explorar todo o potencial dos veículos de alta performance.</p><h2>Onde acelerar com responsabilidade</h2><p>Com a popularização de supercarros nas ruas, é fundamental conscientizar os entusiastas sobre a importância de escolher locais apropriados para testar a velocidade desses veículos. O empresário ressalta que, além dos riscos à segurança, acelerar em vias públicas pode resultar em multas e apreensão do veículo.</p><h2>A importância da segurança e do respeito às leis de trânsito</h2><p>Para garantir a segurança de todos e evitar consequências graves, é essencial respeitar as leis de trânsito e buscar locais seguros para acelerar. Os autódromos, por exemplo, oferecem toda a infraestrutura necessária para testar os limites dos supercarros, proporcionando adrenalina de forma controlada e segura.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/piloto-brasileiro-explica-onde-e-possivel-acelerar-o-carro-mais-rapido-do-mundo//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Tragédia: Entregador é fatalmente atingido por carro de luxo em acidente chocante]]></title>
+    <link>https://visornoticias.com.br/entregador-morre-apos-ser-atingido-por-carro-de-luxo/</link>
+    <comments>https://visornoticias.com.br/entregador-morre-apos-ser-atingido-por-carro-de-luxo/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 17:03:14 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=312988</guid>
 
-<item>
-<title><![CDATA[*Escuta, autoconhecimento e metas para 2026 são debatidas em ação voltada às mulheres em Porto Belo*]]></title>
-<link>https://horadeportobelo.com.br/2025/12/06/escuta-autoconhecimento-e-metas-para-2026-sao-debatidas-em-acao-voltada-as-mulheres-em-porto-belo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Região]]></category>
-<category><![CDATA[Escuta]]></category>
-<category><![CDATA[Autoconhecimento]]></category>
-<category><![CDATA[Metas]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Debatidas]]></category>
-<category><![CDATA[Ação]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 15:52:04 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20249</guid>
-<description><![CDATA[O Governo de Porto Belo, por meio da Secretaria de Assistência Social e da Diretoria da Mulher, realizou nesta quarta-feira (4), na orla da praia do Perequê, o encontro de encerramento das atividades de 2025 do projeto “Mateando com as Gurias”. O evento reuniu mulheres para um momento especial de acolhimento, troca e reflexão, com o tema “O que vai nos guiar para 2026?”.]]></description>
-<content:encoded><![CDATA[<strong>O Governo de Porto Belo, por meio da Secretaria de Assistência Social e da Diretoria da Mulher, realizou nesta quarta-feira (4), na orla da praia do Perequê, o encontro de encerramento das atividades de 2025 do projeto “Mateando com as Gurias”. O evento reuniu mulheres para um momento especial de acolhimento, troca e reflexão, com o tema “O que vai nos guiar para 2026?”. A iniciativa teve como objetivo promover uma conversa profunda sobre a importância do autoconhecimento e da escuta ativa para fortalecer as relações interpessoais, visando torná-las mais sólidas, saudáveis e produtivas.</strong><br/><br/>A roda de conversa foi mediada pela Terapeuta Guadalupe Haag, que conduziu o diálogo destacando a relevância de compreender as próprias emoções e necessidades para planejar metas de forma consciente e efetiva. Haag ressaltou como as ações são influenciadas pelo subconsciente, resultado das experiências e mensagens recebidas ao longo da formação pessoal, e como o reconhecimento desses aspectos pode contribuir para mudanças significativas na trajetória das participantes. Durante o encontro, as mulheres foram estimuladas a refletir sobre seus objetivos para o próximo ano, compreendendo que o autoconhecimento e a escuta ativa são ferramentas essenciais para organizar pensamentos, fortalecer vínculos e construir caminhos alinhados às suas expectativas. O Projeto Mateando com as Gurias, desenvolvido pela Diretoria da Mulher do Município de Porto Belo, tem como propósito reunir mulheres para compartilhar experiências e refletir sobre questões do cotidiano em busca do empoderamento feminino.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Entregador falece ao ser atingido por veículo de luxo em acidente grave. Motorista é detido após colisão com barracas e estabelecimentos.]]></description>
+    <content:encoded><![CDATA[<p>Um trágico acidente chocou moradores de uma cidade do Litoral Norte. Um entregador, cuja identidade não foi divulgada, faleceu após ser atingido por um carro de luxo conduzido por um motorista de 25 anos. O condutor foi preso em flagrante logo após o incidente, que ocorreu quando ele avançou contra barracas e atingiu estabelecimentos comerciais.</p><h2>Detalhes do acidente</h2><p>O acidente aconteceu em uma movimentada avenida da cidade, deixando testemunhas em estado de choque. Segundo relatos, o entregador estava realizando uma entrega quando foi surpreendido pelo veículo em alta velocidade, resultando em um impacto violento.</p><p><strong>População em alerta</strong></p><p>A tragédia gerou comoção nas redes sociais, com apelos por justiça e mais segurança no trânsito local. O caso levanta discussões sobre a responsabilidade ao volante e a importância de respeitar as leis de trânsito para evitar novas fatalidades.</p><h2>Consequências legais</h2><p>O motorista envolvido no acidente deve responder por homicídio culposo no trânsito, de acordo com as autoridades locais. A investigação segue em andamento para esclarecer as circunstâncias e apurar eventuais responsabilidades.</p><p>Este triste episódio serve de alerta para a conscientização de motoristas e pedestres sobre a importância da prudência e do respeito mútuo nas vias públicas, visando evitar acidentes e preservar vidas.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/entregador-morre-apos-ser-atingido-por-carro-de-luxo//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Tragédia em Campos Novos: Trabalhador falece ao cair de prédio]]></title>
+    <link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/</link>
+    <comments>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 16:37:33 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171819</guid>
 
-<item>
-<title><![CDATA[Justiça aceita denúncia e torna réu homem acusado de feminicídio na trilha do Matadeiro, Florianópolis]]></title>
-<link>https://jornalrazao.com/justica/justica-aceita-denuncia-e-torna-reu-acusado-de-feminicidio-na-trilha-do-matadeiro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 15:36:26 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171812</guid>
-<description><![CDATA[A Justiça de Santa Catarina tornou réu um homem de 21 anos acusado de feminicídio, estupro e ocultação de cadáver da estudante Catarina Kasten, de 31 anos, morta na Praia do Matadeiro, em Florianópolis. A denúncia, oferecida pelo Ministério Público, aponta que a vítima foi emboscada, violentada e morta por asfixia.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Homem de 37 anos perde a vida em acidente durante serviço de limpeza em edifício. Confira os detalhes da fatalidade em SC.]]></description>
+    <content:encoded><![CDATA[<p>Um trágico acidente chocou Campos Novos, no Meio-Oeste catarinense, com a morte de um trabalhador de 37 anos que caiu do terceiro pavimento de um edifício no Centro da cidade na manhã desta sexta-feira (5).</p><h2>Serviço de limpeza termina em fatalidade</h2><p>O homem realizava atividades de limpeza no prédio quando, infelizmente, perdeu o equilíbrio e despencou entre a calçada e a via pública.</p><h2>Equipes de resgate não puderam evitar o trágico desfecho</h2><p>Apesar do rápido acionamento dos Bombeiros, a vítima foi encontrada sem vida no local, devido a um grave traumatismo craniano provocado pelo impacto da queda.</p><h2>Polícia Científica assume as investigações</h2><p>A área foi isolada para os procedimentos periciais e remoção do corpo pela Polícia Científica, que agora investiga as circunstâncias que levaram a essa triste fatalidade em Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/trabalhador-morre-queda-predio-campos-novos//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Alerta: Santa Catarina sob ameaça de ciclone extratropical e temporais]]></title>
+    <link>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/</link>
+    <comments>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 16:30:56 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=312985</guid>
 
-<item>
-<title><![CDATA[Incêndio provoca evacuação de prédio no Centro de Balneário Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/incendio-provoca-evacuacao-de-predio-no-centro-de-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[apartamento]]></category>
-<category><![CDATA[Incêndio]]></category>
-<category><![CDATA[Provoca]]></category>
-<category><![CDATA[Evacuação]]></category>
-<category><![CDATA[Prédio]]></category>
-<category><![CDATA[Centro]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 14:58:49 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171809</guid>
-<description><![CDATA[Um incêndio em um apartamento no Centro de Balneário Camboriú mobilizou equipes do Corpo de Bombeiros na manhã desta sexta-feira (6). A ocorrência foi registrada às 6h54, após chamas e fumaça serem avistadas saindo pelas janelas do imóvel.]]></description>
-<content:encoded><![CDATA[<strong>Um incêndio em um apartamento no Centro de Balneário Camboriú mobilizou equipes do Corpo de Bombeiros na manhã desta sexta-feira (6). A ocorrência foi registrada às 6h54, após chamas e fumaça serem avistadas saindo pelas janelas do imóvel. Ao chegarem ao local, os bombeiros confirmaram o incêndio, que era visível do lado de fora em duas janelas, indicando queima livre. Inicialmente, havia informações de que uma mulher poderia estar dentro do apartamento, o que levou as equipes a realizarem busca primária, sem encontrar vítimas. Durante o combate ao fogo, foram utilizados sistemas preventivos da própria edificação e reforço hídrico para aumentar a pressão da linha de ataque, empregando cerca de mil litros de água na contenção e rescaldo.</strong><br/><br/>Como medida preventiva, parte do prédio foi evacuada durante a operação, que também incluiu ventilação positiva para dissipar fumaça e gases acumulados após o controle das chamas. A moradora informou ter dois gatos, que não foram localizados após buscas no apartamento. Após a coleta de informações para o informe pericial, o local ficou sob responsabilidade da moradora e da síndica do edifício. O incidente não resultou em vítimas, mas causou a evacuação temporária do prédio. <br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Domingo com sol e calor, porém segunda e terça prometem alagamentos, ventos fortes e enxurradas. Novo ciclone extratropical preocupa Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>Um novo alerta preocupa os catarinenses: a chegada iminente de um ciclone extratropical que pode provocar fortes temporais no estado nos próximos dias. Apesar do domingo ensolarado e quente, a segunda e terça-feira são apontadas como os dias críticos, com risco de alagamentos, ventos intensos e enxurradas em diversas regiões.</p><h2>Ciclone extratropical em Santa Catarina</h2><p>O fenômeno meteorológico, caracterizado pela queda abrupta da pressão atmosférica, já está se formando próximo ao litoral catarinense, aumentando a instabilidade e ameaçando a segurança da população.</p><h2>Prevenção e orientações</h2><p>Diante desse cenário, é imprescindível que a população esteja atenta e tome medidas preventivas, como evitar áreas de risco, reforçar telhados, e em caso de necessidade, buscar abrigo em locais seguros. Além disso, é fundamental acompanhar os comunicados dos órgãos competentes e estar preparado para agir rapidamente em caso de emergência.</p><p>Com a previsão de fortes chuvas e ventos, a recomendação é que as pessoas evitem sair de casa desnecessariamente e redobrem a atenção ao trafegar pelas vias, especialmente em locais suscetíveis a alagamentos e deslizamentos.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/ciclone-extratropical-deixa-santa-catarina-em-alerta-para-temporais-nos-proximos-dias//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Incêndio em caminhão mobiliza Bombeiros na Serra Catarinense]]></title>
+    <link>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/</link>
+    <comments>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 15:53:14 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=312980</guid>
 
+    <description><![CDATA[Bombeiros controlam chamas em caminhão em chamas na Serra Catarinense. Não houve feridos. Saiba mais!]]></description>
+    <content:encoded><![CDATA[<p>Um incêndio de grandes proporções em um caminhão mobilizou o Corpo de Bombeiros na Serra Catarinense. O fato ocorreu recentemente e assustou moradores e motoristas que passavam pela região. As chamas, que estavam em fase avançada de desenvolvimento, foram controladas pelos bombeiros, que agiram rapidamente para evitar uma tragédia.</p><p>Apesar do susto, não houve feridos no incidente. A ação rápida e eficiente dos bombeiros foi fundamental para evitar maiores danos e garantir a segurança de todos os envolvidos. A causa do incêndio ainda será investigada pelas autoridades competentes.</p><h2>Causas de incêndios em veículos</h2><p>Incêndios em veículos, como caminhões, podem ter diversas causas, desde falhas mecânicas até problemas elétricos. É importante estar atento à manutenção preventiva dos veículos, bem como seguir todas as normas de segurança estabelecidas para evitar acidentes desse tipo.</p><p>A comunidade local se mostrou solidária e aliviada por não ter havido vítimas no incidente. A atuação rápida e eficaz dos bombeiros foi fundamental para conter as chamas e garantir a segurança de todos. A população segue atenta e confiante no trabalho dos profissionais responsáveis pela segurança da região.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/caminhao-pega-fogo-em-serra-catarinense-e-bombeiros-controlam-as-chamas//feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
