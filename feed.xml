@@ -1,124 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News</title>
 <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/news-sc-1/</link>
 <description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 06 Dec 2025 15:10:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 16:27:26 GMT</lastBuildDate>
 <language>pt-BR</language>
-
 <item>
-<title><![CDATA[Incêndio provoca evacuação de prédio no Centro de Balneário Camboriú]]></title>
+<title><![CDATA[Incêndio em prédio no Centro de Balneário Camboriú mobiliza bombeiros e causa evacuação]]></title>
 <link>https://jornalrazao.com/seguranca/incendio-provoca-evacuacao-de-predio-no-centro-de-balneario-camboriu/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[apartamento]]></category>
-<category><![CDATA[Incêndio]]></category>
-<category><![CDATA[Provoca]]></category>
-<category><![CDATA[Evacuação]]></category>
-<category><![CDATA[Prédio]]></category>
-<category><![CDATA[Centro]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Sat, 06 Dec 2025 14:58:49 GMT</pubDate>
+<pubDate>Sat, 06 Dec 2025 14:58:49 +0000</pubDate>
 <guid isPermaLink="false">https://jornalrazao.com/?p=171809</guid>
-<description><![CDATA[Um incêndio em um apartamento mobilizou equipes do Corpo de Bombeiros na manhã desta sexta-feira (6) no Centro de Balneário Camboriú. A ocorrência foi registrada às 6h54, após chamas e fumaça serem avistadas saindo pelas janelas do imóvel.]]></description>
-<content:encoded><![CDATA[<strong>Um incêndio em um apartamento mobilizou equipes do Corpo de Bombeiros na manhã desta sexta-feira (6) no Centro de Balneário Camboriú. A ocorrência foi registrada às 6h54, após chamas e fumaça serem avistadas saindo pelas janelas do imóvel. No momento da chegada dos bombeiros, as chamas eram visíveis em duas janelas, indicando queima livre. Havia informações iniciais sugerindo a presença de uma mulher no apartamento, o que motivou as equipes a realizarem uma busca primária, porém, nenhuma vítima foi encontrada.</strong><br/><br/>Durante o combate ao incêndio, foram empregados os sistemas preventivos da própria edificação, juntamente com reforço hídrico para aumentar a pressão da linha de ataque. Aproximadamente mil litros de água foram utilizados para conter o fogo e realizar o rescaldo. Como medida preventiva, parte do prédio foi evacuada. Após o controle das chamas, foi realizada ventilação positiva para dissipar fumaça e gases acumulados. A moradora do apartamento informou ter dois gatos, os quais não foram encontrados após buscas no local. Após a coleta de informações para o informe pericial, a responsabilidade pelo apartamento ficou a cargo da moradora e da síndica. (<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+<description><![CDATA[Um incêndio em um apartamento no Centro de Balneário Camboriú levou à evacuação do prédio na manhã desta sexta-feira (6). As chamas foram avistadas por volta das 6h54 e mobilizaram rapidamente as equipes do Corpo de Bombeiros.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[Incêndio atinge apartamento no Centro de BC e mobiliza Corpo de Bombeiros]]></title>
-<link>https://portalmenina.com.br/incendio-atinge-apartamento-no-centro-de-bc-e-mobiliza-corpo-de-bombeiros/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 14:34:18 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129279</guid>
-<description><![CDATA[Um incêndio atingiu um apartamento localizado no Centro de Balneário Camboriú na manhã deste sábado, 06 de novembro, por volta das 6h54. As chamas e a fumaça foram avistadas do lado externo do prédio, levando terceiros a acionarem o Corpo de Bombeiros.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[‘Todos presos’: justiça nega liberdade para torcedores após ataque em Itapema]]></title>
-<link>https://jornalrazao.com/seguranca/todos-presos-justica-nega-liberdade-para-torcedores-apos-ataque-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 13:33:10 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171802</guid>
-<description><![CDATA[Cinco torcedores do Santos permanecem detidos após terem suas prisões convertidas em preventivas pela Justiça, um dia após o confronto entre integrantes das torcidas de Santos e Internacional na BR-101, em Itapema, no Litoral Norte de Santa Catarina. As audiências de custódia ocorreram nesta sexta-feira (5), e o juízo optou por manter o grupo sob custódia devido aos indícios suficientes dos crimes investigados.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Santa Catarina pode ter três filhos de Bolsonaro na urna em 2026: Flávio, Carlos e Renan]]></title>
-<link>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 12:48:42 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171798</guid>
-<description><![CDATA[Filhos de Bolsonaro podem concorrer em Santa Catarina em 2026Três filhos do ex-presidente Jair Bolsonaro, Flávio, Carlos e Renan, podem estar na disputa eleitoral em Santa Catarina nas eleições de 2026. A possibilidade de uma candidatura conjunta gera expectativa entre os eleitores e analistas polít...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Homem é detido após ameaçar prefeito e secretário durante Mundial de Vôlei de Praia em Itapema]]></title>
-<link>https://jornalrazao.com/seguranca/homem-e-detido-apos-ameacar-prefeito-e-secretario-durante-mundial-de-volei-de-praia-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 11:29:38 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171791</guid>
-<description><![CDATA[Um homem foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, realizado na Rua 307, em Itapema. A ocorrência ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo vários indivíduos em estado de embriaguez.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Polícia Militar flagra homem furtando materiais em obra no Centro de Itajaí]]></title>
+<title><![CDATA[Homem é preso por furto em obra do HEMOSC no Centro de Itajaí]]></title>
 <link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 11:27:34 GMT</pubDate>
+<pubDate>Sat, 06 Dec 2025 11:27:34 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
-<description><![CDATA[Um homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, 06, após ser flagrado furtando materiais e ferramentas de uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. Por volta das 3h, a guarnição foi acionada para verificar a ocorrência e prontamente localizou o suspeito ainda no local.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[Na madrugada deste sábado, 6, a Polícia Militar prendeu um homem de 42 anos em Itajaí por furto de materiais em uma obra do HEMOSC. O incidente ocorreu na Rua Lauro Müller, gerando preocupações sobre a segurança na região.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[Polícia Militar prende homem de 41 anos por tentativa de furto em estacionamento de supermercado em Itajaí]]></title>
+<title><![CDATA[Homem de 41 anos é preso por tentativa de furto em supermercado de Itajaí]]></title>
 <link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 10:19:31 GMT</pubDate>
+<pubDate>Sat, 06 Dec 2025 10:19:31 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
-<description><![CDATA[A Polícia Militar deteve, na tarde desta sexta-feira, 05, um homem de 41 anos sob suspeita de tentativa de furto no estacionamento de um supermercado situado no bairro Fazenda, em Itajaí. O incidente ocorreu por volta das 17h, após a Central Regional de Emergência ser acionada.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[Na tarde desta sexta-feira, 5, a Polícia Militar deteve um homem de 41 anos suspeito de tentativa de furto em um supermercado localizado no bairro Fazenda, em Itajaí. A ação foi desencadeada após o alerta de uma funcionária que estava de folga.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[Sábado será de sol e muita praia em Balneário Camboriú]]></title>
+<title><![CDATA[Sábado ensolarado promete agitar as praias de Balneário Camboriú]]></title>
 <link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 09:55:23 GMT</pubDate>
+<pubDate>Sat, 06 Dec 2025 09:55:23 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
-<description><![CDATA[Balneário Camboriú, neste sábado, terá condições climáticas estáveis e temperaturas elevadas. Segundo dados meteorológicos desta manhã, a temperatura mínima prevista é de 20°C e a máxima pode atingir os 28°C.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[Balneário Camboriú se prepara para um sábado de sol e calor, com temperaturas variando de 20°C a 28°C. A previsão é de um dia perfeito para aproveitar as belezas da região.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[Santa Catarina tem o menor índice de pobreza no Brasil, diz IBGE]]></title>
-<link>https://jornalrazao.com/economia/santa-catarina-tem-o-menor-indice-de-pobreza-no-brasil-diz-ibge/</link>
+<title><![CDATA[Yasmin Fortuna brilha e é vice-campeã no Sul-Americano de Jiu-Jitsu]]></title>
+<link>https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 08:55:15 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171788</guid>
-<description><![CDATA[Santa Catarina registra menor índice de pobreza do Brasil, segundo IBGESanta Catarina se destaca como o estado com a menor taxa de pobreza do Brasil, conforme dados recentes do IBGE. A pesquisa indica uma redução nos índices de pobreza entre 2023 e 2024. Essa melhoria reflete um cenário econômico ma...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<pubDate>Fri, 05 Dec 2025 20:56:02 +0000</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20246</guid>
+<description><![CDATA[A jovem atleta bombinense Yasmin Fortuna, de apenas 16 anos, conquistou o vice-campeonato no Sul-Americano de Jiu-Jitsu, realizado em São Paulo. Representando Bombinhas, a atleta demonstra seu talento e potencial em competições internacionais.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
 <item>
-<title><![CDATA[‘O mais barato de SC’: moradores fazem a limpa em Outlet de móveis em Tijucas]]></title>
-<link>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/</link>
+<title><![CDATA[Guarda Municipal Prende Homens por Atos Obscenos em Porto Belo]]></title>
+<link>https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 05 Dec 2025 23:38:56 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171772</guid>
-<description><![CDATA[A inauguração do Rei do Outlet agitou a sexta-feira (05) em Tijucas, tornando-a um dos dias mais movimentados do comércio local. O novo empreendimento atraiu um grande público desde as primeiras horas, que buscava móveis com descontos agressivos e saiu satisfeito com as oportunidades encontradas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<pubDate>Fri, 05 Dec 2025 19:36:58 +0000</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20243</guid>
+<description><![CDATA[Na tarde de ontem (04), a Guarda Municipal de Porto Belo prendeu dois homens por atos obscenos nas proximidades da Escola Estadual Tiradentes. O caso gerou repercussão entre os moradores da região.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
 </item>
-
+<item>
+<title><![CDATA[Brasil no Grupo C da Copa do Mundo 2026: jogos em Boston, Miami e Nova York]]></title>
+<link>https://portalmenina.com.br/copa-do-mundo-2026-tem-grupos-definidos-brasil-cai-na-chave-c-e-fara-jogos-em-boston-miami-e-nova-york/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 19:26:21 +0000</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129233</guid>
+<description><![CDATA[A Copa do Mundo de 2026 teve seus grupos definidos em sorteio realizado nesta sexta-feira, 5, em Washington D.C. O Brasil, que será um dos favoritos, está na chave C e enfrentará Marrocos, Haiti e Escócia em estádios icônicos dos EUA.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Motociclista é detido após fuga e quase atropela pedestres em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/motociclista-foge-de-abordagem-quase-atropela-pedestres-e-e-detido-com-drogas-em-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 19:24:19 +0000</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129231</guid>
+<description><![CDATA[Na noite de quinta-feira, 4, um motociclista foi preso após tentar fugir de uma abordagem na Avenida Brasil, colocando a vida de pedestres em risco. A ação rápida dos agentes de trânsito garantiu a segurança da região.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Investigação sobre confronto de torcidas na BR-101 em Itapema avança]]></title>
+<link>https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 11:50:05 +0000</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20240</guid>
+<description><![CDATA[A Polícia Civil de Santa Catarina investiga um confronto entre torcidas organizadas ocorrido na manhã de quinta-feira (4) na BR-101, em Itapema. A situação gerou a condução de torcedores à delegacia e prisões por roubo.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Polícia Civil de Itapema apreende Ferrari de R$ 5 milhões em operação conjunta com SP]]></title>
+<link>https://horadeportobelo.com.br/2025/12/04/acao-integrada-policia-civil-de-itapema-cumpre-mandado-em-apoio-a-pc-de-sao-paulo-e-apreende-ferrari-avaliada-em-mais-de-r-5-milhoes/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 04 Dec 2025 09:38:16 +0000</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20234</guid>
+<description><![CDATA[Na tarde desta quarta-feira (03), a Polícia Civil de Itapema cumpriu um mandado de busca e apreensão que resultou na apreensão de uma Ferrari avaliada em mais de R$ 5 milhões, em apoio à Polícia Civil de São Paulo. A ação destaca a colaboração entre as forças de segurança dos dois estados.]]></description>
+<content:encoded><![CDATA[undefined]]></content:encoded>
+</item>
 </channel>
 </rss>
