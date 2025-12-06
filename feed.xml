@@ -1,330 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Notícias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Sat, 06 Dec 2025 13:02:06 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sat, 06 Dec 2025 13:11:03 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 20:56:02 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20246</guid>
+<item>
+<title><![CDATA[Santa Catarina pode ter três filhos de Bolsonaro na urna em 2026: Flávio, Carlos e Renan]]></title>
+<link>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 12:48:42 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171798</guid>
+<description><![CDATA[Filhos de Bolsonaro podem concorrer em Santa Catarina em 2026Três filhos do ex-presidente Jair Bolsonaro, Flávio, Carlos e Renan, podem estar na disputa eleitoral em Santa Catarina nas eleições de 2026. A possibilidade de uma candidatura conjunta gera expectativa entre os eleitores e analistas polít...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Yasmin Fortuna é vice-campeã no Sul-Americano de Jiu-JitsuA atleta Yasmin Fortuna, natural de Bombinhas, conquistou o título de vice-campeã no Sul-Americano de Jiu-Jitsu, realizado recentemente. A competição, que reuniu atletas de diversos países da América do Sul, destacou a performance excepcional...]]></description>
-		<content:encoded><![CDATA[<strong>Yasmin Fortuna é vice-campeã no Sul-Americano de Jiu-Jitsu</strong><br/><br/><strong>A atleta Yasmin Fortuna, natural de Bombinhas, conquistou o título de vice-campeã no Sul-Americano de Jiu-Jitsu, realizado recentemente. A competição, que reuniu atletas de diversos países da América do Sul, destacou a performance excepcional de Yasmin nas categorias em que competiu.</strong><br/><br/><strong>Com uma trajetória marcada por dedicação e disciplina, Yasmin se destacou entre os competidores, mostrando habilidade e técnica nas lutas. Sua participação no evento foi uma oportunidade para representar sua cidade e compartilhar sua paixão pelo esporte com um público maior.</strong><br/><br/>Durante a competição, Yasmin enfrentou adversárias de alto nível, demonstrando não apenas sua capacidade técnica, mas também sua força mental. A atleta, que já possui um histórico de conquistas em campeonatos regionais, agora amplia sua experiência ao competir em uma etapa internacional.<br/><br/>O Sul-Americano de Jiu-Jitsu é um dos eventos mais prestigiados da modalidade, e a performance de Yasmin Fortuna reforça o potencial dos atletas brasileiros no cenário esportivo. A vice-campeã expressou gratidão pelo apoio que recebeu e afirmou estar motivada para continuar treinando e se aprimorando.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Homem é detido após ameaçar prefeito e secretário durante Mundial de Vôlei de Praia em Itapema]]></title>
+<link>https://jornalrazao.com/seguranca/homem-e-detido-apos-ameacar-prefeito-e-secretario-durante-mundial-de-volei-de-praia-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[ameaça]]></category>
+<category><![CDATA[desobediência]]></category>
+<category><![CDATA[Homem]]></category>
+<category><![CDATA[É]]></category>
+<category><![CDATA[Detido]]></category>
+<category><![CDATA[Após]]></category>
+<category><![CDATA[Ameaçar]]></category>
+<category><![CDATA[Prefeito]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Sat, 06 Dec 2025 11:29:38 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171791</guid>
+<description><![CDATA[Um homem foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, realizado na Rua 307, em Itapema. A ocorrência ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo vários indivíduos em estado de embriaguez.]]></description>
+<content:encoded><![CDATA[<strong>Um homem foi detido após causar tumulto e resistir à abordagem da Guarda Municipal durante o Mundial de Vôlei de Praia, realizado na Rua 307, em Itapema. A ocorrência ocorreu na noite do evento, quando a guarnição foi acionada para verificar uma briga envolvendo vários indivíduos em estado de embriaguez. Segundo informações da Guarda Municipal, populares indicaram um grupo que estaria provocando desordem. Durante a tentativa de abordagem, um dos envolvidos desobedeceu às ordens legais, apresentando agressividade, resistência ativa e sinais claros de embriaguez, como fala arrastada, odor etílico e dificuldade para manter o equilíbrio. O homem também proferia xingamentos em meio ao público que acompanhava a competição.</strong><br/><br/>Após ser contido, o indivíduo foi conduzido à Delegacia de Polícia para os procedimentos cabíveis. O prefeito de Itapema, Carlos Alexandre de Souza Ribeiro, relatou à equipe que havia sido ameaçado e ofendido pelo mesmo suspeito, enquanto o secretário de Esportes, Paulo Roberto Camargo, afirmou ter sido empurrado e insultado, manifestando interesse em representar criminalmente. O uso de algemas foi necessário devido à resistência ativa e à tentativa constante de se desvencilhar da intervenção, conforme informado pela Guarda Municipal. Uma testemunha que presenciou o episódio acompanhou o registro para prestar depoimento formal. A atuação da corporação no local visava garantir a ordem pública e a segurança dos participantes e espectadores do evento esportivo. O autor detido possui 48 boletins de ocorrência em seu nome, incluindo registros por lesão corporal, violência doméstica, tráfico de drogas e porte ilegal de arma de fogo.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-	<item>
-		<title><![CDATA[Homens são presos por atos obscenos e vias de fato]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 19:36:58 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20243</guid>
+<item>
+<title><![CDATA[Polícia Militar flagra homem furtando materiais em obra no Centro de Itajaí]]></title>
+<link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 11:27:34 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
+<description><![CDATA[Homem é preso por furto de materiais em obra no Centro de ItajaíUm homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, 6, após ser flagrado furtando materiais e ferramentas em uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. A ação policial ocorreu dur...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[homens são detidos por atos obscenos e vias de fatoNa tarde de ontem (04), a Guarda Municipal de Porto Belo recebeu uma solicitação através da Central de Emergências sobre um incidente envolvendo comportamentos inadequados em via pública. As equipes se deslocaram até o local e realizaram a detenção ...]]></description>
-		<content:encoded><![CDATA[<strong>homens são detidos por atos obscenos e vias de fato</strong><br/><br/><strong>Na tarde de ontem (04), a Guarda Municipal de Porto Belo recebeu uma solicitação através da Central de Emergências sobre um incidente envolvendo comportamentos inadequados em via pública. As equipes se deslocaram até o local e realizaram a detenção de dois homens, que estavam envolvidos em atos obscenos e em uma briga.</strong><br/><br/>Os agentes da Guarda Municipal chegaram rapidamente à área indicada e encontraram os indivíduos em situação de conflito. Além de atos obscenos, os homens estavam se agredindo fisicamente, o que gerou preocupação entre os transeuntes. A situação foi controlada, e os envolvidos foram encaminhados à delegacia para a formalização da ocorrência.<br/><br/>Testemunhas relataram que o comportamento dos homens era inaceitável e que a intervenção da Guarda foi necessária para garantir a segurança de todos. A comunidade local expressou alívio com a ação rápida das autoridades, destacando a importância da presença da Guarda Municipal em situações de risco.<br/><br/>As autoridades continuam a monitorar a região para prevenir novos incidentes e garantir a ordem pública. A Guarda Municipal reforça o compromisso de atuar em situações que coloquem em risco a segurança e o bem-estar da população.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Polícia Militar prende homem de 41 anos por tentativa de furto em estacionamento de supermercado em Itajaí]]></title>
+<link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 10:19:31 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
+<description><![CDATA[Homem é preso por tentativa de furto em supermercado de ItajaíA Polícia Militar deteve um homem de 41 anos na tarde desta sexta-feira, 5, sob a suspeita de tentativa de furto em um estacionamento de supermercado localizado no bairro Fazenda, em Itajaí. A prisão ocorreu por volta das 17h, após o acio...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Polícia civil investiga confronto entre torcidas organizadas na br-101 em itapema]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 11:50:05 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20240</guid>
+<item>
+<title><![CDATA[Sábado será de sol e muita praia em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 09:55:23 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
+<description><![CDATA[Sábado ensolarado e ideal para praia em Balneário CamboriúBalneário Camboriú terá um sábado com clima estável e temperaturas elevadas. A mínima prevista é de 20°C, enquanto a máxima pode chegar aos 28°C, de acordo com informações meteorológicas divulgadas hoje. Com a chegada do fim de semana, a expe...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[polícia civil investiga confronto entre torcidas organizadas na br-101 em itapemaA Polícia Civil de Santa Catarina, por meio da Delegacia de Itapema, está investigando um confronto ocorrido entre torcidas organizadas na BR-101. O incidente deixou várias pessoas feridas e gerou preocupação entre a po...]]></description>
-		<content:encoded><![CDATA[<strong>polícia civil investiga confronto entre torcidas organizadas na br-101 em itapema</strong><br/><br/><strong>A Polícia Civil de Santa Catarina, por meio da Delegacia de Itapema, está investigando um confronto ocorrido entre torcidas organizadas na BR-101. O incidente deixou várias pessoas feridas e gerou preocupação entre a população local.</strong><br/><br/>O confronto, que aconteceu no último fim de semana, envolveu torcedores de diferentes equipes de futebol e resultou em uma série de agressões. A polícia foi acionada para conter a situação e prestou apoio às vítimas. Até o momento, não houve informações sobre detenções.<br/><br/>As autoridades estão analisando imagens de câmeras de segurança da região e coletando depoimentos de testemunhas para identificar os responsáveis pelo tumulto. A investigação visa garantir a segurança dos cidadãos e evitar que episódios semelhantes se repitam no futuro.<br/><br/>A polícia também faz um apelo à comunidade para que colabore com informações que possam ajudar na elucidação do caso. O clima de tensão gerado pelo confronto entre as torcidas organizadas levanta preocupações sobre a segurança em eventos esportivos na região.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Santa Catarina tem o menor índice de pobreza no Brasil, diz IBGE]]></title>
+<link>https://jornalrazao.com/economia/santa-catarina-tem-o-menor-indice-de-pobreza-no-brasil-diz-ibge/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 06 Dec 2025 08:55:15 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171788</guid>
+<description><![CDATA[Santa Catarina registra menor índice de pobreza do Brasil, segundo IBGESanta Catarina se destaca como o estado com a menor taxa de pobreza do Brasil, conforme dados recentes do IBGE. A pesquisa indica uma redução nos índices de pobreza entre 2023 e 2024. Essa melhoria reflete um cenário econômico ma...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Sessão solene encerra legislatura da Câmara Mirim]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/05/sessao-solene-encerra-legislatura-da-camara-mirim/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/05/sessao-solene-encerra-legislatura-da-camara-mirim/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 00:46:04 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20237</guid>
+<item>
+<title><![CDATA[‘O mais barato de SC’: moradores fazem a limpa em Outlet de móveis em Tijucas]]></title>
+<link>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 23:38:56 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171772</guid>
+<description><![CDATA[moradores aproveitam descontos em outlet de móveis em TijucasUm outlet de móveis em Tijucas, Santa Catarina, atraiu a atenção dos moradores com ofertas de até 80% de desconto. A estratégia de permitir que os clientes levem os produtos imediatamente se mostrou eficaz, resultando em um grande moviment...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Câmara Mirim encerra legislatura com sessão soleneA Câmara Mirim realizou uma sessão solene para marcar o encerramento de sua legislatura em 2025. O evento foi uma oportunidade de homenagear profissionais da rede municipal de ensino. Os participantes celebraram as conquistas e o aprendizado adquirid...]]></description>
-		<content:encoded><![CDATA[<strong>Câmara Mirim encerra legislatura com sessão solene</strong><br/><br/><strong>A Câmara Mirim realizou uma sessão solene para marcar o encerramento de sua legislatura em 2025. O evento foi uma oportunidade de homenagear profissionais da rede municipal de ensino. Os participantes celebraram as conquistas e o aprendizado adquiridos ao longo do mandato, destacando a importância da participação juvenil na política local.</strong><br/><br/>Durante a cerimônia, foram entregues homenagens a professores e educadores que se destacaram pelo comprometimento e dedicação ao ensino. Os jovens representantes da Câmara Mirim apresentaram discursos que refletiram sobre suas experiências e o valor da educação em suas vidas.<br/><br/>Além das homenagens, a sessão também contou com a presença de familiares, amigos e autoridades locais, que puderam prestigiar o trabalho dos jovens legisladores. A interação entre os jovens e os convidados trouxe um clima de celebração e reflexão sobre o futuro da educação na cidade.<br/><br/>A Câmara Mirim é uma iniciativa que visa incentivar a participação dos jovens na política e na sociedade, promovendo a formação de cidadãos mais conscientes e engajados. O encerramento da legislatura foi um momento de aprendizado e motivação para os futuros líderes da comunidade.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/05/sessao-solene-encerra-legislatura-da-camara-mirim/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Mulher é esfaqueada na cabeça por moradora de rua ao defender criança em Itajaí]]></title>
+<link>https://jornalrazao.com/seguranca/guarda-municipal-impede-ataque-a-faca-no-centro-de-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 23:27:48 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171774</guid>
+<description><![CDATA[mulher é esfaqueada ao defender criança em ItajaíUma mulher foi esfaqueada na cabeça por uma moradora de rua enquanto tentava proteger uma criança em Itajaí. O incidente ocorreu no centro da cidade e foi contido rapidamente pela Guarda Municipal. A agressora, que possui mais de 30 passagens pela pol...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Ação integrada: polícia civil de itapema cumpre mandado em apoio à pc de são paulo e apreende ferrari avaliada em mais de r$ 5 milhões]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/04/acao-integrada-policia-civil-de-itapema-cumpre-mandado-em-apoio-a-pc-de-sao-paulo-e-apreende-ferrari-avaliada-em-mais-de-r-5-milhoes/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/04/acao-integrada-policia-civil-de-itapema-cumpre-mandado-em-apoio-a-pc-de-sao-paulo-e-apreende-ferrari-avaliada-em-mais-de-r-5-milhoes/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 09:38:16 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20234</guid>
+<item>
+<title><![CDATA[Corpo é encontrado com mãos amarradas e enterrado em ‘cova rasa’ em SC]]></title>
+<link>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 22:22:13 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171768</guid>
+<description><![CDATA[Corpo é encontrado enterrado em cova rasa em Santa CatarinaUm corpo foi descoberto em uma área rural de Santa Catarina, com as mãos amarradas e parcialmente enterrado em uma cova rasa. A descoberta foi feita por um homem que procurava um bezerro na região. Ao notar a terra revirada, ele se aproximou...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Polícia Civil de Itapema apreende Ferrari de R$ 5 milhões em ação integradaA Polícia Civil de Itapema cumpriu um mandado na tarde desta quarta-feira (03) em apoio à Polícia Civil de São Paulo. A ação resultou na apreensão de uma Ferrari avaliada em mais de R$ 5 milhões.O cumprimento do mandado faz p...]]></description>
-		<content:encoded><![CDATA[<strong>Polícia Civil de Itapema apreende Ferrari de R$ 5 milhões em ação integrada</strong><br/><br/><strong>A Polícia Civil de Itapema cumpriu um mandado na tarde desta quarta-feira (03) em apoio à Polícia Civil de São Paulo. A ação resultou na apreensão de uma Ferrari avaliada em mais de R$ 5 milhões.</strong><br/><br/><strong>O cumprimento do mandado faz parte de uma operação integrada entre as forças policiais, visando combater crimes relacionados ao tráfico de drogas e lavagem de dinheiro. A apreensão do veículo luxuoso está ligada a investigações em andamento que envolvem organizações criminosas.</strong><br/><br/>Durante a ação, os policiais realizaram a verificação de documentos e a inspeção do veículo, que estava em uma propriedade na cidade. A Ferrari, que chama atenção pelo seu alto valor, será submetida a perícia e poderá ser utilizada como prova nas investigações.<br/><br/>As autoridades destacam a importância da colaboração entre diferentes unidades da polícia para o sucesso de operações desse tipo. A ação reflete o comprometimento das forças de segurança em desmantelar redes criminosas e garantir a ordem pública.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/04/acao-integrada-policia-civil-de-itapema-cumpre-mandado-em-apoio-a-pc-de-sao-paulo-e-apreende-ferrari-avaliada-em-mais-de-r-5-milhoes/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Após mais de 30 anos, ‘terrenos intocáveis’ em Porto Belo e Itapema vão virar prédios de luxo]]></title>
+<link>https://jornalrazao.com/economia/apos-mais-de-30-anos-terrenos-intocaveis-em-porto-belo-e-itapema-vao-virar-predios-de-luxo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 05 Dec 2025 21:12:46 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171766</guid>
+<description><![CDATA[Terrenos históricos em Porto Belo e Itapema serão transformados em empreendimentos de luxoTerrenos que permaneceram sem desenvolvimento por mais de 30 anos em Itapema e Porto Belo agora estão prontos para receber novos empreendimentos imobiliários. A transformação é resultado de uma operação liderad...]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Som&Sol encerra o ano com edição especial em Tijucas neste domingo]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/04/somsol-encerra-o-ano-com-edicao-especial-em-tijucas-neste-domingo/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/04/somsol-encerra-o-ano-com-edicao-especial-em-tijucas-neste-domingo/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 09:26:42 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20231</guid>
-
-		<description><![CDATA[Som&Sol encerra o ano com edição especial em TijucasO projeto Som&Sol realiza sua edição especial neste domingo em Tijucas, marcando o fechamento de mais um ano de atividades. Com oito anos de história, o evento tem percorrido diversas cidades do estado, promovendo uma celebração da música e da cult...]]></description>
-		<content:encoded><![CDATA[<strong>Som&Sol encerra o ano com edição especial em Tijucas</strong><br/><br/><strong>O projeto Som&Sol realiza sua edição especial neste domingo em Tijucas, marcando o fechamento de mais um ano de atividades. Com oito anos de história, o evento tem percorrido diversas cidades do estado, promovendo uma celebração da música e da cultura local.</strong><br/><br/><strong>A programação promete atrações diversificadas, com apresentações de artistas regionais e uma atmosfera festiva que visa reunir a comunidade. O evento é uma oportunidade para os moradores e visitantes apreciarem performances ao vivo em um ambiente descontraído.</strong><br/><br/>Durante sua trajetória, o Som&Sol se tornou um espaço importante para a divulgação de talentos locais e para o fortalecimento da cultura regional. A iniciativa busca incentivar o envolvimento da população com a arte, criando um espaço de convivência e troca cultural.<br/><br/>Com a edição especial em Tijucas, o projeto reafirma seu compromisso de valorizar a música e as tradições locais, além de proporcionar momentos de lazer e entretenimento para todas as idades. Os organizadores esperam um grande público para celebrar o encerramento do ano.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/04/somsol-encerra-o-ano-com-edicao-especial-em-tijucas-neste-domingo/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Certificação das turmas de vela infantil reúne 12 alunos em Porto Belo]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/02/certificacao-das-turmas-de-vela-infantil-reune-12-alunos-em-porto-belo/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/02/certificacao-das-turmas-de-vela-infantil-reune-12-alunos-em-porto-belo/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 23:50:24 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20226</guid>
-
-		<description><![CDATA[Cerimônia de certificação das turmas de vela infantil acontece em Porto BeloNa última sexta-feira (28), Porto Belo sediou a cerimônia de certificação das turmas de vela infantil, que contou com a participação de 12 alunos. O evento destacou o aprendizado e a dedicação das crianças ao longo do curso,...]]></description>
-		<content:encoded><![CDATA[<strong>Cerimônia de certificação das turmas de vela infantil acontece em Porto Belo</strong><br/><br/><strong>Na última sexta-feira (28), Porto Belo sediou a cerimônia de certificação das turmas de vela infantil, que contou com a participação de 12 alunos. O evento destacou o aprendizado e a dedicação das crianças ao longo do curso, promovendo a prática de esportes náuticos na região.</strong><br/><br/>Durante a cerimônia, os alunos receberam certificados que reconhecem sua participação e progresso nas atividades de vela. O evento foi uma oportunidade para celebrar as conquistas dos jovens navegadores e incentivar a continuidade da prática esportiva.<br/><br/>A cerimônia também contou com a presença de familiares, que puderam prestigiar o esforço e a determinação das crianças. A realização de atividades como essa visa não apenas a formação de habilidades náuticas, mas também a promoção de valores como disciplina e trabalho em equipe.<br/><br/>Os organizadores destacaram a importância da vela como atividade que proporciona aprendizado e diversão, além de contribuir para o desenvolvimento pessoal dos jovens. A expectativa é que mais crianças se interessem pela prática nos próximos anos, fortalecendo a cultura náutica em Porto Belo.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/02/certificacao-das-turmas-de-vela-infantil-reune-12-alunos-em-porto-belo/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Porto Belo conquista 35 medalhas no Jiu-Jitsu e encerra temporada com destaque internacional]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/02/porto-belo-conquista-35-medalhas-no-jiu-jitsu-e-encerra-temporada-com-destaque-internacional/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/02/porto-belo-conquista-35-medalhas-no-jiu-jitsu-e-encerra-temporada-com-destaque-internacional/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 23:41:41 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20220</guid>
-
-		<description><![CDATA[Porto Belo conquista 35 medalhas no Jiu-Jitsu e encerra temporada em grande estiloA equipe de Jiu-Jitsu de Porto Belo, sob a liderança do Sensei Leandro Loss, finalizou suas atividades da temporada com uma impressionante conquista de 35 medalhas em competições nacionais e internacionais. O desempenh...]]></description>
-		<content:encoded><![CDATA[<strong>Porto Belo conquista 35 medalhas no Jiu-Jitsu e encerra temporada em grande estilo</strong><br/><br/><strong>A equipe de Jiu-Jitsu de Porto Belo, sob a liderança do Sensei Leandro Loss, finalizou suas atividades da temporada com uma impressionante conquista de 35 medalhas em competições nacionais e internacionais. O desempenho dos atletas destacou-se em diversos torneios, refletindo o trabalho árduo e a dedicação ao longo do ano.</strong><br/><br/>Os integrantes da equipe mostraram grande habilidade e determinação, competindo em várias categorias e faixas etárias. A preparação intensa e o comprometimento dos atletas foram fundamentais para o sucesso alcançado. O Sensei Leandro Loss ressaltou a importância do apoio da comunidade e dos familiares, que incentivaram os competidores durante todo o processo.<br/><br/>Além das medalhas conquistadas, a equipe de Porto Belo ganhou visibilidade no cenário do Jiu-Jitsu, atraindo a atenção de treinadores e atletas de outras regiões. Esse reconhecimento é um reflexo do esforço coletivo e da busca pela excelência nas artes marciais.<br/><br/>Com o encerramento da temporada, os atletas já se preparam para os desafios do próximo ano, com o objetivo de continuar representando a cidade e buscando novas conquistas. A equipe espera manter o alto nível de desempenho e ampliar sua participação em competições futuras.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/02/porto-belo-conquista-35-medalhas-no-jiu-jitsu-e-encerra-temporada-com-destaque-internacional/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Câmara debate situação de comunidades terapêuticas em Porto Belo]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/02/camara-debate-situacao-de-comunidades-terapeuticas-em-porto-belo/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/02/camara-debate-situacao-de-comunidades-terapeuticas-em-porto-belo/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 17:38:55 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20217</guid>
-
-		<description><![CDATA[Câmara discute a situação de comunidades terapêuticas em Porto BeloNa tarde de sexta-feira, a Câmara Municipal de Porto Belo promoveu um debate sobre a situação das comunidades terapêuticas na região. O encontro foi motivado por preocupações recentes de moradores em relação a fugas de internos desse...]]></description>
-		<content:encoded><![CDATA[<strong>Câmara discute a situação de comunidades terapêuticas em Porto Belo</strong><br/><br/><strong>Na tarde de sexta-feira, a Câmara Municipal de Porto Belo promoveu um debate sobre a situação das comunidades terapêuticas na região. O encontro foi motivado por preocupações recentes de moradores em relação a fugas de internos desses estabelecimentos. Os vereadores ouviram relatos de vizinhos que se sentiram inseguros devido a esses incidentes, ressaltando a necessidade de um acompanhamento mais rigoroso das instituições.</strong><br/><br/>Durante a reunião, foram analisadas as implicações sociais e de segurança que as comunidades terapêuticas trazem para o entorno. Os vereadores discutiram possíveis medidas que poderiam ser adotadas para garantir a segurança dos moradores e a eficácia do tratamento dos internos. Além disso, foi enfatizada a importância de um diálogo aberto entre as comunidades e as instituições.<br/><br/>Os representantes das comunidades terapêuticas também foram convidados a participar do debate, mas não compareceram. A ausência gerou críticas e levantou questões sobre a transparência e a responsabilidade das instituições em relação à segurança pública.<br/><br/>Ao final da reunião, os vereadores se comprometeram a buscar soluções que envolvam tanto a proteção dos moradores quanto o apoio necessário para os indivíduos em tratamento. O tema continuará a ser debatido em futuras sessões da Câmara.<br/><br/>Fonte: horadeportobelo.com.br]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/02/camara-debate-situacao-de-comunidades-terapeuticas-em-porto-belo/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Polícia Militar flagra homem furtando materiais em obra no Centro de Itajaí]]></title>
-		<link>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/</link>
-		<comments>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 11:27:34 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129276</guid>
-
-		<description><![CDATA[Homem é preso por furto de materiais em obra no Centro de ItajaíUm homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, 6, após ser flagrado furtando materiais e ferramentas em uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. A ação policial ocorreu dur...]]></description>
-		<content:encoded><![CDATA[<strong>Homem é preso por furto de materiais em obra no Centro de Itajaí</strong><br/><br/><strong>Um homem de 42 anos foi detido pela Polícia Militar na madrugada deste sábado, 6, após ser flagrado furtando materiais e ferramentas em uma obra do HEMOSC, localizada na Rua Lauro Müller, no Centro de Itajaí. A ação policial ocorreu durante um patrulhamento de rotina na área, onde os agentes perceberam a movimentação suspeita do indivíduo.</strong><br/><br/>A abordagem ao suspeito resultou na apreensão de diversos itens que haviam sido retirados do local da obra. A Polícia Militar informou que o homem não tinha permissão para estar no local e não apresentou justificativa plausível para a posse dos materiais.<br/><br/>Após a detenção, o homem foi encaminhado à delegacia, onde foi registrado o boletim de ocorrência. A Polícia Civil dará seguimento às investigações para apurar se há outros envolvidos no crime e se o suspeito possui antecedentes criminais.<br/><br/>A ação rápida da Polícia Militar foi elogiada pela comunidade, que se sente mais segura com a presença da corporação nas ruas. Casos como esse ressaltam a importância do patrulhamento e da vigilância nas áreas urbanas.<br/><br/>Fonte: portalmenina.com.br]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/policia-militar-flagra-homem-furtando-materiais-em-obra-no-centro-de-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Polícia Militar prende homem de 41 anos por tentativa de furto em estacionamento de supermercado em Itajaí]]></title>
-		<link>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/</link>
-		<comments>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 10:19:31 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129273</guid>
-
-		<description><![CDATA[Homem é preso por tentativa de furto em supermercado de ItajaíA Polícia Militar deteve um homem de 41 anos na tarde desta sexta-feira, 5, sob a suspeita de tentativa de furto em um estacionamento de supermercado localizado no bairro Fazenda, em Itajaí. A prisão ocorreu por volta das 17h, após o acio...]]></description>
-		<content:encoded><![CDATA[<strong>Homem é preso por tentativa de furto em supermercado de Itajaí</strong><br/><br/><strong>A Polícia Militar deteve um homem de 41 anos na tarde desta sexta-feira, 5, sob a suspeita de tentativa de furto em um estacionamento de supermercado localizado no bairro Fazenda, em Itajaí. A prisão ocorreu por volta das 17h, após o acionamento da Central Regional de Emergência.</strong><br/><br/>De acordo com informações da polícia, o suspeito foi flagrado em atitude suspeita por um funcionário do estabelecimento, que imediatamente comunicou a situação às autoridades. A equipe da Polícia Militar chegou rapidamente ao local e, ao abordar o homem, encontrou itens que indicavam a intenção de furto.<br/><br/>Durante a abordagem, o homem não ofereceu resistência e foi encaminhado à delegacia para prestar esclarecimentos. A polícia ressaltou a importância da colaboração da população em situações como essa, onde a vigilância e a comunicação podem evitar crimes.<br/><br/>O suspeito permanece detido enquanto as investigações prosseguem. A Polícia Militar reforçou seu compromisso com a segurança da comunidade e a importância de ações preventivas para coibir delitos em áreas comerciais.<br/><br/>Fonte: portalmenina.com.br]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/policia-militar-prende-homem-de-41-anos-por-tentativa-de-furto-em-estacionamento-de-supermercado-em-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Sábado será de sol e muita praia em Balneário Camboriú]]></title>
-		<link>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/</link>
-		<comments>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 09:55:23 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129269</guid>
-
-		<description><![CDATA[Sábado ensolarado e ideal para praia em Balneário CamboriúBalneário Camboriú terá um sábado com clima estável e temperaturas elevadas. A mínima prevista é de 20°C, enquanto a máxima pode chegar aos 28°C, de acordo com informações meteorológicas divulgadas hoje. Com a chegada do fim de semana, a expe...]]></description>
-		<content:encoded><![CDATA[<strong>Sábado ensolarado e ideal para praia em Balneário Camboriú</strong><br/><br/><strong>Balneário Camboriú terá um sábado com clima estável e temperaturas elevadas. A mínima prevista é de 20°C, enquanto a máxima pode chegar aos 28°C, de acordo com informações meteorológicas divulgadas hoje. Com a chegada do fim de semana, a expectativa é que moradores e turistas aproveitem o sol nas praias da região.</strong><br/><br/>Neste sábado, as condições climáticas favoráveis prometem atrair muitos visitantes para o litoral. As praias de Balneário Camboriú são conhecidas pela beleza e infraestrutura, oferecendo diversas opções de lazer e entretenimento. Com o tempo ensolarado, a expectativa é de que a movimentação nas areias e no mar seja intensa.<br/><br/>Além das altas temperaturas, a umidade do ar deve permanecer em níveis confortáveis, contribuindo para um dia agradável ao ar livre. Os comerciantes locais também se preparam para atender ao aumento no fluxo de pessoas, oferecendo produtos e serviços variados para quem busca aproveitar o dia.<br/><br/>Os frequentadores das praias devem se atentar à importância da proteção solar, garantindo que a diversão não resulte em desconfortos. Com a previsão de um dia ensolarado, a recomendação é que todos se hidratem e utilizem protetor solar para aproveitar o sábado de forma segura.<br/><br/>Fonte: portalmenina.com.br]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/sabado-sera-de-sol-e-muita-praia-em-balneario-camboriu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[“Ou você aceita, ou está fora”: funcionários do Hospital Ruth Cardoso protestam contra transição e reclamam de falta de informações e redução salarial]]></title>
-		<link>https://portalmenina.com.br/funcionarios-do-hospital-ruth-cardoso-protestam-contra-transicao-e-reclamam-de-falta-de-informacoes-e-reducao-salarial/</link>
-		<comments>https://portalmenina.com.br/funcionarios-do-hospital-ruth-cardoso-protestam-contra-transicao-e-reclamam-de-falta-de-informacoes-e-reducao-salarial/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 19:39:31 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129225</guid>
-
-		<description><![CDATA[Funcionários do Hospital Ruth Cardoso protestam por transparência na transição de gestãoNa tarde desta sexta-feira, 5, trabalhadores do Hospital Municipal Ruth Cardoso, em Balneário Camboriú, realizaram uma manifestação pacífica em busca de mais informações sobre a transição da gestão da unidade. O ...]]></description>
-		<content:encoded><![CDATA[<strong>Funcionários do Hospital Ruth Cardoso protestam por transparência na transição de gestão</strong><br/><br/><strong>Na tarde desta sexta-feira, 5, trabalhadores do Hospital Municipal Ruth Cardoso, em Balneário Camboriú, realizaram uma manifestação pacífica em busca de mais informações sobre a transição da gestão da unidade. O hospital, que atualmente é administrado pelo município, será gerido pelo Estado por meio da Organização da Sociedade Civil (OSC) Viva Rio.</strong><br/><br/><strong>Os funcionários expressaram suas preocupações em relação à falta de clareza no processo e à possibilidade de redução salarial. Durante o ato, os manifestantes pediram garantias sobre suas condições de trabalho e a manutenção de seus direitos.</strong><br/><br/>O protesto reuniu diversas categorias de trabalhadores, que levantaram cartazes e entoaram gritos de ordem em frente ao hospital. Os funcionários destacaram que a mudança na gestão pode afetar diretamente a qualidade do atendimento à população e a segurança dos profissionais que atuam na unidade.<br/><br/>Além das questões salariais, os manifestantes ressaltaram a importância de uma comunicação aberta entre os gestores e os trabalhadores, para que todos possam entender as implicações da transição e participar ativamente nas decisões que impactam suas vidas profissionais.<br/><br/>A manifestação ocorreu de forma tranquila, mas os trabalhadores afirmaram que continuarão mobilizados até que suas demandas sejam atendidas.<br/><br/>Fonte: portalmenina.com.br]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/funcionarios-do-hospital-ruth-cardoso-protestam-contra-transicao-e-reclamam-de-falta-de-informacoes-e-reducao-salarial/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Motociclista foge de abordagem, quase atropela pedestres e é detido com drogas em Balneário Camboriú]]></title>
-		<link>https://portalmenina.com.br/motociclista-foge-de-abordagem-quase-atropela-pedestres-e-e-detido-com-drogas-em-balneario-camboriu/</link>
-		<comments>https://portalmenina.com.br/motociclista-foge-de-abordagem-quase-atropela-pedestres-e-e-detido-com-drogas-em-balneario-camboriu/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 19:24:19 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129231</guid>
-
-		<description><![CDATA[Motociclista é detido após fuga e quase atropela pedestres em Balneário CamboriúUm motociclista foi detido na noite de quinta-feira, 4, após ser perseguido por agentes de trânsito na Avenida Brasil, em Balneário Camboriú. De acordo com as autoridades, o condutor de uma Honda/CBX Twister se evadiu du...]]></description>
-		<content:encoded><![CDATA[<strong>Motociclista é detido após fuga e quase atropela pedestres em Balneário Camboriú</strong><br/><br/><strong>Um motociclista foi detido na noite de quinta-feira, 4, após ser perseguido por agentes de trânsito na Avenida Brasil, em Balneário Camboriú. De acordo com as autoridades, o condutor de uma Honda/CBX Twister se evadiu durante uma abordagem e, em sua fuga, quase atropelou pedestres que estavam na calçada.</strong><br/><br/><strong>A perseguição teve início quando os agentes tentaram realizar a abordagem do motociclista, que não atendeu ao sinal de parada.</strong> Durante a fuga, o condutor demonstrou comportamento imprudente, colocando em risco a vida de pedestres e outros motoristas na via.<br/><br/>Após alguns minutos de perseguição, o motociclista foi finalmente detido. Durante a abordagem, os agentes encontraram drogas em sua posse, o que agravou ainda mais a situação. O indivíduo foi levado para a delegacia, onde prestou esclarecimentos sobre os fatos.<br/><br/>A ação dos agentes de trânsito foi elogiada pela rapidez e eficiência em evitar que a situação se tornasse ainda mais grave. O caso serve como um alerta sobre os perigos da condução imprudente e a importância da obediência às normas de trânsito.<br/><br/>Fonte: portalmenina.com.br]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/motociclista-foge-de-abordagem-quase-atropela-pedestres-e-e-detido-com-drogas-em-balneario-camboriu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Santa Catarina pode ter três filhos de Bolsonaro na urna em 2026: Flávio, Carlos e Renan]]></title>
-		<link>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/</link>
-		<comments>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 12:48:42 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171798</guid>
-
-		<description><![CDATA[Filhos de Bolsonaro podem concorrer em Santa Catarina em 2026Três filhos do ex-presidente Jair Bolsonaro, Flávio, Carlos e Renan, podem estar na disputa eleitoral em Santa Catarina nas eleições de 2026. A possibilidade de uma candidatura conjunta gera expectativa entre os eleitores e analistas polít...]]></description>
-		<content:encoded><![CDATA[<strong>Filhos de Bolsonaro podem concorrer em Santa Catarina em 2026</strong><br/><br/><strong>Três filhos do ex-presidente Jair Bolsonaro, Flávio, Carlos e Renan, podem estar na disputa eleitoral em Santa Catarina nas eleições de 2026. A possibilidade de uma candidatura conjunta gera expectativa entre os eleitores e analistas políticos.</strong><br/><br/><strong>A presença dos filhos na urna pode influenciar o cenário político do estado, que tem se mostrado um terreno fértil para propostas conservadoras e alinhadas ao legado da família Bolsonaro.</strong><br/><br/>Com o crescimento do apoio a pautas ligadas à direita, a estratégia de candidaturas familiares pode ser vista como uma tentativa de manter a relevância política da família na região. Flávio e Carlos, já com experiência em cargos públicos, têm se destacado na política nacional, enquanto Renan busca consolidar sua imagem no cenário político.<br/><br/>Além disso, a união dos três nas eleições pode mobilizar uma base de eleitores que se identifica com os valores defendidos pelo ex-presidente. A presença deles nas urnas poderá impactar a dinâmica eleitoral em Santa Catarina, que já tem um histórico de apoio a candidatos com essa linha política.<br/><br/>As movimentações em torno das candidaturas ainda estão em fase inicial, mas a expectativa é que nos próximos meses mais informações sobre as estratégias e planos dos candidatos sejam divulgadas, oferecendo um panorama mais claro sobre o que os eleitores podem esperar para 2026.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/politica/santa-catarina-pode-ter-tres-filhos-de-bolsonaro-na-urna-em-2026-flavio-carlos-e-renan/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Santa Catarina tem o menor índice de pobreza no Brasil, diz IBGE]]></title>
-		<link>https://jornalrazao.com/economia/santa-catarina-tem-o-menor-indice-de-pobreza-no-brasil-diz-ibge/</link>
-		<comments>https://jornalrazao.com/economia/santa-catarina-tem-o-menor-indice-de-pobreza-no-brasil-diz-ibge/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 08:55:15 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171788</guid>
-
-		<description><![CDATA[Santa Catarina registra menor índice de pobreza do Brasil, segundo IBGESanta Catarina se destaca como o estado com a menor taxa de pobreza do Brasil, conforme dados recentes do IBGE. A pesquisa indica uma redução nos índices de pobreza entre 2023 e 2024. Essa melhoria reflete um cenário econômico ma...]]></description>
-		<content:encoded><![CDATA[<strong>Santa Catarina registra menor índice de pobreza do Brasil, segundo IBGE</strong><br/><br/><strong>Santa Catarina se destaca como o estado com a menor taxa de pobreza do Brasil, conforme dados recentes do IBGE. A pesquisa indica uma redução nos índices de pobreza entre 2023 e 2024. Essa melhoria reflete um cenário econômico mais favorável e políticas sociais que têm sido efetivas na região.</strong><br/><br/>De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), a taxa de pobreza em Santa Catarina caiu consideravelmente, destacando-se em comparação a outros estados. Essa diminuição representa um avanço significativo na qualidade de vida da população, que tem acesso a melhores condições econômicas e sociais.<br/><br/>Além disso, o levantamento aponta que a redução da pobreza está relacionada a fatores como o aumento da renda média e a geração de empregos. Os dados mostram que mais cidadãos estão conseguindo superar a linha da pobreza, o que contribui para uma maior estabilidade econômica no estado.<br/><br/>As autoridades locais têm adotado diversas iniciativas para manter e ampliar essa tendência positiva, promovendo programas de inclusão social e capacitação profissional. Essas ações visam não apenas combater a pobreza, mas também proporcionar oportunidades de desenvolvimento para a população.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/economia/santa-catarina-tem-o-menor-indice-de-pobreza-no-brasil-diz-ibge/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[‘O mais barato de SC’: moradores fazem a limpa em Outlet de móveis em Tijucas]]></title>
-		<link>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/</link>
-		<comments>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 23:38:56 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171772</guid>
-
-		<description><![CDATA[moradores aproveitam descontos em outlet de móveis em TijucasUm outlet de móveis em Tijucas, Santa Catarina, atraiu a atenção dos moradores com ofertas de até 80% de desconto. A estratégia de permitir que os clientes levem os produtos imediatamente se mostrou eficaz, resultando em um grande moviment...]]></description>
-		<content:encoded><![CDATA[<strong>moradores aproveitam descontos em outlet de móveis em Tijucas</strong><br/><br/><strong>Um outlet de móveis em Tijucas, Santa Catarina, atraiu a atenção dos moradores com ofertas de até 80% de desconto. A estratégia de permitir que os clientes levem os produtos imediatamente se mostrou eficaz, resultando em um grande movimento no local.</strong><br/><br/><strong>Os consumidores, em busca de economia, rapidamente começaram a adquirir os itens disponíveis, demonstrando um interesse significativo nas promoções oferecidas. A iniciativa, que visa facilitar o acesso a móveis de qualidade a preços reduzidos, tem sido bem recebida pela comunidade.</strong><br/><br/>Com a proposta de oferecer preços acessíveis e a possibilidade de retirada imediata, o outlet se consolidou como uma opção atrativa para quem deseja renovar a decoração de casa sem comprometer o orçamento. A movimentação intensa no local reflete a demanda por produtos de qualidade a preços competitivos.<br/><br/>Além disso, a ação tem gerado um efeito positivo na economia local, com um aumento no fluxo de clientes e na interação entre os comerciantes e a população. A combinação de descontos expressivos e a conveniência na compra tem atraído cada vez mais pessoas em busca de oportunidades únicas.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/economia/moradores-fazem-a-limpa-em-outlet-de-moveis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Mulher é esfaqueada na cabeça por moradora de rua ao defender criança em Itajaí]]></title>
-		<link>https://jornalrazao.com/seguranca/guarda-municipal-impede-ataque-a-faca-no-centro-de-itajai/</link>
-		<comments>https://jornalrazao.com/seguranca/guarda-municipal-impede-ataque-a-faca-no-centro-de-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 23:27:48 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171774</guid>
-
-		<description><![CDATA[mulher é esfaqueada ao defender criança em ItajaíUma mulher foi esfaqueada na cabeça por uma moradora de rua enquanto tentava proteger uma criança em Itajaí. O incidente ocorreu no centro da cidade e foi contido rapidamente pela Guarda Municipal. A agressora, que possui mais de 30 passagens pela pol...]]></description>
-		<content:encoded><![CDATA[<strong>mulher é esfaqueada ao defender criança em Itajaí</strong><br/><br/><strong>Uma mulher foi esfaqueada na cabeça por uma moradora de rua enquanto tentava proteger uma criança em Itajaí. O incidente ocorreu no centro da cidade e foi contido rapidamente pela Guarda Municipal. A agressora, que possui mais de 30 passagens pela polícia, foi contida antes que a situação se agravasse.</strong><br/><br/>O ataque gerou preocupação entre os moradores da região, que relataram um aumento na violência nas ruas. A Guarda Municipal destacou a importância de agir rapidamente para evitar consequências mais graves. A mulher ferida foi atendida e encaminhada para um hospital local, onde recebeu os cuidados necessários.<br/><br/>A situação evidencia a complexidade dos problemas sociais enfrentados na cidade, incluindo questões relacionadas à segurança pública e à população em situação de rua. Moradores pedem mais atenção das autoridades para garantir a segurança de todos, especialmente das crianças.<br/><br/>A Guarda Municipal afirmou que continuará a monitorar a área e a atuar de forma preventiva para evitar novos incidentes. A população também é incentivada a denunciar situações suspeitas e colaborar com as forças de segurança.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/guarda-municipal-impede-ataque-a-faca-no-centro-de-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Corpo é encontrado com mãos amarradas e enterrado em ‘cova rasa’ em SC]]></title>
-		<link>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/</link>
-		<comments>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 22:22:13 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171768</guid>
-
-		<description><![CDATA[Corpo é encontrado enterrado em cova rasa em Santa CatarinaUm corpo foi descoberto em uma área rural de Santa Catarina, com as mãos amarradas e parcialmente enterrado em uma cova rasa. A descoberta foi feita por um homem que procurava um bezerro na região. Ao notar a terra revirada, ele se aproximou...]]></description>
-		<content:encoded><![CDATA[<strong>Corpo é encontrado enterrado em cova rasa em Santa Catarina</strong><br/><br/><strong>Um corpo foi descoberto em uma área rural de Santa Catarina, com as mãos amarradas e parcialmente enterrado em uma cova rasa. A descoberta foi feita por um homem que procurava um bezerro na região. Ao notar a terra revirada, ele se aproximou e identificou o que parecia ser um cadáver, acionando as autoridades para investigar o caso.</strong><br/><br/>A Polícia Civil foi chamada ao local para realizar a perícia e coletar informações sobre a identidade da vítima. As primeiras análises indicam que o corpo pode estar em estado avançado de decomposição, o que dificultará a identificação imediata. As autoridades estão trabalhando para desvendar as circunstâncias em que a morte ocorreu.<br/><br/>O local do achado foi isolado para preservar as evidências e facilitar o trabalho da equipe de investigação. A polícia também está em busca de informações que possam levar à identificação do corpo e ao esclarecimento do crime.<br/><br/>As autoridades pedem que qualquer pessoa que tenha informações sobre a situação entre em contato para auxiliar nas investigações. O caso é tratado com seriedade, e novas atualizações devem ser divulgadas à medida que os trabalhos avançam.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/corpo-e-encontrado-com-maos-amarradas-e-enterrado/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Após mais de 30 anos, ‘terrenos intocáveis’ em Porto Belo e Itapema vão virar prédios de luxo]]></title>
-		<link>https://jornalrazao.com/economia/apos-mais-de-30-anos-terrenos-intocaveis-em-porto-belo-e-itapema-vao-virar-predios-de-luxo/</link>
-		<comments>https://jornalrazao.com/economia/apos-mais-de-30-anos-terrenos-intocaveis-em-porto-belo-e-itapema-vao-virar-predios-de-luxo/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 21:12:46 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=171766</guid>
-
-		<description><![CDATA[Terrenos históricos em Porto Belo e Itapema serão transformados em empreendimentos de luxoTerrenos que permaneceram sem desenvolvimento por mais de 30 anos em Itapema e Porto Belo agora estão prontos para receber novos empreendimentos imobiliários. A transformação é resultado de uma operação liderad...]]></description>
-		<content:encoded><![CDATA[<strong>Terrenos históricos em Porto Belo e Itapema serão transformados em empreendimentos de luxo</strong><br/><br/><strong>Terrenos que permaneceram sem desenvolvimento por mais de 30 anos em Itapema e Porto Belo agora estão prontos para receber novos empreendimentos imobiliários. A transformação é resultado de uma operação liderada pela Verve Negócios em parceria com a LWM Participações.</strong><br/><br/><strong>A iniciativa visa a construção de prédios de luxo, aproveitando a localização privilegiada dessas áreas, que são altamente valorizadas no mercado imobiliário.</strong><br/><br/>Os terrenos, que estavam em uma situação de impasse por décadas, agora poderão ser utilizados para atender à demanda crescente por imóveis de alto padrão na região. A expectativa é que os novos empreendimentos atraiam tanto investidores quanto moradores interessados em viver em áreas nobres e com infraestrutura adequada.<br/><br/>Com o avanço dessa operação, Porto Belo e Itapema se preparam para um novo capítulo em seu desenvolvimento urbano, que pode impactar positivamente a economia local. A construção desses prédios de luxo promete não apenas gerar empregos, mas também revitalizar a área, trazendo novos serviços e comércio.<br/><br/>A transformação desses terrenos representa uma mudança significativa no cenário imobiliário da região, que se destaca pela beleza natural e potencial turístico. O projeto é visto como uma oportunidade para modernizar a infraestrutura urbana e atender às necessidades de um público exigente.<br/><br/>Fonte: jornalrazao.com]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/economia/apos-mais-de-30-anos-terrenos-intocaveis-em-porto-belo-e-itapema-vao-virar-predios-de-luxo/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-	</channel>
+</channel>
 </rss>
