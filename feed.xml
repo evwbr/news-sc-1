@@ -1,124 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 19:10:42 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 19:23:37 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Resenha FC levanta a taça do Campeonato Municipal de Futebol de Campo de Porto Belo]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/resenha-fc-levanta-a-taca-do-campeonato-municipal-de-futebol-de-campo-de-porto-belo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Região]]></category>
-<category><![CDATA[Resenha]]></category>
-<category><![CDATA[Fc]]></category>
-<category><![CDATA[Levanta]]></category>
-<category><![CDATA[Taça]]></category>
-<category><![CDATA[Campeonato]]></category>
-<category><![CDATA[Municipal]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 19:08:12 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20279</guid>
-<description><![CDATA[O Campo do Vila Nova, em Porto Belo, foi palco de uma final emocionante do Campeonato Municipal de Futebol de Campo no último domingo (07). Com um sol forte e uma torcida animada, o Resenha FC e o Santa Cruz protagonizaram um jogo eletrizante que terminou em 2 a 2 no tempo regulamentar.]]></description>
-<content:encoded><![CDATA[<strong>O Campo do Vila Nova, em Porto Belo, foi palco de uma final emocionante do Campeonato Municipal de Futebol de Campo no último domingo (07). Com um sol forte e uma torcida animada, o Resenha FC e o Santa Cruz protagonizaram um jogo eletrizante que terminou em 2 a 2 no tempo regulamentar. Após uma disputa emocionante de pênaltis, o Resenha FC sagrou-se campeão ao vencer por 5 a 4, demonstrando garra e tradição no esporte local.</strong><br/><br/>A partida decisiva foi marcada pelo equilíbrio e intensidade dos dois times, que jogaram com determinação e talento, honrando a tradição esportiva de Porto Belo. A vitória do Resenha FC não apenas garantiu o título, mas também consolidou o trabalho contínuo realizado com os atletas, colocando o time mais uma vez na história do futebol da cidade. Além disso, o jogo pelo terceiro lugar entre Real Betis e Retex também movimentou o público presente, com o Real Betis vencendo por 4 a 1 e encerrando sua participação de forma espetacular. O Campeonato Municipal, que contou com a participação de 10 times, foi organizado pelo Governo Municipal por meio da Fundação de Esportes, mantendo viva a tradição esportiva local. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[EDITAL PLATAFORMA]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/edital-plataforma-55/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 18:54:20 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20276</guid>
-<description><![CDATA[A plataforma Hora de Porto Belo divulgou um edital em sua postagem mais recente. O conteúdo foi publicado sem maiores detalhes sobre o assunto, deixando os leitores curiosos sobre o que está sendo anunciado.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[“Apaixonada por artes marciais”: jovem morre ao tentar desviar de carro de autoescola em Itajaí]]></title>
+    <link>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 17:46:51 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171998</guid>
 
-<item>
-<title><![CDATA[Confusão após bola atingir criança termina em tumulto em Porto Belo]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/confusao-apos-bola-atingir-crianca-termina-em-tumulto-em-porto-belo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:54:28 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20267</guid>
-<description><![CDATA[Uma briga envolvendo várias pessoas causou tumulto no píer de Porto Belo no final da tarde de domingo. A Guarda Municipal foi acionada por volta das 17h24 para intervir na situação, após receber informações sobre uma grande aglomeração e confronto entre os presentes.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma jovem apaixonada por artes marciais perde a vida ao tentar desviar de um carro de autoescola em Itajaí.]]></description>
+    <content:encoded><![CDATA[<p>A notícia da trágica morte da jovem abalou profundamente a comunidade de Itajaí, principalmente os adeptos das artes marciais. O acidente ocorreu quando a vítima, identificada como Júlia Fernanda, tentou desviar de um carro de autoescola, resultando em uma colisão fatal entre a motocicleta que ela pilotava e uma carreta.</p>
 
-<item>
-<title><![CDATA[Conserto emergencial deixa Bairro das Nações sem água nesta segunda]]></title>
-<link>https://portalmenina.com.br/conserto-emergencial-deixa-bairro-das-nacoes-sem-agua-nesta-segunda-feira/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:50:48 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129424</guid>
-<description><![CDATA[O Bairro das Nações, em Balneário Camboriú, teve seu abastecimento de água interrompido na manhã desta segunda-feira, 8, devido a um rompimento na rede, conforme informado pela Empresa Municipal de Água e Saneamento (Emasa). O incidente ocorreu durante uma manutenção de ramal de esgoto na Rua Israel, realizada pela empresa Ambiental, resultando no dano à tubulação de água e exigindo intervenção imediata das equipes da Emasa para o reparo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>Júlia era conhecida por sua paixão pelas artes marciais e era uma figura querida no meio esportivo local. Sua morte prematura deixou familiares, amigos e colegas consternados, repercutindo não apenas no círculo esportivo, mas em toda a cidade.</p>
 
-<item>
-<title><![CDATA[?Apaixonada por artes marciais?: jovem morre ao tentar desviar de carro de autoescola em Itaja?]]></title>
-<link>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:46:51 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171998</guid>
-<description><![CDATA[Uma jovem apaixonada por artes marciais perdeu a vida ao tentar desviar de um carro de autoescola em Itaja?.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>O trágico acidente serve como um alerta para a importância da prudência e atenção no trânsito, destacando a fragilidade da vida e como um momento de distração pode resultar em consequências irreversíveis. A perda de Júlia Fernanda deixa um vazio na comunidade de Itajaí e ressalta a necessidade de conscientização e respeito no compartilhamento das vias públicas.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[‘Cadeirada nas costas e bambuzada’: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
+    <link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171992</guid>
 
-<item>
-<title><![CDATA[Balneário Camboriú registra aumento nas abordagens sociais e soma 1.872 atendimentos em novembro]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-registra-aumento-nas-abordagens-sociais-e-soma-1-872-atendimentos-em-novembro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:33:10 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129420</guid>
-<description><![CDATA[A Secretaria de Assistência Social, Mulher e Família divulgou nesta segunda-feira, 8, um relatório que aponta 1.872 abordagens sociais realizadas em Balneário Camboriú durante o mês de novembro. Esse número representa um aumento de 13,3% em comparação ao mês anterior.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma briga generalizada em uma praia de Porto Belo mobilizou a Guarda Municipal, que precisou intervir em meio a ânimos inflamados.]]></description>
+    <content:encoded><![CDATA[<p>A Guarda Municipal de Porto Belo foi acionada para conter uma briga generalizada em uma praia da região. Ao chegarem no local, os agentes se depararam com uma cena caótica, com diversas pessoas gritando, apontando e até tentando reatar as brigas mesmo com a presença das viaturas. Segundo relatos, houve até mesmo agressões com cadeiras e bambus, evidenciando a gravidade da situação.</p>
 
-<item>
-<title><![CDATA[‘Cadeirada nas costas e bambuzada’: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
-<link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171992</guid>
-<description><![CDATA[Na tarde de ontem, uma situação de caos tomou conta do Centro de Porto Belo, em Santa Catarina. O motivo foi uma briga generalizada que eclodiu próximo ao píer, reunindo cerca de 30 pessoas em um confronto que rapidamente saiu de controle.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>A confusão chamou a atenção dos banhistas que aproveitavam o dia de sol na praia, que ficaram assustados com a cena de violência. A Guarda Municipal agiu rapidamente para conter os ânimos exaltados e restabelecer a ordem no local, evitando que a situação saísse ainda mais do controle.</p>
 
-<item>
-<title><![CDATA[Claudir Maciel recebe título de Cidadão Honorário e destaca trajetória em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/claudir-maciel-recebe-titulo-de-cidadao-honorario-e-destaca-trajetoria-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:17:59 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129395</guid>
-<description><![CDATA[O secretário da Pessoa Idosa de Balneário Camboriú, Claudir Maciel, foi homenageado com o título de Cidadão Honorário pela Câmara de Vereadores, em reconhecimento à sua trajetória pessoal e pública no município. A entrega do título ocorreu durante cerimônia realizada na última quinta-feira (15), na sede da Câmara Municipal.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>A segurança e tranquilidade dos frequentadores da praia foram restabelecidas após a intervenção da Guarda Municipal, que conseguiu dispersar os envolvidos na briga e evitar que novos confrontos ocorressem. As autoridades locais estão investigando as causas do incidente e tomando as medidas cabíveis para garantir a segurança da população.</p>
 
-<item>
-<title><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></title>
-<link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171986</guid>
-<description><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes Em meio às festas de fim de ano, período em que o fluxo de turistas aumenta de forma significativa no Litoral Norte de Santa Catarina, o Jornal Razão reforça sua iniciativa de transparência e vigilância pública ao divulgar a lista completa de criminosos foragidos da Justiça nas cidades onde o veículo atua. A ação busca ampliar a segurança da população e facilitar o acesso aos dados oficiais do Banco Nacional de Mandados de Prisão.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>A ocorrência serve como alerta para a importância de manter a civilidade e o respeito mútuo em locais públicos, para evitar situações de violência e conflito que podem prejudicar a todos. A atuação rápida e eficaz da Guarda Municipal foi fundamental para evitar maiores consequências e garantir a paz na praia de Porto Belo.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></title>
+    <link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
 
-<item>
-<title><![CDATA[Balne?rio Cambori? tem 170 criminosos foragidos da Justi?a; saiba os nomes]]></title>
-<link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
-<description><![CDATA[Balne?rio Cambori? registra 170 criminosos foragidos da Justi?a, conforme levantamento do Bnmp.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></description>
+    <content:encoded><![CDATA[<p>Foragidos da Comarca de Balneário Camboriú somam 170 nomes únicos, conforme dados do Bnmp. Esses indivíduos fazem parte de uma iniciativa de transparência e segurança pública, visando manter a população informada sobre a presença desses criminosos na região. A divulgação desses nomes é de extrema importância para a comunidade, permitindo que as pessoas estejam cientes e possam colaborar com as autoridades na busca e captura desses fugitivos. A transparência nesse sentido é fundamental para garantir a segurança de todos e fortalecer a atuação da justiça no combate à criminalidade.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
+    <link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
 
+    <description><![CDATA[Santa Catarina enfrenta um cenário de extremo perigo devido a um ciclone atípico que tem gerado alertas vermelhos em várias regiões do estado. Além do risco de tornados e ventos com velocidades acima de 100 km/h, a previsão também aponta para chuvas intensas.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina enfrenta um cenário de extremo perigo devido a um ciclone atípico que tem gerado alertas vermelhos em várias regiões do estado. Além do risco de tornados e ventos com velocidades acima de 100 km/h, a previsão também aponta para chuvas intensas.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Formada em nutrição, gaúcha morre aos 42 anos em SC após sofrer infarto fulminante]]></title>
+    <link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
+
+    <description><![CDATA[Uma nutricionista gaúcha, de 42 anos, faleceu em Santa Catarina após um infarto fulminante, deixando familiares e amigos enlutados.]]></description>
+    <content:encoded><![CDATA[<p>A comunidade do Litoral Norte de Santa Catarina foi surpreendida com a triste notícia do falecimento de uma nutricionista gaúcha de 42 anos. A profissional, bastante querida por todos, veio a óbito após sofrer um infarto fulminante. Sua morte repentina deixou sua filha, familiares e amigos em luto.</p>
+
+<p>A vítima, formada em nutrição, era reconhecida não apenas pelo seu trabalho na área, mas também pela sua simpatia e carisma. Sua partida precoce gerou comoção entre aqueles que a conheciam, ressaltando a importância de cuidar da saúde e estar atento aos sinais que o corpo pode enviar.</p>
+
+<p>O infarto fulminante, que ocorreu no estado de Santa Catarina, serve como alerta para a necessidade de prevenção e cuidado com a saúde cardiovascular. A perda da nutricionista gaúcha é um lembrete da fragilidade da vida e da importância de valorizarmos cada momento ao lado daqueles que amamos.</p>
+
+<p>Neste momento de dor e saudade, a comunidade se une em solidariedade à família e amigos da nutricionista, relembrando sua dedicação à profissão e seu legado de carinho e amizade. Que sua memória seja sempre lembrada com carinho e gratidão por todos que tiveram o privilégio de conhecê-la.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Nota de falecimento de Otilía Margarida Mendes]]></title>
+    <link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171975</guid>
+
+    <description><![CDATA[Com pesar, a SC Funerária de Tijucas e o comunicam o falecimento de Otilía Margarida Mendes, aos 93 anos.]]></description>
+    <content:encoded><![CDATA[<p>A SC Funerária de Tijucas e o lamentam informar o falecimento de Otilía Margarida Mendes, aos 93 anos, ocorrido nesta segunda-feira (8). Nascida em 6 de outubro de 1932, ela deixa cinco filhos, quinze netos, dezesseis bisnetos, além de outros familiares e amigos que se entristecem com sua partida. A notícia do óbito da senhora Mendes é recebida com consternação pela comunidade local, que reconhece a importância de sua trajetória e legado deixado para as gerações posteriores. A cerimônia fúnebre está em andamento, com familiares e amigos prestando as últimas homenagens à querida Otilía.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Condutora de moto morre em grave acidente com caminhão em Itajaí]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
+
+    <description><![CDATA[Uma jovem motociclista veio a óbito após se envolver em uma colisão com uma carreta em Itajaí.]]></description>
+    <content:encoded><![CDATA[<p>A tragédia ocorreu em Itajaí, quando a condutora da motocicleta colidiu com um caminhão, resultando em sua morte. A vítima, uma jovem que não teve sua identidade revelada, não resistiu aos ferimentos e veio a óbito no local do acidente. As circunstâncias que levaram à colisão ainda estão sendo investigadas pelas autoridades competentes.</p>
+
+<p>O acidente, que envolveu uma moto e uma carreta, causou comoção na região e levantou questões sobre a segurança no trânsito. A importância de respeitar as leis de trânsito e manter a atenção constante ao dirigir são pontos que ganham destaque diante de tragédias como essa, que ceifam vidas de forma abrupta.</p>
+
+<p>A fatalidade serve como alerta para a necessidade de conscientização e prudência por parte de todos os condutores, a fim de evitar acidentes e preservar vidas. A comunidade local lamenta a perda da jovem motociclista e espera que medidas sejam tomadas para prevenir que novas tragédias como essa ocorram no futuro.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Porto Belo tem 51 criminosos foragidos da justiça; saiba quem são]]></title>
+    <link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
+
+    <description><![CDATA[Porto Belo conta com 51 criminosos foragidos da justiça, conforme dados do Bnmp, que agora fazem parte de uma lista pública divulgada.]]></description>
+    <content:encoded><![CDATA[<p>Porto Belo, cidade localizada no Litoral Norte de Santa Catarina, está enfrentando um desafio preocupante em relação à segurança pública. De acordo com informações do Banco Nacional de Mandados de Prisão (Bnmp), o município registra a presença de 51 criminosos foragidos da justiça. Esses indivíduos, que tiveram seus nomes confirmados, agora fazem parte de uma lista pública divulgada, em uma iniciativa de transparência e segurança para a população local.</p>
+
+<p>A divulgação desses dados visa alertar a comunidade sobre a presença desses criminosos e incentivar a colaboração na identificação e captura dos mesmos. A integração desses foragidos na lista pública do é mais uma medida para fortalecer a segurança e a transparência no município, possibilitando que a população saiba quem são essas pessoas e possa contribuir com informações que auxiliem as autoridades competentes.</p>
+
+<p>É fundamental que a população de Porto Belo esteja ciente dessa situação e colabore com as autoridades, denunciando qualquer informação relevante que possa levar à captura desses criminosos. A segurança pública é um direito de todos e a união da comunidade com as forças de segurança é essencial para garantir um ambiente mais seguro e tranquilo para todos os cidadãos.</p>
+
+<p>Diante desse cenário, a divulgação desses nomes foragidos da justiça é um passo importante para conscientizar a população sobre a importância da colaboração e do engajamento de todos na construção de uma sociedade mais segura e justa. A transparência e a divulgação dessas informações são medidas fundamentais para fortalecer o combate à criminalidade e garantir a paz e a ordem no município de Porto Belo.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[‘Senti algo duro’: mãe deixa ex dormir em sua casa e filha é abusada, em Florianópolis]]></title>
+    <link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
+
+    <description><![CDATA[Um homem foi preso em Concórdia, suspeito de estupro de vulnerável, após uma criança ser vítima do crime em Florianópolis.]]></description>
+    <content:encoded><![CDATA[<p>A Polícia Militar prendeu Dirceu Ribeiro em Concórdia, acusado de abusar de uma criança, desencadeando uma operação que envolveu equipes de várias regiões de Santa Catarina. O caso veio à tona quando a vítima, uma menor, foi atendida no Hospital Infantil Joana Gusmão, na capital catarinense, e os profissionais de saúde constataram indícios do abuso. Segundo as investigações, a mãe da criança teria permitido que seu ex-companheiro dormisse em sua casa, resultando no trágico episódio. A prisão do suspeito aconteceu em decorrência de um mandado expedido pela Justiça. Este caso reforça a importância da conscientização sobre a proteção de crianças e adolescentes, bem como a necessidade de vigilância e cuidado ao permitir a presença de terceiros no ambiente familiar.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Itapema tem 43 criminosos foragidos da justiça; veja quem são]]></title>
+    <link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171957</guid>
+
+    <description><![CDATA[Itapema conta com 43 criminosos foragidos da justiça, cujos nomes agora fazem parte da lista pública do em uma ação de transparência e segurança.]]></description>
+    <content:encoded><![CDATA[<p>No município de Itapema, localizado no litoral norte de Santa Catarina, foi divulgado que 43 criminosos estão foragidos da justiça, conforme dados do Bnmp. Esses nomes foram disponibilizados publicamente, em uma iniciativa que visa promover transparência e segurança para a população. A divulgação dessas informações tem como objetivo alertar a comunidade sobre a presença desses indivíduos que estão em situação irregular perante a lei, contribuindo para a prevenção de crimes e o fortalecimento da segurança pública local. Diante disso, a identificação e captura desses foragidos torna-se uma prioridade, visando garantir a ordem e a tranquilidade na região. É fundamental que a população esteja ciente da presença desses criminosos em liberdade, para que possa colaborar com as autoridades no sentido de coibir a prática de delitos e garantir a proteção de todos os cidadãos. A divulgação dessas informações representa um passo importante no combate à criminalidade e na promoção de um ambiente mais seguro e justo para a comunidade de Itapema.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
