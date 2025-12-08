@@ -1,157 +1,1137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 11:31:25 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 11:31:56 +0000</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Novo parque nacional será criado com área de 32 mil hectares entre dois estados]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313411</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:12:47 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313411</guid>
-<description><![CDATA[Um projeto para a criação de um parque nacional que abrange 32 mil hectares entre dois estados foi apresentado recentemente.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <image>
+    <url>https://evwbr.github.io/news-sc-1/logo-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[Tragédia no interior de Camboriú: dois homens morrem atropelados por UTV]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Baln. Camboriú]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Tragédia]]></category>
-<category><![CDATA[Interior]]></category>
-<category><![CDATA[Dois]]></category>
-<category><![CDATA[Homens]]></category>
-<category><![CDATA[Morrem]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 11:03:39 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
-<description><![CDATA[Dois homens, tio e sobrinho, perderam a vida em um trágico acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú. Os trabalhadores temporários, recém-chegados à região para atuar na construção de uma residência próxima, foram atingidos por um UTV, veículo off-road do tipo "gaiola".]]></description>
-<content:encoded><![CDATA[<strong>Dois homens, tio e sobrinho, perderam a vida em um trágico acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú. Os trabalhadores temporários, recém-chegados à região para atuar na construção de uma residência próxima, foram atingidos por um UTV, veículo off-road do tipo "gaiola". O Corpo de Bombeiros foi acionado por volta das 20h20, porém as vítimas faleceram no local do acidente.</strong><br/><br/>O UTV, descrito como um modelo moderno e potente, foi abandonado pelo condutor após o impacto, que fugiu sem prestar socorro. Moradores locais relataram que as vítimas não eram da região e estavam prestando serviços na obra. A Polícia Civil já está investigando o caso e busca identificar o responsável pelo veículo. O UTV foi apreendido para perícia, que auxiliará na elucidação dos fatos que resultaram na fatalidade.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Esbarrão em bar resulta na morte de um jovem de 21 anos em Itajaí; vítima teria tentado invadir uma casa após a briga]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129347</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:29:44 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129347</guid>
+    <description><![CDATA[Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará,...]]></description>
+    <content:encoded><![CDATA[<p>Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará,...</p>
+<p><p>Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará, foi atingido por golpes de faca, não resistiu aos ferimentos e morreu no local. Outra vítima, também ferida pelos golpes, foi encaminhada ao hospital em estado estável.</p>
 
-<item>
-<title><![CDATA[Dois homens são atropelados por buggy e morrem na Estrada Geral do Braço, em Camboriú; condutor fugiu do local]]></title>
-<link>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Comunidade]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Dois]]></category>
-<category><![CDATA[Homens]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Atropelados]]></category>
-<category><![CDATA[Buggy]]></category>
-<category><![CDATA[Morrem]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 10:59:48 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
-<description><![CDATA[Um atropelamento ocorrido por volta das 22h do último domingo, dia 7, resultou na morte de um tio e seu sobrinho na Estrada Geral do Braço, em Camboriú. De acordo com relatos iniciais, os dois homens foram atingidos por um buggy Can-Am Maverick enquanto caminhavam, sendo que o condutor do veículo evadiu-se do local sem prestar socorro às vítimas.]]></description>
-<content:encoded><![CDATA[<strong>Um atropelamento ocorrido por volta das 22h do último domingo, dia 7, resultou na morte de um tio e seu sobrinho na Estrada Geral do Braço, em Camboriú. De acordo com relatos iniciais, os dois homens foram atingidos por um buggy Can-Am Maverick enquanto caminhavam, sendo que o condutor do veículo evadiu-se do local sem prestar socorro às vítimas. A identidade das vítimas não foi revelada e a Polícia Militar ainda não forneceu detalhes sobre o incidente.</strong><br/><br/>Testemunhas oculares afirmam que as vítimas seriam de fora da cidade, com alguns relatos indicando São Paulo como possível local de origem. Contudo, essa informação não foi confirmada pelas autoridades competentes. Não há informações oficiais sobre as circunstâncias do acidente nem sobre o atendimento prestado pelas equipes de socorro. Vídeos que circulam nas redes sociais mostram o veículo envolvido no atropelamento com danos visíveis, enquanto moradores da região alertam para a frequente passagem de veículos desse tipo em alta velocidade na área.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
 
-<item>
-<title><![CDATA[Briga entre grupos em Brusque e Itajaí termina com jovem morto a facadas]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313409</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:45:44 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
-<description><![CDATA[Um jovem de 21 anos morreu após dois confrontos entre grupos em Brusque e Itajaí. A ocorrência envolveu troca de agressões e perícia em veículo relacionado ao caso.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
 
-<item>
-<title><![CDATA[Cantor Mauri Lima morre em acidente na BR-116]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313405</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:01:19 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313405</guid>
-<description><![CDATA[Um acidente envolvendo três veículos na BR-116 resultou na morte do cantor Mauri Lima, irmão da dupla Chitãozinho e Xororó. O acidente também deixou outras duas pessoas mortas e seis feridas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<ul class="wp-block-list">
+<li><strong><a href="https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
 
-<item>
-<title><![CDATA[Mensagem do Dia – 08/12/2025]]></title>
-<link>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Mensagem do Dia]]></category>
-<category><![CDATA[Mensagem do DIa]]></category>
-<category><![CDATA[portal menina]]></category>
-<category><![CDATA[Mensagem]]></category>
-<category><![CDATA[Dia]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 09:31:03 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129337</guid>
-<description><![CDATA[Um acidente envolvendo um veículo BMW X1 e um Corsa quase resultou em uma queda no Rio Marambaia, em Balneário Camboriú, na manhã desta segunda-feira, dia 08. O incidente ocorreu por volta das 10h, próximo à ponte da Avenida do Estado.]]></description>
-<content:encoded><![CDATA[<strong>Um acidente envolvendo um veículo BMW X1 e um Corsa quase resultou em uma queda no Rio Marambaia, em Balneário Camboriú, na manhã desta segunda-feira, dia 08. O incidente ocorreu por volta das 10h, próximo à ponte da Avenida do Estado. A colisão entre os dois automóveis chamou a atenção de transeuntes e mobilizou equipes de resgate no local.</strong><br/><br/>Segundo informações da Polícia Militar, o condutor da BMW X1 teria perdido o controle do veículo e colidido com o Corsa, que estava estacionado às margens do Rio Marambaia. Por sorte, o carro de luxo não caiu na água, evitando uma situação mais grave. As autoridades estão investigando as circunstâncias do acidente e os possíveis danos causados aos veículos envolvidos.<br/><br/>Ainda nesta manhã, a Polícia Militar flagrou um homem furtando materiais em uma obra localizada no Centro de Itajaí. O suspeito foi detido em flagrante e encaminhado à delegacia para prestar esclarecimentos. As autoridades ressaltam a importância da vigilância e da colaboração da população para coibir práticas criminosas. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
 
-<item>
-<title><![CDATA[Bolsa de Empregos – 08/12/2025]]></title>
-<link>https://portalmenina.com.br/bolsa-de-empregos-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Bolsa de empregos]]></category>
-<category><![CDATA[bolsa de empregos]]></category>
-<category><![CDATA[portal menina]]></category>
-<category><![CDATA[Bolsa]]></category>
-<category><![CDATA[Empregos]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 09:27:29 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129335</guid>
-<description><![CDATA[**Vagas de emprego disponíveis em diversas áreas na região de Santa Catarina** Empresas da região de Tijucas, Porto Belo, São João Batista, Bombinhas, Balneário Piçarras, Brusque e Barra Velha estão com oportunidades de emprego abertas em diferentes áreas. São oferecidas vagas para motorista de caminhão caçamba, diarista, cozinheira, auxiliar de cozinha, técnicos externos e de instalação, vendedores internos e externos, auxiliares de atendimento e de instalação, supervisor externo de operações, analista de departamento pessoal, assistente de recursos humanos, auxiliar de laboratório de concreto, atendentes, caixas, camareiros, copeiros, chefes executivos, garçons, recepcionistas e subchefes.]]></description>
-<content:encoded><![CDATA[<strong>**Vagas de emprego disponíveis em diversas áreas na região de Santa Catarina**</strong><br/><br/>Empresas da região de Tijucas, Porto Belo, São João Batista, Bombinhas, Balneário Piçarras, Brusque e Barra Velha estão com oportunidades de emprego abertas em diferentes áreas. São oferecidas vagas para motorista de caminhão caçamba, diarista, cozinheira, auxiliar de cozinha, técnicos externos e de instalação, vendedores internos e externos, auxiliares de atendimento e de instalação, supervisor externo de operações, analista de departamento pessoal, assistente de recursos humanos, auxiliar de laboratório de concreto, atendentes, caixas, camareiros, copeiros, chefes executivos, garçons, recepcionistas e subchefes.<br/><br/>Os interessados devem entrar em contato diretamente com as empresas por meio dos números disponibilizados para cada vaga. Além disso, há também pessoas disponíveis para trabalhar como faxineira, cuidadora e chacareiro na região. As oportunidades visam atender a demanda por mão de obra em diferentes setores, oferecendo uma variedade de cargos e funções para os candidatos interessados.
 
-**<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+<p>Segundo informações repassadas pela Polícia Militar, a confusão generalizada começou por volta das 4h, após um esbarrão entre dois indivíduos em um bar na Rua Florianópolis, em Brusque.</p>
 
-<item>
-<title><![CDATA[Documentos perdidos e encontrados são divulgados em Balneário Camboriú]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129333</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:24:38 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129333</guid>
-<description><![CDATA[A Rádio Menina de Balneário Camboriú divulgou contatos para devolução de documentos perdidos e informou sobre objetos encontrados na cidade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
 
-<item>
-<title><![CDATA[Lombo assado com crosta crocante: três receitas para o Natal]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Flombo-assado-com-crosta-crocante-3-receitas-para-o-natal%2F</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:20:08 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/</guid>
-<description><![CDATA[Confira opções de preparo de lombo assado para a ceia de Natal.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
 
-<item>
-<title><![CDATA[Ciclone extratropical provoca chuva intensa e ventos fortes em Santa Catarina]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313399</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:19:43 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313399</guid>
-<description><![CDATA[Santa Catarina enfrenta instabilidade climática entre segunda e quinta-feira, com alerta para chuvas intensas, ventos de até 100 km/h e risco de alagamentos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+<p>Após o primeiro desentendimento, por volta das 6h, os dois grupos voltaram a se cruzar e iniciaram uma nova discussão, desta vez em Itajaí. A partir daí, conforme relato policial, o jovem de 21 anos se dirigiu até a residência de um dos envolvidos e tentou entrar à força. Nesse momento, segundo a PM, ele acabou esfaqueado.</p>
 
+
+
+<p><strong>Leia também:</strong> <a href="https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/">Dois homens são atropelados por buggy e morrem na Estrada Geral do Braço, em Camboriú; condutor fugiu do local</a></p>
+
+
+
+<ul class="wp-block-list"></ul>
+
+
+
+<p>A identidade do rapaz não foi revelada. Uma segunda pessoa que o acompanhava durante a tentativa de invasão também foi ferida e levada ao hospital, em estado estável, de acordo com a Polícia Militar.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/BQgz3zpryrxEvV6pNGfLua">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<p>Os demais participantes da confusão foram conduzidos à Delegacia de Brusque. O caso agora segue sob investigação da Polícia Civil.</p>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765193135781 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="SwzhYrq4x9"><a href="https://portalmenina.com.br/balneario-camboriu-assina-acordo-para-atuacao-integrada-de-forcas-de-seguranca-nas-marginais-da-br-101/">Balneário Camboriú assina acordo para atuação integrada de forças de segurança nas marginais da BR-101</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Balneário Camboriú assina acordo para atuação integrada de forças de segurança nas marginais da BR-101&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/balneario-camboriu-assina-acordo-para-atuacao-integrada-de-forcas-de-seguranca-nas-marginais-da-br-101/embed/#?secret=dfSAQweml2#?secret=SwzhYrq4x9" data-secret="SwzhYrq4x9" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="1JaaQ9kcdQ"><a href="https://portalmenina.com.br/condutor-foge-apos-bater-carro-em-poste-na-sc-414-em-navegantes/">Condutor foge após bater carro em poste na SC-414, em Navegantes</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Condutor foge após bater carro em poste na SC-414, em Navegantes&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/condutor-foge-apos-bater-carro-em-poste-na-sc-414-em-navegantes/embed/#?secret=a9ROn6oXMw#?secret=1JaaQ9kcdQ" data-secret="1JaaQ9kcdQ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Homem é executado a tiros enquanto tomava chimarrão em casa]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171935</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:26:53 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171935</guid>
+    <description><![CDATA[Crime ocorreu na manhã de domingo; autor fugiu a pé após efetuar os disparos O post Homem é executado a tiros enquanto tomava chimarrão em casa apareceu primeiro em Jornal Razão.]]></description>
+    <content:encoded><![CDATA[<p>Crime ocorreu na manhã de domingo; autor fugiu a pé após efetuar os disparos O post Homem é executado a tiros enquanto tomava chimarrão em casa apareceu primeiro em Jornal Razão.</p>
+<p><p class="p1">Um homem de 54 anos foi assassinado na manhã de domingo (7) enquanto tomava chimarrão na área da própria casa, no interior de Palmitos, no Oeste catarinense. O crime ocorreu por volta das 10h, na linha Baixa Diamantina. A vítima estava acompanhada da esposa e de uma vizinha no momento dos disparos. Ele morreu no local.</p>
+
+
+
+<p class="p1">Segundo os relatos colhidos pelos policiais, um homem desconhecido chegou a pé, falou rapidamente com a vítima e, logo em seguida, sacou uma arma de fogo. Pelo menos três tiros foram efetuados. A Polícia Militar informou que os disparos atingiram o ouvido, o abdômen e as costas do morador. O suspeito fugiu a pé logo após o ataque.</p>
+
+
+
+<p class="p1">A área foi isolada pela Polícia Militar até a chegada da Polícia Científica, que realizou a perícia e a remoção do corpo. Não houve registro de outras pessoas feridas.</p>
+
+
+
+<p class="p1">A Polícia Civil de Palmitos, com apoio da Divisão de Investigação Criminal de Maravilha, iniciou as apurações para identificar o autor.</p>
+
+
+
+<p class="p1">Em nota, a Polícia Civil pediu que a população repasse qualquer informação que possa ajudar na localização do suspeito. As denúncias podem ser feitas de forma anônima pelo Disque Denúncia 181.</p>
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/homem-e-executado-a-tiros-enquanto-tomava-chimarrao-em-casa/">Homem é executado a tiros enquanto tomava chimarrão em casa</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313418</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:23:15 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313418</guid>
+    <description><![CDATA[Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde O post Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos apareceu primeiro em Visor...]]></description>
+    <content:encoded><![CDATA[<p>Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde O post Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos apareceu primeiro em Visor...</p>
+<p><a href="https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/" title="Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/10/Segunda-feira-tera-frio-ao-amanhecer-e-possibilidade-de-chuva-no-Litoral-Norte.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Primeiro fim de semana de novembro será marcado por temporais em SC" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" fetchpriority="high" title="Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos 1"></a><p>Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/">Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313411</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:12:47 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313411</guid>
+    <description><![CDATA[Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação O post Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação O post Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/novo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados/" title="Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/12/Novo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados.png" class="webfeedsFeaturedVisual wp-post-image" alt="Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados 2"></a><p>Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/novo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados/">Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313409</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 10:45:44 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
+    <description><![CDATA[Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente O post Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí...]]></description>
+    <content:encoded><![CDATA[<p>Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente O post Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí...</p>
+<p><a href="https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/" title="Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/11/policia-militar.png" class="webfeedsFeaturedVisual wp-post-image" alt="Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí 3"></a><p>Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/">Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313405</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 10:01:19 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313405</guid>
+    <description><![CDATA[Acidente que envolveu três veículos matou duas pessoas e deixou seis feridos O post Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116 apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Acidente que envolveu três veículos matou duas pessoas e deixou seis feridos O post Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116 apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/cantor-mauri-lima-irmao-de-chitaozinho-e-xororo-morre-em-acidente-na-br-116/" title="Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/12/Cantor-Mauri-Lima-irmao-de-Chitaozinho-e-Xororo-morre-em-acidente-na-BR-116.png" class="webfeedsFeaturedVisual wp-post-image" alt="Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116 4"></a><p>Acidente que envolveu três veículos matou duas pessoas e deixou seis feridos</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/cantor-mauri-lima-irmao-de-chitaozinho-e-xororo-morre-em-acidente-na-br-116/">Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Utilidade Pública – 08/12/2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129333</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:24:38 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129333</guid>
+    <description><![CDATA[DOCUMENTOS PERDIDOS Augusto Gemnieczak – contato 98878-8100. Leonardo Vinicius dos Santos – contato 99600-3650. Josoel Camargo Alves – contato (21) 98049-7390. DOCUMENTOS ENCONTRADOS&#160; Mauricio Eduardo Barbosa –...]]></description>
+    <content:encoded><![CDATA[<p>DOCUMENTOS PERDIDOS Augusto Gemnieczak – contato 98878-8100. Leonardo Vinicius dos Santos – contato 99600-3650. Josoel Camargo Alves – contato (21) 98049-7390. DOCUMENTOS ENCONTRADOS&#160; Mauricio Eduardo Barbosa –...</p>
+<p><p><strong><u>DOCUMENTOS PERDIDOS </u></strong></p>
+
+
+
+<p>Augusto Gemnieczak – contato 98878-8100.</p>
+
+
+
+<p>Leonardo Vinicius dos Santos – contato 99600-3650.</p>
+
+
+
+<p>Josoel Camargo Alves – contato (21) 98049-7390.</p>
+
+
+
+<p><strong><u>DOCUMENTOS ENCONTRADOS&nbsp;</u></strong></p>
+
+
+
+<p>Mauricio Eduardo Barbosa – contato Recepção Rádio Menina.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/BQgz3zpryrxEvV6pNGfLua">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<p><strong><u>COMUNICADO&nbsp;</u></strong></p>
+
+
+
+<p>Foi encontrada uma mochila com ferramentas em frente a Unimed – <strong>contato Recepção Rádio Menina.</strong></p>
+
+
+
+<p></p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Lombo assado com crosta crocante: 3 receitas para o Natal]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Flombo-assado-com-crosta-crocante-3-receitas-para-o-natal%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:20:08 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/</guid>
+    <description><![CDATA[Aprenda a preparar opções saborosas para essa noite especial O post Lombo assado com crosta crocante: 3 receitas para o Natal apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Aprenda a preparar opções saborosas para essa noite especial O post Lombo assado com crosta crocante: 3 receitas para o Natal apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/" title="Lombo assado com crosta crocante: 3 receitas para o Natal" rel="nofollow"><img width="1024" height="683" src="https://visornoticias.com.br/wp-content/uploads/2025/12/lombodeporcocomcrostacrocante-1024x683-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Lombo assado com crosta crocante de queijo e mel servido em prato com alface e fatias de limão-siciliano" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Lombo assado com crosta crocante: 3 receitas para o Natal 5"></a><div>Aprenda a preparar opções saborosas para essa noite especial</div>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/">Lombo assado com crosta crocante: 3 receitas para o Natal</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313399</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:19:43 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313399</guid>
+    <description><![CDATA[Estado enfrenta instabilidade entre segunda e quinta-feira, com alerta para alagamentos, enxurradas e ventos fortes O post Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina...]]></description>
+    <content:encoded><![CDATA[<p>Estado enfrenta instabilidade entre segunda e quinta-feira, com alerta para alagamentos, enxurradas e ventos fortes O post Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina...</p>
+<p><a href="https://visornoticias.com.br/ciclone-extratropical-traz-chuva-intensa-ventos-de-ate-100-km-h-e-risco-alto-em-santa-catarina/" title="Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/11/Ciclone-extratropical-coloca-Santa-Catarina-em-alerta-vermelho-nesta-sexta-feira.png" class="webfeedsFeaturedVisual wp-post-image" alt="Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina 6"></a><p>Estado enfrenta instabilidade entre segunda e quinta-feira, com alerta para alagamentos, enxurradas e ventos fortes</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/ciclone-extratropical-traz-chuva-intensa-ventos-de-ate-100-km-h-e-risco-alto-em-santa-catarina/">Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Quimioterapia e pets: saiba como manter a convivência segura]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fquimioterapia-e-pets-saiba-como-manter-a-convivencia-segura%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:01:03 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/quimioterapia-e-pets-saiba-como-manter-a-convivencia-segura/</guid>
+    <description><![CDATA[Apesar de benéfica, a relação entre pacientes oncológicos e animais requer atenção especial para manter o bem-estar de ambos O post Quimioterapia e pets: saiba como manter a convivência segura apareceu primeiro em Visor...]]></description>
+    <content:encoded><![CDATA[<p>Apesar de benéfica, a relação entre pacientes oncológicos e animais requer atenção especial para manter o bem-estar de ambos O post Quimioterapia e pets: saiba como manter a convivência segura apareceu primeiro em Visor...</p>
+<p><a href="https://visornoticias.com.br/quimioterapia-e-pets-saiba-como-manter-a-convivencia-segura/" title="Quimioterapia e pets: saiba como manter a convivência segura" rel="nofollow"><img width="1024" height="683" src="https://visornoticias.com.br/wp-content/uploads/2025/12/cuidados-pets-e-humanos-quimioterapia-1024x683-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Pata de um cachorro em cima de mãos femininas em um jardim" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Quimioterapia e pets: saiba como manter a convivência segura 7"></a><div>Apesar de benéfica, a relação entre pacientes oncológicos e animais requer atenção especial para manter o bem-estar de ambos</div>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/quimioterapia-e-pets-saiba-como-manter-a-convivencia-segura/">Quimioterapia e pets: saiba como manter a convivência segura</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Casal é preso com 23 kg de maconha e ecstasy em Itapema]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313367</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:01:00 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313367</guid>
+    <description><![CDATA[Ação ocorreu após denúncia sobre entregas suspeitas feitas com uma motocicleta vermelha O post Casal é preso com 23 kg de maconha e ecstasy em Itapema apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Ação ocorreu após denúncia sobre entregas suspeitas feitas com uma motocicleta vermelha O post Casal é preso com 23 kg de maconha e ecstasy em Itapema apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/casal-e-preso-com-23-kg-de-maconha-e-ecstasy-em-itapema/" title="Casal é preso com 23 kg de maconha e ecstasy em Itapema" rel="nofollow"><img width="1200" height="680" src="https://visornoticias.com.br/wp-content/uploads/2025/12/ROMU-apreende-23-kg-de-maconha-e-prende-casal-por-trafico-de-drogas-em-Itapema.png" class="webfeedsFeaturedVisual wp-post-image" alt="Casal é preso com 23 kg de maconha e ecstasy em Itapema" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Casal é preso com 23 kg de maconha e ecstasy em Itapema 8"></a><p>Ação ocorreu após denúncia sobre entregas suspeitas feitas com uma motocicleta vermelha</p>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/casal-e-preso-com-23-kg-de-maconha-e-ecstasy-em-itapema/">Casal é preso com 23 kg de maconha e ecstasy em Itapema</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Horóscopo do dia: previsão para os 12 signos em 08/12/2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fhoroscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:00:41 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025/</guid>
+    <description><![CDATA[Veja o que os astros revelam sobre a segunda-feira de cada nativo do zodíaco O post Horóscopo do dia: previsão para os 12 signos em 08/12/2025 apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Veja o que os astros revelam sobre a segunda-feira de cada nativo do zodíaco O post Horóscopo do dia: previsão para os 12 signos em 08/12/2025 apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025/" title="Horóscopo do dia: previsão para os 12 signos em 08/12/2025" rel="nofollow"><img width="1024" height="683" src="https://visornoticias.com.br/wp-content/uploads/2025/12/Aries-4-1024x683-2.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Ilustração do signo de áries em um fundo marrom" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Horóscopo do dia: previsão para os 12 signos em 08/12/2025 9"></a><div>Veja o que os astros revelam sobre a segunda-feira de cada nativo do zodíaco</div>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025/">Horóscopo do dia: previsão para os 12 signos em 08/12/2025</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Ftarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:00:17 +0000</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/tarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025/</guid>
+    <description><![CDATA[Confira o que as cartas revelam para cada nativo sobre os próximos dias O post Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025 apareceu primeiro em Visor Notícias.]]></description>
+    <content:encoded><![CDATA[<p>Confira o que as cartas revelam para cada nativo sobre os próximos dias O post Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025 apareceu primeiro em Visor Notícias.</p>
+<p><a href="https://visornoticias.com.br/tarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025/" title="Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025" rel="nofollow"><img width="1024" height="683" src="https://visornoticias.com.br/wp-content/uploads/2025/12/Aries-9-1024x683-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="ilustração azul do símbolo de áries sobre fundo esverdeado com estrelas" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" title="Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025 10"></a><div>Confira o que as cartas revelam para cada nativo sobre os próximos dias</div>
+<p>O post <a rel="nofollow" href="https://visornoticias.com.br/tarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025/">Tarot semanal: previsão para os signos de 08 a 14 de dezembro de 2025</a> apareceu primeiro em <a rel="nofollow" href="https://visornoticias.com.br">Visor Notícias</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Mãe sai em defesa do ex-marido após acusações da filha em Brusque: ‘não aceito mentiras’]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171926</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 02:29:40 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171926</guid>
+    <description><![CDATA[Após a filha denunciar o pai por agressão e comportamento suspeito, a mãe resolveu quebrar o silêncio e saiu em defesa do ex-marido, empresário conhecido em Brusque O post Mãe sai em defesa do ex-marido após acusações...]]></description>
+    <content:encoded><![CDATA[<p>Após a filha denunciar o pai por agressão e comportamento suspeito, a mãe resolveu quebrar o silêncio e saiu em defesa do ex-marido, empresário conhecido em Brusque O post Mãe sai em defesa do ex-marido após acusações...</p>
+<p><p class="p1">A briga familiar que tomou conta de Brusque (SC) ganhou um novo capítulo neste domingo, quando Nina, mãe de Ana Caroline de Souza e ex-esposa do empresário acusado de agressão, publicou um longo vídeo nas redes sociais para defender o ex-marido e rebater ponto a ponto as denúncias feitas pela filha.</p>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png" alt="🔵" class="wp-smiley" style="height: 1em; max-height: 1em;" /><em> Relembre o caso: Filha expôs o próprio pai em Brusque (SC) após fazer descoberta chocante</em></p>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-jornal-raz-o wp-block-embed-jornal-raz-o"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="CAG0iD5OMD"><a href="https://jornalrazao.com/seguranca/filha-expoe-o-pai-apos-ser-agredida-ao-fazer-descoberta-chocante-em-brusque-video/">Filha expõe o pai após ser agredida ao fazer descoberta chocante em Brusque; VÍDEO</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Filha expõe o pai após ser agredida ao fazer descoberta chocante em Brusque; VÍDEO&#8221; &#8212; Jornal Razão" src="https://jornalrazao.com/seguranca/filha-expoe-o-pai-apos-ser-agredida-ao-fazer-descoberta-chocante-em-brusque-video/embed/#?secret=K2ibLp0jwT#?secret=CAG0iD5OMD" data-secret="CAG0iD5OMD" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p class="p1">A fala de Nina surge após Ana Caroline expor publicamente o pai, dono de uma empresa de terraplanagem, acusando-o de agressão física e comportamento suspeito envolvendo um perfil falso de adolescente, criado por ela mesma para investigá-lo. A denúncia viralizou e mobilizou moradores da região.</p>
+
+
+
+<p class="p1">No vídeo, Nina diz que não podia mais “assistir calada” e decidiu tornar público um histórico que, segundo ela, vinha escondendo por anos.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Mãe sai em defesa do ex-marido após acusações da filha em Brusque: ‘não aceito mentiras’" width="563" height="1000" src="https://www.youtube.com/embed/YdNYIlTPv9I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p class="p1">Nina afirma que conviveu com o ex-marido por 34 anos e que ambos trabalharam duro para construir a empresa da família e garantir conforto à filha. Ela afirma que o homem é “honesto, trabalhador e incapaz de agredir a própria filha”.</p>
+
+
+
+<p class="p1">Segundo a mãe, Ana Caroline teria problemas emocionais desde a adolescência. “Eu apanho da minha filha desde os 13 anos”, declarou. Nina afirma ter vídeos e provas de agressões sofridas dentro da própria casa, mas nunca registrou ocorrência por receio de prejudicar a filha, que trabalha como advogada. “Se eu denunciasse, ela perderia a OAB. Eu sou mãe, não tive coragem”.</p>
+
+
+
+<p class="p1">A mãe relata também que a filha já teria atacado o próprio pai, deixando seu rosto “todo quebrado”. “Quem convive com a gente sabe o que o pai dela é e sabe o que ela é”, disse.</p>
+
+
+
+<p class="p1">O ponto central do vídeo é a tentativa de Nina de desmentir completamente a versão da filha sobre a agressão recente. Ela garante que o ex-marido não espancou Ana Caroline e diz que a filha teria inventado a história porque não aceita ficar fora da vida pessoal do pai desde o divórcio. Segundo Nina, a filha não aceitou que os pais seguissem caminhos diferentes nem que o empresário voltasse a se relacionar com outra mulher.</p>
+
+
+
+<p class="p1">“Ela quer controlar tudo. Não aceita a vida dele, nem a minha. Quer ter poder sobre o trabalho, sobre a casa, sobre tudo”, afirmou.</p>
+
+
+
+<p class="p1">Nina conta ainda que, assim que o casamento acabou, a filha teria quebrado toda a residência onde a mãe morava e tentado agredi-la de forma grave. “Foi um inferno, um pesadelo. Ela fez isso comigo e agora está fazendo com o pai”.</p>
+
+
+
+<p class="p1">A mãe ressaltou que nunca quis expor a própria filha, mas decidiu falar após ver o ex-marido sendo acusado publicamente de espancar a jovem e de manter conversas de cunho sexual com adolescentes. Ela classifica as acusações de “mentira” e diz que a filha é “desequilibrada” e precisa de tratamento.</p>
+
+
+
+<p class="p1">Moradores de Brusque pedem que a Polícia Civil ouça todos os envolvidos. O caso segue sem versão oficial do empresário acusado. O Jornal Razão acompanha o avanço das denúncias, a repercussão e possíveis desdobramentos da investigação da Polícia Civil.</p>
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/mae-sai-em-defesa-do-ex-marido-apos-acusacoes-da-filha-em-brusque-nao-aceito-mentiras/">Mãe sai em defesa do ex-marido após acusações da filha em Brusque: ‘não aceito mentiras’</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[‘Gorda hipopótama’, diz trans para atendente após acusá-la de transfobia em SC]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171917</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 22:33:53 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171917</guid>
+    <description><![CDATA[Vídeo de mulher trans em farmácia de Blumenau vira debate nacional após acusação de constrangimento e resposta exaltada gravada. O post ‘Gorda hipopótama’, diz trans para atendente após acusá-la de transfobia em SC...]]></description>
+    <content:encoded><![CDATA[<p>Vídeo de mulher trans em farmácia de Blumenau vira debate nacional após acusação de constrangimento e resposta exaltada gravada. O post ‘Gorda hipopótama’, diz trans para atendente após acusá-la de transfobia em SC...</p>
+<p><p><strong>Uma mulher trans identificada como Eduarda Lacerda viralizou nas redes sociais após alegar que foi vítima de constrangimento em uma farmácia de Blumenau (SC).</strong> O caso ganhou repercussão nacional depois que ela publicou no TikTok um vídeo confrontando uma funcionária do estabelecimento, que teria supostamente insistido em tratá-la pelo pronome masculino, mesmo após ser “corrigida”.</p>
+
+
+
+
+
+
+
+<p>O vídeo foi publicado no dia 21 de novembro e soma milhões de visualizações. Nele, Eduarda afirma que foi chamada de “ele” por pelo menos três vezes, o que motivou a abordagem registrada em vídeo.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Se você puder da próxima vez respeitar uma pessoa trans, seria muito legal da sua parte. Você trabalha na área da saúde, entendeu?”</strong></p>
+</blockquote>
+
+
+
+<p>A funcionária tenta pedir desculpas, mas é impedida. Em um trecho mais exaltado, Eduarda afirma:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Eu vejo você também como uma gorda hipopótama e não estou tratando você como um animal. Animal, entendeu? Não é legal, né?”</strong></p>
+</blockquote>
+
+
+
+<p><strong>Eduarda alega que é uma “mulher trans retificada”</strong> e que jamais havia sido desrespeitada nem mesmo em “locais mais conservadores”. Segundo ela, a atitude da funcionária foi <strong>“discriminatória e incompatível”</strong> com a atuação na área da saúde.</p>
+
+
+
+<p>O vídeo já acumula mais de <strong>19 mil comentários</strong> e <strong>150 mil compartilhamentos</strong>.</p>
+
+
+
+<p><strong>Até o momento, a farmácia acusada não se pronunciou oficialmente sobre o caso.</strong></p>
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/videos/gorda-hipopotama-diz-trans-para-atendente-apos-acusa-la-de-transfobia-em-sc/">‘Gorda hipopótama’, diz trans para atendente após acusá-la de transfobia em SC</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Carro bate na traseira de caminhão estacionado na BR-470 e deixa adolescente ferido em Gaspar]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129327</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 22:27:57 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129327</guid>
+    <description><![CDATA[Acidente no bairro Baú Baixo mobilizou equipes de Gaspar, Ilhota e o helicóptero Arcanjo 03 para o resgate das vítimas]]></description>
+    <content:encoded><![CDATA[<p>Acidente no bairro Baú Baixo mobilizou equipes de Gaspar, Ilhota e o helicóptero Arcanjo 03 para o resgate das vítimas</p>
+<p><p>Um grave acidente de trânsito mobilizou uma grande operação de resgate na BR-470, no fim da tarde desta sexta-feira (5). Um automóvel colidiu violentamente contra a traseira de um caminhão que estava estacionado às margens da rodovia.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://chat.whatsapp.com/FJN3EnuHtpP1MI8QzTJbDy?mode=hqrt1"><img loading="lazy" decoding="async" width="970" height="90" src="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png" alt="" class="wp-image-129186" srcset="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png 970w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-800x74.png 800w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-120x11.png 120w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-90x8.png 90w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-320x30.png 320w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-560x52.png 560w" sizes="auto, (max-width: 970px) 100vw, 970px" /></a></figure>
+
+
+
+<p>A ocorrência exigiu o trabalho conjunto dos Bombeiros Militares de Gaspar, Bombeiros Voluntários de Ilhota e da equipe aeromédica do Arcanjo 03. Ao chegarem ao local, as equipes encontraram três vítimas.</p>
+
+
+
+<h2 id="adolescente-estava-sem-cinto" class="wp-block-heading">Adolescente estava sem cinto</h2>
+
+
+
+<p>Enquanto os bombeiros de Ilhota trabalhavam para retirar as vítimas presas às ferragens (desencarceramento), a equipe de Gaspar assumiu o atendimento de dois ocupantes.</p>
+
+
+
+<p>A situação que mais chamou a atenção foi a de um adolescente de 16 anos, que estava no banco de trás. Segundo o relato colhido no local, o jovem não utilizava cinto de segurança no momento da batida. Ele sofreu escoriações no rosto e uma concussão leve. O jovem foi imobilizado e precisou receber oxigênio, sob supervisão do médico do Arcanjo.</p>
+
+
+
+<p>O motorista do carro, um homem de 45 anos, também foi atendido. Apesar do susto, ele estava consciente e caminhando pelo local, apresentando um corte profundo no rosto, que foi estancado pelos socorristas.</p>
+
+
+
+<p>Após os procedimentos de emergência na rodovia, tanto o motorista quanto o adolescente foram encaminhados pela ambulância de Gaspar ao Hospital da cidade para avaliação médica detalhada. A terceira vítima envolvida foi atendida pelas outras equipes presentes na cena.</p>
+
+
+
+<p></p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[BMW X1 bate em Corsa e por pouco não cai no Rio Marambaia, em Balneário Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129322</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 20:32:52 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129322</guid>
+    <description><![CDATA[Uma motorista perdeu o controle ao sair da garagem de um prédio na Rua Julieta Lins, na Barra Norte, em Balneário Camboriú, e por pouco não caiu no Rio Marambaia neste domingo. A caminhonete avançou em linha reta ao...]]></description>
+    <content:encoded><![CDATA[<p>Uma motorista perdeu o controle ao sair da garagem de um prédio na Rua Julieta Lins, na Barra Norte, em Balneário Camboriú, e por pouco não caiu no Rio Marambaia neste domingo. A caminhonete avançou em linha reta ao...</p>
+<p><p>Uma motorista perdeu o controle ao sair da garagem de um prédio na Rua Julieta Lins, na Barra Norte, em Balneário Camboriú, e por pouco não caiu no Rio Marambaia neste domingo. A caminhonete avançou em linha reta ao deixar a garagem, atingiu um Corsa que estava estacionado e quase empurrou o veículo, além dela própria para dentro do canal.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/bmw-x1-bate-em-corsa-e-por-pouco-nao-cai-no-rio-marambaia-em-balneario-camboriu/">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p><strong>Leia também:</strong> <strong><a href="https://portalmenina.com.br/rompimento-na-rede-paralisa-estacao-de-tratamento-e-pode-causar-falta-de-agua-em-varios-bairros-de-balneario-camboriu-neste-sabado/">Rompimento na rede paralisa Estação de Tratamento e pode causar falta de água em vários bairros de Balneário Camboriú neste sábado</a></strong></p>
+
+
+
+<p>Ninguém ficou ferido. O impacto só não terminou em queda porque uma árvore impediu que os dois carros despencassem no rio. O Corsa estava estacionado e vazio no momento da colisão. </p>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765139414095 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="L1ewMTVvLX"><a href="https://portalmenina.com.br/historico-brasil-vence-portugal-e-conquista-a-primeira-copa-do-mundo-de-futsal-feminino/">HISTÓRICO! Brasil vence Portugal e conquista a primeira Copa do Mundo de Futsal Feminino</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;HISTÓRICO! Brasil vence Portugal e conquista a primeira Copa do Mundo de Futsal Feminino&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/historico-brasil-vence-portugal-e-conquista-a-primeira-copa-do-mundo-de-futsal-feminino/embed/#?secret=N6A9O6vvqA#?secret=L1ewMTVvLX" data-secret="L1ewMTVvLX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="NF9Xofx0rl"><a href="https://portalmenina.com.br/ciclone-extratropical-muda-o-tempo-em-sc-e-eleva-riscos-entre-segunda-e-quarta/">Ciclone extratropical muda o tempo em SC e eleva riscos entre segunda e quarta</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Ciclone extratropical muda o tempo em SC e eleva riscos entre segunda e quarta&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/ciclone-extratropical-muda-o-tempo-em-sc-e-eleva-riscos-entre-segunda-e-quarta/embed/#?secret=YahFr70Dl3#?secret=NF9Xofx0rl" data-secret="NF9Xofx0rl" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Jovens pedem desculpas e limpam pichações em loja de SC: “queríamos mostrar nossa arte”]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171906</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 19:08:41 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171906</guid>
+    <description><![CDATA[A mobilização funcionou. Após a circulação massiva das imagens e com apoio da Polícia Militar, os autores foram identificados. A responsabilização veio de forma direta: os próprios jovens retornaram à loja para desfazer...]]></description>
+    <content:encoded><![CDATA[<p>A mobilização funcionou. Após a circulação massiva das imagens e com apoio da Polícia Militar, os autores foram identificados. A responsabilização veio de forma direta: os próprios jovens retornaram à loja para desfazer...</p>
+<p><p>A pichação aconteceu na noite da última terça-feira 02, quando um grupo de jovens foram flagrados pelas câmeras da <strong>Loja das Meninas</strong>, na Rua 6 de Janeiro, no Centro de Criciúma. Nas imagens, eles aparecem rabiscando a porta metálica do comércio e deixando o local logo depois. O vídeo rapidamente se espalhou e gerou forte indignação entre comerciantes e moradores, que cobraram uma resposta imediata.</p>
+
+
+
+<p><strong>A mobilização funcionou.</strong> Após a circulação massiva das imagens e com apoio da <strong>Polícia Militar</strong>, os autores foram identificados. A responsabilização veio de forma direta: os próprios jovens retornaram à loja para <strong>desfazer o que tinham feito</strong>. Com rolo, tinta e escada, passaram a manhã cobrindo os rabiscos deixados dias antes.</p>
+
+
+
+<p>A cena viralizou novamente, desta vez como contraponto ao vandalismo da véspera. Moradores filmaram o momento e afirmaram que “pelo menos agora estão arrumando”. Comerciantes da região, que convivem com esse tipo de prejuízo, comemoraram o desfecho e destacaram a importância da rápida identificação.</p>
+
+
+
+<p>Para a <strong>Loja das Meninas</strong>, o caso trouxe desgaste, custo e preocupação, mas também mostrou o apoio da comunidade. A proprietária relatou que cada episódio de pichação pesa no bolso e no emocional de quem trabalha diariamente para manter o negócio aberto.</p>
+
+
+
+
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/jovens-pedem-desculpas-e-limpam-pichacoes/">Jovens pedem desculpas e limpam pichações em loja de SC: “queríamos mostrar nossa arte”</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Adolescente com carro desgovernado invade loja e quase despenca sobre telhado de residência na SC-108]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171902</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 18:14:07 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171902</guid>
+    <description><![CDATA[Dentro do automóvel, foi observada uma garrafa de bebida alcoólica O post Adolescente com carro desgovernado invade loja e quase despenca sobre telhado de residência na SC-108 apareceu primeiro em Jornal Razão.]]></description>
+    <content:encoded><![CDATA[<p>Dentro do automóvel, foi observada uma garrafa de bebida alcoólica O post Adolescente com carro desgovernado invade loja e quase despenca sobre telhado de residência na SC-108 apareceu primeiro em Jornal Razão.</p>
+<p><p>Um veículo desgovernado causou uma cena de tensão e prejuízo no fim da tarde deste sábado (6) na SC-108, em São Ludgero. O automóvel perdeu o controle ao passar por um trevo e acabou invadindo o pátio de uma concessionária e de uma empresa de estética automotiva, atingindo três carros que estavam estacionados no local.</p>
+
+
+
+<p>Imagens registradas por testemunhas mostram o momento do impacto e a movimentação logo em seguida. Foram danificados um Chevrolet Onix 2024, uma Range Rover Evoque 2015 e uma Mitsubishi Triton 2012. De acordo com o proprietário do estabelecimento, o prejuízo inicial foi estimado em aproximadamente R$ 8 mil.</p>
+
+
+
+<p>Logo após a colisão, quatro rapazes desceram do veículo. Enquanto pessoas que estavam nas proximidades se aproximavam do local, três ocupantes deixaram a área, e o condutor voltou ao volante e fugiu, mesmo diante de tentativas de impedir sua saída.</p>
+
+
+
+<p>Conforme relatos extraoficiais, o motorista seria um adolescente. Minutos depois, ele teria perdido novamente o controle do carro e caído em uma ribanceira, quase atingindo uma casa nas proximidades.</p>
+
+
+
+<p>No interior do veículo, uma garrafa de bebida alcoólica foi encontrada, o que levantou suspeitas sobre possível ingestão de álcool. Também foi observado que um dos ocupantes utilizava tornozeleira eletrônica.</p>
+
+
+
+
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/adolescente-bate-carro-loja-quase-atinge-casa-sao-ludgero/">Adolescente com carro desgovernado invade loja e quase despenca sobre telhado de residência na SC-108</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[“Já era”: Ferrari milionária é abandonada em Balneário Camboriú após acidente]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171892</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:35:05 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171892</guid>
+    <description><![CDATA[A posição do veículo, a roda torta e fragmentos de peça espalhados indicam que houve choque com o meio-fio, mas a dinâmica exata ainda é desconhecida. O post “Já era”: Ferrari milionária é abandonada em Balneário...]]></description>
+    <content:encoded><![CDATA[<p>A posição do veículo, a roda torta e fragmentos de peça espalhados indicam que houve choque com o meio-fio, mas a dinâmica exata ainda é desconhecida. O post “Já era”: Ferrari milionária é abandonada em Balneário...</p>
+<p><p>Uma Ferrari avaliada em mais de <strong>R$ 4,5 milhões</strong> amanheceu danificada e virou assunto em <strong>Balneário Camboriú (SC)</strong> na madrugada de domingo (07). O superesportivo, modelo <strong>SF90 Stradale</strong>, apareceu parado à beira da via com a roda quebrada e <strong>airbags estourados</strong>. As imagens se espalharam rapidamente e chamaram atenção pelo valor elevado do veículo e pelo cenário inusitado.</p>
+
+
+
+<p>O que se sabe até agora é que <strong>não há registro oficial da ocorrência</strong> e tampouco informações sobre quem estava ao volante no momento do impacto. O carro, que possui placas de Balneário Camboriú, não estava mais com o condutor quando curiosos começaram a filmar a cena. A posição do veículo, a roda torta e fragmentos de peça espalhados indicam que houve choque com o meio-fio, mas <strong>a dinâmica exata ainda é desconhecida</strong>.</p>
+
+
+
+<p>Nos comentários das publicações, moradores e internautas levantaram hipóteses que vão desde perda de controle até uma possível tentativa de evitar o teste de bafômetro, mas <strong>nada disso foi confirmado</strong>. Em uma das postagens que viralizaram, um perfil resumiu a situação com ironia ao dizer que o prejuízo foi “só material, e dos grandes”.</p>
+
+
+
+<p>A <strong>Ferrari SF90</strong> é um híbrido de altíssima performance, equipado com motor <strong>V8 Bi-Turbo</strong> e três motores elétricos, somando quase mil cavalos de potência. O modelo acelerando pelas ruas estreitas de Balneário Camboriú não é novidade. Parado com a traseira destruída, é.</p>
+
+
+
+<p>A cena reforça o contraste já conhecido da cidade, onde veículos raros circulam lado a lado com o trânsito cotidiano e, volta e meia, acabam envolvidos em episódios chamativos. Até o momento, <strong>não há informações sobre feridos</strong>. A identidade do proprietário também não foi divulgada.</p>
+
+
+
+
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/ferrari-milionaria-e-abandonada-em-balneario-camboriu/">“Já era”: Ferrari milionária é abandonada em Balneário Camboriú após acidente</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Sul do Brasil em alerta máximo: ciclone deve provocar tornados e enxurradas nos próximos dias]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171894</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:18:52 +0000</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171894</guid>
+    <description><![CDATA[Ciclone extratropical deve provocar ventos acima de até 130 km/h, chuva intensa e risco de temporais severos em várias regiões de Santa Catarina entre segunda e quarta-feira. Foto: MetSul Meteorologia / Reprodução O...]]></description>
+    <content:encoded><![CDATA[<p>Ciclone extratropical deve provocar ventos acima de até 130 km/h, chuva intensa e risco de temporais severos em várias regiões de Santa Catarina entre segunda e quarta-feira. Foto: MetSul Meteorologia / Reprodução O...</p>
+<p><p class="cvGsUA direction-ltr align-center para-style-body"><strong>Santa Catarina entrou em estado de atenção máxima</strong> para a chegada de um ciclone extratropical intenso entre segunda (08) e quarta-feira (10). A combinação de calor, alta umidade e <strong>queda histórica da pressão atmosférica</strong> cria um cenário crítico, com potencial para ventos extremos, tempestades severas e transtornos em diversas regiões.</p>
+
+
+
+<h3 class="wp-block-heading"><strong><mark style="background-color:rgba(0, 0, 0, 0);color:#0693e3" class="has-inline-color has-vivid-cyan-blue-color"><a href="http://instagram.com/jornalrazaosc" target="_blank" rel="noopener">Siga o Jornal Razão no Instagram! Clique aqui</a></mark></strong></h3>
+
+
+
+<p>A Defesa Civil do estado confirma que o sistema provocará mudanças bruscas no tempo, com calor intenso no domingo, avanço de temporais na segunda e <strong>pico de impacto entre terça e quarta-feira</strong>, quando o ciclone estará mais organizado e próximo do território catarinense.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Alerta dos meteorologistas</strong></h2>
+
+
+
+<p>O meteorologista Luiz Fernando Nachtigall, da <strong><a href="http://metsul.com" target="_blank" rel="noopener">MetSul</a></strong>, reforçou que o evento deve ser levado a sério. O ciclone terá um <strong>centro de baixa pressão incomum</strong>, capaz de gerar dias seguidos de altíssimo risco meteorológico.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Ventos acima de 100 km/h</strong> em áreas urbanas</li>
+
+
+
+<li><strong>Rajadas de 130 km/h</strong> ou mais no topo da Serra</li>
+
+
+
+<li><strong>Pressão atmosférica excepcionalmente baixa</strong>, rara em eventos continentais</li>
+
+
+
+<li>Área de influência gigantesca, alcançando SC, RS, PR e SP</li>
+</ul>
+
+
+
+<p>Projeções mostram rajadas superiores a 90 km/h no Litoral Sul, Grande Florianópolis, Planalto Sul e Norte, com <strong>pontos isolados muito acima disso</strong>.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Domingo (07): calor e temporais isolados</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Calor acima dos 30°C</li>
+
+
+
+<li>Chuvas rápidas e mal distribuídas</li>
+
+
+
+<li>Instabilidade concentrada no Oeste</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Segunda-feira (08): aproximação do ciclone</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Manhã abafada e temperaturas altas</li>
+
+
+
+<li>Temporais à tarde no Oeste, avançando para o Meio-Oeste e Planalto Norte</li>
+
+
+
+<li><strong>Risco alto</strong> de alagamentos, enxurradas e quedas de árvores</li>
+
+
+
+<li>Vale do Itajaí e Sul com risco moderado</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Terça-feira (09): o pior dia</strong></h2>
+
+
+
+<p>O ciclone passa sobre Santa Catarina, trazendo um dia de grande instabilidade.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Chuva persistente desde a madrugada</strong></li>
+
+
+
+<li><strong>Risco alto em todas as regiões</strong></li>
+
+
+
+<li>Ventos muito fortes na costa</li>
+
+
+
+<li>Mar agitado, com <strong>ondas de 2 a 3 metros</strong></li>
+
+
+
+<li>Potencial elevado para alagamentos e enxurradas</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Quarta-feira (10): ventos mais fortes com o ciclone em alto mar</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Chuva diminuindo no estado</li>
+
+
+
+<li>Ventos entre <strong>70 e 90 km/h</strong> no Meio-Oeste, Planaltos, Vale e litoral</li>
+
+
+
+<li>Rajadas ainda maiores na Serra</li>
+
+
+
+<li>Risco de destelhamentos e danos à rede elétrica</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Tempo severo: o que pode acontecer</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Tempestades com granizo</strong></li>
+
+
+
+<li><strong>Vendavais muito fortes</strong></li>
+
+
+
+<li><strong>Microexplosões</strong></li>
+
+
+
+<li><strong>Possibilidade pontual de tornados</strong></li>
+</ul>
+
+
+
+<p>A climatologia indica que a combinação entre ar quente, pressão muito baixa e forte contraste térmico intensifica o jato de baixos níveis, aumentando a energia disponível para tempestades severas.</p>
+
+
+
+<p>Especialistas como Coutinho e Peter projetam ventos entre 100 e 130 km/h em áreas da Serra entre RS e SC, incluindo Lages, Bom Jardim da Serra e Praia Grande. A Grande Florianópolis também pode registrar rajadas acima de 80 km/h.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Recomendações oficiais</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Evite áreas abertas</strong> durante rajadas de vento</li>
+
+
+
+<li><strong>Não permaneça sob árvores ou postes</strong></li>
+
+
+
+<li>Recolha objetos soltos de pátios, varandas e telhados</li>
+
+
+
+<li><strong>Não dirija em vias alagadas</strong></li>
+
+
+
+<li>Refaça revisões em telhados e estruturas frágeis</li>
+
+
+
+<li>Siga boletins e atualizações oficiais da Defesa Civil</li>
+</ul>
+
+
+
+<p>Pequenas alterações na rota do ciclone podem intensificar ou reduzir impactos em regiões específicas. A recomendação é monitorar os avisos atualizados das autoridades.</p>
+
+
+
+<p><strong>Santa Catarina enfrenta um episódio meteorológico raro</strong>, marcado por pressão atmosférica extremamente baixa, ventos intensos e chuva volumosa. Entre segunda e quarta-feira, a preparação da população e dos órgãos públicos será fundamental para minimizar danos.</p>
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/meioambiente/sul-do-brasil-em-alerta-maximo-ciclone-deve-provocar-tornados/">Sul do Brasil em alerta máximo: ciclone deve provocar tornados e enxurradas nos próximos dias</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Mulher é presa no bairro Fortaleza por manter esquema de venda ilegal de emagrecedores e vapes]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129319</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:14:00 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129319</guid>
+    <description><![CDATA[Polícia encontrou medicamentos controlados na geladeira e grande estoque de cigarros eletrônicos; pena para venda de remédios sem registro pode chegar a 15 anos]]></description>
+    <content:encoded><![CDATA[<p>Polícia encontrou medicamentos controlados na geladeira e grande estoque de cigarros eletrônicos; pena para venda de remédios sem registro pode chegar a 15 anos</p>
+<p><p>Uma investigação sobre comércio ilegal na internet levou a Polícia Civil a estourar um ponto de distribuição de produtos proibidos em um apartamento no bairro Fortaleza, em <a href="https://portalmenina.com.br/noticias-blumenau/">Blumenau</a>. Uma mulher de 30 anos foi presa em flagrante na tarde desta sexta-feira (5).</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://chat.whatsapp.com/HwBRXCF7fy1KVlW3GYcdeR?mode=hqrt1"><img loading="lazy" decoding="async" width="970" height="90" src="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png" alt="" class="wp-image-129186" srcset="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png 970w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-800x74.png 800w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-120x11.png 120w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-90x8.png 90w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-320x30.png 320w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-560x52.png 560w" sizes="auto, (max-width: 970px) 100vw, 970px" /></a></figure>
+
+
+
+<p>A operação, conduzida pela Divisão de Investigação Criminal (DIC), cumpriu um mandado de busca na Rua Francisco Vahldieck. A suspeita já estava sendo monitorada por anunciar e vender os produtos online.</p>
+
+
+
+<h2 id="farmacia-clandestina-no-apartamento" class="wp-block-heading">&#8220;Farmácia&#8221; clandestina no apartamento</h2>
+
+
+
+<p>Ao entrarem no imóvel, os agentes encontraram um cenário que confirmava a denúncia. Havia uma grande quantidade de cigarros eletrônicos (vapes) espalhados pelos cômodos.</p>
+
+
+
+<p>Além dos dispositivos de fumar, que têm venda proibida no Brasil, a polícia encontrou medicamentos potentes para emagrecimento, incluindo Tirzepatida e Retatrutida, armazenados na geladeira. Nenhum dos produtos possuía procedência comprovada ou registro na Anvisa (Agência Nacional de Vigilância Sanitária).</p>
+
+
+
+<h2 id="venda-profissionalizada" class="wp-block-heading">Venda profissionalizada</h2>
+
+
+
+<p>O que chamou a atenção da polícia foi a organização do esquema. A mulher mantinha um caderno com a contabilidade detalhada das vendas e utilizava até sacolas personalizadas para entregar as encomendas, demonstrando que a atividade era sistemática e tratada como um negócio formal.</p>
+
+
+
+<p>Após os procedimentos na delegacia, a investigada foi encaminhada ao Presídio Regional de Blumenau, onde permanece à disposição da Justiça.</p>
+
+
+
+<p></p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Ciclone extratropical muda o tempo em SC e eleva riscos entre segunda e quarta]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129315</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 16:55:53 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129315</guid>
+    <description><![CDATA[Santa Catarina deve enfrentar mudanças significativas no tempo entre segunda, 8, e quarta-feira, 10, devido à aproximação e passagem de um ciclone extratropical. O sistema pode provocar temporais, ventos fortes, chuvas...]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina deve enfrentar mudanças significativas no tempo entre segunda, 8, e quarta-feira, 10, devido à aproximação e passagem de um ciclone extratropical. O sistema pode provocar temporais, ventos fortes, chuvas...</p>
+<p><p>Santa Catarina deve enfrentar mudanças significativas no tempo entre segunda, 8, e quarta-feira, 10, devido à aproximação e passagem de um ciclone extratropical. O sistema pode provocar temporais, ventos fortes, chuvas intensas, alagamentos e agitação marítima, com riscos variando conforme a região. Autoridades reforçam a importância de atenção às orientações de segurança e ao monitoramento meteorológico.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/ciclone-extratropical-muda-o-tempo-em-sc-e-eleva-riscos-entre-segunda-e-quarta/">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p>Antes da atuação do ciclone, o domingo será marcado por temperaturas acima dos 30°C em grande parte do estado. O calor e a umidade favorecem temporais isolados ao longo do dia.</p>
+
+
+
+<p>A aproximação do ciclone aumenta a nebulosidade e reduz ligeiramente as temperaturas. A partir da tarde, temporais atingem o Oeste, com chuva intensa, ventos fortes e possibilidade de granizo. O risco é alto entre o Grande Oeste e o Planalto Norte, com chance de alagamentos, enxurradas, destelhamentos e queda de árvores. Do Planalto Sul ao Vale do Itajaí, o risco é moderado; no litoral, temporais isolados mantêm risco baixo.</p>
+
+
+
+<p><strong>Leia também:</strong> <strong><a href="https://portalmenina.com.br/rompimento-na-rede-paralisa-estacao-de-tratamento-e-pode-causar-falta-de-agua-em-varios-bairros-de-balneario-camboriu-neste-sabado/">Rompimento na rede paralisa Estação de Tratamento e pode causar falta de água em vários bairros de Balneário Camboriú neste sábado</a></strong></p>
+
+
+
+<p>O sistema atua sobre todo o estado desde a madrugada, elevando o risco de alagamentos e enxurradas em todas as regiões. As temperaturas caem e ficam próximas dos 20°C. No litoral, o vento de nordeste se intensifica à tarde e provoca agitação marítima, com ondas entre 2,0 e 2,5 metros e picos de até 3 metros entre a Grande Florianópolis e o Litoral Sul.</p>
+
+
+
+<p>Com o ciclone avançando para o alto mar, a chuva diminui, mas os ventos ganham força no Meio-Oeste, Planaltos, Vale do Itajaí e litoral. Rajadas podem variar entre 70 e 90 km/h, com valores maiores em áreas elevadas. Há risco de destelhamentos, queda de árvores e danos na rede elétrica.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/BQgz3zpryrxEvV6pNGfLua">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<p>As recomendações incluem evitar vias alagadas, reforçar a proteção de objetos soltos, manter distância de áreas com risco de queda de galhos e buscar abrigo durante períodos de vendaval.</p>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765125985875 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="ZFo545WOB9"><a href="https://portalmenina.com.br/historico-brasil-vence-portugal-e-conquista-a-primeira-copa-do-mundo-de-futsal-feminino/">HISTÓRICO! Brasil vence Portugal e conquista a primeira Copa do Mundo de Futsal Feminino</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;HISTÓRICO! Brasil vence Portugal e conquista a primeira Copa do Mundo de Futsal Feminino&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/historico-brasil-vence-portugal-e-conquista-a-primeira-copa-do-mundo-de-futsal-feminino/embed/#?secret=iGgWUTcAjO#?secret=ZFo545WOB9" data-secret="ZFo545WOB9" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="02EBPPQ5Xo"><a href="https://portalmenina.com.br/homem-acolhido-na-casa-de-passagem-morre-apos-mal-subito-em-balneario-camboriu/">Homem acolhido na Casa de Passagem morre após mal súbito em Balneário Camboriú</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Homem acolhido na Casa de Passagem morre após mal súbito em Balneário Camboriú&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/homem-acolhido-na-casa-de-passagem-morre-apos-mal-subito-em-balneario-camboriu/embed/#?secret=owQd16DMGk#?secret=02EBPPQ5Xo" data-secret="02EBPPQ5Xo" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[HISTÓRICO! Brasil vence Portugal e conquista a primeira Copa do Mundo de Futsal Feminino]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129311</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 13:36:59 +0000</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129311</guid>
+    <description><![CDATA[A Seleção Brasileira de futsal feminino escreveu seu nome na história neste domingo, 7, ao conquistar o título da primeira edição da Copa do Mundo da modalidade, com campanha perfeita: seis jogos, seis vitórias.]]></description>
+    <content:encoded><![CDATA[<p>A Seleção Brasileira de futsal feminino escreveu seu nome na história neste domingo, 7, ao conquistar o título da primeira edição da Copa do Mundo da modalidade, com campanha perfeita: seis jogos, seis vitórias.</p>
+<p><p>A Seleção Brasileira de futsal feminino escreveu seu nome na história neste domingo, 7, ao conquistar o título da primeira edição da Copa do Mundo da modalidade, com campanha perfeita: seis jogos, seis vitórias.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/historico-brasil-vence-portugal-e-conquista-a-primeira-copa-do-mundo-de-futsal-feminino//">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p>Na grande final, o Brasil superou a forte equipe de Portugal por 3 a 0, em uma atuação de gala. O primeiro tempo foi equilibrado, mas a Seleção Canarinha soube aproveitar melhor as oportunidades e abriu o placar após bela tabela entre Ana Luiza e Emilly, que finalizou de canhota no ângulo da goleira Ana Catarina.</p>
+
+
+
+<p><strong>Leia também:</strong> <strong><a href="https://portalmenina.com.br/rompimento-na-rede-paralisa-estacao-de-tratamento-e-pode-causar-falta-de-agua-em-varios-bairros-de-balneario-camboriu-neste-sabado/">Rompimento na rede paralisa Estação de Tratamento e pode causar falta de água em vários bairros de Balneário Camboriú neste sábado</a></strong></p>
+
+
+
+<p>Na etapa final, o Brasil seguiu dominando as ações. Amandinha ampliou o marcador com um golaço, encobrindo a goleira adversária. Já nos minutos finais, Débora Vanin aproveitou o goleiro-linha português e marcou o terceiro, sacramentando a conquista inédita.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/BQgz3zpryrxEvV6pNGfLua">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765114585611 halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="vA7VSfwOk1"><a href="https://portalmenina.com.br/dois-homens-morrem-apos-motocicleta-colidir-em-caminhao-parado-na-sc-414-em-navegantes/">Dois homens morrem após motocicleta colidir em caminhão parado na SC-414, em Navegantes</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Dois homens morrem após motocicleta colidir em caminhão parado na SC-414, em Navegantes&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/dois-homens-morrem-apos-motocicleta-colidir-em-caminhao-parado-na-sc-414-em-navegantes/embed/#?secret=9frXMQfGpw#?secret=vA7VSfwOk1" data-secret="vA7VSfwOk1" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="38sPPSHr8L"><a href="https://portalmenina.com.br/condutor-foge-apos-bater-carro-em-poste-na-sc-414-em-navegantes/">Condutor foge após bater carro em poste na SC-414, em Navegantes</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;Condutor foge após bater carro em poste na SC-414, em Navegantes&#8221; &#8212; Portal Menina" src="https://portalmenina.com.br/condutor-foge-apos-bater-carro-em-poste-na-sc-414-em-navegantes/embed/#?secret=TvHGTSJxUs#?secret=38sPPSHr8L" data-secret="38sPPSHr8L" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20246</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 05 Dec 2025 20:56:02 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20246</guid>
+    <description><![CDATA[Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu A atleta Yasmin Fortuna,... The post Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu appeared first on Hora de...]]></description>
+    <content:encoded><![CDATA[<p>Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu A atleta Yasmin Fortuna,... The post Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu appeared first on Hora de...</p>
+<p><p>Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu</p>
+<p>A atleta Yasmin Fortuna, de 16 anos, natural de Bombinhas, voltou a brilhar no cenário do jiu-jitsu internacional. Representando a FME Bombinhas, a Fesporte e seus patrocinadores no Campeonato Sul-Americano de Jiu-Jitsu da IBJJF realizado em São Paulo, conquistando mais um resultado expressivo ao sagrar-se Vice Campeã sul-americana.</p>
+<p>Integrante da renomada Checkmat HQ, Equipe1 dos professores Sebastian e Letícia Lali, Yasmin vem construindo uma trajetória marcada por disciplina, foco e resultados consistentes. Mesmo muito jovem, a atleta já soma importantes títulos nacionais e internacionais, consolidando-se como uma das grandes promessas do jiu-jitsu catarinense.</p>
+<p>A conquista em São Paulo reforça não apenas seu talento, mas também a importância do apoio que recebe da FME Bombinhas, da Fesporte e dos patrocinadores , que acreditam no potencial da atleta. Yasmin segue treinando em ritmo intenso e se preparando para temporada de 2026 que começa com o Campeonato Europeu que acontecerá entre os dias 15 a 25 de janeiro em Lisboa, Portugal onde vai continuar representando o município e o estado com dedicação e orgulho, levando o nome de Bombinhas ao pódio das principais competições do mundo.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/05/atleta-bombinense-yasmin-fortuna-e-vice-campea-no-sul-americano-de-jiu-jitsu/">Atleta bombinense Yasmin Fortuna é vice campeã no Sul-Americano de Jiu-Jitsu</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[HOMENS SÃO PRESOS POR ATOS OBSCENOS E VIAS DE FATO]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20243</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 05 Dec 2025 19:36:58 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20243</guid>
+    <description><![CDATA[Na tarde de ontem (04), a Guarda Municipal de Porto Belo foi acionada pela Central... The post HOMENS SÃO PRESOS POR ATOS OBSCENOS E VIAS DE FATO appeared first on Hora de Porto Belo.]]></description>
+    <content:encoded><![CDATA[<p>Na tarde de ontem (04), a Guarda Municipal de Porto Belo foi acionada pela Central... The post HOMENS SÃO PRESOS POR ATOS OBSCENOS E VIAS DE FATO appeared first on Hora de Porto Belo.</p>
+<p><p>Na tarde de ontem (04), a Guarda Municipal de Porto Belo foi acionada pela Central para atender a uma denúncia de atos obscenos nas proximidades da Escola Estadual Tiradentes. Segundo relatos, dois homens teriam abaixado suas vestes inferiores e mostrado as nádegas aos alunos da instituição.</p>
+<p>Durante o deslocamento, a guarnição foi abordada por uma vítima, que relatou ter sido agredido pelos mesmos indivíduos. A vítima informou que a agressão ocorreu devido à cor de sua camiseta, que os suspeitos associaram de forma equivocada a um partido político.</p>
+<p>A Guarda Municipal realizou buscas na região e localizou os suspeitos, que apresentavam comportamento bastante alterado e negavam os fatos. No entanto, imagens comprobatórias foram apresentadas e a vítima manifestou interesse em representar.</p>
+<p>Diante disso, os autores foram detidos e encaminhados à Delegacia de Polícia Civil para os procedimentos legais cabíveis.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/05/homens-sao-presos-por-atos-obscenos-e-vias-de-fato/">HOMENS SÃO PRESOS POR ATOS OBSCENOS E VIAS DE FATO</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[POLÍCIA CIVIL INVESTIGA CONFRONTO ENTRE TORCIDAS ORGANIZADAS NA BR-101 EM ITAPEMA]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20240</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 05 Dec 2025 11:50:05 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20240</guid>
+    <description><![CDATA[&#160; A Polícia Civil de Santa Catarina, por meio da Delegacia de Itapema investiga a... The post POLÍCIA CIVIL INVESTIGA CONFRONTO ENTRE TORCIDAS ORGANIZADAS NA BR-101 EM ITAPEMA appeared first on Hora de Porto Belo.]]></description>
+    <content:encoded><![CDATA[<p>&#160; A Polícia Civil de Santa Catarina, por meio da Delegacia de Itapema investiga a... The post POLÍCIA CIVIL INVESTIGA CONFRONTO ENTRE TORCIDAS ORGANIZADAS NA BR-101 EM ITAPEMA appeared first on Hora de Porto Belo.</p>
+<p><p>&nbsp;</p>
+<p>A Polícia Civil de Santa Catarina, por meio da Delegacia de Itapema investiga a confusão envolvendo integrantes de duas torcidas organizadas na manhã desta quinta-feira (04/12), na BR-101, altura do km 148, em Itapema.<br />
+A ocorrência foi inicialmente atendida pela Polícia Rodoviária Federal (PRF) e pela Polícia Militar (PM), por volta das 11h30, após um grupo de torcedores do Santos interceptar o ônibus que transportava torcedores do Internacional, dando início a um confronto.</p>
+<p>Ao todo, 10 torcedores foram conduzidos à Delegacia de Polícia da Comarca de Itapema para os procedimentos cabíveis.<br />
+Desses, quatro foram presos por roubo, pois estavam na posse de objetos pertencentes à torcida adversária.</p>
+<p>No momento, os envolvidos seguem sendo ouvidos pela equipe policial, e a ocorrência permanece em andamento, com a Polícia Civil adotando todas as medidas necessárias para esclarecer os fatos e identificar demais participantes do confronto. Cinco seriam encaminhados ao presídio de Itapema.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/05/policia-civil-investiga-confronto-entre-torcidas-organizadas-na-br-101-em-itapema/">POLÍCIA CIVIL INVESTIGA CONFRONTO ENTRE TORCIDAS ORGANIZADAS NA BR-101 EM ITAPEMA</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Sessão solene encerra legislatura da Câmara Mirim]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20237</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 05 Dec 2025 00:46:04 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20237</guid>
+    <description><![CDATA[Programa fecha 2025 com homenagens a profissionais da rede municipal de ensino A Câmara Mirim... The post Sessão solene encerra legislatura da Câmara Mirim appeared first on Hora de Porto Belo.]]></description>
+    <content:encoded><![CDATA[<p>Programa fecha 2025 com homenagens a profissionais da rede municipal de ensino A Câmara Mirim... The post Sessão solene encerra legislatura da Câmara Mirim appeared first on Hora de Porto Belo.</p>
+<p><p>Programa fecha 2025 com homenagens a profissionais da rede municipal de ensino</p>
+<p>A Câmara Mirim de Porto Belo fez na noite desta terça-feira (2) a última sessão do ano. E não foi uma sessão qualquer, mas a primeira solenidade promovida pelo programa instituído em 2019 para aproximar a comunidade escolar do Legislativo. Na presença de familiares, de seus professores e diretores, dos vereadores adultos e da secretária municipal da Educação, Adriana Schimiguel, os vereadores e vereadoras mirins fizeram homenagens, falaram dos pouco mais de sete meses de experiência no parlamento e também foram festejados pela participação.</p>
+<p>“Esse projeto me ensinou que as pessoas sempre vão ter ideias diferentes, que é preciso entender as pessoas e perceber que isso é necessário”, disse na tribuna Maria Cecília dos Santos, vereadora mirim representante do 8º ano da Escola Municipal Professora Nair Rebelo dos Santos. “É uma experiência que vai ser essencial na nossa vida”, resumiu Jorge Lopes Silva, do 9º ano da Escola Municipal Olinda Peixoto. “Foi uma experiência que me fez crescer e aprender a ver a importância dos jovens na construção de um futuro melhor”, discursou Alexa Adriano, presidente da mesa diretora mirim e aluna do 9º ano do Colégio Cepavi.</p>
+<p>“É uma geração escolada”, elogiou Cristiani de Jesus, presidente da Fundação Municipal de Cultura e condutora do cerimonial da noite. Adriana Schimiguel brincou com o fato de ter recebido, ao longo do ano, “muitas cartinhas” dos vereadores mirins — no caso, indicações e requerimentos encaminhados a sua pasta com solicitações de melhorias: “Bem pontuais, bem maduras”, considerou. A secretária desejou ainda que os jovens sigam trilhando o caminho da política institucional: “A semente foi lançada e é com isso que a gente conta”.</p>
+<p>Os vereadores mirins fizeram homenagens a escolas, gestores e professores que tiveram atuação marcante em suas trajetórias. Cecília Mafra, vereadora mirim do 8º B da escola Nair Rebelo, indicou como homenageado Fábio Henrique Pitoli, 29 anos de idade, técnico judiciário da Justiça Federal de Santa Catarina, que entre abril de 2023 e dezembro de 2024 deu aulas de direito aos estudantes da Nair. Para ele, a iniciativa da Câmara, “além de fantástica e belíssima, é necessária”.</p>
+<p>Segundo Fábio, Porto Belo foi pioneiro na introdução da disciplina de direito na base curricular municipal. No período em que esteve na escola do bairro Vila Nova, o advogado lecionou para mais de 500 alunos por ano letivo, o que, por se tratar de uma experiência inovadora, fez com que o aprendizado caminhasse em mão dupla.</p>
+<p>“Acho que não há elogio maior a um professor do que um aluno que diz ao seu professor que sente falta de suas aulas. Me alegra muito saber que a Cecília me considerou digno de uma homenagem. Meu sentimento é de missão cumprida!”, destacou.</p>
+<p>Responsável pela coordenação do programa Vereador e Vereadora Mirim na atual legislatura, o vereador Rodrigo Borba (União) fez um balanço do trabalho, que classificou como tendo sido “desafiador”. Ele descreveu as atividades realizadas durante o ano, com destaque para a participação de Porto Belo no 14º Encontro Estadual do Vereador Mirim, em Florianópolis, do qual os mirins do município voltaram com um troféu de melhor projeto apresentado (um censo animal nas escolas).</p>
+<p>“Todo esse trabalho foi muito válido, porque o debate aconteceu, eles entenderam qual é o papel do vereador, que as divergências existem, mas eles conseguiram entender que podem defender uma ideia, um projeto”, afirmou. Rodrigo agradeceu o apoio prestado pelo presidente da Câmara, vereador Willian Ismael dos Santos (Progressistas). Willian, por sua vez, reconheceu o “excelente trabalho” da coordenação, em sua avaliação, desempenhado com extrema dedicação: “Estão de parabéns”, concluiu.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/05/sessao-solene-encerra-legislatura-da-camara-mirim/">Sessão solene encerra legislatura da Câmara Mirim</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[AÇÃO INTEGRADA: POLÍCIA CIVIL DE ITAPEMA CUMPRE MANDADO EM APOIO À PC DE SÃO PAULO E APREENDE FERRARI AVALIADA EM MAIS DE R$ 5 MILHÕES]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20234</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 04 Dec 2025 09:38:16 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20234</guid>
+    <description><![CDATA[&#160; A Polícia Civil de Itapema cumpriu, na tarde desta quarta-feira (03), um mandado de... The post AÇÃO INTEGRADA: POLÍCIA CIVIL DE ITAPEMA CUMPRE MANDADO EM APOIO À PC DE SÃO PAULO E APREENDE FERRARI AVALIADA EM...]]></description>
+    <content:encoded><![CDATA[<p>&#160; A Polícia Civil de Itapema cumpriu, na tarde desta quarta-feira (03), um mandado de... The post AÇÃO INTEGRADA: POLÍCIA CIVIL DE ITAPEMA CUMPRE MANDADO EM APOIO À PC DE SÃO PAULO E APREENDE FERRARI AVALIADA EM...</p>
+<p><p>&nbsp;</p>
+<p>A Polícia Civil de Itapema cumpriu, na tarde desta quarta-feira (03), um mandado de busca e apreensão em apoio à Polícia Civil do Estado de São Paulo, resultando na apreensão de um veículo de luxo — uma Ferrari avaliada em mais de R$ 5 milhões.</p>
+<p>A ação ocorreu após a expedição do mandado pela Justiça paulista, expedido a partir de representação da autoridade policial responsável pela investigação. O veículo foi localizado e apreendido pela equipe da Polícia Civil de Itapema, que atuou de forma integrada com os policiais de São Paulo para dar cumprimento à determinação judicial.</p>
+<p>A operação reforça o trabalho conjunto entre as forças de segurança dos dois estados e demonstra a eficiência da cooperação interestadual no combate a crimes de alta complexidade.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/04/acao-integrada-policia-civil-de-itapema-cumpre-mandado-em-apoio-a-pc-de-sao-paulo-e-apreende-ferrari-avaliada-em-mais-de-r-5-milhoes/">AÇÃO INTEGRADA: POLÍCIA CIVIL DE ITAPEMA CUMPRE MANDADO EM APOIO À PC DE SÃO PAULO E APREENDE FERRARI AVALIADA EM MAIS DE R$ 5 MILHÕES</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Som&Sol encerra o ano com edição especial em Tijucas neste domingo]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20231</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 04 Dec 2025 09:26:42 +0000</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20231</guid>
+    <description><![CDATA[Projeto começou na cidade há oito anos e está rodando o estado para celebrar essa... The post Som&#038;Sol encerra o ano com edição especial em Tijucas neste domingo appeared first on Hora de Porto Belo.]]></description>
+    <content:encoded><![CDATA[<p>Projeto começou na cidade há oito anos e está rodando o estado para celebrar essa... The post Som&#038;Sol encerra o ano com edição especial em Tijucas neste domingo appeared first on Hora de Porto Belo.</p>
+<p><p>Projeto começou na cidade há oito anos e está rodando o estado para celebrar essa história, escrita em mais de 80 edições já realizadas. Dia será repleto de atrações culturais gratuitas para toda a família</p>
+<p>Em 2017, o Som&amp;Sol surgiu em Tijucas, de maneira independente e com a proposta de levar cultura a espaços públicos. Agora, mais de 80 edições depois, o projeto está circulando pelo estado para celebrar essa história e nada mais justo do que encerrar o ano na cidade em que ela começou. No próximo domingo (7), o evento retorna ao Casarão Gallotti com extensa programação que reúne música, feira criativa, intervenções artísticas e boa gastronomia. Totalmente gratuito, o evento inicia ao meio dia e segue até às 22h.</p>
+<p>Para animar as dez horas de programação, não pode faltar boa música, claro. O palco Música na Rua será agraciado com o forró da dupla Flor de Cacto, depois se apresentam os alunos da Musicalize Escola de Música, seguidos pela prata da casa, a banda Mangavas, que sempre exalta Tijucas em suas canções autorais e pelo suingue da banda florianopolitana Reis do Nada. Na sequência, o palco abre espaço para o humor do Mané Darci, personagem que homenageia a cultura do litoral catarinense. Em seguida, acontece a apresentação da banda Starfix, com participação especial de Moriel Costa, guitarrista, vocalista e principal compositor do Dazaranha. Para encerrar a programação do palco, o DJ Bruno Juliano espalha a boa música pelos jardins do Casarão Gallotti.</p>
+<p>Abrilhantando o evento, a feira da economia criativa reúne aproximadamente 50 marcas autorais de acessórios, moda, decoração, antiguidades e artesanato. Este é um dos destaques do Som&amp;Sol, que, durante todos esses anos, tem aberto espaço para o fortalecimento e consolidação de pequenos negócios do segmento cultural, favorecendo a geração de renda para esses trabalhadores.</p>
+<p>O Espaço Plural é dedicado ao aprendizado, onde o público poderá participar gratuitamente de uma série de oficinas ao longo do dia. Para as crianças, o Espaço Criançada terá intervenções artísticas com a Cia Circo-íris, com o projeto Musicalizando com Sucata e o Auto do Boi de Mamão, da Cia. Teatral EmCena.</p>
+<p>Além de todas essas atrações, o evento ainda terá um espaço de flash tattoo, espaço pet e feira de adoção de animais, além do espaço gastronômico, com excelentes opções de comida e chopp artesanal.</p>
+<p>O projeto Som&amp;Sol é realizado pela ABP Eventos, por meio do Programa de Incentivo à Cultura, o PIC, do Governo do Estado de Santa Catarina, aprovado pela Fundação Catarinense de Cultura (FCC), com incentivo de Brasil Atacadista e Supermercados Imperatriz, e com apoio da Usina Cultural e da Prefeitura de Tijucas, através da Secretaria de Cultura, Juventude e Turismo.</p>
+<p>Serviço:<br />
+O quê: Projeto Som&amp;Sol;<br />
+Onde: Casarão Gallotti &#8211; Rua Maria Gallotti, 183. Centro &#8211; Tijucas (SC);<br />
+Quando: Dia 7 de dezembro (domingo), das 12h às 22h;<br />
+Quanto: evento gratuito.</p>
+<p>Fotos: Bárbara Tomasia e Isadora Manerich.</p>
+<p>The post <a href="https://horadeportobelo.com.br/2025/12/04/somsol-encerra-o-ano-com-edicao-especial-em-tijucas-neste-domingo/">Som&#038;Sol encerra o ano com edição especial em Tijucas neste domingo</a> appeared first on <a href="https://horadeportobelo.com.br">Hora de Porto Belo</a>.</p></p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+    <wfw:commentRss></wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
