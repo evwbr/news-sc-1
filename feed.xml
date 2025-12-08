@@ -1,181 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  >
-
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Notícias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Mon, 08 Dec 2025 12:21:23 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Mon, 08 Dec 2025 12:21:41 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Dois homens morrem atropelados por veículo tipo gaiola em Camboriú]]></title>
-		<link>https://visornoticias.com.br/dois-homens-morrem-atropelados-por-veiculo-tipo-gaiola-em-camboriu/</link>
-		<comments>https://visornoticias.com.br/dois-homens-morrem-atropelados-por-veiculo-tipo-gaiola-em-camboriu/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 12:04:56 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313440</guid>
+<item>
+<title><![CDATA[Homem é preso após incendiar carro da ex-companheira em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/homem-incendeia-carro-da-ex-companheira-apos-discussao-em-santa-catarina/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 12:14:05 GMT</pubDate>
+<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313446</guid>
+<description><![CDATA[Um homem foi detido em flagrante após incendiar o veículo da ex-companheira, que sofreu destruição total, em Santa Catarina.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Dois homens perderam a vida após serem atropelados por um veículo tipo gaiola em Camboriú. O motorista e os responsáveis pelo veículo não estavam no local no momento do acidente.]]></description>
-		<content:encoded><![CDATA[<p>Uma tragédia foi registrada em Camboriú, no Litoral Norte de Santa Catarina, onde dois homens foram fatalmente atropelados por um veículo tipo gaiola. As circunstâncias do acidente ainda estão sendo apuradas pelas autoridades locais.</p><p>Segundo informações preliminares, o motorista do veículo e os responsáveis não estavam presentes no local do acidente quando as vítimas foram atropeladas. A Polícia Civil investiga o caso para identificar as circunstâncias que levaram ao ocorrido e os envolvidos.</p><p>O episódio impacta a comunidade local, que tem buscado reforçar a segurança no trânsito, especialmente em áreas de tráfego intenso e com circulação de veículos off-road.</p><p>Moradores e visitantes da região de Camboriú acompanham o desenrolar da investigação, enquanto as autoridades reforçam a importância da atenção e respeito às normas de trânsito para evitar novos acidentes.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/dois-homens-morrem-atropelados-por-veiculo-tipo-gaiola-em-camboriu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Dois homens morrem atropelados por veículo tipo gaiola em Camboriú]]></title>
+<link>https://visornoticias.com.br/dois-homens-morrem-atropelados-por-veiculo-tipo-gaiola-em-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 12:04:56 GMT</pubDate>
+<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313440</guid>
+<description><![CDATA[Dois homens perderam a vida após serem atropelados por um veículo tipo gaiola em Camboriú. O motorista e os responsáveis pelo veículo não estavam no local no momento do acidente.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Ciclone extratropical muda clima no Vale do Itajaí e Litoral Norte entre segunda e quarta-feira]]></title>
-		<link>https://portalmenina.com.br/ciclone-extratropical-deve-afetar-tempo-no-vale-do-itajai-entre-segunda-e-quarta-feira/</link>
-		<comments>https://portalmenina.com.br/ciclone-extratropical-deve-afetar-tempo-no-vale-do-itajai-entre-segunda-e-quarta-feira/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:57:51 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129352</guid>
+<item>
+<title><![CDATA[Ciclone extratropical muda clima no Vale do Itajaí e Litoral Norte entre segunda e quarta-feira]]></title>
+<link>https://portalmenina.com.br/ciclone-extratropical-deve-afetar-tempo-no-vale-do-itajai-entre-segunda-e-quarta-feira/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 11:57:51 GMT</pubDate>
+<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129352</guid>
+<description><![CDATA[Depois de um domingo quente com temperaturas acima dos 30°C, um ciclone extratropical começa a afetar o tempo em Santa Catarina, provocando temporais, queda de temperatura e ventos fortes entre segunda (8) e quarta-feira (10).]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Depois de um domingo quente com temperaturas acima dos 30°C, um ciclone extratropical começa a afetar o tempo em Santa Catarina, provocando temporais, queda de temperatura e ventos fortes entre segunda (8) e quarta-feira (10).]]></description>
-		<content:encoded><![CDATA[<p>O calor intenso do domingo deve dar lugar a uma virada rápida no clima do Vale do Itajaí e do Litoral Norte catarinense. A partir desta segunda-feira (8), um ciclone extratropical começa a atuar sobre a região, trazendo risco de temporais, granizo e vendavais, conforme alertas divulgados para todo o estado.</p><p>Nesta segunda, o dia ainda terá sol e temperaturas elevadas, com sensação de abafamento. Contudo, a instabilidade se intensifica especialmente nas áreas do Vale do Itajaí e Planalto Sul, onde o risco para ocorrências relacionadas ao mau tempo é considerado moderado.</p><p>O cenário se agrava na terça-feira, quando o ciclone avança sobre Santa Catarina. O tempo permanece fechado desde as primeiras horas, com possibilidade de chuva forte e volumosa. Há risco elevado de alagamentos e enxurradas nas regiões continentais e no litoral, incluindo cidades como Balneário Camboriú, Itajaí, Navegantes, Porto Belo e Bombinhas.</p><p>Além da chuva, as rajadas de vento podem alcançar níveis intensos, exigindo atenção especial para possíveis transtornos. O calor dará lugar a temperaturas mais amenas, caindo para cerca de 20°C, alterando significativamente a sensação térmica da população local.</p><p>O ciclone deve continuar influenciando o clima até quarta-feira (10), quando a tendência é de gradual melhora nas condições meteorológicas. Moradores e visitantes das cidades do Litoral Norte e região do Vale do Itajaí devem acompanhar as atualizações dos órgãos oficiais para medidas preventivas diante do período instável.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/ciclone-extratropical-deve-afetar-tempo-no-vale-do-itajai-entre-segunda-e-quarta-feira/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[ROMU de Itapema estoura entrega e encontra “depósito” de drogas]]></title>
+<link>https://jornalrazao.com/seguranca/romu-de-itapema-estoura-entrega-e-encontra-deposito-de-drogas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[Alto São Bento]]></category>
+<category><![CDATA[apreensão de drogas]]></category>
+<category><![CDATA[Romu]]></category>
+<category><![CDATA[Estoura]]></category>
+<category><![CDATA[Entrega]]></category>
+<category><![CDATA[Encontra]]></category>
+<category><![CDATA[Depósito]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 11:54:15 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=171938</guid>
+<description><![CDATA[A ROMU (Ronda Ostensiva Municipal) de Itapema realizou uma apreensão de mais de 23 quilos de drogas após flagrar uma entrega em via pública no fim de semana. A ação ocorreu na Rua 906, no bairro Alto São Bento, durante um patrulhamento preventivo da equipe.]]></description>
+<content:encoded><![CDATA[<strong>A ROMU (Ronda Ostensiva Municipal) de Itapema realizou uma apreensão de mais de 23 quilos de drogas após flagrar uma entrega em via pública no fim de semana. A ação ocorreu na Rua 906, no bairro Alto São Bento, durante um patrulhamento preventivo da equipe. A movimentação suspeita foi identificada após uma denúncia anônima que apontava um casal circulando em uma motocicleta vermelha e realizando entregas suspeitas nas proximidades da Secretaria de Educação.</strong><br/><br/>Ao localizar o veículo, os guardas observaram um homem prestes a receber a droga, que fugiu ao avistar a viatura, deixando apenas o casal na motocicleta. O condutor tentou escapar da abordagem, mas foi alcançado e detido com uma porção de maconha. Ele admitiu realizar a venda de entorpecentes e indicou a presença de mais drogas em sua residência. Com autorização, os agentes foram até o endereço informado e encontraram aproximadamente 23 kg de maconha, um quilo de substância semelhante à MDMA, cerca de 700 comprimidos com características de ecstasy, 320 papelotes de LSD, além de materiais para fracionamento e pesagem, e um caderno com anotações do tráfico. O casal foi detido e encaminhado à Delegacia de Polícia Civil, juntamente com todo o material apreendido, para os procedimentos legais.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-	<item>
-		<title><![CDATA[Itajaí se prepara para entrar no circuito internacional de tênis com lançamento oficial do Itajaí Open]]></title>
-		<link>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/</link>
-		<comments>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:53:05 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129351</guid>
+<item>
+<title><![CDATA[Lançamento do Itajaí Open marca entrada da cidade no circuito internacional da ATP em 2026]]></title>
+<link>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Comunidade]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Esporte]]></category>
+<category><![CDATA[Lançamento]]></category>
+<category><![CDATA[Itajaí]]></category>
+<category><![CDATA[Open]]></category>
+<category><![CDATA[Marca]]></category>
+<category><![CDATA[Entrada]]></category>
+<category><![CDATA[Cidade]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 11:53:05 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129351</guid>
+<description><![CDATA[O lançamento oficial do Itajaí Open de Tênis, torneio ATP Challenger 75 que integrará o circuito profissional mundial em 2026, ocorrerá nesta terça-feira, dia 9, às 9h, no Paço Municipal de Itajaí. O evento contará com a presença de autoridades, dirigentes esportivos, atletas e imprensa, marcando o início da preparação para o campeonato que será realizado de 18 a 25 de janeiro de 2026, no Itamirim Clube de Campo, sede oficial da competição.]]></description>
+<content:encoded><![CDATA[<strong>O lançamento oficial do Itajaí Open de Tênis, torneio ATP Challenger 75 que integrará o circuito profissional mundial em 2026, ocorrerá nesta terça-feira, dia 9, às 9h, no Paço Municipal de Itajaí. O evento contará com a presença de autoridades, dirigentes esportivos, atletas e imprensa, marcando o início da preparação para o campeonato que será realizado de 18 a 25 de janeiro de 2026, no Itamirim Clube de Campo, sede oficial da competição. Com uma premiação total de US$107 mil e 75 pontos no ranking da ATP destinados ao campeão, a expectativa é atrair jogadores brasileiros e estrangeiros para a disputa, abrindo a temporada esportiva de tênis no país.</strong><br/><br/>A organização do Itajaí Open destaca que a competição posicionará a cidade como um destino capaz de sediar eventos esportivos internacionais de alto nível, com impactos positivos na visibilidade local, na economia e no turismo. O lançamento contará com a presença dos tenistas profissionais Felipe Meligeni, Eduardo Ribeiro e Marcelo Zormann, além de representantes da Confederação Brasileira de Tênis (CBT), da Federação Catarinense de Tênis (FCT), do Instituto Sports e de autoridades municipais, que apresentarão os detalhes da estrutura do torneio e os preparativos para a primeira edição, que marcará o início do calendário profissional do tênis no Brasil em 2026.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[A partir de 2026, Itajaí será palco do Itajaí Open, torneio ATP Challenger 75 que vai integrar o calendário mundial do tênis, atraindo atletas e movimentando a economia local.]]></description>
-		<content:encoded><![CDATA[<p>O lançamento oficial do Itajaí Open de Tênis, evento que inaugura a entrada da cidade no circuito profissional internacional, será realizado na próxima terça-feira, 9, às 9h, no Paço Municipal de Itajaí. O encontro reunirá autoridades locais, dirigentes esportivos, atletas profissionais e imprensa para apresentar detalhes da competição.</p><p>O torneio está marcado para ocorrer entre 18 e 25 de janeiro de 2026, no Itamirim Clube de Campo, escolhido como sede da disputa. Com premiação total de US$ 107 mil e 75 pontos no ranking da ATP para o campeão, o evento pretende atrair jogadores brasileiros e estrangeiros, abrindo a temporada nacional de tênis.</p><p>Além de promover uma competição de alto nível, o Itajaí Open contribuirá para posicionar a cidade como um destino apto a sediar eventos esportivos de grande porte, gerando impacto positivo na visibilidade, turismo e economia da região do Litoral Norte catarinense.</p><p>Durante o lançamento, estarão presentes os tenistas profissionais Felipe Meligeni, Eduardo Ribeiro e Marcelo Zormann, além de representantes da Confederação Brasileira de Tênis (CBT), da Federação Catarinense de Tênis (FCT), do Instituto Sports e autoridades municipais.</p><p>O evento contará com um coquetel de apresentação, no qual serão detalhadas a estrutura do torneio e os preparativos para a primeira edição, que terá papel central na abertura oficial do calendário profissional do tênis no Brasil em 2026.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Itajaí se prepara para entrar no circuito internacional de tênis com lançamento oficial do Itajaí Open]]></title>
+<link>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 11:53:05 GMT</pubDate>
+<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129351</guid>
+<description><![CDATA[A partir de 2026, Itajaí será palco do Itajaí Open, torneio ATP Challenger 75 que vai integrar o calendário mundial do tênis, atraindo atletas e movimentando a economia local.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Itapema celebra sucesso do Circuito Mundial de Vôlei de Praia com público de 25 mil e confirma novo evento em 2026]]></title>
-		<link>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/</link>
-		<comments>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:47:02 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313431</guid>
+<item>
+<title><![CDATA[Itapema celebra sucesso do Circuito Mundial de Vôlei de Praia com público de 25 mil e confirma novo evento em 2026]]></title>
+<link>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 11:47:02 GMT</pubDate>
+<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313431</guid>
+<description><![CDATA[Itapema recebeu 25 mil pessoas durante a etapa do Circuito Mundial de Vôlei de Praia, impulsionando o turismo local e a economia criativa, além de garantir a realização do evento novamente em 2026.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Itapema recebeu 25 mil pessoas durante a etapa do Circuito Mundial de Vôlei de Praia, impulsionando o turismo local e a economia criativa, além de garantir a realização do evento novamente em 2026.]]></description>
-		<content:encoded><![CDATA[<p>O litoral de Itapema foi palco de uma das principais competições esportivas do vôlei de praia, reunindo um público estimado em 25 mil pessoas ao longo das disputas. O evento fortaleceu o turismo regional e movimentou o comércio e a economia criativa da cidade durante os dias de competição.</p><p>A realização do Circuito Mundial em Itapema reforçou o protagonismo esportivo do município no cenário nacional e internacional. A estrutura montada na Orla da Praia Central ofereceu espaço adequado tanto para atletas quanto para visitantes, proporcionando uma experiência completa.</p><p>Além dos benefícios econômicos imediatos, a presença do evento também trouxe visibilidade para Itapema, que agora confirma a próxima edição do Circuito Mundial de Vôlei de Praia para 2026, consolidando o município como destino regular para grandes eventos esportivos.</p><p>O impacto positivo alcançado reflete na geração de empregos temporários, valorização do esporte local e aumento da ocupação hoteleira, proporcionando um ambiente favorável para o desenvolvimento sustentável do turismo no Litoral Norte de Santa Catarina.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[DELEGACIA MÓVEL DA POLÍCIA CIVIL MARCA PRESENÇA NO CIRCUITO BRASILEIRO E MUNDIAL DE VÔLEI DE PRAIA EM ITAPEMA]]></title>
+<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Policial]]></category>
+<category><![CDATA[Delegacia]]></category>
+<category><![CDATA[Móvel]]></category>
+<category><![CDATA[Polícia]]></category>
+<category><![CDATA[Civil]]></category>
+<category><![CDATA[Marca]]></category>
+<category><![CDATA[Presença]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 11:39:11 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
+<description><![CDATA[A Polícia Civil de Santa Catarina esteve presente nas duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, com atuação comunitária por meio da Delegacia Móvel instalada na arena da Meia Praia. Durante o evento, que se encerrou no domingo, 7 de dezembro, a equipe policial ofereceu atendimento contínuo ao público, fornecendo orientações, informações, acolhimento e suporte.]]></description>
+<content:encoded><![CDATA[<strong>A Polícia Civil de Santa Catarina esteve presente nas duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, com atuação comunitária por meio da Delegacia Móvel instalada na arena da Meia Praia. Durante o evento, que se encerrou no domingo, 7 de dezembro, a equipe policial ofereceu atendimento contínuo ao público, fornecendo orientações, informações, acolhimento e suporte. Os policiais interagiram com as famílias, conversaram com os visitantes e distribuíram adesivos de policiais mirins às crianças, aproximando a instituição da comunidade. Com mais de 25 mil pessoas passando pela arena ao longo das competições, a presença da Delegacia Móvel reforçou o compromisso da Polícia Civil com a prevenção, segurança e bem-estar de moradores, turistas e participantes.</strong><br/><br/>Os organizadores destacaram a importância da atuação integrada da Polícia Civil de Itapema, que garantiu apoio e presença constante nos dias de competição, em um esforço para promover um ambiente seguro para todos os envolvidos. A presença da Delegacia Móvel durante o Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema demonstra a preocupação da instituição em fortalecer os laços com a comunidade, além de reforçar a importância da prevenção e segurança em eventos de grande circulação de público. A atuação da Polícia Civil durante o evento evidencia o compromisso em proporcionar um ambiente seguro e acolhedor para todos os presentes.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-	<item>
-		<title><![CDATA[Delegacia Móvel da Polícia Civil atua com foco na segurança durante o Circuito Mundial de Vôlei de Praia em Itapema]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:39:11 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://horadeportobelo.com.br/?p=20260</guid>
+<item>
+<title><![CDATA[Delegacia Móvel da Polícia Civil atua com foco na segurança durante o Circuito Mundial de Vôlei de Praia em Itapema]]></title>
+<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 11:39:11 GMT</pubDate>
+<guid isPermaLink="false">evw-https://horadeportobelo.com.br/?p=20260</guid>
+<description><![CDATA[Com mais de 25 mil visitantes, o Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema teve a presença ativa da Delegacia Móvel da Polícia Civil, oferecendo atendimento, suporte e orientações em plena arena da Meia Praia.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Com mais de 25 mil visitantes, o Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema teve a presença ativa da Delegacia Móvel da Polícia Civil, oferecendo atendimento, suporte e orientações em plena arena da Meia Praia.]]></description>
-		<content:encoded><![CDATA[<p>Durante as duas semanas de competições que movimentaram Itapema, a Polícia Civil de Santa Catarina manteve uma Delegacia Móvel instalada na arena do Circuito Brasileiro e Mundial de Vôlei de Praia, localizada na faixa da Meia Praia. A iniciativa garantiu atendimento imediato e continuo aos mais de 25 mil visitantes que passaram pelo evento.</p><p>A equipe policial dedicou-se a oferecer orientações, esclarecimentos e suporte, aproximando-se da comunidade local e dos turistas presentes. Interações com famílias, bate-papo com visitantes e a distribuição de adesivos de policiais mirins para as crianças foram ações que fortaleceram o vínculo entre a população e a polícia.</p><p>A presença da Delegacia Móvel reforçou a estratégia de prevenção e o compromisso da Polícia Civil com a segurança pública nessa região do Litoral Norte, com atuação integrada para garantir um ambiente tranquilo e seguro durante os dias do campeonato.</p><p>Em um evento com etapas nacionais e internacionais, que atraiu atletas de diversos países e mobilizou grande público, essa estrutura proporcionou apoio rápido nas demandas de segurança e atendimento, contribuindo para o bem-estar de moradores, turistas e participantes.</p><p>Após o encerramento do circuito no dia 7 de dezembro, a Polícia Civil de Itapema reafirma seu compromisso em manter o diálogo aberto com a população e promover ações que fortaleçam a proteção e a convivência pacífica no município.</p>]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Motorista embriagado capota carro após bater em árvore no Litoral Norte de SC]]></title>
+<link>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 11:34:08 GMT</pubDate>
+<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313423</guid>
+<description><![CDATA[Um acidente envolvendo um carro que capotou após colidir contra uma árvore mobilizou a Polícia Militar no Litoral Norte catarinense. O motorista, que não sofreu ferimentos, foi preso por suspeita de embriaguez ao volante.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Briga entre grupos termina em morte de jovem de 21 anos em Itajaí]]></title>
-		<link>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/</link>
-		<comments>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:29:44 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129347</guid>
-
-		<description><![CDATA[Uma briga iniciada em um bar de Brusque terminou com a morte de um jovem de 21 anos na madrugada de domingo, em Itajaí. A vítima foi esfaqueada após tentar invadir uma casa durante o conflito, segundo a Polícia Militar.]]></description>
-		<content:encoded><![CDATA[<p>O confronto teve início por volta das 4h da madrugada na Rua Florianópolis, em um bar no município de Brusque, após um esbarrão entre dois grupos. Por volta das 6h, os mesmos envolvidos se reencontraram na Rua Vergílio Cadore, em Itajaí, onde a situação escalou para uma nova discussão.</p><p>Durante esse segundo embate, o jovem de 21 anos, natural do Pará, teria tentado entrar à força na residência de um dos envolvidos. Neste momento, ele foi atingido por golpes de faca e não resistiu, morrendo no local.</p><p>Outra pessoa, que acompanhava o jovem no momento da agressão, também foi ferida e encaminhada ao hospital em estado estável, conforme apurado pela Polícia Militar.</p><p>Os demais envolvidos na confusão foram levados para a Delegacia de Polícia em Brusque. A Polícia Civil assumiu as investigações para esclarecer os detalhes do caso.</p><p>Este episódio destaca a necessidade de acompanhamento contínuo das ocorrências entre municípios vizinhos no Litoral Norte, envolvendo cidades como Itajaí e Brusque, onde situações similares podem impactar a segurança local.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Dois homens são mortos em atropelamento por UTV na Estrada Geral do Braço, Camboriú]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:03:39 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://horadeportobelo.com.br/?p=20255</guid>
-
-		<description><![CDATA[Duas vítimas, tio e sobrinho, morreram na noite de domingo após serem atropeladas por um UTV na Estrada Geral do Braço, interior de Camboriú. O condutor do veículo fugiu do local sem prestar socorro, e a polícia já investiga o caso.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu por volta das 20h20 do domingo (7), quando um veículo utilitário off-road, conhecido como UTV, atingiu dois homens que caminhavam pela Estrada Geral do Braço, em Camboriú.</p><p>As vítimas, tio e sobrinho, haviam chegado recentemente à região para trabalhar na construção de uma residência nas proximidades do local do atropelamento. Segundo relatos de moradores, ambos atuavam como prestadores de serviço temporários e não eram residentes da área.</p><p>Após o impacto, o condutor do UTV abandonou o veículo moderno e potente no local e fugiu sem oferecer ajuda às vítimas, que não resistiram aos ferimentos e morreram ainda no local do acidente.</p><p>O Corpo de Bombeiros foi acionado rapidamente, mas nada pôde ser feito para salvar as vítimas. A Polícia Civil já iniciou as investigações para identificar o responsável pelo atropelamento.</p><p>O veículo foi apreendido e encaminhado para perícia, que buscará esclarecer a dinâmica do acidente e auxiliar na apuração dos fatos.</p><p>Este caso reforça a importância da atenção nas vias rurais de Camboriú, especialmente em áreas onde há tráfego de trabalhadores temporários, e abre um alerta sobre a segurança no uso de veículos off-road em áreas habitadas.</p>]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Homem é preso após incendiar carro da ex-companheira em Santa Catarina]]></title>
-		<link>https://visornoticias.com.br/homem-incendeia-carro-da-ex-companheira-apos-discussao-em-santa-catarina/</link>
-		<comments>https://visornoticias.com.br/homem-incendeia-carro-da-ex-companheira-apos-discussao-em-santa-catarina/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 12:14:05 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313446</guid>
-
-		<description><![CDATA[Um homem foi detido em flagrante após incendiar o veículo da ex-companheira, que sofreu destruição total, em Santa Catarina.]]></description>
-		<content:encoded><![CDATA[<p>Um veículo foi completamente destruído pelo fogo após ser incendiado em Santa Catarina. O suspeito, que tem relação com a vítima, admitiu o crime e foi preso em flagrante pelas autoridades locais.</p><p>O incidente ocorreu após uma discussão entre o homem e a ex-companheira, resultando em danos materiais significativos. A polícia foi acionada e chegou rapidamente ao local, conseguindo deter o autor do incêndio.</p><p>Casos como esse reforçam a importância da atuação rápida das forças de segurança para garantir a proteção das vítimas e a responsabilização dos envolvidos. Em cidades do Litoral Norte, como Itajaí e Balneário Camboriú, as autoridades têm reforçado o monitoramento para evitar situações semelhantes.</p><p>A Polícia Civil segue investigando o caso para esclarecer todos os detalhes e tomar as providências legais cabíveis.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/homem-incendeia-carro-da-ex-companheira-apos-discussao-em-santa-catarina/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Motorista embriagado capota carro após bater em árvore no Litoral Norte de SC]]></title>
-		<link>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/</link>
-		<comments>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:34:08 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313423</guid>
-
-		<description><![CDATA[Um acidente envolvendo um carro que capotou após colidir contra uma árvore mobilizou a Polícia Militar no Litoral Norte catarinense. O motorista, que não sofreu ferimentos, foi preso por suspeita de embriaguez ao volante.]]></description>
-		<content:encoded><![CDATA[<p>Na noite desta quarta-feira, um veículo capotou após bater em uma árvore nas proximidades de Balneário Camboriú, no Litoral Norte de Santa Catarina. Segundo a Polícia Militar, o condutor não teve ferimentos, mas foi submetido ao teste de alcoolemia, que indicou consumo de bebida alcoólica.</p><p>A ação rápida das guarnições garantiu a segurança no local e a detenção do motorista, que foi encaminhado para os procedimentos legais cabíveis. O veículo ficou danificado, mas não houve envolvimento de outros automóveis ou pessoas feridas.</p><p>O caso reforça a importância da responsabilidade no trânsito, especialmente em regiões turísticas como o Litoral Norte, onde o fluxo de veículos aumenta durante feriados e finais de semana. A Polícia Militar intensifica fiscalizações para prevenir acidentes relacionados ao uso de álcool ao volante.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Chuva Intensa Avança em Santa Catarina com Risco de Temporal no Oeste e Planaltos]]></title>
-		<link>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/</link>
-		<comments>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:23:15 +0000</pubDate>
-		<category><![CDATA[ Região ]]></category>
-		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313418</guid>
-
-		<description><![CDATA[Santa Catarina enfrenta aumento da instabilidade nesta segunda-feira, com previsão de chuvas fortes e potencial para temporais, concentrados principalmente nas regiões Oeste e Planaltos a partir da tarde.]]></description>
-		<content:encoded><![CDATA[<p>O avanço de uma frente fria pelo Estado traz uma maior organização das condições para chuva forte ao longo do dia. As regiões Oeste e Planaltos devem ser as mais impactadas, com risco moderado a alto para temporais.</p><p>Para o Litoral Norte, que inclui cidades como Balneário Camboriú, Itajaí e Penha, o tempo deverá permanecer instável, com possibilidade de pancadas de chuva isoladas, principalmente durante a tarde e noite.</p><p>Os moradores e visitantes da região devem ficar atentos às atualizações meteorológicas e eventuais orientações oficiais, especialmente em áreas urbanas, onde alagamentos podem ocorrer com o acúmulo rápido de água.</p><p>As condições deverão melhorar gradativamente já a partir desta terça-feira (data), conforme o deslocamento da instabilidade para o interior do Estado.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	</channel>
+</channel>
 </rss>
