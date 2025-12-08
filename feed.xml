@@ -1,112 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 11:51:36 GMT</lastBuildDate>
-<language>pt-BR</language>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Mon, 08 Dec 2025 11:54:28 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Delegacia Móvel da Polícia Civil garante segurança durante Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:39:11 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
-<description><![CDATA[Durante duas semanas, a Delegacia Móvel da Polícia Civil acompanhou o Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, oferecendo atendimento, informações e suporte a mais de 25 mil visitantes na arena da Meia Praia.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Itajaí confirma entrada no circuito internacional da ATP com lançamento do Itajaí Open de Tênis]]></title>
+		<link>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/</link>
+		<comments>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:53:05 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=129351</guid>
 
-<item>
-<title><![CDATA[Motorista embriagado capota carro após bater em árvore no Litoral Norte de SC]]></title>
-<link>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:34:08 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313423</guid>
-<description><![CDATA[Um motorista foi preso por embriaguez ao volante após seu veículo capotar em uma via do Litoral Norte catarinense, no entanto, ele não sofreu ferimentos no acidente.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Itajaí se prepara para receber em 2026 o Itajaí Open, torneio ATP Challenger 75 que integra o circuito profissional mundial de tênis, com premiação de US$ 107 mil e pontos no ranking mundial, posicionando a cidade no cenário esportivo global.]]></description>
+		<content:encoded><![CDATA[<p>O lançamento oficial do Itajaí Open de Tênis ocorreu nesta terça-feira (9), às 9h, no Paço Municipal, reunindo autoridades locais, dirigentes esportivos, atletas profissionais e imprensa. O evento marcou a entrada de Itajaí no calendário internacional da ATP para 2026.</p><p>O torneio, classificado como ATP Challenger 75, será disputado entre 18 e 25 de janeiro de 2026 no Itamirim Clube de Campo, sede oficial da competição. Com premiação total de US$ 107 mil, o campeonato oferecerá 75 pontos ao campeão, atraindo jogadores brasileiros e estrangeiros logo no início da temporada profissional.</p><p>Presenças confirmadas no lançamento incluíram os tenistas profissionais Felipe Meligeni, Eduardo Ribeiro e Marcelo Zormann, além de representantes da Confederação Brasileira de Tênis (CBT), Federação Catarinense de Tênis (FCT), Instituto Sports e autoridades municipais.</p><p>A organização destacou que o Itajaí Open promoverá um aumento significativo na visibilidade da cidade no cenário esportivo internacional, além de impulsionar o turismo e a economia locais durante o evento. Serão apresentados detalhes da estrutura da competição e dos preparativos para a estreia da primeira edição, que abrirá oficialmente o calendário do tênis profissional no Brasil em 2026.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/lancamento-do-itajai-open-marca-entrada-da-cidade-no-circuito-internacional-da-atp-em-2026/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Briga em Itajaí termina com jovem de 21 anos morto a faca após tentativa de invasão]]></title>
-<link>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:29:44 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129347</guid>
-<description><![CDATA[Uma confusão entre grupos que começou em um bar em Brusque resultou na morte de um jovem de 21 anos em Itajaí, na madrugada de domingo (7), após ele tentar invadir uma residência e ser esfaqueado.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Itapema atrai 25 mil pessoas e garante edição do Circuito Mundial de Vôlei de Praia em 2026]]></title>
+		<link>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/</link>
+		<comments>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:47:02 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=313431</guid>
 
-<item>
-<title><![CDATA[Segunda-feira com chuva intensa em Santa Catarina; temporais atingem Oeste e Planaltos]]></title>
-<link>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:23:15 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313418</guid>
-<description><![CDATA[Santa Catarina enfrenta aumento da instabilidade nesta segunda-feira, com chuvas fortes e risco de temporais, especialmente nas regiões Oeste e Planaltos a partir da tarde.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Com público de 25 mil espectadores, a etapa do Circuito Mundial de Vôlei de Praia em Itapema movimentou o turismo local e fortaleceu a economia criativa, confirmando a cidade como palco da competição também em 2026.]]></description>
+		<content:encoded><![CDATA[<p>Itapema encerrou recentemente uma das etapas do Circuito Mundial de Vôlei de Praia, atraindo cerca de 25 mil pessoas ao longo do evento. A convocação do público impulsionou setores como o turismo e a economia criativa da região, beneficiando diretamente comércios, hotéis e serviços na cidade.</p><p>A realização do torneio internacional destacou o protagonismo esportivo de Itapema, evidenciando a infraestrutura e capacidade da cidade para sediar grandes eventos de relevância mundial. A organização anunciou ainda que a cidade será novamente sede do campeonato em 2026, garantindo a continuidade dessa parceria estratégica.</p><p>Para o Litoral Norte de Santa Catarina, a confirmação reforça a importância de investir em eventos esportivos que geram impacto direto para a população local, promovem a cidade no cenário nacional e internacional, além de fomentar a geração de empregos temporários e permanentes.</p><p>Além das partidas, o circuito trouxe atividades paralelas que movimentaram a economia criativa, incluindo expositores e iniciativas culturais que aproveitaram o fluxo de visitantes. O evento reforça o potencial de Itapema como destino turístico e esportivo de Santa Catarina, especialmente em um momento de recuperação econômica na região.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/itapema-encerra-etapa-do-circuito-mundial-de-volei-de-praia-com-25-mil-pessoas-e-confirma-edicao-2026/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Dois homens morrem atropelados por UTV na Estrada Geral do Braço, em Camboriú]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:03:39 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
-<description><![CDATA[Um grave acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú, resultou na morte de dois homens que foram atropelados por um UTV cujo condutor fugiu do local sem prestar socorro.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Delegacia Móvel da Polícia Civil reforça segurança durante o Circuito Mundial de Vôlei de Praia em Itapema]]></title>
+		<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
+		<comments>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:39:11 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
 
-<item>
-<title><![CDATA[Tio e sobrinho morrem atropelados por buggy na Estrada Geral do Braço, em Camboriú; motorista foge sem socorro]]></title>
-<link>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:59:48 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
-<description><![CDATA[Na noite de domingo (7), dois homens foram atropelados e morreram após serem atingidos por um buggy na Estrada Geral do Braço, em Camboriú. O condutor do veículo fugiu do local sem prestar ajuda às vítimas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A Polícia Civil de Santa Catarina intensificou a segurança e o atendimento à população durante o Circuito Brasileiro e Mundial de Vôlei de Praia, com uma delegacia móvel instalada na Meia Praia, local do evento em Itapema.]]></description>
+		<content:encoded><![CDATA[<p>Durante as duas semanas de competições, que mobilizaram mais de 25 mil pessoas na arena montada em Meia Praia, a Delegacia Móvel da Polícia Civil ofereceu suporte contínuo a moradores, turistas e atletas. O serviço incluiu orientações, informações, acolhimento e atendimento direto ao público.</p><p>A equipe policial também promoveu ações de aproximação com a comunidade local, como a entrega de adesivos de policiais mirins para as crianças e interação com famílias que acompanharam o evento de perto. Essa iniciativa reforça o compromisso da Polícia Civil em fortalecer seus vínculos com a população.</p><p>Itapema, tradicional destino do Litoral Norte catarinense, recebeu etapas nacionais e internacionais do circuito, movimentando a cidade e gerando grande fluxo de visitantes. A presença constante da delegacia móvel contribuiu para a prevenção e o bem-estar de todos durante os dias de disputa.</p><p>A Polícia Civil de Itapema segue com esforços voltados para a segurança pública e o atendimento próximo à comunidade, especialmente em eventos de grande porte que atraem turistas e movimentam a economia local.</p>]]></content:encoded>
+		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Conflito entre grupos deixa jovem morto a facadas em Brusque após segunda troca de agressões em Itajaí]]></title>
-<link>https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:45:44 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
-<description><![CDATA[Uma briga envolvendo dois grupos resultou na morte de um jovem de 21 anos em Brusque, após um segundo confronto ocorrido em Itajaí; o veículo ligado aos envolvidos passou por perícia e acabou provocando um novo incidente na cidade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Briga em bar termina com morte de jovem de 21 anos em Itajaí]]></title>
+		<link>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/</link>
+		<comments>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:29:44 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=129347</guid>
 
-<item>
-<title><![CDATA[Confira a Mensagem do Dia de Osmar Fernandes e as principais notícias locais de 08/12/2025]]></title>
-<link>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:31:03 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129337</guid>
-<description><![CDATA[Na segunda-feira, 08 de dezembro, Osmar Fernandes traz sua mensagem diária, além de atualizações importantes sobre segurança e trânsito no Litoral Norte de Santa Catarina.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Um confronto que começou após um esbarrão em bar de Brusque resultou na morte de um jovem de 21 anos, esfaqueado na Rua Vergílio Cadore, em Itajaí, durante uma tentativa de invasão a uma residência na madrugada de domingo, 7.]]></description>
+		<content:encoded><![CDATA[<p>O episódio teve início por volta das 4h da manhã, quando dois grupos se envolveram em uma discussão após um esbarrão em um bar na Rua Florianópolis, em Brusque.</p><p>Por volta das 6h, os mesmos grupos se encontraram novamente, desta vez na Rua Vergílio Cadore, em Itajaí, onde a situação se agravou. Segundo a Polícia Militar, durante a confusão, o jovem de 21 anos tentou invadir à força uma casa, o que resultou em sua vítima fatal por golpes de faca.</p><p>Outra pessoa, que estava com o jovem no momento, também foi ferida e encaminhada ao hospital em estado estável.</p><p>A identidade da vítima não foi divulgada. Os demais envolvidos foram levados à Delegacia de Polícia de Brusque para prestar esclarecimentos. O caso está sob investigação da Polícia Civil.</p><p>Este ocorrido reforça a importância das medidas de segurança e prevenção de conflitos na região do Litoral Norte, especialmente em locais com vida noturna ativa, como Itajaí e cidades vizinhas.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/esbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Oportunidades de Emprego no Litoral Norte e Região: Vagas Abertas para Diversos Cargos]]></title>
-<link>https://portalmenina.com.br/bolsa-de-empregos-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:27:29 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129335</guid>
-<description><![CDATA[Novas oportunidades de trabalho estão disponíveis em cidades do Litoral Norte e região de Santa Catarina, com vagas para motoristas, profissionais da área de alimentação, técnicos, vendedores e atendentes. Saiba como se candidatar e impulsionar sua carreira.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Dois homens morrem atropelados por UTV em Camboriú; condutor fugiu do local]]></title>
+		<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
+		<comments>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:03:39 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
 
-<item>
-<title><![CDATA[Ciclone extratropical provoca chuvas intensas e ventos de até 100 km/h em Santa Catarina]]></title>
-<link>https://visornoticias.com.br/ciclone-extratropical-traz-chuva-intensa-ventos-de-ate-100-km-h-e-risco-alto-em-santa-catarina/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:19:43 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313399</guid>
-<description><![CDATA[Santa Catarina enfrenta forte instabilidade climática entre segunda e quinta-feira, com riscos elevados de alagamentos, enxurradas e ventos fortes, afetando principalmente o Litoral Norte.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Na noite do último domingo (7), dois homens que trabalhavam em uma obra na Estrada Geral do Braço, interior de Camboriú, morreram atropelados por um UTV cujo motorista fugiu do local sem prestar socorro.]]></description>
+		<content:encoded><![CDATA[<p>A noite de domingo no interior de Camboriú foi marcada por uma tragédia na Estrada Geral do Braço. Dois homens, tio e sobrinho, que haviam chegado recentemente à cidade para trabalhar em uma construção residencial, foram atropelados por um UTV, veículo off-road do tipo “gaiola”.</p><p>O acidente aconteceu por volta das 20h20, quando os trabalhadores caminhavam pela via. O Corpo de Bombeiros foi acionado rapidamente, mas as vítimas não resistiram e morreram no local.</p><p>Moradores próximos confirmaram que as vítimas não eram da região e estavam ali apenas cumprindo suas funções como prestadores de serviço temporários na obra.</p><p>Após o impacto, o condutor do UTV, descrito como um modelo moderno e potente, abandonou o veículo e fugiu. O veículo foi apreendido pela Polícia Civil, que iniciou imediatamente as investigações para identificar o motorista e esclarecer todas as circunstâncias do acidente.</p><p>O caso reforça a necessidade de atenção redobrada em vias internas de Camboriú, onde trabalhadores e pedestres dividem espaço com veículos. A Polícia Civil segue com as diligências para fornecer respostas sobre o ocorrido.</p>]]></content:encoded>
+		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-</channel>
+	<item>
+		<title><![CDATA[Dois Homens Morrem Após Atropelamento por Buggy na Estrada Geral do Braço, em Camboriú]]></title>
+		<link>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/</link>
+		<comments>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 10:59:48 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
+
+		<description><![CDATA[Tio e sobrinho foram atropelados por um buggy na noite de domingo, 7, na Estrada Geral do Braço, em Camboriú. O motorista fugiu sem prestar socorro, deixando as vítimas na via e mobilizando moradores locais preocupados com a segurança na região.]]></description>
+		<content:encoded><![CDATA[<p>O atropelamento ocorreu por volta das 22h na Estrada Geral do Braço, em Camboriú, e vitimou duas pessoas que caminhavam no local, identificadas como tio e sobrinho. Segundo relatos preliminares, o veículo envolvido foi um buggy do modelo Can-Am Maverick.</p><p>Populares que presenciaram o acidente informaram que o condutor do buggy fugiu do local sem prestar socorro às vítimas, que ficaram caídas na via. Imagens que circulam nas redes sociais mostram o buggy danificado, com uma roda arrancada e a carroceria amassada.</p><p>Moradores da região alertam para a frequência de veículos desse tipo transitando em alta velocidade na Estrada Geral do Braço, o que tem gerado preocupação à segurança local.</p><p>Dados sobre a identidade e a origem das vítimas ainda não foram confirmados oficialmente, embora relatos apontem que elas seriam de fora da cidade, possivelmente de São Paulo.</p><p>As autoridades policiais, incluindo a Polícia Militar, não divulgaram informações adicionais sobre a ocorrência até o momento.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Briga entre grupos resulta em morte a facadas após dois confrontos em Brusque e Itajaí]]></title>
+		<link>https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/</link>
+		<comments>https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 10:45:44 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
+
+		<description><![CDATA[Um jovem de 21 anos morreu após um segundo confronto entre grupos em Brusque e Itajaí, envolvendo um veículo que passou por perícia e causou um novo incidente na região.]]></description>
+		<content:encoded><![CDATA[<p>Um jovem de 21 anos foi morto a facadas após duas trocas de agressões entre grupos nas cidades de Brusque e Itajaí, no Litoral Norte de Santa Catarina.</p><p>O primeiro confronto ocorreu em Brusque, seguido por um segundo incidente em Itajaí. Durante as ações policiais, o veículo utilizado pelos envolvidos foi apreendido para perícia, mas acabou provocando um novo incidente enquanto estava sob análise.</p><p>As autoridades da região trabalham para esclarecer as circunstâncias que levaram à violência e para garantir a segurança das comunidades locais, especialmente considerando a proximidade entre as cidades e o índice de conflitos recentes.</p><p>Investigações estão em andamento para identificar todos os envolvidos e entender o que motivou os confrontos. A polícia reforça a importância da denúncia para evitar novas situações de risco no Litoral Norte catarinense.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/briga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Mensagem do Dia: Reflexões e Noticias Relevantes para 8 de Dezembro em Santa Catarina]]></title>
+		<link>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/</link>
+		<comments>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 09:31:03 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=129337</guid>
+
+		<description><![CDATA[Confira a mensagem diária de Osmar Fernandes para esta segunda-feira, 8 de dezembro, e acompanhe os principais fatos que impactam o Litoral Norte de Santa Catarina.]]></description>
+		<content:encoded><![CDATA[<p>Osmar Fernandes traz nesta segunda-feira, 8 de dezembro, uma mensagem especial que convida à reflexão e à renovação para iniciar a semana com motivação. Os interessados podem acessar o conteúdo completo por meio do portal da Rádio Menina de Balneário Camboriú.</p><p>Além da mensagem, o portal destaca duas ocorrências recentes no Litoral Norte de Santa Catarina. Em Balneário Camboriú, um BMW X1 colidiu com um Corsa e quase caiu no Rio Marambaia, sem que haja feridos graves registrados até o momento.</p><p>Em Itajaí, a Polícia Militar efetuou a prisão de um homem que foi flagrado furtando materiais em uma obra no centro da cidade, reforçando a atuação das forças de segurança na proteção dos patrimônios locais.</p><p>O portal também oferece a opção de interação via WhatsApp, com grupos dedicados aos ouvintes da Rádio Menina BC, facilitando o acesso às mensagens diárias e ao acompanhamento das notícias locais em tempo real.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Motorista é preso por embriaguez após carro capotar em acidente na região do Litoral Norte de SC]]></title>
+		<link>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/</link>
+		<comments>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:34:08 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=313423</guid>
+
+		<description><![CDATA[Um motorista foi detido pela Polícia Militar após capotar o carro ao colidir contra uma árvore no Litoral Norte de Santa Catarina. Apesar do susto, ele não sofreu ferimentos graves.]]></description>
+		<content:encoded><![CDATA[<p>Um acidente envolvendo um veículo que capotou após bater em uma árvore mobilizou a Polícia Militar nesta semana no Litoral Norte de Santa Catarina. O condutor, que foi atendido no local, não apresentou ferimentos, mas chamou a atenção pela suspeita de embriaguez.</p><p>De acordo com a Polícia Militar, o motorista realizou o teste do bafômetro e foi constatado o consumo de álcool acima do permitido por lei. Ele foi preso em flagrante e conduzido para a delegacia regional.</p><p>O acidente ocorreu em uma via movimentada da região, o que poderia aumentar o risco para outros motoristas e pedestres. Felizmente, nenhuma outra pessoa ficou ferida no incidente.</p><p>Casos como este reforçam a importância de respeitar os limites e evitar dirigir sob efeito de álcool, principalmente em áreas turísticas e com grande fluxo de veículos como Bombinhas, Itapema e Balneário Camboriú.</p><p>A Polícia Militar segue atenta às situações que possam comprometer a segurança no trânsito do Litoral Norte, promovendo ações preventivas e fiscalização em pontos estratégicos.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/carro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Chuva intensa avança em Santa Catarina e temporais atingem Oeste e Planaltos nesta segunda-feira]]></title>
+		<link>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/</link>
+		<comments>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 11:23:15 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=313418</guid>
+
+		<description><![CDATA[Santa Catarina enfrenta aumento da instabilidade nesta segunda-feira, com chuvas fortes e risco elevado de temporais especialmente no Oeste e regiões de Planalto a partir da tarde.]]></description>
+		<content:encoded><![CDATA[<p>O tempo muda em Santa Catarina nesta segunda-feira (data), com a chegada de um sistema de instabilidade que traz chuvas intensas para o Estado. O Oeste e as áreas de Planaltos são as regiões mais afetadas, onde a previsão indica risco moderado a alto para temporais.</p><p>Os moradores do Litoral Norte, incluindo cidades como Balneário Camboriú e Itajaí, devem ficar atentos às condições locais, já que a instabilidade avança gradualmente, podendo causar pancadas de chuva e queda na temperatura.</p><p>As autoridades recomendam atenção redobrada para alagamentos e transtornos no trânsito, principalmente no período da tarde, quando a chuva ganha mais força. Motoristas e pedestres devem evitar deslocamentos desnecessários durante as tempestades.</p><p>Especialistas alertam para possíveis descargas elétricas e rajadas de vento associadas às tempestades no Oeste e Planaltos. A Defesa Civil mantém os canais de comunicação abertos para informar a população sobre o desenvolvimento do quadro e eventuais emergências.</p><p>Em municípios do Litoral Norte, a expectativa é de chuvas esparsas, que podem ser acompanhadas de ventos moderados, valorizando a atenção dos moradores às atualizações meteorológicas locais.</p><p>Para atualizar-se sobre as condições do tempo, a recomendação é acompanhar as previsões oficiais e orientações das autoridades de proteção civil nos próximos dias.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/chuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
