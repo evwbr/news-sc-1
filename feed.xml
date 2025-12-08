@@ -1,175 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 16:51:31 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Not?cias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 16:52:03 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></title>
-<link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Justiça]]></category>
-<category><![CDATA[especial foragidos sc]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Tem]]></category>
-<category><![CDATA[Criminosos]]></category>
-<category><![CDATA[Foragidos]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171986</guid>
-<description><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes Em meio às festas de fim de ano, período em que o fluxo de turistas aumenta de forma significativa no Litoral Norte de Santa Catarina, o Jornal Razão reforça sua iniciativa de transparência e vigilância pública ao divulgar a lista completa de criminosos foragidos da Justiça nas cidades onde o veículo atua. A ação busca ampliar a segurança da população e facilitar o acesso aos dados oficiais do Banco Nacional de Mandados de Prisão.]]></description>
-<content:encoded><![CDATA[<strong>Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes</strong><br/><br/>Em meio às festas de fim de ano, período em que o fluxo de turistas aumenta de forma significativa no Litoral Norte de Santa Catarina, o Jornal Razão reforça sua iniciativa de transparência e vigilância pública ao divulgar a lista completa de criminosos foragidos da Justiça nas cidades onde o veículo atua. A ação busca ampliar a segurança da população e facilitar o acesso aos dados oficiais do Banco Nacional de Mandados de Prisão. A consulta foi feita às 13h46 de segunda-feira, 8 de dezembro de 2025, apresentando todos os foragidos da Comarca de Balneário Camboriú, com nomes organizados em ordem alfabética e acompanhados das respectivas datas de expedição dos mandados.<br/><br/>A lista divulgada pelo Jornal Razão contém os nomes de 170 criminosos foragidos da Justiça na região de Balneário Camboriú. Entre eles, destacam-se indivíduos como Ademilson Vicchiato, Adriano Weber, Ailton Saraiva Pinheiro, e diversos outros, com mandados expedidos em diferentes datas. A divulgação visa fornecer informações precisas à população e colaborar com as autoridades na localização e captura desses indivíduos, contribuindo para a segurança da comunidade. A iniciativa do jornal reforça o compromisso com a transparência e a responsabilidade jornalística, oferecendo um panorama claro da situação dos foragidos na região. <br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[Jovem de 18 anos recém]]></title>
-<link>https://portalmenina.com.br/jovem-de-18-anos-recem-habilitada-morre-em-colisao-entre-moto-e-carreta-em-cruzamento-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Itajaí]]></category>
-<category><![CDATA[Trânsito]]></category>
-<category><![CDATA[Jovem]]></category>
-<category><![CDATA[Anos]]></category>
-<category><![CDATA[Recém]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 16:45:36 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129403</guid>
-<description><![CDATA[Uma jovem de 18 anos faleceu no início da tarde desta segunda-feira, 8, em decorrência de um acidente envolvendo a moto que conduzia e uma carreta, no cruzamento da avenida Irineu Bornhausen (Caninana) com a rua José Cândido, em Itajaí. O acidente ocorreu por volta das 12h30 e mobilizou equipes do SAMU, Corpo de Bombeiros, Polícia Militar e Polícia Científica.]]></description>
-<content:encoded><![CDATA[<strong>Uma jovem de 18 anos faleceu no início da tarde desta segunda-feira, 8, em decorrência de um acidente envolvendo a moto que conduzia e uma carreta, no cruzamento da avenida Irineu Bornhausen (Caninana) com a rua José Cândido, em Itajaí. O acidente ocorreu por volta das 12h30 e mobilizou equipes do SAMU, Corpo de Bombeiros, Polícia Militar e Polícia Científica. Segundo informações obtidas no local, a motociclista estava parada no semáforo atrás de um veículo de autoescola. Ao sinal abrir, o carro da frente demorou a se movimentar, levando a jovem a tentar ultrapassá-lo pela esquerda para prosseguir. Nesse momento, uma carreta trafegava pela avenida e, apesar da baixa velocidade, o motorista não conseguiu evitar a colisão, resultando no óbito da jovem no local.</strong><br/><br/>A Polícia Científica realizou os procedimentos periciais para investigar as circunstâncias do acidente, que causou interdição parcial da via durante o atendimento, ocasionando lentidão no trânsito da região. Uma testemunha que presenciou o ocorrido relatou que a vítima, recém-habilitada, estava parada no semáforo atrás de um veículo de autoescola, e ao tentar contornar pela esquerda, foi atingida pela carreta. A jovem foi descrita como "linda, linda, linda, jovem" pela testemunha. Mais informações sobre o caso podem ser encontradas no Portal Menina. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
+    <link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
 
-<item>
-<title><![CDATA[Dados do Hospital Ruth Cardoso são apagados e direção registra boletim de ocorrência]]></title>
-<link>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Cidades]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Dados]]></category>
-<category><![CDATA[Hospital]]></category>
-<category><![CDATA[Ruth]]></category>
-<category><![CDATA[Cardoso]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Apagados]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 16:17:18 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129397</guid>
-<description><![CDATA[Dados internos do histórico administrativo e de atendimentos do setor de Qualidade do Hospital Ruth Cardoso foram deletados do sistema, levantando suspeitas de uma ação proposital de boicote durante o processo de transição administrativa para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão da unidade hospitalar nesta segunda-feira, 8. A informação foi confirmada pela secretária de Saúde, Aline Leal, em entrevista à Rádio Menina na sexta-feira, 5.]]></description>
-<content:encoded><![CDATA[<strong>Dados internos do histórico administrativo e de atendimentos do setor de Qualidade do Hospital Ruth Cardoso foram deletados do sistema, levantando suspeitas de uma ação proposital de boicote durante o processo de transição administrativa para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão da unidade hospitalar nesta segunda-feira, 8. A informação foi confirmada pela secretária de Saúde, Aline Leal, em entrevista à Rádio Menina na sexta-feira, 5. Segundo ela, o setor afetado guarda informações essenciais para o acompanhamento da gestão da unidade, incluindo indicadores de internação, protocolos assistenciais, dados da UTI e registros de pacientes.</strong><br/><br/>As equipes de Tecnologia da Informação (TI) do hospital e da Viva Rio já estão em processo de análise dos acessos ao sistema para identificar o autor da exclusão. Cinco pessoas trabalham no setor responsável pelos dados, e a investigação inclui a rastreabilidade de IPs e registros internos. Um boletim de ocorrência foi registrado, e a Polícia Civil está acompanhando o caso. Aline Leal também reconheceu que o problema evidenciou vulnerabilidades tecnológicas conhecidas, uma vez que o sistema utilizado não seguia os parâmetros atuais da Lei Geral de Proteção de Dados (LGPD) e estava em processo de migração tecnológica interrompida durante a transição para a nova gestão, com esforços em andamento para tentar recuperar os dados deletados.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Ciclone perigoso eleva risco de tornados e enxurradas em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina est? em alerta m?ximo devido a um ciclone at?pico que traz consigo perigos iminentes. Com alertas vermelhos em vigor, a popula??o enfrenta a possibilidade de tornados, ventos com velocidades acima de 100 km/h e chuvas intensas em diversas regi?es do estado. A situa??o, que exige extrema precau??o, coloca as autoridades em prontid?o e mobiliza equipes de emerg?ncia para garantir a seguran?a da popula??o diante da imin?ncia de desastres naturais. Em meio a esse cen?rio cr?tico, ? fundamental que os moradores estejam atentos ?s orienta??es dos ?rg?os competentes e sigam as medidas de seguran?a recomendadas para minimizar os riscos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Formada em nutri??o, ga?cha morre aos 42 anos em SC ap?s sofrer infarto fulminante]]></title>
+    <link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
 
-<item>
-<title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
-<link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
-<description><![CDATA[Um ciclone at?pico est? elevando o risco de tornados e enxurradas em Santa Catarina. O estado enfrenta alertas vermelhos devido aos ventos acima de 100 km/h e previs?o de chuva intensa em diversas regi?es. A situa??o ? de extremo perigo e exige aten??o da popula??o e autoridades locais para poss?veis danos e impactos causados pelo fen?meno clim?tico. ? importante seguir as orienta??es dos ?rg?os competentes e se manter informado sobre as condi??es meteorol?gicas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma triste not?cia abala o Litoral Norte de SC: ga?cha formada em nutri??o falece aos 42 anos ap?s infarto fulminante.]]></description>
+    <content:encoded><![CDATA[<p>No Litoral Norte de Santa Catarina, a comunidade se despede com pesar da ga?cha, formada em nutri??o, que veio a ?bito aos 42 anos ap?s sofrer um infarto fulminante. Sua morte repentina deixou familiares, amigos e a filha enlutados, gerando como??o na regi?o. A profissional era querida por todos e seu falecimento precoce deixa um vazio no cora??o daqueles que a conheciam. A perda repentina refor?a a import?ncia da sa?de cardiovascular e do cuidado com o bem-estar, alertando para a fragilidade da vida. Neste momento de luto, a solidariedade e o apoio m?tuo se fazem essenciais para confortar os que sofrem com a aus?ncia da nutricionista que partiu t?o cedo.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Condutora de moto morre em grave acidente com caminh?o em Itaja?]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
 
-<item>
-<title><![CDATA[Formada em nutri??o, ga?cha morre aos 42 anos em SC ap?s sofrer infarto fulminante]]></title>
-<link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
-<description><![CDATA[Uma nutricionista ga?cha, de 42 anos, faleceu em Santa Catarina ap?s sofrer um infarto fulminante. A profissional, que era muito querida, deixa uma filha, familiares e amigos enlutados. A not?cia foi divulgada pelo Jornal Raz?o.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma jovem motociclista faleceu em Itaja? ap?s colidir com uma carreta, em um tr?gico acidente.]]></description>
+    <content:encoded><![CDATA[<p>No munic?pio de Itaja?, no Litoral Norte de Santa Catarina, uma triste ocorr?ncia chocou a popula??o local. Uma jovem condutora de moto veio a ?bito ap?s se envolver em uma colis?o com uma carreta. O acidente, que aconteceu em uma das vias da regi?o de Caninana, resultou em consequ?ncias fatais e deixou a comunidade consternada. A identidade da v?tima e as circunst?ncias que levaram ao acidente ainda n?o foram detalhadas pelas autoridades locais, que seguem investigando o caso. A fatalidade serve de alerta para a import?ncia da prud?ncia e do respeito ?s normas de tr?nsito, visando a seguran?a de todos os condutores nas vias da regi?o.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[?Senti algo duro?: m?e deixa ex dormir em sua casa e filha ? abusada, em Florian?polis]]></title>
+    <link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
 
-<item>
-<title><![CDATA[Nota de falecimento de Otilía Margarida Mendes]]></title>
-<link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Tijucas]]></category>
-<category><![CDATA[Obituário]]></category>
-<category><![CDATA[Cemitério Municipal de Três Riachos]]></category>
-<category><![CDATA[despedida]]></category>
-<category><![CDATA[Nota]]></category>
-<category><![CDATA[Falecimento]]></category>
-<category><![CDATA[Otilía]]></category>
-<category><![CDATA[Margarida]]></category>
-<category><![CDATA[Mendes]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171975</guid>
-<description><![CDATA[A SC Funerária de Tijucas e o Jornal Razão comunicam, com pesar, o falecimento de Otilía Margarida Mendes, de 93 anos, ocorrido nesta segunda-feira (8). Otilía deixa cinco filhos, quinze netos, dezesseis bisnetos, além de demais familiares e amigos que lamentam sua partida.]]></description>
-<content:encoded><![CDATA[<strong>A SC Funerária de Tijucas e o Jornal Razão comunicam, com pesar, o falecimento de Otilía Margarida Mendes, de 93 anos, ocorrido nesta segunda-feira (8). Otilía deixa cinco filhos, quinze netos, dezesseis bisnetos, além de demais familiares e amigos que lamentam sua partida. O corpo está sendo velado a partir das 14h de hoje, na Capela do Cemitério de Fundos, em Biguaçu. O sepultamento ocorrerá ainda nesta segunda-feira, às 17h, no Cemitério Municipal de Três Riachos, com saída da capela em direção ao local do descanso final.</strong><br/><br/>Otilía Margarida Mendes, nascida em 6 de outubro de 1932, teve seu velório iniciado nesta segunda-feira em Biguaçu e será sepultada no mesmo dia em Três Riachos. A SC Funerária de Tijucas e o Jornal Razão expressam condolências à família e amigos da falecida, desejando conforto neste momento de luto. A cerimônia de despedida está sendo realizada de acordo com os protocolos e medidas de segurança vigentes.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Um caso de estupro de vulner?vel choca Florian?polis, ap?s uma m?e permitir que seu ex-companheiro dormisse em sua casa, resultando no abuso sexual de sua filha.]]></description>
+    <content:encoded><![CDATA[<p>A pris?o de Dirceu Ribeiro em Conc?rdia, suspeito do crime que mobilizou equipes em todo o Estado, teve in?cio ap?s a crian?a ser atendida no Hospital Infantil Joana Gusm?o. A equipe m?dica identificou ind?cios compat?veis com abuso sexual, desencadeando a a??o policial. A m?e, ao permitir a presen?a do ex em sua resid?ncia, acabou expondo sua filha a uma situa??o de extrema vulnerabilidade. O caso refor?a a import?ncia da prote??o e cuidado com as crian?as, al?m da necessidade de vigil?ncia em rela??o a conviv?ncias inadequadas. A comunidade local se une em rep?dio e apoio ? v?tima, buscando justi?a e medidas para prevenir novos epis?dios t?o lament?veis.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Itapema tem 43 criminosos foragidos da justi?a; veja quem s?o]]></title>
+    <link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171957</guid>
 
-<item>
-<title><![CDATA[Condutora de moto morre em grave acidente com caminh?o em Itaja?]]></title>
-<link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
-<description><![CDATA[RESUMO: Uma jovem motociclista faleceu ap?s se envolver em um grave acidente com uma carreta em Itaja?.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Itapema registra 43 criminosos foragidos da justi?a, revela levantamento do BNMP.]]></description>
+    <content:encoded><![CDATA[<p>Um levantamento realizado pelo Banco Nacional de Mandados de Pris?o (BNMP) apontou que a Comarca de Itapema, no Litoral Norte de Santa Catarina, conta com 43 criminosos foragidos da justi?a. Esses nomes foram confirmados e agora fazem parte da lista p?blica do Jornal Raz?o, em uma iniciativa que visa promover transpar?ncia e seguran?a na regi?o. A identifica??o desses indiv?duos ? de extrema import?ncia para as autoridades locais, contribuindo para o trabalho de investiga??o e captura desses fugitivos. A divulga??o desses dados tamb?m alerta a popula??o sobre a presen?a desses criminosos, incentivando a colabora??o com as autoridades para garantir a seguran?a da comunidade. A iniciativa destaca a relev?ncia do trabalho conjunto entre a imprensa, as institui??es de seguran?a e a popula??o para combater a criminalidade e garantir a justi?a na regi?o.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Florian?polis ? obrigada a aceitar moradores de rua de outras cidades: ?proibido devolver?]]></title>
+    <link>https://jornalrazao.com/seguranca/florianopolis-e-obrigada-a-aceitar-moradores-de-rua-de-outras-cidades-proibido-devolver/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 13:37:04 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171954</guid>
 
-<item>
-<title><![CDATA[Porto Belo tem 51 criminosos foragidos da justiça; saiba quem são]]></title>
-<link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Justiça]]></category>
-<category><![CDATA[especial foragidos sc]]></category>
-<category><![CDATA[justiça]]></category>
-<category><![CDATA[Porto]]></category>
-<category><![CDATA[Belo]]></category>
-<category><![CDATA[Tem]]></category>
-<category><![CDATA[Criminosos]]></category>
-<category><![CDATA[Foragidos]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171963</guid>
-<description><![CDATA[**LIDE:** O Jornal Razão, em compromisso com a transparência e a segurança dos catarinenses, amplia o acesso público às informações sobre criminosos foragidos em Santa Catarina. A partir do Banco Nacional de Mandados de Prisão, foram identificados 63 criminosos foragidos em Tijucas e 43 em Itapema.]]></description>
-<content:encoded><![CDATA[<strong>**LIDE:** O Jornal Razão, em compromisso com a transparência e a segurança dos catarinenses, amplia o acesso público às informações sobre criminosos foragidos em Santa Catarina. A partir do Banco Nacional de Mandados de Prisão, foram identificados 63 criminosos foragidos em Tijucas e 43 em Itapema. A última consulta foi realizada às 12h28 de segunda-feira, 08 de dezembro de 2025.</strong><br/><br/>No levantamento, constam os nomes de 51 foragidos da Comarca de Porto Belo, organizados em ordem alfabética e acompanhados da data oficial de expedição do mandado. Os criminosos listados possuem mandados ativos, pendentes ou não cumpridos, representando uma preocupação para as autoridades locais.<br/><br/>**DESENVOLVIMENTO:**
-Entre os foragidos, destacam-se nomes como Adilson Laudelino da Silva, com mandado pendente da Segunda Vara, e André Luiz Teixeira Michels, com mandado não cumprido da Segunda Vara. A presença desses criminosos foragidos na região levanta questões sobre a eficácia dos órgãos de segurança pública e a necessidade de medidas para garantir a ordem e a tranquilidade da população.
+    <description><![CDATA[Florian?polis ? obrigada a acolher moradores de rua de outras cidades, decis?o federal pro?be devolu??o.]]></description>
+    <content:encoded><![CDATA[<p>Uma decis?o do ?rg?o federal determinou que Florian?polis seja obrigada a aceitar moradores de rua vindos de outras cidades, proibindo a pr?tica de devolv?-los aos seus locais de origem. Segundo o ?rg?o, essa a??o viola a liberdade de locomo??o e configura discrimina??o. A medida levanta debates sobre a responsabilidade compartilhada entre munic?pios no acolhimento de pessoas em situa??o de vulnerabilidade social, al?m de evidenciar a necessidade de pol?ticas p?blicas mais efetivas para lidar com a quest?o da popula??o em situa??o de rua. A decis?o refor?a a import?ncia de a??es integradas e solid?rias entre as diferentes inst?ncias governamentais para garantir a prote??o e dignidade dessas pessoas em todo o territ?rio nacional.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/florianopolis-e-obrigada-a-aceitar-moradores-de-rua-de-outras-cidades-proibido-devolver/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Acidente com ve?culos de SC termina com duas mortes na BR-163]]></title>
+    <link>https://jornalrazao.com/seguranca/acidente-com-veiculos-de-sc-termina-com-duas-mortes-na-br-163/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 13:16:17 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171951</guid>
 
-A divulgação dessas informações busca alertar a comunidade sobre a presença desses indivíduos perigosos e colaborar com as autoridades na localização e captura dos foragidos. A transparência na divulgação dos dados visa promover a segurança pública e a colaboração da população para a resolução desses casos.
+    <description><![CDATA[Acidente na BR-163, em Barrac?o, resulta em duas mortes e uma mulher ferida.]]></description>
+    <content:encoded><![CDATA[<p>Um tr?gico acidente envolvendo ve?culos de Santa Catarina deixou duas pessoas mortas na BR-163, na altura de Barrac?o. Segundo informa??es, a colis?o aconteceu devido a uma ultrapassagem mal sucedida, resultando em uma violenta batida. Al?m das v?timas fatais, uma mulher ficou ferida e foi encaminhada para atendimento m?dico em estado grave. A trag?dia chocou a comunidade local, refor?ando a import?ncia da prud?ncia e respeito ?s leis de tr?nsito. As autoridades est?o investigando as causas do acidente para determinar as responsabilidades. A BR-163 chegou a ficar parcialmente interditada para os trabalhos de resgate e per?cia, causando congestionamento na regi?o. A identidade das v?timas n?o foi divulgada at? o momento.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/acidente-com-veiculos-de-sc-termina-com-duas-mortes-na-br-163/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Pagamentos de fim de ano v?o movimentar mais de R$ 170 milh?es em Blumenau]]></title>
+    <link>https://portalmenina.com.br/pagamentos-de-fim-de-ano-vao-movimentar-mais-de-r-170-milhoes-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:50:35 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129405</guid>
 
-**<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Mais de R$ 170 milh?es ser?o movimentados em Blumenau com pagamentos de fim de ano aos servidores municipais.]]></description>
+    <content:encoded><![CDATA[<p>No dia 17 de dezembro, a segunda parcela da gratifica??o natalina ser? paga aos aproximadamente 10,5 mil servidores p?blicos de Blumenau. Com isso, a cidade catarinense se prepara para uma movimenta??o financeira significativa, totalizando mais de R$ 170 milh?es injetados na economia local. Esses pagamentos, al?m de representarem um al?vio financeiro para os trabalhadores, tamb?m podem impulsionar o com?rcio e os servi?os da regi?o neste per?odo festivo. A iniciativa da Secretaria de Administra??o refor?a o compromisso da gest?o municipal em valorizar seus funcion?rios e estimular o desenvolvimento econ?mico da cidade.</p>]]></content:encoded>
+    <wfw:commentRss>https://portalmenina.com.br/pagamentos-de-fim-de-ano-vao-movimentar-mais-de-r-170-milhoes-em-blumenau/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Atualiza??o quinzenal indica cinco novos casos de dengue em Blumenau]]></title>
+    <link>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 14:06:15 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129389</guid>
 
-<item>
-<title><![CDATA[?Senti algo duro?: m?e deixa ex dormir em sua casa e filha ? abusada, em Florian?polis]]></title>
-<link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
-<description><![CDATA[RESUMO: Um homem foi preso em Conc?rdia, acusado de estupro de vulner?vel, ap?s uma crian?a ser atendida no Hospital Infantil Joana Gusm?o, em Florian?polis, com ind?cios de abuso.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Blumenau registra cinco novos casos de dengue em atualiza??o quinzenal.]]></description>
+    <content:encoded><![CDATA[<p>Na ?ltima atualiza??o divulgada pela Secretaria de Promo??o da Sa?de de Blumenau, foi confirmado que o munic?pio registrou cinco novos casos de dengue no per?odo entre 24 de novembro e 8 de dezembro. Com essas novas confirma??es, o total de casos de dengue em Blumenau desde o in?cio de 2025 chega a 410. ? importante ressaltar que, felizmente, n?o houve registros de mortes relacionadas ? doen?a. A presen?a desses novos casos refor?a a import?ncia da conscientiza??o da popula??o sobre a preven??o da dengue, principalmente com a chegada do ver?o e das condi??es clim?ticas favor?veis ? prolifera??o do mosquito Aedes aegypti, transmissor da doen?a. As autoridades de sa?de seguem atentas e atuando para controlar a situa??o e evitar a propaga??o do v?rus, por meio de a??es de combate ao mosquito e orienta??es ? popula??o. A colabora??o de todos ? fundamental para manter a cidade protegida e livre de surtos de dengue.</p>]]></content:encoded>
+    <wfw:commentRss>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Demora na libera??o de viaduto no trevo da Segala?s, na BR-470, gera reclama??es de motoristas]]></title>
+    <link>https://portalmenina.com.br/demora-na-liberacao-de-viaduto-no-trevo-da-segalas-na-br-470-gera-reclamacoes-de-motoristas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 13:31:34 GMT</pubDate>
+    <category><![CDATA[ Regi?o ]]></category>
+    <guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129375</guid>
 
-<item>
-<title><![CDATA[Atualiza??o quinzenal indica cinco novos casos de dengue em Blumenau]]></title>
-<link>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 14:06:15 GMT</pubDate>
-<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129389</guid>
-<description><![CDATA[A cidade de Blumenau, em Santa Catarina, teve um aumento de cinco novos casos de dengue no per?odo de 24 de novembro a 8 de dezembro, de acordo com informa??es da Secretaria de Promo??o da Sa?de. Com esses novos registros, o munic?pio j? contabiliza 410 casos confirmados da doen?a desde o in?cio do ano de 2025, sem ocorr?ncia de ?bitos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+    <description><![CDATA[Viaduto no trevo da Segala?s, na BR-470, em Gaspar, gera reclama??es de motoristas devido ? demora na libera??o do acesso.]]></description>
+    <content:encoded><![CDATA[<p>No km 45 da BR-470, em Gaspar, o novo viaduto no trevo da Segalas tem causado transtornos para os motoristas que utilizam a via. Apesar da conclus?o das obras, a libera??o oficial do tr?fego de ve?culos ainda n?o foi realizada, o que tem gerado reclama??es e insatisfa??o entre os usu?rios. A demora na autoriza??o para a utiliza??o do acesso tem impactado diretamente a mobilidade na regi?o, causando congestionamentos e atrasos para quem transita pela rodovia diariamente.</p><p>A espera pela libera??o do viaduto tem levantado questionamentos sobre os motivos que est?o impedindo a utiliza??o da nova estrutura, que foi constru?da com o objetivo de melhorar a fluidez do tr?fego na regi?o. Com a conclus?o das obras, a expectativa era de que o acesso fosse liberado rapidamente, por?m, a burocracia tem atrasado esse processo, frustrando os motoristas que aguardam ansiosamente pela utiliza??o do novo trevo.</p><p>A falta de informa??es claras sobre os pr?ximos passos para a libera??o do viaduto tem aumentado a incerteza e a insatisfa??o dos usu?rios da BR-470. Enquanto isso, a espera continua e os motoristas seguem enfrentando dificuldades no deslocamento pela regi?o do trevo da Segalas. A expectativa ? de que as autoridades respons?veis se posicionem e agilizem a libera??o do acesso, garantindo assim a seguran?a e a fluidez do tr?fego na rodovia.</p>]]></content:encoded>
+    <wfw:commentRss>https://portalmenina.com.br/demora-na-liberacao-de-viaduto-no-trevo-da-segalas-na-br-470-gera-reclamacoes-de-motoristas/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
