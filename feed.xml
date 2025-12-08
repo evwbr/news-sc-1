@@ -1,125 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 11:40:46 GMT</lastBuildDate>
-<language>pt-BR</language>
+    <title>Evo Web News</title>
+    <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <description>Notícias locais reescritas com IA - Evo Web News</description>
+    <lastBuildDate>Mon, 08 Dec 2025 11:44:42 +0000</lastBuildDate>
+    <language>pt-PT</language>
+    <sy:updatePeriod>
+    hourly    </sy:updatePeriod>
+    <sy:updateFrequency>
+    1    </sy:updateFrequency>
 
-<item>
-<title><![CDATA[DELEGACIA MÓVEL DA POLÍCIA CIVIL MARCA PRESENÇA NO CIRCUITO BRASILEIRO E MUNDIAL DE VÔLEI DE PRAIA EM ITAPEMA]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Delegacia]]></category>
-<category><![CDATA[Móvel]]></category>
-<category><![CDATA[Polícia]]></category>
-<category><![CDATA[Civil]]></category>
-<category><![CDATA[Marca]]></category>
-<category><![CDATA[Presença]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 11:39:11 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
-<description><![CDATA[A Polícia Civil de Santa Catarina teve participação ativa durante as duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema. A instituição reforçou sua atuação comunitária por meio da Delegacia Móvel instalada na arena montada na Meia Praia.]]></description>
-<content:encoded><![CDATA[<strong>A Polícia Civil de Santa Catarina teve participação ativa durante as duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema. A instituição reforçou sua atuação comunitária por meio da Delegacia Móvel instalada na arena montada na Meia Praia. Durante o evento, que encerrou no domingo, 7 de dezembro, a equipe da Polícia Civil prestou atendimento contínuo ao público, oferecendo orientações, informações, acolhimento e suporte. Os policiais também interagiram com famílias, conversaram com visitantes e distribuíram adesivos de policiais mirins às crianças, aproximando ainda mais a instituição da comunidade. Com mais de 25 mil pessoas passando pela arena ao longo das competições, a presença da Delegacia Móvel reforçou o compromisso da Polícia Civil com a prevenção, segurança e bem-estar de moradores, turistas e participantes.</strong><br/><br/>Os organizadores destacaram a importância da presença da Polícia Civil no evento, que reuniu atletas de diversos países e movimentou a cidade com etapas nacionais e internacionais do vôlei de praia. A unidade atuou de forma integrada, garantindo apoio e presença constante nos dias de competição, fortalecendo assim os laços com a população local e promovendo um ambiente seguro para todos os envolvidos. A Polícia Civil de Itapema segue trabalhando próxima da comunidade, mantendo seu compromisso com a segurança e o bem-estar dos cidadãos.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+    <image>
+        <url>https://evwbr.github.io/news-sc-1/logo-32x32.png</url>
+        <title>Evo Web News</title>
+        <link>https://evwbr.github.io/news-sc-1/</link>
+        <width>32</width>
+        <height>32</height>
+    </image>
 
-<item>
-<title><![CDATA[Esbarrão em bar resulta na morte de um jovem de 21 anos em Itajaí; vítima teria tentado invadir uma casa após a briga]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129347</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:29:44 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129347</guid>
-<description><![CDATA[Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará,...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[DELEGACIA MÓVEL DA POLÍCIA CIVIL MARCA PRESENÇA NO CIRCUITO BRASILEIRO E MUNDIAL DE VÔLEI DE PRAIA EM ITAPEMA]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Fdelegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Fdelegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:39:11 +0000</pubDate>
+        <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
+        <description><![CDATA[&nbsp; A Polícia Civil de Santa Catarina acompanhou de perto as duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, reforçando sua atuação comunitária por meio da Delegacia Móvel instalada na arena montada na Meia Praia. Durante todo...]]></description>
+        <content:encoded><![CDATA[<p>&amp;nbsp; A Polícia Civil de Santa Catarina acompanhou de perto as duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, reforçando sua atuação comunitária por meio da Delegacia Móvel instalada na arena montada na Meia Praia. Durante todo o evento — que encerrou neste domingo, 7 de dezembro — a equipe da Polícia Civil manteve atendimento contínuo ao público, oferecendo orientações, informações, acolhimento e suporte. Os policiais também interagiram com famílias, conversaram com visitantes e distribuíram adesivos de policiais mirins às crianças, aproximando ainda mais a instituição da comunidade. Segundo os organizadores, mais de 25 mil pessoas passaram pela arena ao longo das competições, que reuniram atletas de diversos países e movimentaram a cidade com etapas nacionais e internacionais do vôlei de praia. Com essa grande circulação de público, a presença da Delegacia Móvel reforçou o compromisso da Polícia Civil com a prevenção, segurança e bem-estar de moradores, turistas e participantes. A unidade atuou de forma integrada, garantindo apoio e presença constante nos dias de competição. A Polícia Civil de Itapema segue trabalhando próxima da população, fortalecendo vínculos, orientando e promovendo um ambiente cada vez mais seguro para todos. The post DELEGACIA MÓVEL DA POLÍCIA CIVIL MARCA PRESENÇA NO CIRCUITO BRASILEIRO E MUNDIAL DE VÔLEI DE PRAIA EM ITAPEMA appeared first on Hora de Porto Belo .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Fdelegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Homem é executado a tiros enquanto tomava chimarrão em casa]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171935</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:26:53 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171935</guid>
-<description><![CDATA[Crime ocorreu na manhã de domingo; autor fugiu a pé após efetuar os disparos O post Homem é executado a tiros enquanto tomava chimarrão em casa apareceu primeiro em Jornal Razão.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Restaurante MasterChef em SP contará com mobiliário autoral assinado pela Tasselo]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Frestaurante-masterchef-em-sp-contara-com-mobiliario-autoral-assinado-pela-tasselo%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Frestaurante-masterchef-em-sp-contara-com-mobiliario-autoral-assinado-pela-tasselo%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:35:41 +0000</pubDate>
+        <guid isPermaLink="false">https://visornoticias.com.br/?p=313421</guid>
+        <description><![CDATA[Marca sul-brasileira leva design ao espaço que une gastronomia, arquitetura sensorial e experiência televisiva O post Restaurante MasterChef em SP contará com mobiliário autoral assinado pela Tasselo apareceu primeiro em Visor Notícias .]]></description>
+        <content:encoded><![CDATA[<p>Marca sul-brasileira leva design ao espaço que une gastronomia, arquitetura sensorial e experiência televisiva O post Restaurante MasterChef em SP contará com mobiliário autoral assinado pela Tasselo apareceu primeiro em Visor Notícias .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Frestaurante-masterchef-em-sp-contara-com-mobiliario-autoral-assinado-pela-tasselo%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313418</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:23:15 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313418</guid>
-<description><![CDATA[Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde O post Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos apareceu primeiro em Visor...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Carro capota após bater em árvore e motorista é preso por embriaguez em SC]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fcarro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fcarro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:34:08 +0000</pubDate>
+        <guid isPermaLink="false">https://visornoticias.com.br/?p=313423</guid>
+        <description><![CDATA[Condutor não teve ferimentos, mas foi detido pela Polícia Militar após acidente O post Carro capota após bater em árvore e motorista é preso por embriaguez em SC apareceu primeiro em Visor Notícias .]]></description>
+        <content:encoded><![CDATA[<p>Condutor não teve ferimentos, mas foi detido pela Polícia Militar após acidente O post Carro capota após bater em árvore e motorista é preso por embriaguez em SC apareceu primeiro em Visor Notícias .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fcarro-capota-apos-bater-em-arvore-e-motorista-e-preso-por-embriaguez-em-sc%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313411</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:12:47 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313411</guid>
-<description><![CDATA[Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação O post Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados apareceu primeiro em Visor Notícias.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Esbarrão em bar resulta na morte de um jovem de 21 anos em Itajaí; vítima teria tentado invadir uma casa após a briga]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fesbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fesbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:29:44 +0000</pubDate>
+        <guid isPermaLink="false">https://portalmenina.com.br/?p=129347</guid>
+        <description><![CDATA[Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará, foi atingido por golpes de faca, não re...]]></description>
+        <content:encoded><![CDATA[<p>Um esbarrão em um bar no município de Brusque resultou em briga e na morte de um jovem de 21 anos na madrugada de domingo, 7. O crime, no entanto, aconteceu na Rua Vergílio Cadore, em Itajaí. O homem, natural do Pará, foi atingido por golpes de faca, não resistiu aos ferimentos e morreu no local. Outra vítima, também ferida pelos golpes, foi encaminhada ao hospital em estado estável. Compartilhe esta notícia no WhatsApp Segundo informações repassadas pela Polícia Militar, a confusão generalizada começou por volta das 4h, após um esbarrão entre dois indivíduos em um bar na Rua Florianópolis, em Brusque. Após o primeiro desentendimento, por volta das 6h, os dois grupos voltaram a se cruzar e iniciaram uma nova discussão, desta vez em Itajaí. A partir daí, conforme relato policial, o jovem de 21 anos se dirigiu até a residência de um dos envolvidos e tentou entrar à força. Nesse momento, segundo a PM, ele acabou esfaqueado. Leia também: Dois homens são atropelados por buggy e morrem na Estrada Geral do Braço, em Camboriú; condutor fugiu do local A identidade do rapaz não foi revelada. Uma segunda pessoa que o acompanhava durante a tentativa de invasão também foi ferida e levada ao hospital, em estado estável, de acordo com a Polícia Militar. CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP Os demais participantes da confusão foram conduzidos à Delegacia de Brusque. O caso agora segue sob investigação da Polícia Civil. leia no portal menina Balneário Camboriú assina acordo para atuação integrada de forças de segurança nas marginais da BR-101 Condutor foge após bater carro em poste na SC-414, em Navegantes</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fesbarrao-em-bar-resulta-na-morte-de-um-jovem-de-21-anos-em-itajai-vitima-teria-tentado-invadir-uma-casa-apos-a-briga%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313409</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:45:44 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
-<description><![CDATA[Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente O post Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Homem é executado a tiros enquanto tomava chimarrão em casa]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2Fseguranca%2Fhomem-e-executado-a-tiros-enquanto-tomava-chimarrao-em-casa%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2Fseguranca%2Fhomem-e-executado-a-tiros-enquanto-tomava-chimarrao-em-casa%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:26:53 +0000</pubDate>
+        <guid isPermaLink="false">https://jornalrazao.com/?p=171935</guid>
+        <description><![CDATA[Um homem de 54 anos foi assassinado na manhã de domingo (7) enquanto tomava chimarrão na área da própria casa, no interior de Palmitos, no Oeste catarinense. O crime ocorreu por volta das 10h, na linha Baixa Diamantina. A vítima estava acompanhada da esposa...]]></description>
+        <content:encoded><![CDATA[<p>Um homem de 54 anos foi assassinado na manhã de domingo (7) enquanto tomava chimarrão na área da própria casa, no interior de Palmitos, no Oeste catarinense. O crime ocorreu por volta das 10h, na linha Baixa Diamantina. A vítima estava acompanhada da esposa e de uma vizinha no momento dos disparos. Ele morreu no local. Segundo os relatos colhidos pelos policiais, um homem desconhecido chegou a pé, falou rapidamente com a vítima e, logo em seguida, sacou uma arma de fogo. Pelo menos três tiros foram efetuados. A Polícia Militar informou que os disparos atingiram o ouvido, o abdômen e as costas do morador. O suspeito fugiu a pé logo após o ataque. A área foi isolada pela Polícia Militar até a chegada da Polícia Científica, que realizou a perícia e a remoção do corpo. Não houve registro de outras pessoas feridas. A Polícia Civil de Palmitos, com apoio da Divisão de Investigação Criminal de Maravilha, iniciou as apurações para identificar o autor. Em nota, a Polícia Civil pediu que a população repasse qualquer informação que possa ajudar na localização do suspeito. As denúncias podem ser feitas de forma anônima pelo Disque Denúncia 181. O post Homem é executado a tiros enquanto tomava chimarrão em casa apareceu primeiro em Jornal Razão .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2Fseguranca%2Fhomem-e-executado-a-tiros-enquanto-tomava-chimarrao-em-casa%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313405</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:01:19 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313405</guid>
-<description><![CDATA[Acidente que envolveu três veículos matou duas pessoas e deixou seis feridos O post Cantor Mauri Lima, irmão de Chitãozinho e Xororó, morre em acidente na BR-116 apareceu primeiro em Visor Notícias.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fchuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fchuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:23:15 +0000</pubDate>
+        <guid isPermaLink="false">https://visornoticias.com.br/?p=313418</guid>
+        <description><![CDATA[Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde O post Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos apareceu primeiro em Visor Notícias .]]></description>
+        <content:encoded><![CDATA[<p>Instabilidade avança pelo Estado com risco moderado a alto para ocorrências, especialmente a partir da tarde O post Chuva ganha força em SC nesta segunda; temporais atingem Oeste e Planaltos apareceu primeiro em Visor Notícias .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fchuva-ganha-forca-em-sc-nesta-segunda-temporais-atingem-oeste-e-planaltos%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Utilidade Pública – 08/12/2025]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129333</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:24:38 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129333</guid>
-<description><![CDATA[DOCUMENTOS PERDIDOS Augusto Gemnieczak – contato 98878-8100. Leonardo Vinicius dos Santos – contato 99600-3650. Josoel Camargo Alves – contato (21) 98049-7390. DOCUMENTOS ENCONTRADOS&#160; Mauricio Eduardo Barbosa –...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fnovo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fnovo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:12:47 +0000</pubDate>
+        <guid isPermaLink="false">https://visornoticias.com.br/?p=313411</guid>
+        <description><![CDATA[Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação O post Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados apareceu primeiro em Visor Notícias .]]></description>
+        <content:encoded><![CDATA[<p>Mapa define 32 mil hectares com cachoeiras, trilhas e áreas de preservação O post Novo projeto de parque nacional vai abranger 32 mil hectares entre dois estados apareceu primeiro em Visor Notícias .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fnovo-projeto-de-parque-nacional-vai-abranger-32-mil-hectares-entre-dois-estados%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Lombo assado com crosta crocante: 3 receitas para o Natal]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Flombo-assado-com-crosta-crocante-3-receitas-para-o-natal%2F</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:20:08 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/</guid>
-<description><![CDATA[Aprenda a preparar opções saborosas para essa noite especial O post Lombo assado com crosta crocante: 3 receitas para o Natal apareceu primeiro em Visor Notícias.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Tragédia no interior de Camboriú: dois homens morrem atropelados por UTV]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Ftragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Ftragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 11:03:39 +0000</pubDate>
+        <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
+        <description><![CDATA[A tranquilidade da Estrada Geral do Braço foi interrompida na noite de domingo (7), quando um UTV — veículo off-road do tipo “gaiola” — atingiu dois homens que caminhavam pela via. As vítimas, tio e sobrinho, morreram ainda no local. O Corpo de Bombeiros fo...]]></description>
+        <content:encoded><![CDATA[<p>A tranquilidade da Estrada Geral do Braço foi interrompida na noite de domingo (7), quando um UTV — veículo off-road do tipo “gaiola” — atingiu dois homens que caminhavam pela via. As vítimas, tio e sobrinho, morreram ainda no local. O Corpo de Bombeiros foi acionado às 20h20, mas nada pôde ser feito. Trabalhadores temporários Os dois haviam chegado recentemente a Camboriú para trabalhar na construção de uma residência próxima ao ponto do acidente. Moradores relataram que eles não eram da região e atuavam como prestadores de serviço na obra. Veículo abandonado após o impacto O UTV utilizado no atropelamento, descrito como um modelo moderno e potente, foi deixado para trás pelo condutor, que fugiu logo após a colisão sem prestar socorro às vítimas. Investigação em andamento A Polícia Civil já iniciou as investigações e busca identificar o piloto do veículo. O UTV foi apreendido e encaminhado para perícia, que deve ajudar a esclarecer a dinâmica do acidente. The post Tragédia no interior de Camboriú: dois homens morrem atropelados por UTV appeared first on Hora de Porto Belo .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F2025%2F12%2F08%2Ftragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
-<item>
-<title><![CDATA[Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina]]></title>
-<link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313399</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:19:43 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=313399</guid>
-<description><![CDATA[Estado enfrenta instabilidade entre segunda e quinta-feira, com alerta para alagamentos, enxurradas e ventos fortes O post Ciclone extratropical traz chuva intensa, ventos de até 100 km/h e risco alto em Santa Catarina...]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <item>
+        <title><![CDATA[Dois homens são atropelados por buggy e morrem na Estrada Geral do Braço, em Camboriú; condutor fugiu do local]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fdois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fdois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 10:59:48 +0000</pubDate>
+        <guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
+        <description><![CDATA[Um atropelamento registrado por volta das 22h de domingo, 7, vitimou tio e sobrinho na Estrada Geral do Braço, em Camboriú. Segundo informações preliminares, os homens caminhavam quando foram atropelados por um buggy Can-Am Maverick. Os relatos informam que...]]></description>
+        <content:encoded><![CDATA[<p>Um atropelamento registrado por volta das 22h de domingo, 7, vitimou tio e sobrinho na Estrada Geral do Braço, em Camboriú. Segundo informações preliminares, os homens caminhavam quando foram atropelados por um buggy Can-Am Maverick. Os relatos informam que o condutor do veículo fugiu do local sem prestar socorro às vítimas. Compartilhe esta notícia no WhatsApp Segundo informações de populares que presenciaram o acidente, as vítimas seriam de fora da cidade; alguns relatos destacam São Paulo como cidade de origem. No entanto, a informação não foi confirmada por órgãos oficiais. Leia também: BMW X1 bate em Corsa e por pouco não cai no Rio Marambaia, em Balneário Camboriú O relato sobre as circunstâncias do acidente não foi repassado pelas equipes policiais, assim como o atendimento por parte das equipes de socorro. Em vídeos que circulam nas redes, o veículo responsável pelo atropelamento aparece sem uma das rodas e com partes da carroceria amassadas. O motorista do buggy fugiu do local após o atropelamento, não prestando socorro às vítimas, que ficaram caídas na via. CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP Moradores da localidade alertam que a passagem desse tipo de veículo em alta velocidade é constante na região. A identidade das vítimas não foi divulgada. A Polícia Militar não repassou informações sobre a ocorrência. leia no portal menina Carro bate na traseira de caminhão estacionado na BR-470 e deixa adolescente ferido em Gaspar PM prende dois suspeitos de tráfico e apreende mais de 800g de drogas em Balneário Camboriú</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2Fdois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 
+    <item>
+        <title><![CDATA[Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí]]></title>
+        <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fbriga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai%2F</link>
+        <comments>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fbriga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai%2F#respond</comments>
+        <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+        <pubDate>Mon, 08 Dec 2025 10:45:44 +0000</pubDate>
+        <guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
+        <description><![CDATA[Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente O post Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí apareceu primeiro em Visor Notícias .]]></description>
+        <content:encoded><![CDATA[<p>Homem tinha 21 anos e morreu após segundo confronto; veículo dos envolvidos passou por perícia e causou novo incidente O post Briga entre grupos termina com jovem morto a facadas após dois confrontos em Brusque e Itajaí apareceu primeiro em Visor Notícias .</p><p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+        <wfw:commentRss>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fbriga-entre-grupos-termina-com-jovem-morto-a-facadas-apos-dois-confrontos-em-brusque-e-itajai%2Ffeed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    </item>
 </channel>
 </rss>
