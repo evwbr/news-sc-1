@@ -1,124 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 17:11:06 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Not?cias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 17:13:12 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></title>
-<link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171986</guid>
-<description><![CDATA[**LIDE:** O Jornal Razão, veículo de comunicação do Litoral Norte de Santa Catarina, reforça sua iniciativa de transparência e vigilância pública ao divulgar a lista completa de criminosos foragidos da Justiça na Comarca de Balneário Camboriú. A ação visa ampliar a segurança da população durante o período de aumento do fluxo de turistas no fim de ano.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[Jovem de 18 anos recém]]></title>
-<link>https://portalmenina.com.br/jovem-de-18-anos-recem-habilitada-morre-em-colisao-entre-moto-e-carreta-em-cruzamento-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:45:36 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129403</guid>
-<description><![CDATA[Uma jovem de 18 anos faleceu no início da tarde desta segunda-feira, 8, em decorrência de um acidente envolvendo a moto que conduzia e uma carreta, no cruzamento da avenida Irineu Bornhausen (Caninana) com a rua José Cândido, em Itajaí. O acidente ocorreu por volta das 12h30 e mobilizou equipes do SAMU, Corpo de Bombeiros, Polícia Militar e Polícia Científica.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Balne?rio Cambori? tem 170 criminosos foragidos da Justi?a; saiba os nomes]]></title>
+    <link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
 
-<item>
-<title><![CDATA[Dados do Hospital Ruth Cardoso são apagados e direção registra boletim de ocorrência]]></title>
-<link>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:17:18 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129397</guid>
-<description><![CDATA[Dados internos do histórico administrativo e de atendimentos do setor de Qualidade do Hospital Ruth Cardoso foram deletados do sistema, levantando suspeitas de sabotagem durante o processo de transição administrativa para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão da unidade hospitalar nesta segunda-feira, 8. A informação foi confirmada pela secretária de Saúde, Aline Leal, em entrevista à Rádio Menina na sexta-feira, 5.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Balne?rio Cambori? registra 170 criminosos foragidos da Justi?a, identificados pelo Bnmp em a??o de transpar?ncia e seguran?a p?blica.]]></description>
+    <content:encoded><![CDATA[<p>Balne?rio Cambori?, no litoral norte de Santa Catarina, est? com 170 criminosos foragidos da Justi?a, segundo levantamento do Bnmp. Esses indiv?duos, com nomes ?nicos confirmados, fazem parte de uma iniciativa de transpar?ncia e seguran?a p?blica. A a??o visa identificar e localizar essas pessoas que est?o em situa??o irregular perante a Justi?a, aumentando a efici?ncia das autoridades na resolu??o desses casos.</p><p>A divulga??o desses nomes ? de extrema import?ncia para a sociedade, pois permite que as pessoas estejam cientes da presen?a desses criminosos em seu meio. Al?m disso, a transpar?ncia nesse tipo de informa??o contribui para a seguran?a p?blica, uma vez que a popula??o pode colaborar com as autoridades na localiza??o e captura desses foragidos.</p><p>? fundamental que medidas sejam tomadas para que essas pessoas sejam encontradas e respondam pelos seus crimes perante a Justi?a. A identifica??o desses 170 criminosos foragidos ? um passo importante nesse processo, demonstrando o compromisso das autoridades em garantir a seguran?a da popula??o de Balne?rio Cambori? e regi?o.</p><p>Diante desse cen?rio, ? essencial que a sociedade esteja atenta e coopere com as autoridades, fornecendo informa??es que possam contribuir para a pris?o desses indiv?duos. A colabora??o de todos ? fundamental para garantir um ambiente mais seguro e tranquilo para a comunidade local.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
+    <link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
 
-<item>
-<title><![CDATA[Nota de falecimento de Otilía Margarida Mendes]]></title>
-<link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171975</guid>
-<description><![CDATA[A SC Funerária de Tijucas e o Jornal Razão comunicam, com profundo pesar, o falecimento de Otilía Margarida Mendes, ocorrido nesta segunda-feira (8), aos 93 anos. Otilía deixa cinco filhos, quinze netos, dezesseis bisnetos, além de demais familiares e amigos que lamentam sua partida.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Santa Catarina enfrenta dias de extremo perigo com a chegada de um ciclone at?pico. Alertas vermelhos foram emitidos devido ao risco de tornados, ventos intensos acima de 100 km/h e previs?o de chuvas intensas em diversas regi?es do estado. A popula??o local est? em alerta m?ximo diante da situa??o, que exige aten??o e precau??o por parte de todos. A combina??o desses fatores clim?ticos representa um cen?rio de alto risco e pode trazer consequ?ncias graves se n?o forem tomadas as devidas medidas de seguran?a. ? fundamental que a popula??o esteja preparada e siga as orienta??es dos ?rg?os competentes para minimizar os impactos desse fen?meno clim?tico.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina enfrenta dias de extremo perigo com a chegada de um ciclone at?pico. Alertas vermelhos foram emitidos devido ao risco de tornados, ventos intensos acima de 100 km/h e previs?o de chuvas intensas em diversas regi?es do estado. A popula??o local est? em alerta m?ximo diante da situa??o, que exige aten??o e precau??o por parte de todos. A combina??o desses fatores clim?ticos representa um cen?rio de alto risco e pode trazer consequ?ncias graves se n?o forem tomadas as devidas medidas de seguran?a. ? fundamental que a popula??o esteja preparada e siga as orienta??es dos ?rg?os competentes para minimizar os impactos desse fen?meno clim?tico.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Formada em nutri??o, ga?cha morre aos 42 anos em SC ap?s sofrer infarto fulminante]]></title>
+    <link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
 
-<item>
-<title><![CDATA[Porto Belo tem 51 criminosos foragidos da justiça; saiba quem são]]></title>
-<link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171963</guid>
-<description><![CDATA[**LIDE:** O Jornal Razão, em compromisso com a transparência e a segurança da população catarinense, divulga informações sobre criminosos foragidos em Santa Catarina, em vista das festas de fim de ano. A cidade de Tijucas conta com 63 criminosos foragidos, conforme dados do Banco Nacional de Mandados de Prisão, atualizados até às 12h28 de segunda-feira, 08 de dezembro de 2025.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma nutricionista ga?cha, de 42 anos, faleceu em Santa Catarina ap?s sofrer um infarto fulminante.]]></description>
+    <content:encoded><![CDATA[<p>A comunidade foi surpreendida com a triste not?cia do falecimento da nutricionista ga?cha, que morreu aos 42 anos ap?s sofrer um infarto fulminante em solo catarinense. Formada na ?rea da nutri??o, ela deixou familiares, amigos e uma filha enlutados com sua partida inesperada. Sua morte repentina chocou a todos, que se unem em solidariedade nesse momento de luto.</p><p>O ocorrido serve como alerta para a import?ncia de cuidar da sa?de e estar atento aos sinais que o corpo pode dar. Mesmo sendo uma profissional da ?rea da nutri??o, a v?tima n?o resistiu ao infarto, demonstrando que qualquer pessoa est? sujeita a esse tipo de fatalidade. A perda da ga?cha deixa um vazio na comunidade e mostra como a vida ? fr?gil e imprevis?vel.</p><p>Neste momento de dor e consterna??o, amigos e familiares prestam homenagens ? nutricionista, relembrando sua dedica??o ? profiss?o e seu carinho com aqueles que a cercavam. A lembran?a de sua presen?a marcante e seu legado na ?rea da nutri??o permanecer?o vivos, mesmo com sua partida precoce. Que sua mem?ria seja eternizada atrav?s das lembran?as e dos ensinamentos deixados por ela.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Nota de falecimento de Otil?a Margarida Mendes]]></title>
+    <link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171975</guid>
 
-<item>
-<title><![CDATA[Itapema tem 43 criminosos foragidos da justiça; veja quem são]]></title>
-<link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Justiça]]></category>
-<category><![CDATA[destaque]]></category>
-<category><![CDATA[especial foragidos sc]]></category>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Tem]]></category>
-<category><![CDATA[Criminosos]]></category>
-<category><![CDATA[Foragidos]]></category>
-<category><![CDATA[Veja]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171957</guid>
-<description><![CDATA[Com a proximidade das festas de fim de ano, visando a transparência e a segurança da população catarinense, o Jornal Razão divulga publicamente a relação completa de criminosos foragidos da Justiça nas principais cidades em que atua. Todas as informações são provenientes do Banco Nacional de Mandados de Prisão, assegurando dados oficiais, verificados e atualizados.]]></description>
-<content:encoded><![CDATA[<strong>Com a proximidade das festas de fim de ano, visando a transparência e a segurança da população catarinense, o Jornal Razão divulga publicamente a relação completa de criminosos foragidos da Justiça nas principais cidades em que atua. Todas as informações são provenientes do Banco Nacional de Mandados de Prisão, assegurando dados oficiais, verificados e atualizados. Em Porto Belo, há 51 criminosos foragidos da justiça. A reportagem apresenta os 43 foragidos da Comarca de Itapema, cada um listado em ordem alfabética, com a data de expedição do mandado e um breve contexto para compreensão. As demais cidades cobertas pelo Jornal Razão também terão suas listas públicas disponíveis para consulta.</strong><br/><br/>Em Itapema, destaca-se a presença de 43 criminosos foragidos da justiça, com mandados expedidos em datas variadas e situações pendentes. Nomes como Acácio Otávio Pereira, Adriano José Siqueira (Nego Buiu), e outros estão entre os listados, com mandados emitidos por diferentes varas. A iniciativa do Jornal Razão visa informar a população sobre a situação dos foragidos, fornecendo dados precisos e atualizados para auxiliar as autoridades na captura desses indivíduos. A lista completa pode ser consultada no site oficial do veículo, garantindo acesso público e transparente às informações.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Com profundo pesar, a SC Funer?ria de Tijucas e o comunicam o falecimento de Otil?a Margarida Mendes, aos 93 anos.]]></description>
+    <content:encoded><![CDATA[<p>Otil?a Margarida Mendes, nascida em 6 de outubro de 1932, faleceu nesta segunda-feira (8), deixando um legado de amor e mem?rias para sua fam?lia e amigos. Com cinco filhos, quinze netos e dezesseis bisnetos, ela ? lembrada com carinho por todos que tiveram o privil?gio de conhec?-la.</p><p>O vel?rio est? acontecendo na SC Funer?ria de Tijucas, onde familiares e amigos se re?nem para prestar suas ?ltimas homenagens a Otil?a. Sua partida deixa um vazio nos cora??es daqueles que compartilharam momentos especiais ao seu lado.</p><p>A import?ncia deste comunicado vai al?m do simples an?ncio f?nebre, pois ressalta a vida e a hist?ria de uma mulher que deixou um legado de amor e dedica??o. A comunidade se une em solidariedade ? fam?lia enlutada, celebrando a vida de Otil?a Margarida Mendes e honrando sua mem?ria.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Condutora de moto morre em grave acidente com caminh?o em Itaja?]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
 
-<item>
-<title><![CDATA[Colisão entre motos deixa duas mulheres feridas na ponte Altamiro Domingos Castilho]]></title>
-<link>https://portalmenina.com.br/colisao-entre-motos-deixa-duas-mulheres-feridas-na-ponte-altamiro-domingos-castilho/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:56:28 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129369</guid>
-<description><![CDATA[Duas mulheres ficaram feridas em um acidente envolvendo duas motocicletas no sábado, dia 6, na ponte Altamiro Domingos Castilho, que liga a Rua Dom Afonso à Avenida Santo Amaro, conectando as cidades de Camboriú e Balneário Camboriú. O incidente mobilizou o Serviço de Atendimento Móvel de Urgência (SAMU) e equipes de trânsito de Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma jovem motociclista faleceu em decorr?ncia de uma colis?o com uma carreta em Itaja?.]]></description>
+    <content:encoded><![CDATA[<p>A triste not?cia do falecimento de uma jovem condutora de moto chocou a cidade de Itaja?. O acidente fatal ocorreu em uma colis?o com um caminh?o na regi?o de Caninana. A v?tima, cuja identidade n?o foi divulgada, n?o resistiu aos ferimentos e veio a ?bito no local. As circunst?ncias que levaram ao acidente ainda est?o sendo investigadas pelas autoridades competentes.</p><p>A fatalidade levanta mais uma vez a discuss?o sobre a seguran?a no tr?nsito, especialmente entre motociclistas e ve?culos de grande porte. A import?ncia do respeito ?s leis de tr?nsito e da conscientiza??o sobre a responsabilidade de cada condutor ganha destaque diante de trag?dias como essa, que poderiam ser evitadas com pr?ticas seguras ao volante.</p><p>A comunidade local se solidariza com a fam?lia e amigos da v?tima, enquanto as autoridades trabalham para esclarecer os detalhes do acidente. A not?cia serve como alerta para a necessidade de aten??o e cuidado redobrados nas vias, visando a preserva??o da vida de todos os envolvidos no tr?nsito.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Porto Belo tem 51 criminosos foragidos da justi?a; saiba quem s?o]]></title>
+    <link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
 
-<item>
-<title><![CDATA[DELEGACIA MÓVEL DA POLÍCIA CIVIL MARCA PRESENÇA NO CIRCUITO BRASILEIRO E MUNDIAL DE VÔLEI DE PRAIA EM ITAPEMA]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/delegacia-movel-da-policia-civil-marca-presenca-no-circuito-brasileiro-e-mundial-de-volei-de-praia-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:39:11 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20260</guid>
-<description><![CDATA[A Polícia Civil de Santa Catarina marcou presença durante as duas semanas do Circuito Brasileiro e Mundial de Vôlei de Praia em Itapema, com atuação comunitária através da Delegacia Móvel instalada na arena da Meia Praia. Durante o evento, que encerrou no domingo, 7 de dezembro, a equipe policial ofereceu atendimento contínuo ao público, fornecendo orientações, informações e suporte, além de interagir com os presentes e distribuir adesivos de policiais mirins às crianças.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Porto Belo conta com 51 criminosos foragidos da justi?a, conforme dados do Bnmp. Os nomes agora fazem parte da lista p?blica do , em um esfor?o de transpar?ncia e seguran?a. A popula??o local se v? diante de uma realidade preocupante, que coloca em destaque a necessidade de a??es efetivas para a captura desses fugitivos. A divulga??o dessas informa??es visa alertar e mobilizar a comunidade, bem como as autoridades competentes, para garantir a ordem e a tranquilidade no munic?pio. ? essencial que medidas sejam tomadas para lidar com essa situa??o, visando a seguran?a de todos os cidad?os de Porto Belo.]]></description>
+    <content:encoded><![CDATA[<p>Porto Belo conta com 51 criminosos foragidos da justi?a, conforme dados do Bnmp. Os nomes agora fazem parte da lista p?blica do , em um esfor?o de transpar?ncia e seguran?a. A popula??o local se v? diante de uma realidade preocupante, que coloca em destaque a necessidade de a??es efetivas para a captura desses fugitivos. A divulga??o dessas informa??es visa alertar e mobilizar a comunidade, bem como as autoridades competentes, para garantir a ordem e a tranquilidade no munic?pio. ? essencial que medidas sejam tomadas para lidar com essa situa??o, visando a seguran?a de todos os cidad?os de Porto Belo.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[?Senti algo duro?: m?e deixa ex dormir em sua casa e filha ? abusada, em Florian?polis]]></title>
+    <link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
 
-<item>
-<title><![CDATA[Tragédia no interior de Camboriú: dois homens morrem atropelados por UTV]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:03:39 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
-<description><![CDATA[Dois homens, tio e sobrinho, perderam a vida em um trágico acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú. As vítimas, que haviam chegado recentemente à região para trabalhar na construção de uma residência próxima, foram atingidas por um UTV, veículo off-road do tipo "gaiola".]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Um homem foi preso em Conc?rdia, suspeito de estuprar uma crian?a ap?s a m?e deixar seu ex-companheiro dormir em sua casa.]]></description>
+    <content:encoded><![CDATA[<p>A Pol?cia Militar prendeu Dirceu Ribeiro, acusado de abusar sexualmente de uma crian?a, desencadeando uma opera??o que envolveu equipes de diferentes regi?es de Santa Catarina. O caso veio ? tona quando a v?tima foi atendida no Hospital Infantil Joana Gusm?o, em Florian?polis, e os profissionais de sa?de identificaram sinais compat?veis com abuso. A m?e da crian?a permitiu que seu ex-companheiro passasse a noite em sua resid?ncia, momento em que o crime teria ocorrido.</p><p>A gravidade do caso levou as autoridades a agirem rapidamente, resultando na pris?o do suspeito. A neglig?ncia da m?e ao permitir a presen?a do ex-companheiro em sua casa levanta quest?es sobre a seguran?a e prote??o de crian?as em situa??es vulner?veis. A investiga??o continua para esclarecer todos os detalhes e garantir a puni??o adequada ao respons?vel pelo abuso.</p><p>? fundamental que casos como esse sejam amplamente divulgados para conscientizar a popula??o sobre a import?ncia de proteger as crian?as e estar atento a sinais de poss?veis abusos. A colabora??o da sociedade ? essencial para prevenir que situa??es t?o lament?veis como essa se repitam, refor?ando a necessidade de um ambiente seguro e acolhedor para as crian?as em nossa comunidade.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Itapema tem 43 criminosos foragidos da justi?a; veja quem s?o]]></title>
+    <link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171957</guid>
 
-<item>
-<title><![CDATA[CONDUTOR EMBRIAGADO É PRESO APÓS DORMIR AO VOLANTE]]></title>
-<link>https://horadeportobelo.com.br/2025/12/06/condutor-embriagado-e-preso-apos-dormir-ao-volante/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 06 Dec 2025 15:53:15 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20252</guid>
-<description><![CDATA[Na madrugada de ontem (05), a Guarda Municipal de Porto Belo foi acionada para prestar apoio à Secretaria de Obras após um funcionário do local relatar que um motorista havia parado seu veículo no canteiro e aparentava estar passando mal, chegando inclusive a dormir ao volante. Ao deslocar-se até o automóvel, uma guarnição constatou que o condutor apresentava claros sinais de embriaguez, como forte odor etílico, fala arrastada, confusão mental, olhos vermelhos, dificuldade para caminhar e comportamento disperso.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Itapema conta com 43 criminosos foragidos da justi?a, conforme levantamento do Bnmp.]]></description>
+    <content:encoded><![CDATA[<p>A cidade de Itapema, localizada no litoral de Santa Catarina, est? enfrentando um problema s?rio: s?o 43 criminosos que est?o foragidos da justi?a. Esses nomes foram confirmados pelo Bnmp e agora fazem parte de uma lista p?blica divulgada pelo , em uma iniciativa que visa promover transpar?ncia e seguran?a para a popula??o. A divulga??o desses dados busca alertar e conscientizar a comunidade sobre a presen?a desses indiv?duos no munic?pio, contribuindo para a preven??o de crimes e a colabora??o com as autoridades. ? importante que a popula??o esteja ciente da situa??o e colabore com informa??es que possam auxiliar na captura desses criminosos, garantindo assim a seguran?a de todos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Florian?polis ? obrigada a aceitar moradores de rua de outras cidades: ?proibido devolver?]]></title>
+    <link>https://jornalrazao.com/seguranca/florianopolis-e-obrigada-a-aceitar-moradores-de-rua-de-outras-cidades-proibido-devolver/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 13:37:04 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171954</guid>
 
+    <description><![CDATA[Florian?polis ? obrigada a acolher moradores de rua de outras cidades, segundo ?rg?o federal.]]></description>
+    <content:encoded><![CDATA[<p>Florian?polis foi notificada por um ?rg?o federal de que n?o pode mais devolver moradores de rua vindos de outras cidades. A pr?tica foi considerada viola??o da liberdade de locomo??o e discriminat?ria. A medida visa garantir que essas pessoas tenham acesso aos servi?os de acolhimento e assist?ncia social, independentemente de sua origem. A decis?o levanta discuss?es sobre a responsabilidade das cidades em lidar com a popula??o em situa??o de rua e a necessidade de pol?ticas p?blicas mais abrangentes e eficazes nessa ?rea. A determina??o traz ? tona a import?ncia de garantir direitos b?sicos a todos os cidad?os, independentemente de sua condi??o social ou local de origem.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/florianopolis-e-obrigada-a-aceitar-moradores-de-rua-de-outras-cidades-proibido-devolver/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Acidente com ve?culos de SC termina com duas mortes na BR-163]]></title>
+    <link>https://jornalrazao.com/seguranca/acidente-com-veiculos-de-sc-termina-com-duas-mortes-na-br-163/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 13:16:17 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171951</guid>
+
+    <description><![CDATA[Um acidente na BR-163, em Barrac?o, resultou em duas mortes e deixou uma mulher ferida, que foi encaminhada ao hospital.]]></description>
+    <content:encoded><![CDATA[<p>Ocorr?ncia tr?gica chocou a regi?o do Litoral Norte de Santa Catarina. O acidente envolvendo ve?culos de SC ocorreu na BR-163, em Barrac?o, resultando em duas v?timas fatais. Al?m disso, uma mulher ficou ferida e precisou ser levada ?s pressas para o hospital mais pr?ximo.</p><p>As circunst?ncias do acidente ainda est?o sendo investigadas pelas autoridades locais. A identidade das v?timas n?o foi divulgada at? o momento. A trag?dia deixou a comunidade local consternada, ressaltando a import?ncia da seguran?a no tr?nsito e da prud?ncia ao volante.</p><p>A BR-163 ? uma das rodovias mais movimentadas da regi?o e palco frequente de acidentes. A not?cia do ocorrido refor?a a necessidade de medidas para prevenir novas trag?dias e garantir a integridade de todos os motoristas e passageiros que circulam pela regi?o.</p><p>A equipe de resgate e a pol?cia rodovi?ria atuaram prontamente no local, prestando socorro ?s v?timas e controlando o tr?fego na regi?o. O acidente serve como alerta para a import?ncia da conscientiza??o e do respeito ?s leis de tr?nsito, visando evitar perdas irrepar?veis como as ocorridas nesse tr?gico epis?dio.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/acidente-com-veiculos-de-sc-termina-com-duas-mortes-na-br-163/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
