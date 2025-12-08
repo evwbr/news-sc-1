@@ -1,189 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 08 Dec 2025 19:45:20 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Mon, 08 Dec 2025 19:51:15 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
+<item>
+<title><![CDATA[‘Deu ruim’: criminoso tenta furtar bicicleta em BC mas não contava que dono era lutador de Jiu Jitsu]]></title>
+<link>https://jornalrazao.com/seguranca/deu-ruim-criminoso-tenta-furtar-bicicleta-em-bc-mas-nao-contava-que-dono-era-lutador-de-jiu-jitsu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 19:40:31 GMT</pubDate>
+<guid isPermaLink="false">evw-https://jornalrazao.com/?p=172007</guid>
+<description><![CDATA[Um criminoso tentou furtar uma bicicleta em Balneário Camboriú, mas não esperava que o dono fosse um lutador de Jiu Jitsu.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[‘Deu ruim’: criminoso tenta furtar bicicleta em BC mas não contava que dono era lutador de Jiu Jitsu]]></title>
-    <link>https://jornalrazao.com/seguranca/deu-ruim-criminoso-tenta-furtar-bicicleta-em-bc-mas-nao-contava-que-dono-era-lutador-de-jiu-jitsu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 19:40:31 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172007</guid>
+<item>
+<title><![CDATA[Balneário Camboriú inicia temporada Bandeira Azul 2025/2026 no dia 15 de dezembro]]></title>
+<link>https://portalmenina.com.br/balneario-camboriu-inicia-temporada-bandeira-azul-2025-2026-no-dia-15-de-dezembro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 19:27:12 GMT</pubDate>
+<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129439</guid>
+<description><![CDATA[[Parte 1] A abertura da temporada 2025/2026 do Programa Bandeira Azul em Balneário Camboriú acontecerá no dia 15 de dezembro, com cerimônia na Praia do Estaleirinho.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-    <description><![CDATA[Um criminoso tentou furtar uma bicicleta em Balneário Camboriú, mas não esperava que o dono fosse um lutador de Jiu Jitsu.]]></description>
-    <content:encoded><![CDATA[<p>O suspeito foi flagrado pelas câmeras de segurança empurrando a bicicleta, prestes a sair do local, quando foi surpreendido pelo dono, um praticante de Jiu Jitsu. O lutador agiu rapidamente e conseguiu dominar o criminoso, evitando o furto. A ação foi registrada pelas câmeras e repercutiu nas redes sociais.</p>
+<item>
+<title><![CDATA[Resenha FC levanta a taça do Campeonato Municipal de Futebol de Campo de Porto Belo]]></title>
+<link>https://horadeportobelo.com.br/2025/12/08/resenha-fc-levanta-a-taca-do-campeonato-municipal-de-futebol-de-campo-de-porto-belo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Região]]></category>
+<category><![CDATA[Resenha]]></category>
+<category><![CDATA[Fc]]></category>
+<category><![CDATA[Levanta]]></category>
+<category><![CDATA[Taça]]></category>
+<category><![CDATA[Campeonato]]></category>
+<category><![CDATA[Municipal]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 19:08:12 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20279</guid>
+<description><![CDATA[O Campo do Vila Nova foi palco de uma final histórica do esporte em Porto Belo neste domingo (07). Com um sol forte e uma torcida vibrante, o clima de decisão e paixão pelo futebol estava presente.]]></description>
+<content:encoded><![CDATA[<strong>O Campo do Vila Nova foi palco de uma final histórica do esporte em Porto Belo neste domingo (07). Com um sol forte e uma torcida vibrante, o clima de decisão e paixão pelo futebol estava presente. Em uma partida emocionante que terminou em 2 a 2 no tempo regulamentar, o Resenha FC sagrou-se campeão nos pênaltis, vencendo o Santa Cruz por 5 a 4. O jogo foi marcado por equilíbrio, intensidade e entrega, com ambas as equipes demonstrando determinação e talento em campo.</strong><br/><br/>Além da final, a disputa do terceiro lugar entre Real Betis e Retex também movimentou o público presente no Campo do Vila Nova. O Real Betis levou a melhor ao vencer o Retex FC por 4 a 1, encerrando sua participação de forma brilhante. O Campeonato Municipal de Futebol de Campo, organizado pelo Governo Municipal por meio da Fundação de Esportes, contou com a participação de 10 times, mantendo viva a tradição esportiva da cidade. Com a conquista, o Resenha FC não apenas levanta o troféu, mas também insere seu nome mais uma vez na história do futebol local, celebrando o trabalho dedicado realizado com seus atletas.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-<p>O incidente ocorreu em Balneário Camboriú, conhecida cidade litorânea de Santa Catarina, e chamou a atenção pela reação rápida e eficaz do dono da bicicleta. A prática do Jiu Jitsu, arte marcial que envolve técnicas de defesa pessoal, foi fundamental para impedir o crime.</p>
+<item>
+<title><![CDATA[EDITAL PLATAFORMA]]></title>
+<link>https://horadeportobelo.com.br/2025/12/08/edital-plataforma-55/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Publicações legais]]></category>
+<category><![CDATA[angelita]]></category>
+<category><![CDATA[edital]]></category>
+<category><![CDATA[Edital]]></category>
+<category><![CDATA[Plataforma]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 18:54:20 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20276</guid>
+<description><![CDATA[Um novo edital foi divulgado pela plataforma online, conforme informado pelo site Hora de Porto Belo. A publicação ocorreu recentemente, sem especificação da data exata, e traz informações sobre oportunidades disponíveis para os usuários da plataforma.]]></description>
+<content:encoded><![CDATA[<strong>Um novo edital foi divulgado pela plataforma online, conforme informado pelo site Hora de Porto Belo. A publicação ocorreu recentemente, sem especificação da data exata, e traz informações sobre oportunidades disponíveis para os usuários da plataforma.</strong><br/><br/>A plataforma online, cujo nome não foi mencionado, disponibilizou um novo edital contendo informações sobre oportunidades para os interessados. A divulgação foi feita através do site Hora de Porto Belo, sem detalhes sobre a abrangência ou natureza das oportunidades mencionadas. A publicação do edital visa informar e possibilitar a participação dos usuários da plataforma em questão.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FEvento-40-EDITAL1-1-scaled.jpg" type="image/jpeg"/>
+</item>
 
-<p>A atitude do lutador serve como exemplo de como a prática esportiva pode não apenas promover a saúde e o bem-estar, mas também contribuir para a segurança e proteção pessoal. A rápida intervenção evitou que o criminoso concluísse o roubo, demonstrando a importância de estar preparado para lidar com situações de risco.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/deu-ruim-criminoso-tenta-furtar-bicicleta-em-bc-mas-nao-contava-que-dono-era-lutador-de-jiu-jitsu/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[“Apaixonada por artes marciais”: jovem morre ao tentar desviar de carro de autoescola em Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 17:46:51 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171998</guid>
+<item>
+<title><![CDATA[Confusão após bola atingir criança termina em tumulto em Porto Belo]]></title>
+<link>https://horadeportobelo.com.br/2025/12/08/confusao-apos-bola-atingir-crianca-termina-em-tumulto-em-porto-belo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Policial]]></category>
+<category><![CDATA[Confusão]]></category>
+<category><![CDATA[Após]]></category>
+<category><![CDATA[Bola]]></category>
+<category><![CDATA[Atingir]]></category>
+<category><![CDATA[Criança]]></category>
+<category><![CDATA[Termina]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 17:54:28 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20267</guid>
+<description><![CDATA[Uma briga envolvendo várias pessoas resultou em tumulto no píer de Porto Belo, no final da tarde deste domingo. A Guarda Municipal foi acionada por volta das 17h24 para intervir na situação, após receber informações sobre a ocorrência de uma grande aglomeração e confronto entre os presentes.]]></description>
+<content:encoded><![CDATA[<strong>Uma briga envolvendo várias pessoas resultou em tumulto no píer de Porto Belo, no final da tarde deste domingo. A Guarda Municipal foi acionada por volta das 17h24 para intervir na situação, após receber informações sobre a ocorrência de uma grande aglomeração e confronto entre os presentes. Segundo relatos, o conflito teve início quando uma bola de futebol atingiu uma criança que estava próxima a um grupo, desencadeando uma discussão que culminou na confusão generalizada.</strong><br/><br/>Ao chegar ao local, os agentes da Guarda Municipal se depararam com parte do grupo bastante exaltada, sendo necessário intervir para separar os envolvidos e restabelecer a ordem. Com o apoio das viaturas 07 e 08, os guardas identificaram os participantes da briga e possíveis testemunhas. Alguns envolvidos foram encaminhados à Delegacia de Polícia de Itapema para as devidas providências legais, após a situação ser controlada pelas autoridades.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-    <description><![CDATA[Uma jovem apaixonada por artes marciais faleceu ao tentar desviar de um carro de autoescola em Itajaí.]]></description>
-    <content:encoded><![CDATA[<p>A notícia abalou toda a comunidade de Itajaí, especialmente o meio esportivo. Segundo informações, a jovem, identificada como Júlia Fernanda, estava em sua motocicleta quando tentou desviar de um carro de autoescola que teria invadido sua faixa. O acidente ocorreu em uma das vias da cidade, causando comoção entre amigos e familiares da vítima, que era conhecida pela sua paixão e dedicação às artes marciais.</p>
+<item>
+<title><![CDATA[Conserto emergencial deixa Bairro das Nações sem água nesta segunda]]></title>
+<link>https://portalmenina.com.br/conserto-emergencial-deixa-bairro-das-nacoes-sem-agua-nesta-segunda-feira/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[EMASA]]></category>
+<category><![CDATA[Conserto]]></category>
+<category><![CDATA[Emergencial]]></category>
+<category><![CDATA[Deixa]]></category>
+<category><![CDATA[Bairro]]></category>
+<category><![CDATA[Nações]]></category>
+<category><![CDATA[Sem]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 17:50:48 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129424</guid>
+<description><![CDATA[O abastecimento de água no Bairro das Nações, em Balneário Camboriú, foi interrompido na manhã desta segunda-feira, dia 8, devido a um rompimento na rede, conforme informado pela Empresa Municipal de Água e Saneamento (Emasa). A interrupção ocorreu durante uma manutenção de ramal de esgoto na Rua Israel, realizada pela empresa Ambiental, resultando no dano à tubulação de água e exigindo intervenção imediata das equipes da Emasa para o reparo.]]></description>
+<content:encoded><![CDATA[<strong>O abastecimento de água no Bairro das Nações, em Balneário Camboriú, foi interrompido na manhã desta segunda-feira, dia 8, devido a um rompimento na rede, conforme informado pela Empresa Municipal de Água e Saneamento (Emasa). A interrupção ocorreu durante uma manutenção de ramal de esgoto na Rua Israel, realizada pela empresa Ambiental, resultando no dano à tubulação de água e exigindo intervenção imediata das equipes da Emasa para o reparo. A previsão é que o fornecimento de água seja restabelecido no período da tarde.</strong><br/><br/>Durante o período de reparo, os moradores do Bairro das Nações podem enfrentar falta de água e baixa pressão em suas residências. Após a conclusão dos trabalhos e a reabertura dos registros, o sistema de abastecimento será normalizado de forma gradativa. A Emasa recomenda que os moradores adotem medidas de economia e uso consciente da água até que a situação seja totalmente regularizada. <br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-<p>A tragédia evidencia a importância da segurança no trânsito e a necessidade de atenção constante por parte de todos os condutores. A morte de Júlia Fernanda deixa um vazio na comunidade esportiva local, que perde uma jovem promissora e cheia de vida. As autoridades locais estão investigando as circunstâncias do acidente para determinar as responsabilidades e prevenir futuros incidentes semelhantes.</p>
+<item>
+<title><![CDATA[“Apaixonada por artes marciais”: jovem morre ao tentar desviar de carro de autoescola em Itajaí]]></title>
+<link>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 17:46:51 GMT</pubDate>
+<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171998</guid>
+<description><![CDATA[Uma jovem apaixonada por artes marciais faleceu ao tentar desviar de um carro de autoescola em Itajaí.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-<p>Neste momento de luto e consternação, amigos e familiares prestam homenagens à jovem, relembrando sua paixão pelas artes marciais e seu espírito determinado. A tragédia serve como alerta para a importância do respeito às regras de trânsito e a conscientização de todos os motoristas sobre a responsabilidade que cada um carrega ao estar ao volante.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[‘Cadeirada nas costas e bambuzada’: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
-    <link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171992</guid>
+<item>
+<title><![CDATA[Balneário Camboriú registra aumento nas abordagens sociais e soma 1.872 atendimentos em novembro]]></title>
+<link>https://portalmenina.com.br/balneario-camboriu-registra-aumento-nas-abordagens-sociais-e-soma-1-872-atendimentos-em-novembro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[abordagem social]]></category>
+<category><![CDATA[Balneário]]></category>
+<category><![CDATA[Camboriú]]></category>
+<category><![CDATA[Registra]]></category>
+<category><![CDATA[Aumento]]></category>
+<category><![CDATA[Abordagens]]></category>
+<category><![CDATA[Sociais]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 17:33:10 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129420</guid>
+<description><![CDATA[A cidade de Balneário Camboriú registrou 1.872 abordagens sociais no mês de novembro, conforme relatório divulgado pela Secretaria de Assistência Social, Mulher e Família nesta segunda-feira, 8. O número representa um aumento de 13,3% em comparação ao mês de outubro.]]></description>
+<content:encoded><![CDATA[<strong>A cidade de Balneário Camboriú registrou 1.872 abordagens sociais no mês de novembro, conforme relatório divulgado pela Secretaria de Assistência Social, Mulher e Família nesta segunda-feira, 8. O número representa um aumento de 13,3% em comparação ao mês de outubro. Durante o período, 492 pessoas em situação de rua foram abordadas em diferentes pontos da cidade, sendo que 405 delas aceitaram algum tipo de acolhimento, o que representa um aumento de 4,95% em relação ao mês anterior. Além disso, 126 pessoas receberam auxílio pela primeira vez, mantendo o mesmo índice registrado em outubro. O secretário Omar Tomalih destacou que 60% das pessoas foram abordadas no máximo duas vezes, sugerindo que a maioria permanece pouco tempo no município.</strong><br/><br/>O relatório também apontou um crescimento de 10% na média diária de abordagens e de 4,7% nos acolhimentos realizados pela Casa do Migrante. As avenidas Atlântica, Brasil e Estado Dalmo Vieira foram identificadas como os locais com maior número de atendimentos. De janeiro a novembro, o serviço de Abordagem Social realizou 23 mil ações na cidade, sendo que a maioria das solicitações foi feita por meio do telefone/aplicativo 156 e WhatsApp (47 98839-7075), que juntos responderam por 64% das abordagens do mês, além das buscas ativas feitas pelas equipes. <br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-    <description><![CDATA[Uma briga generalizada na praia de Porto Belo mobilizou a Guarda Municipal, com ânimos inflamados e tentativas de reatar brigas mesmo com a presença das autoridades.]]></description>
-    <content:encoded><![CDATA[<p>A Guarda Municipal de Porto Belo foi acionada para conter uma briga generalizada na praia da cidade. Ao chegarem ao local, os agentes se depararam com uma cena de tumulto, com várias pessoas gritando, apontando uns para os outros e até mesmo tentando reiniciar as agressões, mesmo com a presença das viaturas. Segundo relatos, houve até mesmo cadeiradas nas costas e bambuzadas durante o conflito.</p>
+<item>
+<title><![CDATA[‘Cadeirada nas costas e bambuzada’: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
+<link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
+<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171992</guid>
+<description><![CDATA[Uma briga generalizada na praia de Porto Belo mobilizou a Guarda Municipal, com ânimos inflamados e tentativas de reatar brigas mesmo com a presença das autoridades.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-<p>A situação chamou a atenção dos banhistas e turistas presentes na praia, que ficaram assustados com a violência da briga. A Guarda Municipal agiu rapidamente para conter os envolvidos e evitar que a situação saísse ainda mais do controle. Até o momento, não foram divulgadas informações sobre feridos ou detidos.</p>
+<item>
+<title><![CDATA[Claudir Maciel recebe título de Cidadão Honorário e destaca trajetória em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/claudir-maciel-recebe-titulo-de-cidadao-honorario-e-destaca-trajetoria-em-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[balneário camboriú]]></category>
+<category><![CDATA[Claudir]]></category>
+<category><![CDATA[Maciel]]></category>
+<category><![CDATA[Recebe]]></category>
+<category><![CDATA[Título]]></category>
+<category><![CDATA[Cidadão]]></category>
+<category><![CDATA[Honorário]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 08 Dec 2025 17:17:59 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129395</guid>
+<description><![CDATA[O secretário da Pessoa Idosa de Balneário Camboriú, Claudir Maciel, foi homenageado com o título de Cidadão Honorário pela Câmara de Vereadores, em reconhecimento à sua trajetória pessoal e pública no município. A cerimônia ocorreu na última quinta-feira (10), e a entrega do título foi realizada no plenário da Câmara.]]></description>
+<content:encoded><![CDATA[<strong>O secretário da Pessoa Idosa de Balneário Camboriú, Claudir Maciel, foi homenageado com o título de Cidadão Honorário pela Câmara de Vereadores, em reconhecimento à sua trajetória pessoal e pública no município. A cerimônia ocorreu na última quinta-feira (10), e a entrega do título foi realizada no plenário da Câmara. Claudir, que chegou à cidade em 1979, recebeu a honraria por sua contribuição ao longo dos anos para o desenvolvimento da comunidade local.</strong><br/><br/>Com quase quatro décadas de atuação na vida pública e empresarial de Balneário Camboriú, Claudir Maciel iniciou sua carreira no serviço público aos 17 anos e acumulou experiências como vereador por quatro mandatos, secretário de Assistência Social e candidato a prefeito. Em entrevista ao Canal 100, da Rádio Menina, o secretário destacou a importância da pasta da Pessoa Idosa, ressaltando o trabalho de acolhimento e resgate de vidas no Lar São Vicente de Paula, além da necessidade de políticas públicas voltadas aos mais de 30 mil idosos residentes no município. Ele também abordou temas como a evolução administrativa e política da cidade, mencionando a reforma que reduziu o número de secretarias e os investimentos previstos para o Hospital Ruth Cardoso. <br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-<p>É importante destacar a importância da atuação da Guarda Municipal em situações como essa, garantindo a segurança e a ordem pública em locais de grande movimentação, como as praias durante a temporada de verão. A presença dos agentes é fundamental para garantir o bem-estar e a tranquilidade de moradores e turistas que frequentam as praias da região.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Balneário Camboriú tem 170 criminosos foragidos da Justiça; saiba os nomes]]></title>
-    <link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
-
-    <description><![CDATA[Balneário Camboriú registra 170 criminosos foragidos da Justiça]]></description>
-    <content:encoded><![CDATA[<p>A Comarca de Balneário Camboriú contabiliza 170 criminosos em situação de fuga, conforme levantamento do Bnmp. Esses indivíduos fazem parte de uma iniciativa de transparência e segurança pública. A identificação desses foragidos é crucial para garantir a ordem e a tranquilidade na região. A divulgação dos nomes visa colaborar com as autoridades na captura desses indivíduos e na resolução de crimes pendentes. A sociedade precisa estar ciente da presença desses elementos perigosos em circulação, a fim de colaborar com a justiça e promover a segurança de todos.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
-    <link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
-
-    <description><![CDATA[Santa Catarina enfrenta dias de extremo perigo com a chegada de um ciclone atípico, que eleva o risco de tornados, ventos intensos e chuvas fortes em várias regiões do estado.]]></description>
-    <content:encoded><![CDATA[<p>Santa Catarina enfrenta dias de extremo perigo com a chegada de um ciclone atípico, que eleva o risco de tornados, ventos intensos e chuvas fortes em várias regiões do estado.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Formada em nutrição, gaúcha morre aos 42 anos em SC após sofrer infarto fulminante]]></title>
-    <link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
-
-    <description><![CDATA[Uma nutricionista gaúcha, de 42 anos, faleceu em Santa Catarina após sofrer um infarto fulminante, deixando familiares e amigos consternados.]]></description>
-    <content:encoded><![CDATA[<p>A nutricionista, formada em nutrição, natural do Rio Grande do Sul, veio a óbito aos 42 anos em Santa Catarina, vítima de um infarto fulminante. Sua morte repentina deixou familiares, amigos e colegas de profissão em choque. Ela deixa uma filha e uma legião de pessoas enlutadas com sua partida.</p>
-
-<p>A notícia do falecimento da profissional da área da saúde repercutiu entre aqueles que a conheciam e admiravam seu trabalho. A perda de alguém tão jovem e dedicado à promoção da saúde e bem-estar impactou a comunidade onde atuava.</p>
-
-<p>O infarto fulminante que levou a nutricionista gaúcha entristeceu não apenas seus familiares, mas também seus pacientes e colegas de profissão. Sua partida precoce serve como um lembrete da fragilidade da vida e da importância de cuidar da saúde.</p>
-
-<p>Neste momento de luto e saudade, a lembrança da nutricionista gaúcha permanece viva entre aqueles que foram tocados por sua dedicação e profissionalismo. Sua partida deixa um vazio na comunidade onde atuava, mas seu legado de cuidado e orientação em relação à alimentação saudável continuará presente.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Condutora de moto morre em grave acidente com caminhão em Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
-
-    <description><![CDATA[Uma jovem motociclista faleceu em um trágico acidente envolvendo uma carreta em Itajaí.]]></description>
-    <content:encoded><![CDATA[<p>A cidade de Itajaí, localizada no litoral norte de Santa Catarina, foi palco de uma triste ocorrência que resultou na morte de uma condutora de moto. O acidente fatal aconteceu após a jovem colidir com uma carreta, em circunstâncias que ainda estão sendo investigadas pelas autoridades competentes.</p>
-
-<p>O trágico incidente chocou a comunidade local, deixando a população consternada com mais uma perda precoce. A identidade da vítima e as circunstâncias exatas que levaram ao acidente ainda não foram divulgadas oficialmente.</p>
-
-<p>A segurança no trânsito e a importância da conscientização dos condutores sobre as normas e cuidados necessários ao dirigir são temas que ganham destaque diante de situações como essa. A fatalidade serve como alerta para a necessidade de prudência e respeito às leis de trânsito, visando evitar novas tragédias e preservar vidas.</p>
-
-<p>Neste momento de luto e reflexão, as autoridades seguem com as investigações para esclarecer os detalhes do acidente e prestar todo o suporte necessário aos familiares e amigos da vítima. A comunidade local se une em solidariedade e em busca de respostas para entender e superar essa dolorosa perda.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Porto Belo tem 51 criminosos foragidos da justiça; saiba quem são]]></title>
-    <link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
-
-    <description><![CDATA[Porto Belo conta com 51 criminosos foragidos da justiça, nomes confirmados pelo Bnmp e agora divulgados.]]></description>
-    <content:encoded><![CDATA[<p>Porto Belo, município localizado no Litoral Norte de Santa Catarina, se vê diante de uma situação preocupante: são 51 criminosos foragidos da justiça que integram a lista pública divulgada. Esses nomes foram confirmados pelo Bnmp, o que evidencia a necessidade de transparência e segurança para a população local. A iniciativa visa informar a comunidade sobre a presença desses indivíduos que representam riscos à sociedade. A divulgação desses dados tem o objetivo de alertar as autoridades e a população sobre a importância de colaborar na identificação e captura desses foragidos, contribuindo para a manutenção da ordem e da segurança na região. Além disso, a transparência nesse tipo de informação é fundamental para que a população esteja ciente dos riscos e possa adotar medidas de precaução. A divulgação desses nomes reforça a importância da parceria entre a comunidade e as autoridades no combate à criminalidade, visando garantir a tranquilidade e a proteção de todos os cidadãos de Porto Belo.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[‘Senti algo duro’: mãe deixa ex dormir em sua casa e filha é abusada, em Florianópolis]]></title>
-    <link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
-
-    <description><![CDATA[Um homem foi preso em Concórdia, suspeito de estuprar uma criança após ser deixado para dormir na casa da mãe da vítima em Florianópolis.]]></description>
-    <content:encoded><![CDATA[<p>A Polícia Militar prendeu Dirceu Ribeiro em Concórdia, acusado de estuprar uma criança depois de passar a noite na casa da mãe da vítima em Florianópolis. O caso veio à tona após a menina ser atendida no Hospital Infantil Joana Gusmão, onde os médicos identificaram sinais de abuso. A prisão mobilizou equipes de diferentes regiões do Estado em busca do suspeito. A mãe da criança, que permitiu que o ex-companheiro dormisse em sua residência, foi fundamental para a identificação do agressor. A gravidade do crime chocou a comunidade e reforça a importância da proteção das crianças contra a violência.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Balneário Camboriú inicia temporada Bandeira Azul 2025/2026 no dia 15 de dezembro]]></title>
-    <link>https://portalmenina.com.br/balneario-camboriu-inicia-temporada-bandeira-azul-2025-2026-no-dia-15-de-dezembro/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 08 Dec 2025 19:27:12 GMT</pubDate>
-    <category><![CDATA[Região]]></category>
-    <guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129439</guid>
-
-    <description><![CDATA[[Parte 1] A abertura da temporada 2025/2026 do Programa Bandeira Azul em Balneário Camboriú acontecerá no dia 15 de dezembro, com cerimônia na Praia do Estaleirinho.]]></description>
-    <content:encoded><![CDATA[<p>[Parte 2] No dia 15 de dezembro, Balneário Camboriú dará início à temporada 2025/2026 do Programa Bandeira Azul, um importante selo de qualidade ambiental para praias. A cerimônia de abertura será realizada na Praia do Estaleirinho, com o tradicional hasteamento da bandeira azul.</p>
-
-<p>O Programa Bandeira Azul é internacional e certifica praias que atendem a uma série de critérios ambientais, de segurança e de qualidade da água. Para Balneário Camboriú, essa certificação é de extrema importância, pois reforça o compromisso da cidade com a preservação ambiental e o turismo sustentável.</p>
-
-<p>Durante a cerimônia de abertura, autoridades locais e representantes do Programa Bandeira Azul estarão presentes para celebrar o início da temporada. A Praia do Estaleirinho foi escolhida como cenário para esse evento especial, que marca o compromisso da cidade em manter suas praias em conformidade com os padrões internacionais de qualidade.</p>
-
-<p>Com a abertura da temporada Bandeira Azul, Balneário Camboriú reafirma sua posição como um destino turístico que valoriza a sustentabilidade e a preservação ambiental. A expectativa é de que a certificação atraia ainda mais visitantes preocupados com a conservação das praias e do meio ambiente.</p>]]></content:encoded>
-    <wfw:commentRss>https://portalmenina.com.br/balneario-camboriu-inicia-temporada-bandeira-azul-2025-2026-no-dia-15-de-dezembro/#respond</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
 </channel>
 </rss>
