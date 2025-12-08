@@ -1,146 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 17:41:22 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Not?cias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 17:50:33 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Balneário Camboriú registra aumento nas abordagens sociais e soma 1.872 atendimentos em novembro]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-registra-aumento-nas-abordagens-sociais-e-soma-1-872-atendimentos-em-novembro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[abordagem social]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Registra]]></category>
-<category><![CDATA[Aumento]]></category>
-<category><![CDATA[Abordagens]]></category>
-<category><![CDATA[Sociais]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 17:33:10 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129420</guid>
-<description><![CDATA[Balneário Camboriú, em Santa Catarina, registrou um total de 1.872 abordagens sociais no mês de novembro, conforme relatório divulgado pela Secretaria de Assistência Social, Mulher e Família nesta segunda-feira, 8. O número representa um aumento de 13,3% em relação ao mês de outubro.]]></description>
-<content:encoded><![CDATA[<strong>Balneário Camboriú, em Santa Catarina, registrou um total de 1.872 abordagens sociais no mês de novembro, conforme relatório divulgado pela Secretaria de Assistência Social, Mulher e Família nesta segunda-feira, 8. O número representa um aumento de 13,3% em relação ao mês de outubro. Durante o período, 492 pessoas em situação de rua foram abordadas em diferentes pontos da cidade, sendo que 405 delas aceitaram algum tipo de acolhimento, o que representa um crescimento de 4,95% em comparação ao mês anterior. Além disso, 126 indivíduos receberam auxílio pela primeira vez, mantendo o mesmo índice registrado em outubro. O secretário Omar Tomalih destacou que 60% das pessoas foram abordadas no máximo duas vezes, sugerindo que a maioria permanece pouco tempo no município.</strong><br/><br/>O relatório também aponta um aumento de 10% na média diária de abordagens e de 4,7% nos acolhimentos realizados pela Casa do Migrante. As avenidas Atlântica, Brasil e Estado Dalmo Vieira foram identificadas como os locais com maior número de atendimentos. De janeiro a novembro, o serviço de Abordagem Social realizou um total de 23 mil ações na cidade, com as solicitações sendo feitas principalmente via telefone/aplicativo 156 e WhatsApp (47 98839-7075), que juntos representaram 64% das abordagens do mês, além das buscas ativas realizadas pelas equipes. (<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[?Cadeirada nas costas e bambuzada?: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
-<link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171992</guid>
-<description><![CDATA[Uma briga generalizada em uma praia de Porto Belo mobilizou a Guarda Municipal, com ?nimos inflamados e tentativas de reatar conflitos mesmo com a chegada das autoridades.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[?Apaixonada por artes marciais?: jovem morre ao tentar desviar de carro de autoescola em Itaja?]]></title>
+    <link>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 17:46:51 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171998</guid>
 
-<item>
-<title><![CDATA[Claudir Maciel recebe título de Cidadão Honorário e destaca trajetória em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/claudir-maciel-recebe-titulo-de-cidadao-honorario-e-destaca-trajetoria-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[balneário camboriú]]></category>
-<category><![CDATA[Claudir]]></category>
-<category><![CDATA[Maciel]]></category>
-<category><![CDATA[Recebe]]></category>
-<category><![CDATA[Título]]></category>
-<category><![CDATA[Cidadão]]></category>
-<category><![CDATA[Honorário]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 17:17:59 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129395</guid>
-<description><![CDATA[O secretário da Pessoa Idosa de Balneário Camboriú, Claudir Maciel, foi homenageado com o título de Cidadão Honorário pela Câmara de Vereadores, em reconhecimento à sua trajetória pessoal e pública na cidade. A entrega da honraria ocorreu durante cerimônia realizada na última quinta-feira (15), na sede da Câmara Municipal.]]></description>
-<content:encoded><![CDATA[<strong>O secretário da Pessoa Idosa de Balneário Camboriú, Claudir Maciel, foi homenageado com o título de Cidadão Honorário pela Câmara de Vereadores, em reconhecimento à sua trajetória pessoal e pública na cidade. A entrega da honraria ocorreu durante cerimônia realizada na última quinta-feira (15), na sede da Câmara Municipal. Claudir, que chegou a Balneário Camboriú em 1979, aos 12 anos, vendendo picolés na Praia Central, destacou a importância do título como um marco em sua vida dedicada ao município.</strong><br/><br/>Com quase quatro décadas de atuação pública e empresarial em Balneário Camboriú, Claudir Maciel acumula experiência como vereador por quatro mandatos, secretário de Assistência Social e candidato a prefeito. Em entrevista ao Canal 100, da Rádio Menina, o secretário ressaltou a relevância da pasta da Pessoa Idosa, destacando o trabalho de acolhimento e resgate de vidas realizado no Lar São Vicente de Paula. Além disso, ele enfatizou a necessidade de políticas públicas direcionadas aos mais de 30 mil idosos residentes na cidade, abordando também temas como a evolução administrativa e política local, investimentos no Hospital Ruth Cardoso e propostas para o rebaixamento da BR-101. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Uma jovem apaixonada por artes marciais perdeu a vida ao tentar desviar de um carro de autoescola em Itaja?.]]></description>
+    <content:encoded><![CDATA[<p>A not?cia da tr?gica morte da jovem abalou n?o apenas seus familiares e amigos, mas toda a comunidade de Itaja?, principalmente os praticantes de artes marciais. Segundo informa??es, a v?tima, identificada como J?lia Fernanda, estava em sua motocicleta quando tentou desviar de um ve?culo de uma autoescola e acabou colidindo com uma carreta. O acidente ocorreu em uma via movimentada da cidade.</p><p>J?lia era conhecida por sua paix?o pelas artes marciais e sua dedica??o aos treinos. Sua morte repentina deixou todos consternados, refor?ando a import?ncia da prud?ncia no tr?nsito e da aten??o redobrada ao compartilhar as vias com outros ve?culos. As autoridades locais est?o investigando as circunst?ncias do acidente para esclarecer os fatos e evitar novas trag?dias.</p><p>O impacto da perda de J?lia Fernanda ressoa n?o apenas entre os praticantes de artes marciais, mas em toda a comunidade de Itaja?. A jovem deixa saudades e um vazio nos cora??es daqueles que a conheciam, lembrando a fragilidade da vida e a import?ncia de valorizarmos cada momento ao lado daqueles que amamos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/julia-fernanda-morre-acidente-moto-carreta-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[?Cadeirada nas costas e bambuzada?: briga generalizada em praia de Porto Belo mobiliza GM]]></title>
+    <link>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 17:25:17 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171992</guid>
 
-<item>
-<title><![CDATA[Balne?rio Cambori? tem 170 criminosos foragidos da Justi?a; saiba os nomes]]></title>
-<link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
-<description><![CDATA[Balne?rio Cambori? registra 170 criminosos foragidos da Justi?a, conforme levantamento do Bnmp.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma briga generalizada na praia de Porto Belo mobilizou a Guarda Municipal, com ?nimos inflamados e tentativas de reatar conflitos mesmo com a chegada das autoridades.]]></description>
+    <content:encoded><![CDATA[<p>A Guarda Municipal de Porto Belo foi acionada para intervir em uma briga generalizada na praia, onde os envolvidos protagonizaram cenas de viol?ncia, incluindo cadeiradas e bambuzadas. Ao chegarem ao local, os guardas encontraram a situa??o fora de controle, com pessoas gritando, apontando umas para as outras e tentando reiniciar as agress?es, mesmo com a presen?a das viaturas.</p><p>A ocorr?ncia chamou a aten??o dos frequentadores da praia e mobilizou um grande efetivo da Guarda Municipal para conter a confus?o. A viol?ncia e a falta de respeito com as autoridades presentes s?o preocupantes, evidenciando a necessidade de medidas para garantir a seguran?a e a ordem em locais p?blicos.</p><p>? fundamental que situa??es como essa sejam evitadas, visando preservar a integridade f?sica e a tranquilidade de todos que frequentam as praias da regi?o. A atua??o r?pida e eficaz da Guarda Municipal foi crucial para controlar a situa??o e evitar que a briga se intensificasse, demonstrando a import?ncia do trabalho dessas equipes no monitoramento e na preserva??o da seguran?a p?blica.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/cadeirada-e-bambuzada-porto-belo-sc/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Balne?rio Cambori? tem 170 criminosos foragidos da Justi?a; saiba os nomes]]></title>
+    <link>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:47:04 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171986</guid>
 
-<item>
-<title><![CDATA[Jovem de 18 anos recém]]></title>
-<link>https://portalmenina.com.br/jovem-de-18-anos-recem-habilitada-morre-em-colisao-entre-moto-e-carreta-em-cruzamento-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Itajaí]]></category>
-<category><![CDATA[Trânsito]]></category>
-<category><![CDATA[Jovem]]></category>
-<category><![CDATA[Anos]]></category>
-<category><![CDATA[Recém]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 16:45:36 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129403</guid>
-<description><![CDATA[Uma jovem de 18 anos faleceu no início da tarde desta segunda-feira, 8, em decorrência de um acidente envolvendo a motocicleta que conduzia e uma carreta, no cruzamento da avenida Irineu Bornhausen (Caninana) com a rua José Cândido, em Itajaí. O incidente ocorreu por volta das 12h30 e mobilizou equipes do SAMU, Corpo de Bombeiros, Polícia Militar e Polícia Científica.]]></description>
-<content:encoded><![CDATA[<strong>Uma jovem de 18 anos faleceu no início da tarde desta segunda-feira, 8, em decorrência de um acidente envolvendo a motocicleta que conduzia e uma carreta, no cruzamento da avenida Irineu Bornhausen (Caninana) com a rua José Cândido, em Itajaí. O incidente ocorreu por volta das 12h30 e mobilizou equipes do SAMU, Corpo de Bombeiros, Polícia Militar e Polícia Científica. Segundo informações obtidas no local, a motociclista estava parada no semáforo atrás de um veículo de autoescola. Ao sinal abrir, o carro à frente demorou a se movimentar, levando a jovem a tentar ultrapassá-lo pela esquerda para prosseguir. Neste momento, uma carreta transitava pela avenida, resultando na colisão fatal.</strong><br/><br/>Testemunhas relataram que a vítima, recém-habilitada, aguardava no semáforo atrás do veículo da autoescola e, ao tentar contornar pela esquerda, foi atingida pela carreta. A Polícia Científica realizou os procedimentos periciais no local do acidente para investigar as circunstâncias. A interdição parcial da via durante o atendimento causou congestionamentos na região. A jovem foi declarada morta no local do acidente.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+    <description><![CDATA[Balne?rio Cambori? registra 170 criminosos foragidos da Justi?a, conforme levantamento do Bnmp.]]></description>
+    <content:encoded><![CDATA[<p>Balne?rio Cambori?, cidade conhecida por suas belezas naturais, enfrenta um desafio preocupante: o n?mero de 170 criminosos foragidos da Justi?a. De acordo com informa??es do Bnmp, esses fugitivos est?o sendo procurados pelas autoridades locais. A iniciativa de transpar?ncia e seguran?a p?blica, que visa manter a popula??o informada sobre esses indiv?duos, ? fundamental para garantir a tranquilidade e o bem-estar dos moradores da regi?o. A identifica??o desses foragidos ? um passo importante para a resolu??o de crimes e a manuten??o da ordem p?blica. A colabora??o da comunidade, aliada ao trabalho das for?as de seguran?a, ? essencial para a captura desses criminosos e a garantia da justi?a para as v?timas. A divulga??o dos nomes dos foragidos refor?a a import?ncia da participa??o ativa da sociedade na preven??o e combate ? criminalidade, contribuindo para a constru??o de uma cidade mais segura e pac?fica para todos os cidad?os.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/balneario-camboriu-tem-170-criminosos-foragidos-da-justica-saiba-os-nomes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
+    <link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
 
-<item>
-<title><![CDATA[Alerta vermelho em SC: ciclone perigoso eleva risco de tornados e enxurradas]]></title>
-<link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:10:35 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
-<description><![CDATA[Santa Catarina est? sob alerta vermelho devido a um ciclone at?pico que traz consigo a amea?a de tornados, ventos intensos e chuvas fortes em diversas ?reas do estado. Com previs?o de ventos acima de 100 km/h, a popula??o enfrenta dias de extremo perigo. A]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Santa Catarina vive momentos de alerta m?ximo devido a um ciclone at?pico que eleva o risco de tornados, enxurradas e ventos acima de 100 km/h. Al?m disso, a previs?o ? de chuvas intensas em diversas regi?es do estado.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina vive momentos de alerta m?ximo devido a um ciclone at?pico que eleva o risco de tornados, enxurradas e ventos acima de 100 km/h. Al?m disso, a previs?o ? de chuvas intensas em diversas regi?es do estado.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Formada em nutri??o, ga?cha morre aos 42 anos em SC ap?s sofrer infarto fulminante]]></title>
+    <link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
 
-<item>
-<title><![CDATA[Formada em nutri??o, ga?cha morre aos 42 anos em SC ap?s sofrer infarto fulminante]]></title>
-<link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 16:02:47 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
-<description><![CDATA[Uma nutricionista ga?cha, de 42 anos, faleceu em Santa Catarina ap?s um infarto fulminante, deixando familiares e amigos consternados.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma nutricionista ga?cha de 42 anos faleceu em Santa Catarina ap?s um infarto fulminante, deixando familiares e amigos em luto.]]></description>
+    <content:encoded><![CDATA[<p>No ?ltimo final de semana, uma triste not?cia abalou a comunidade de Santa Catarina. Uma nutricionista ga?cha, de 42 anos, veio a ?bito ap?s sofrer um infarto fulminante. Formada na ?rea da sa?, a profissional era muito querida por todos que a conheciam, deixando sua filha, familiares e amigos enlutados com a sua partida inesperada.</p><p>O ocorrido pegou a todos de surpresa, j? que a v?tima aparentava ter uma vida saud?vel e ativa. A morte repentina ressalta a import?ncia de cuidar da sa?de e estar atento aos sinais que o corpo pode enviar, independentemente da idade ou profiss?o.</p><p>Neste momento de dor e saudade, a comunidade se une para prestar homenagens e conforto ? fam?lia enlutada. A perda de uma profissional t?o dedicada e querida deixa um vazio nos cora??es daqueles que compartilharam momentos ao seu lado, refor?ando a import?ncia de valorizarmos cada instante ao lado daqueles que amamos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Nota de falecimento de Otil?a Margarida Mendes]]></title>
+    <link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171975</guid>
 
-<item>
-<title><![CDATA[Nota de falecimento de Otil?a Margarida Mendes]]></title>
-<link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171975</guid>
-<description><![CDATA[Com profundo pesar, a SC Funer?ria de Tijucas comunicam o falecimento de Otil?a Margarida Mendes, aos 93 anos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Com profundo pesar, a SC Funer?ria de Tijucas e o comunicam o falecimento de Otil?a Margarida Mendes, aos 93 anos.]]></description>
+    <content:encoded><![CDATA[<p>O munic?pio de Tijucas, em Santa Catarina, se despede de uma de suas moradoras mais ilustres. Nesta segunda-feira, Otil?a Margarida Mendes, de 93 anos, nos deixou para sempre. M?e de cinco filhos, av? de quinze netos e bisav? de dezesseis bisnetos, ela deixa uma grande fam?lia e amigos enlutados com sua partida.</p><p>Nascida em 6 de outubro de 1932, Otil?a deixa um legado de amor, carinho e dedica??o. Sua presen?a marcante ser? lembrada por todos que tiveram a oportunidade de compartilhar momentos ao seu lado. O vel?rio est? acontecendo na SC Funer?ria de Tijucas, onde familiares e amigos prestam suas ?ltimas homenagens.</p><p>O falecimento de Otil?a Margarida Mendes representa uma perda significativa para a comunidade local, que se une em solidariedade ? fam?lia enlutada. Seu legado de amor e generosidade permanecer? vivo nos cora??es daqueles que tiveram o privil?gio de conhec?-la.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Condutora de moto morre em grave acidente com caminh?o em Itaja?]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
 
-<item>
-<title><![CDATA[Condutora de moto morre em grave acidente com caminh?o em Itaja?]]></title>
-<link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:43:57 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
-<description><![CDATA[Uma jovem motociclista faleceu em um grave acidente envolvendo uma carreta em Itaja?.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Uma jovem motociclista veio a ?bito ap?s um grave acidente com um caminh?o em Itaja?.]]></description>
+    <content:encoded><![CDATA[<p>A trag?dia aconteceu na cidade de Itaja?, quando a condutora da moto se envolveu em uma colis?o com uma carreta. Infelizmente, a jovem n?o resistiu aos ferimentos e veio a falecer no local do acidente. A identidade da v?tima n?o foi divulgada at? o momento.</p><p>O acidente chocou os moradores da regi?o e levanta quest?es sobre a seguran?a no tr?nsito, especialmente no que diz respeito ? conviv?ncia entre motociclistas e ve?culos de grande porte. A pol?cia est? investigando as circunst?ncias do ocorrido para esclarecer as causas do acidente.</p><p>? importante que medidas de preven??o sejam refor?adas para evitar novas trag?dias como essa. A aten??o e o respeito m?tuo entre os diferentes tipos de ve?culos nas vias p?blicas s?o fundamentais para garantir a seguran?a de todos os envolvidos no tr?nsito.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Porto Belo tem 51 criminosos foragidos da justi?a; saiba quem s?o]]></title>
+    <link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
 
-<item>
-<title><![CDATA[Porto Belo tem 51 criminosos foragidos da justi?a; saiba quem s?o]]></title>
-<link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
-<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
-<description><![CDATA[Porto Belo registra 51 criminosos foragidos da justi?a, conforme levantamento do Bnmp. Os nomes dos fugitivos agora fazem parte de uma lista p?blica, visando transpar?ncia e seguran?a. A iniciativa busca colaborar com as autoridades na captura dessas pessoas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[Porto Belo registra 51 criminosos foragidos da justi?a, conforme levantamento do Bnmp.]]></description>
+    <content:encoded><![CDATA[<p>Porto Belo, cidade localizada no litoral catarinense, tem chamado a aten??o por um n?mero preocupante: 51 criminosos est?o foragidos da justi?a. Os nomes desses fugitivos foram confirmados pelo Bnmp e agora fazem parte de uma lista p?blica divulgada, em uma iniciativa que visa promover transpar?ncia e seguran?a para a popula??o.</p><p>Essa informa??o traz ? tona a import?ncia de a??es efetivas por parte das autoridades para capturar esses criminosos e garantir a ordem e a tranquilidade na regi?o. A divulga??o dos nomes dos foragidos tamb?m pode auxiliar a popula??o a identificar e denunciar a presen?a dessas pessoas na comunidade, colaborando assim com as for?as de seguran?a.</p><p>? fundamental que a sociedade esteja ciente da situa??o e se una no combate ? criminalidade, buscando formas de contribuir para a resolu??o desse problema. A transpar?ncia nesse tipo de informa??o ? essencial para fortalecer a confian?a da popula??o nas institui??es e promover um ambiente mais seguro e justo para todos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[?Senti algo duro?: m?e deixa ex dormir em sua casa e filha ? abusada, em Florian?polis]]></title>
+    <link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 15:06:11 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
 
+    <description><![CDATA[Um caso de estupro de vulner?vel choca Florian?polis ap?s uma crian?a ser abusada em sua pr?pria casa.]]></description>
+    <content:encoded><![CDATA[<p>A Pol?cia Militar prendeu em Conc?rdia o homem identificado como Dirceu Ribeiro, apontado como autor do crime. A ocorr?ncia teve in?cio ap?s a v?tima, uma crian?a, ser atendida no Hospital Infantil Joana Gusm?o, em Florian?polis, onde a equipe m?dica constatou ind?cios compat?veis com abuso sexual.</p><p>O suspeito, ex-companheiro da m?e da v?tima, teria sido autorizado a dormir na resid?ncia da fam?lia. Foi nesse contexto que o abuso teria ocorrido, deixando a crian?a traumatizada e a fam?lia devastada.</p><p>O caso mobilizou equipes policiais de diversas regi?es do Estado, resultando na pris?o do acusado. A gravidade do crime desperta a necessidade de medidas rigorosas para garantir a seguran?a e prote??o das v?timas de viol?ncia sexual.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Itapema tem 43 criminosos foragidos da justi?a; veja quem s?o]]></title>
+    <link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=171957</guid>
+
+    <description><![CDATA[Itapema registra 43 criminosos foragidos da justi?a, conforme levantamento do Bnmp, passando a integrar lista p?blica.]]></description>
+    <content:encoded><![CDATA[<p>O munic?pio de Itapema, localizado no Litoral Norte de Santa Catarina, est? enfrentando um problema s?rio: 43 criminosos est?o foragidos da justi?a, de acordo com dados do Banco Nacional de Mandados de Pris?o (Bnmp). Esses nomes agora fazem parte da lista p?blica divulgada, em uma iniciativa que visa promover transpar?ncia e seguran?a para a popula??o.</p><p>A identifica??o desses foragidos ? de extrema import?ncia para garantir a efic?cia do sistema de justi?a e proteger a comunidade local. Com essas informa??es em m?os, as autoridades competentes podem intensificar as buscas e tomar as medidas necess?rias para capturar esses criminosos, evitando assim poss?veis amea?as ? seguran?a p?blica.</p><p>A divulga??o desses dados tamb?m serve como alerta para a popula??o, que pode contribuir com informa??es que levem ? pris?o desses indiv?duos. ? fundamental que a sociedade esteja ciente da presen?a desses foragidos e colabore com as autoridades, denunciando qualquer informa??o relevante que possa auxiliar no trabalho de captura.</p><p>Diante desse cen?rio, ? essencial que a comunidade de Itapema esteja atenta e engajada no combate ? criminalidade, colaborando para a manuten??o da ordem e da seguran?a no munic?pio. A transpar?ncia na divulga??o dessas informa??es ? um passo importante para fortalecer a confian?a da popula??o nas institui??es e garantir um ambiente mais seguro para todos.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
