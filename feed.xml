@@ -1,74 +1,385 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 11:10:42 GMT</lastBuildDate>
-<language>pt-BR</language>
-
-<item>
-<title><![CDATA[Tragédia no interior de Camboriú: dois homens morrem atropelados por UTV]]></title>
-<link>https://horadeportobelo.com.br/2025/12/08/tragedia-no-interior-de-camboriu-dois-homens-morrem-atropelados-por-utv/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Baln. Camboriú]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Tragédia]]></category>
-<category><![CDATA[Interior]]></category>
-<category><![CDATA[Dois]]></category>
-<category><![CDATA[Homens]]></category>
-<category><![CDATA[Morrem]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 11:03:39 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
-<description><![CDATA[Dois homens, tio e sobrinho, perderam a vida em um trágico acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú. O incidente ocorreu quando os pedestres foram atingidos por um UTV, veículo off-road do tipo "gaiola".]]></description>
-<content:encoded><![CDATA[<strong>Dois homens, tio e sobrinho, perderam a vida em um trágico acidente na noite de domingo (7) na Estrada Geral do Braço, em Camboriú. O incidente ocorreu quando os pedestres foram atingidos por um UTV, veículo off-road do tipo "gaiola". O Corpo de Bombeiros foi acionado por volta das 20h20, porém, infelizmente, as vítimas não resistiram aos ferimentos e faleceram no local.</strong><br/><br/>As vítimas, que eram trabalhadores temporários recém-chegados à região para atuar na construção de uma residência próxima ao local do acidente, foram descritas pelos moradores como prestadores de serviço na obra. O UTV envolvido no atropelamento, um modelo moderno e potente, foi abandonado pelo condutor após o impacto, que fugiu sem prestar socorro. A Polícia Civil já iniciou as investigações para identificar o piloto do veículo, que está sendo periciado para esclarecer os detalhes da tragédia.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Dois homens são atropelados por buggy e morrem na Estrada Geral do Braço, em Camboriú; condutor fugiu do local]]></title>
-<link>https://portalmenina.com.br/dois-homens-sao-atropelados-por-buggy-e-morrem-na-estrada-geral-do-braco-em-camboriu-condutor-fugiu-do-local/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 10:59:48 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
-<description><![CDATA[Um atropelamento ocorrido por volta das 22h de domingo, 7, na Estrada Geral do Braço, em Camboriú, resultou na morte de um tio e seu sobrinho. De acordo com relatos iniciais, os homens foram atingidos por um buggy Can-Am Maverick enquanto caminhavam, sendo que o condutor do veículo evadiu-se do local sem prestar assistência às vítimas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Mensagem do Dia – 08/12/2025]]></title>
-<link>https://portalmenina.com.br/mensagem-do-dia-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:31:03 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129337</guid>
-<description><![CDATA[Um acidente envolvendo um veículo BMW X1 e um Corsa quase resultou em uma queda no Rio Marambaia, em Balneário Camboriú. O incidente ocorreu nesta segunda-feira, dia 08, e chamou a atenção das autoridades locais.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Bolsa de Empregos – 08/12/2025]]></title>
-<link>https://portalmenina.com.br/bolsa-de-empregos-08-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 09:27:29 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129335</guid>
-<description><![CDATA[**Vagas de emprego disponíveis em diversas áreas na região de Santa Catarina** O mercado de trabalho na região de Tijucas, Porto Belo, São João Batista, Bombinhas, Balneário Piçarras, Brusque e Barra Velha está com diversas oportunidades de emprego disponíveis. São vagas para diferentes funções, tais como cozinheira, auxiliar de cozinha, técnico externo de infraestrutura, técnico de instalação, vendedor externo, auxiliar de instalação, auxiliar de atendimento, vendedor interno e supervisor externo de operações.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Tio e sobrinho morrem após atropelamento por UTV e motorista foge em Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/utv-atropela-tio-e-sobrinho-camboriu-motorista-foge/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 02:28:34 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171924</guid>
-<description><![CDATA[Um atropelamento fatal resultando na morte de duas pessoas ocorreu na noite de domingo (7) na Rua Paulo Dallago, em Camboriú, no Litoral Norte de Santa Catarina. Segundo informações preliminares, as vítimas seriam tio e sobrinho.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Mon, 08 Dec 2025 11:17:00 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Dois homens morrem atropelados por UTV em Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20255</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:03:39 GMT</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20255</guid>
+    <description><![CDATA[Na noite de domingo (7), dois homens foram atropelados por um UTV na Estrada Geral do Braço, em Camboriú, e morreram no local.]]></description>
+    <content:encoded><![CDATA[<p>Na noite de domingo (7), dois homens foram atropelados por um UTV na Estrada Geral do Braço, em Camboriú, e morreram no local.</p>
+<p>As vítimas, tio e sobrinho, caminhavam pela via quando foram atingidas pelo veículo off-road do tipo “gaiola”. O Corpo de Bombeiros foi acionado às 20h20, mas não conseguiu reanimá-los. Segundo moradores, os homens eram trabalhadores temporários que haviam chegado recentemente à cidade para atuar na construção de uma residência próxima ao local do acidente.</p>
+<p>Após o atropelamento, o condutor do UTV fugiu sem prestar socorro, abandonando o veículo no local. A Polícia Civil iniciou as investigações para identificar o motorista. O veículo foi apreendido e encaminhado para perícia, que deve auxiliar na apuração das circunstâncias do acidente.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Motorista é detido em Porto Belo por suspeita de embriaguez ao volante]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fhoradeportobelo.com.br%2F%3Fp%3D20252</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 06 Dec 2025 15:53:15 GMT</pubDate>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20252</guid>
+    <description><![CDATA[Na madrugada do dia 5, um motorista foi detido em Porto Belo após ser encontrado dormindo ao volante e apresentar sinais de embriaguez.]]></description>
+    <content:encoded><![CDATA[<p>Na madrugada do dia 5, um motorista foi detido em Porto Belo após ser encontrado dormindo ao volante e apresentar sinais de embriaguez.</p>
+<p>A Guarda Municipal prestava apoio à Secretaria de Obras quando foi acionada por um funcionário que informou ter visto um veículo parado no canteiro, com o condutor aparentando mal-estar e adormecido ao volante. Ao chegar ao local, a equipe constatou que o motorista apresentava forte odor de álcool, fala arrastada, olhos vermelhos, confusão mental e dificuldade para caminhar. O condutor recusou-se a realizar o teste do bafômetro.</p>
+<p>Diante da recusa, foi elaborado o Auto de Constatação de Sinais de Embriaguez e o motorista foi detido. Ele foi encaminhado à Delegacia de Polícia para os procedimentos legais. A ação visa garantir a segurança no trânsito e prevenir acidentes causados por condutores sob efeito de álcool.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Dois homens são atropelados por buggy e morrem em Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129340</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 10:59:48 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129340</guid>
+    <description><![CDATA[Um atropelamento na Estrada Geral do Braço, em Camboriú, resultou na morte de dois homens na noite de domingo, 7. O condutor do buggy responsável pelo acidente fugiu do local sem prestar socorro.]]></description>
+    <content:encoded><![CDATA[<p>Um atropelamento na Estrada Geral do Braço, em Camboriú, resultou na morte de dois homens na noite de domingo, 7. O condutor do buggy responsável pelo acidente fugiu do local sem prestar socorro.</p>
+<p>O acidente ocorreu por volta das 22h, quando tio e sobrinho caminhavam pela via e foram atingidos por um buggy Can-Am Maverick. Testemunhas informaram que o veículo estava em alta velocidade e que o motorista deixou o local após o atropelamento. O buggy apresentava danos, como a falta de uma roda e amassados na carroceria.</p>
+<p>Populares relataram que as vítimas seriam de fora da cidade, possivelmente de São Paulo, mas essa informação não foi confirmada pelas autoridades. A Polícia Militar não divulgou detalhes sobre a ocorrência, nem sobre o atendimento prestado às vítimas.</p>
+<p>Moradores da região alertam para a frequência de veículos desse tipo circulando em alta velocidade na estrada, o que representa risco para pedestres e outros usuários da via. A identidade das vítimas ainda não foi divulgada.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mensagem do dia traz reflexão para 8 de dezembro de 2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129337</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:31:03 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129337</guid>
+    <description><![CDATA[A mensagem do dia para esta segunda-feira, 8 de dezembro de 2025, foi apresentada por Osmar Fernandes.]]></description>
+    <content:encoded><![CDATA[<p>A mensagem do dia para esta segunda-feira, 8 de dezembro de 2025, foi apresentada por Osmar Fernandes.</p>
+<p>Além disso, na região, um acidente envolvendo um BMW X1 e um Corsa quase resultou em queda no Rio Marambaia, em Balneário Camboriú. A Polícia Militar também registrou a prisão de um homem que furtava materiais em uma obra no Centro de Itajaí. As autoridades seguem acompanhando os casos. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Vagas de emprego disponíveis em Santa Catarina nesta segunda-feira]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129335</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:27:29 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129335</guid>
+    <description><![CDATA[Oportunidades de trabalho para diversas áreas estão abertas em Santa Catarina, com vagas para motoristas, profissionais de cozinha, técnicos e vendedores, entre outros.]]></description>
+    <content:encoded><![CDATA[<p>Oportunidades de trabalho para diversas áreas estão abertas em Santa Catarina, com vagas para motoristas, profissionais de cozinha, técnicos e vendedores, entre outros.</p>
+<p>Estão disponíveis duas vagas para motorista de caminhão caçamba, com contato pelo telefone 3360-6015. Para diarista, o contato é 99975-9119. Há também vagas para cozinheira e auxiliar de cozinha, com inscrições pelo número 99646-0308. Para as cidades de Tijucas, Porto Belo, São João Batista, Bombinhas, Balneário Piçarras, Brusque e Barra Velha, há oportunidades para técnico externo de infraestrutura, técnico de instalação, vendedor externo, auxiliar de instalação, auxiliar de atendimento, vendedor interno e supervisor externo de operações, com contato pelo telefone (48) 3263-8766.</p>
+<p>Outras vagas incluem analista de departamento pessoal, assistente de recursos humanos e auxiliar de laboratório de concreto, com currículos enviados pelo WhatsApp 98498-1214. Para atendente/caixa, auxiliar de cozinha, camareiro(a), copeiro, cozinheiro, chefe executivo, garçom, recepcionista e subchefe, os interessados devem enviar currículo pelo WhatsApp 98413-8579.</p>
+<p>Além das vagas, pessoas que buscam trabalho também disponibilizam seus contatos: Regina para faxinas (48) 99163-1466, Joci para cuidadora (99665-9427) e Roni para chacareiro (99927-1668).</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Documentos perdidos e encontrados são divulgados em Balneário Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129333</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:24:38 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129333</guid>
+    <description><![CDATA[A Rádio Menina de Balneário Camboriú divulgou contatos para devolução de documentos perdidos e informou sobre objetos encontrados na cidade.]]></description>
+    <content:encoded><![CDATA[<p>A Rádio Menina de Balneário Camboriú divulgou contatos para devolução de documentos perdidos e informou sobre objetos encontrados na cidade.</p>
+<p>Foram registrados documentos perdidos pertencentes a Augusto Gemnieczak, Leonardo Vinicius dos Santos e Josoel Camargo Alves, com contatos disponibilizados para localização. Também foi informado que documentos pertencentes a Mauricio Eduardo Barbosa foram encontrados e podem ser retirados na recepção da Rádio Menina.</p>
+<p>Além disso, uma mochila com ferramentas foi encontrada em frente à Unimed, e a recepção da Rádio Menina está disponível para contato a fim de facilitar a devolução. A rádio mantém um grupo no WhatsApp para facilitar a comunicação entre a comunidade.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Carro colide com caminhão estacionado na BR-470 e deixa adolescente ferido em Gaspar]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129327</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 22:27:57 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129327</guid>
+    <description><![CDATA[Um acidente envolvendo um carro e um caminhão estacionado na BR-470, em Gaspar, resultou em ferimentos em um adolescente na tarde desta sexta-feira (5).]]></description>
+    <content:encoded><![CDATA[<p>Um acidente envolvendo um carro e um caminhão estacionado na BR-470, em Gaspar, resultou em ferimentos em um adolescente na tarde desta sexta-feira (5).</p>
+<p>O automóvel bateu na traseira do caminhão parado às margens da rodovia. O acidente mobilizou os Bombeiros Militares de Gaspar, os Bombeiros Voluntários de Ilhota e a equipe aeromédica do Arcanjo 03 para o atendimento das vítimas. Três pessoas ficaram feridas na colisão.</p>
+<p>Segundo os socorristas, o adolescente de 16 anos estava no banco traseiro do carro e não usava cinto de segurança no momento do impacto. Ele sofreu escoriações no rosto e uma concussão leve, foi imobilizado e recebeu oxigênio sob supervisão médica. O motorista do carro, de 45 anos, apresentava um corte no rosto, mas estava consciente e caminhando no local.</p>
+<p>Após os primeiros atendimentos, o adolescente e o motorista foram levados ao Hospital de Gaspar para avaliação médica mais detalhada. A terceira vítima também foi socorrida pelas equipes presentes.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[BMW X1 colide com Corsa estacionado e quase cai no Rio Marambaia em Balneário Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129322</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 20:32:52 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129322</guid>
+    <description><![CDATA[Uma motorista perdeu o controle do veículo ao sair da garagem de um prédio na Rua Julieta Lins, em Balneário Camboriú, e colidiu com um carro estacionado, quase caindo no Rio Marambaia.]]></description>
+    <content:encoded><![CDATA[<p>Uma motorista perdeu o controle do veículo ao sair da garagem de um prédio na Rua Julieta Lins, em Balneário Camboriú, e colidiu com um carro estacionado, quase caindo no Rio Marambaia.</p>
+<p>O acidente ocorreu neste domingo na Barra Norte. Segundo relatos, a motorista de um BMW X1 avançou em linha reta ao sair da garagem e atingiu um Corsa que estava estacionado e vazio. A colisão quase fez com que os dois veículos caíssem no rio. No entanto, uma árvore impediu a queda. Ninguém ficou ferido no incidente. As autoridades não registraram danos maiores além do impacto entre os veículos. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mulher é presa em Blumenau por venda ilegal de emagrecedores e cigarros eletrônicos]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129319</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:14:00 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129319</guid>
+    <description><![CDATA[Uma mulher de 30 anos foi detida em flagrante na tarde desta sexta-feira (5) em Blumenau, no bairro Fortaleza, por manter um esquema de venda ilegal de emagrecedores e cigarros eletrônicos.]]></description>
+    <content:encoded><![CDATA[<p>Uma mulher de 30 anos foi detida em flagrante na tarde desta sexta-feira (5) em Blumenau, no bairro Fortaleza, por manter um esquema de venda ilegal de emagrecedores e cigarros eletrônicos.</p>
+<p>A prisão ocorreu após investigação da Polícia Civil, que cumpriu um mandado de busca em um apartamento na Rua Francisco Vahldieck. A suspeita já era monitorada por anunciar e comercializar os produtos pela internet. No local, os policiais encontraram grande quantidade de cigarros eletrônicos, cuja venda é proibida no Brasil, além de medicamentos para emagrecimento, como Tirzepatida e Retatrutida, armazenados em geladeira. Nenhum dos itens possuía registro na Anvisa ou comprovação de procedência.</p>
+<p>Segundo a polícia, a organização do esquema chamou atenção. A mulher mantinha um caderno com controle detalhado das vendas e utilizava sacolas personalizadas para entregar os produtos, indicando que a atividade era sistematizada e tratada como um negócio formal. Após os procedimentos na delegacia, ela foi encaminhada ao Presídio Regional de Blumenau, onde permanece à disposição da Justiça.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Ciclone extratropical provoca mudança no tempo em Santa Catarina entre segunda e quarta-feira]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129315</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 16:55:53 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129315</guid>
+    <description><![CDATA[Santa Catarina terá mudanças no clima entre os dias 8 e 10 de maio por causa da passagem de um ciclone extratropical, que deve causar temporais, ventos fortes e chuvas intensas em várias regiões do estado.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina terá mudanças no clima entre os dias 8 e 10 de maio por causa da passagem de um ciclone extratropical, que deve causar temporais, ventos fortes e chuvas intensas em várias regiões do estado.</p>
+<p>No domingo, 7, o estado terá temperaturas acima dos 30°C e temporais isolados devido ao calor e à umidade. Com a aproximação do ciclone, a nebulosidade aumenta e as temperaturas caem levemente. A partir da tarde, o Oeste será atingido por temporais com chuva forte, ventos intensos e possibilidade de granizo, especialmente entre o Grande Oeste e o Planalto Norte, onde o risco de alagamentos, enxurradas, destelhamentos e queda de árvores é alto. Nas regiões do Planalto Sul ao Vale do Itajaí, o risco é moderado, e no litoral permanece baixo.</p>
+<p>O ciclone atua em todo o estado desde a madrugada de segunda-feira, elevando o risco de alagamentos e enxurradas. As temperaturas ficam próximas dos 20°C. No litoral, o vento de nordeste aumenta à tarde, provocando agitação marítima com ondas entre 2 e 3 metros, principalmente entre a Grande Florianópolis e o Litoral Sul. Conforme o sistema avança para o alto mar, a chuva diminui, mas os ventos ficam mais fortes no Meio-Oeste, Planaltos, Vale do Itajaí e litoral, com rajadas entre 70 e 90 km/h, podendo ser maiores em áreas elevadas.</p>
+<p>As autoridades recomendam evitar vias alagadas, proteger objetos soltos, manter distância de áreas com risco de queda de galhos e buscar abrigo durante vendavais para minimizar riscos de acidentes e danos. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Homem em situação de rua morre após mal súbito em casa de passagem em Balneário Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fportalmenina.com.br%2F%3Fp%3D129307</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 11:49:29 GMT</pubDate>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=129307</guid>
+    <description><![CDATA[Um homem em situação de rua morreu na manhã deste sábado (6) após sofrer um mal súbito dentro da Casa de Passagem do Migrante, em Balneário Camboriú.]]></description>
+    <content:encoded><![CDATA[<p>Um homem em situação de rua morreu na manhã deste sábado (6) após sofrer um mal súbito dentro da Casa de Passagem do Migrante, em Balneário Camboriú.</p>
+<p>Segundo a Secretaria de Assistência Social, Mulher e Família, o homem havia aceitado o acolhimento das equipes pouco antes do ocorrido. O Serviço de Atendimento Móvel de Urgência (Samu) foi acionado, mas apenas confirmou o óbito no local. A Guarda Municipal também prestou apoio na ocorrência.</p>
+<p>O homem não possuía documentos, mas, com base nas informações fornecidas durante a abordagem, as equipes conseguiram localizar um familiar na cidade. O parente foi chamado para realizar o reconhecimento e autorizar os procedimentos para o funeral.</p>
+<p>A Prefeitura de Balneário Camboriú lamentou o falecimento e reforçou o compromisso com o atendimento às pessoas em situação de vulnerabilidade social. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mãe de jovem em Brusque se manifesta em defesa do ex-marido após acusações de agressão]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171926</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 02:29:40 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171926</guid>
+    <description><![CDATA[A mãe de Ana Caroline de Souza, em Brusque (SC), publicou um vídeo nas redes sociais para defender o ex-marido, empresário acusado pela filha de agressão física e comportamento suspeito.]]></description>
+    <content:encoded><![CDATA[<p>A mãe de Ana Caroline de Souza, em Brusque (SC), publicou um vídeo nas redes sociais para defender o ex-marido, empresário acusado pela filha de agressão física e comportamento suspeito.</p>
+<p>No vídeo divulgado neste domingo, Nina, mãe de Ana Caroline e ex-esposa do empresário, rebate as denúncias feitas pela filha. Segundo ela, conviveu por 34 anos com o ex-marido e afirma que ele é honesto e incapaz de agredir a própria filha. Nina também relata que a filha apresenta problemas emocionais desde a adolescência e que já teria agredido os próprios pais em diferentes ocasiões.</p>
+<p>A mãe afirma possuir registros de agressões sofridas dentro de casa, mas não registrou ocorrência para não prejudicar a carreira da filha, que atua como advogada. Ela contesta a versão da filha sobre a agressão recente, alegando que a jovem teria inventado a história por não aceitar o fim do casamento dos pais e a nova relação do pai.</p>
+<p>A situação gerou repercussão na cidade, com moradores solicitando que a Polícia Civil ouça todas as partes envolvidas. Até o momento, não há manifestação oficial do empresário acusado. A investigação segue em andamento para apurar os fatos.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Tio e sobrinho morrem após serem atropelados por UTV em Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171924</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 02:28:34 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171924</guid>
+    <description><![CDATA[Dois homens, identificados como tio e sobrinho, morreram após serem atropelados por um veículo UTV na noite deste domingo (7), na Rua Paulo Dallago, interior de Camboriú, Santa Catarina. O motorista fugiu do local sem prestar socorro.]]></description>
+    <content:encoded><![CDATA[<p>Dois homens, identificados como tio e sobrinho, morreram após serem atropelados por um veículo UTV na noite deste domingo (7), na Rua Paulo Dallago, interior de Camboriú, Santa Catarina. O motorista fugiu do local sem prestar socorro.</p>
+<p>Segundo relatos de populares, as vítimas foram vistas cambaleando às margens da via pouco antes do acidente. Em seguida, foram atingidas pelo UTV, cujo condutor não foi identificado até o momento. Equipes do Corpo de Bombeiros foram acionadas e realizaram os procedimentos de segurança no local, que foi isolado para o trabalho das autoridades.</p>
+<p>A Polícia Militar e a Polícia Civil também estão no local para investigar as circunstâncias do atropelamento e identificar o motorista responsável. As investigações continuam em andamento para esclarecer o caso e localizar o condutor.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Mulher trans relata constrangimento em farmácia de Blumenau após discussão sobre pronome]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171917</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 22:33:53 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171917</guid>
+    <description><![CDATA[Uma mulher trans afirmou ter sido constrangida por uma funcionária de farmácia em Blumenau, Santa Catarina, após a atendente supostamente insistir em usar o pronome masculino para se referir a ela. O episódio foi registrado em vídeo e viralizou nas redes sociais.]]></description>
+    <content:encoded><![CDATA[<p>Uma mulher trans afirmou ter sido constrangida por uma funcionária de farmácia em Blumenau, Santa Catarina, após a atendente supostamente insistir em usar o pronome masculino para se referir a ela. O episódio foi registrado em vídeo e viralizou nas redes sociais.</p>
+<p>O caso ocorreu em 21 de novembro e mostra a mulher, identificada como Eduarda Lacerda, confrontando a funcionária do estabelecimento. Segundo Eduarda, a atendente a chamou de “ele” pelo menos três vezes, mesmo após ser corrigida. No vídeo, Eduarda pede respeito e destaca que a funcionária trabalha na área da saúde. A conversa se tornou tensa, com a mulher trans utilizando uma expressão ofensiva para retrucar a funcionária.</p>
+<p>Eduarda afirmou que é uma “mulher trans retificada” e que nunca havia enfrentado desrespeito, mesmo em ambientes considerados conservadores. Ela classificou a atitude da funcionária como discriminatória e incompatível com o exercício profissional na saúde. Até o momento, a farmácia não se manifestou oficialmente sobre o ocorrido.</p>
+<p>O vídeo já recebeu milhões de visualizações, mais de 19 mil comentários e 150 mil compartilhamentos nas redes sociais. As autoridades não informaram se houve alguma denúncia formal ou investigação sobre o caso.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Homem invade casa em Tijucas, agride ex-companheira e é ferido pelo filho dela]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171914</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 22:04:24 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171914</guid>
+    <description><![CDATA[Uma mulher da zona rural de Tijucas procurou a Polícia Civil após ser agredida pelo ex-companheiro dentro de casa durante a madrugada. O homem também foi ferido pelo filho dela ao tentar atacar o irmão.]]></description>
+    <content:encoded><![CDATA[<p>Uma mulher da zona rural de Tijucas procurou a Polícia Civil após ser agredida pelo ex-companheiro dentro de casa durante a madrugada. O homem também foi ferido pelo filho dela ao tentar atacar o irmão.</p>
+<p>Por volta das três horas da manhã, o homem, que estava embriagado, pulou o muro dos fundos da residência e bateu na janela do quarto, exigindo ver outra pessoa que estaria com a ex-companheira. Ele forçou a entrada pela porta da cozinha quando a mulher abriu para evitar que os filhos acordassem com o barulho. Em seguida, tentou enforcá-la. Os filhos, ao perceberem a agressão, intervieram. Um deles usou uma faca para ferir o invasor no pescoço ao vê-lo atacar o irmão.</p>
+<p>Apesar do ferimento, o homem continuou ameaçando matar o jovem e só deixou o local após discussão. A mulher e os filhos saíram da casa e buscaram abrigo em parentes, temendo um novo ataque. Pela manhã, o agressor retornou, invadiu a residência novamente e retirou objetos não identificados pelas câmeras de segurança. Durante o dia, ele continuou fazendo ligações e tentativas de contato, aumentando o temor da família.</p>
+<p>A vítima solicitou medidas protetivas para ela e os filhos, além da prisão preventiva do ex-companheiro, alegando risco à segurança devido à recusa dele em aceitar o fim do relacionamento. A Polícia Civil abriu investigação sobre os crimes de agressão, invasão de domicílio e ameaças. Os nomes envolvidos não foram divulgados para preservar a privacidade das vítimas.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Homem em Tijucas sofre ferimento grave na região genital ao pular muro com vidro]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171909</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 20:30:25 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171909</guid>
+    <description><![CDATA[Um homem foi internado após sofrer um corte profundo na região genital na noite de sexta-feira (5) em Tijucas. O ferimento ocorreu ao tentar fugir de um grupo de homens e pular um muro com fragmentos de vidro.]]></description>
+    <content:encoded><![CDATA[<p>Um homem foi internado após sofrer um corte profundo na região genital na noite de sexta-feira (5) em Tijucas. O ferimento ocorreu ao tentar fugir de um grupo de homens e pular um muro com fragmentos de vidro.</p>
+<p>Segundo a equipe médica do Hospital São José, o paciente chegou com lesão extensa na virilha, com exteriorização de um testículo e sangramento intenso. Devido à gravidade, ele foi transferido para o Hospital Regional, que conta com suporte especializado para esse tipo de atendimento.</p>
+<p>Conforme relato da vítima à Polícia Militar, o incidente aconteceu no beco do Baiano, área conhecida pela prática de tráfico de drogas. Ele afirmou ter tentado escapar da aproximação de um veículo com homens e, ao pular o muro, foi cortado pelos vidros. Mesmo ferido, conseguiu chegar ao hospital por conta própria.</p>
+<p>A Polícia Militar foi acionada para prestar apoio no hospital e registrou boletim de ocorrência. As autoridades seguem acompanhando o caso e destacam a rapidez do atendimento emergencial prestado à vítima.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Jovens se responsabilizam e limpam pichações em loja no centro de Criciúma]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171906</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 19:08:41 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171906</guid>
+    <description><![CDATA[Na noite de terça-feira (2), um grupo de jovens foi flagrado pichando a porta de uma loja no centro de Criciúma. Após identificação, eles retornaram ao local para apagar as marcas feitas.]]></description>
+    <content:encoded><![CDATA[<p>Na noite de terça-feira (2), um grupo de jovens foi flagrado pichando a porta de uma loja no centro de Criciúma. Após identificação, eles retornaram ao local para apagar as marcas feitas.</p>
+<p>As pichações ocorreram na porta metálica da Loja das Meninas, localizada na Rua 6 de Janeiro. Câmeras de segurança registraram o ato, que gerou indignação entre comerciantes e moradores da região. Com o apoio da Polícia Militar, os responsáveis foram identificados rapidamente.</p>
+<p>Os jovens decidiram reparar o dano e passaram a manhã seguinte cobrindo as pichações com tinta, utilizando rolo e escada. Moradores acompanharam a ação e destacaram a importância do reconhecimento do erro. Comerciantes da área ressaltaram a relevância da rápida resposta para evitar prejuízos maiores.</p>
+<p>A proprietária da loja comentou que episódios como esse causam desgaste financeiro e emocional, mas ressaltou o apoio recebido da comunidade. A ação dos jovens foi vista como um passo importante para a reparação do dano causado.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Adolescente perde controle de carro e invade concessionária na SC-108 em São Ludgero]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171902</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 18:14:07 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171902</guid>
+    <description><![CDATA[Um veículo desgovernado invadiu o pátio de uma concessionária e de uma empresa de estética automotiva na SC-108, em São Ludgero, no fim da tarde de sábado (6). O carro atingiu três veículos estacionados antes do condutor fugir do local.]]></description>
+    <content:encoded><![CDATA[<p>Um veículo desgovernado invadiu o pátio de uma concessionária e de uma empresa de estética automotiva na SC-108, em São Ludgero, no fim da tarde de sábado (6). O carro atingiu três veículos estacionados antes do condutor fugir do local.</p>
+<p>O automóvel perdeu o controle ao passar por um trevo e entrou no pátio, danificando um Chevrolet Onix 2024, uma Range Rover Evoque 2015 e uma Mitsubishi Triton 2012. O prejuízo inicial foi estimado em cerca de R$ 8 mil. Quatro jovens saíram do carro após o impacto, mas três deles deixaram o local, enquanto o condutor retornou ao volante e fugiu, mesmo com tentativas de impedimento.</p>
+<p>Segundo relatos extraoficiais, o motorista seria um adolescente. Minutos depois, ele teria perdido novamente o controle do veículo e caído em uma ribanceira próxima, quase atingindo uma residência. No interior do carro, foi encontrada uma garrafa de bebida alcoólica, levantando suspeitas de consumo de álcool. Também foi observado que um dos ocupantes usava tornozeleira eletrônica.</p>
+<p>As autoridades ainda apuram as circunstâncias do caso. Não há informações sobre feridos. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Ferrari avaliada em mais de R$ 4,5 milhões é abandonada após acidente em Balneário Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171892</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:35:05 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171892</guid>
+    <description><![CDATA[Uma Ferrari SF90 Stradale foi encontrada danificada e abandonada na madrugada de domingo (7) em Balneário Camboriú, Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>Uma Ferrari SF90 Stradale foi encontrada danificada e abandonada na madrugada de domingo (7) em Balneário Camboriú, Santa Catarina.</p>
+<p>O veículo, avaliado em mais de R$ 4,5 milhões, estava parado à beira da via com a roda quebrada e os airbags acionados. A Ferrari, que possui placas da cidade, não tinha o condutor no local quando moradores começaram a registrar imagens. A posição do carro e os danos indicam que houve colisão com o meio-fio, mas a dinâmica do acidente ainda é desconhecida. Até o momento, não há registro oficial da ocorrência nem informações sobre quem dirigia o automóvel no momento do impacto.</p>
+<p>Moradores e internautas levantaram hipóteses sobre o acidente, incluindo perda de controle do veículo ou tentativa de evitar teste do bafômetro, mas nenhuma foi confirmada pelas autoridades. Também não há informações sobre feridos ou a identidade do proprietário do carro.</p>
+<p>O modelo SF90 Stradale é um híbrido de alta performance, equipado com motor V8 bi-turbo e três motores elétricos, totalizando cerca de mil cavalos de potência. Balneário Camboriú é conhecida por reunir veículos de luxo em meio ao trânsito cotidiano, e acidentes envolvendo esses carros chamam atenção da população local.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Sul do Brasil entra em estado de atenção máxima por ciclone extratropical intenso]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171894</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 17:18:52 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171894</guid>
+    <description><![CDATA[Santa Catarina está em alerta máximo para a chegada de um ciclone extratropical entre os dias 8 e 10 de junho, que pode provocar ventos fortes, tempestades severas e chuvas intensas.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina está em alerta máximo para a chegada de um ciclone extratropical entre os dias 8 e 10 de junho, que pode provocar ventos fortes, tempestades severas e chuvas intensas.</p>
+<p>O ciclone extratropical deve causar mudanças bruscas no tempo em Santa Catarina, com calor intenso no domingo (7), avanço de temporais na segunda-feira (8) e pico do fenômeno entre terça (9) e quarta-feira (10), quando o sistema estará mais organizado e próximo ao estado. A Defesa Civil alerta para o risco de alagamentos, enxurradas, quedas de árvores e danos à rede elétrica.</p>
+<p>Segundo meteorologistas, o ciclone terá um centro de baixa pressão incomum, com ventos que podem ultrapassar 100 km/h em áreas urbanas e rajadas de até 130 km/h no topo da Serra. A área de influência abrange também os estados do Rio Grande do Sul, Paraná e São Paulo. Na terça-feira (9), o ciclone passará sobre Santa Catarina, trazendo chuva persistente desde a madrugada, ventos fortes na costa e mar agitado com ondas de 2 a 3 metros.</p>
+<p>As condições climáticas favorecem tempestades com granizo, vendavais, microexplosões e possibilidade pontual de tornados. As regiões da Serra entre Rio Grande do Sul e Santa Catarina, incluindo cidades como Lages e Bom Jardim da Serra, podem registrar ventos entre 100 e 130 km/h. A Grande Florianópolis também pode ter rajadas acima de 80 km/h.</p>
+<p>As autoridades recomendam evitar áreas abertas durante as rajadas, não permanecer sob árvores ou postes, recolher objetos soltos, não dirigir em vias alagadas e reforçar a revisão de telhados e estruturas frágeis. A população deve acompanhar os boletins e atualizações oficiais da Defesa Civil, pois pequenas alterações na rota do ciclone podem modificar os impactos em diferentes regiões.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Lucas Hang critica postura da direita em declaração nas redes sociais]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fjornalrazao.com%2F%3Fp%3D171889</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 07 Dec 2025 16:24:32 GMT</pubDate>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=171889</guid>
+    <description><![CDATA[Lucas Hang, filho do empresário Luciano Hang, afirmou nas redes sociais que a “burrice da direita” contribui para que a esquerda governe o Brasil. A declaração foi publicada na madrugada de sábado e gerou ampla repercussão entre apoiadores do bolsonarismo.]]></description>
+    <content:encoded><![CDATA[<p>Lucas Hang, filho do empresário Luciano Hang, afirmou nas redes sociais que a “burrice da direita” contribui para que a esquerda governe o Brasil. A declaração foi publicada na madrugada de sábado e gerou ampla repercussão entre apoiadores do bolsonarismo.</p>
+<p>No X, antigo Twitter, Lucas escreveu que “a maldade da esquerda só assola o Brasil graças à burrice da direita”. A mensagem viralizou e recebeu milhares de interações. A publicação ocorreu no mesmo dia em que Flávio Bolsonaro confirmou sua pré-candidatura à presidência em 2026, representando a direita, segmento político apoiado pela família Hang.</p>
+<p>A declaração provocou reações negativas dentro da base conservadora. Seguidores criticaram Lucas por atacar aliados e questionaram sua posição em temas como taxação de importados, apontando que ele também teve participação em decisões políticas. Alguns perfis responderam com ironia, sugerindo que ele deveria ter evitado o comentário.</p>
+<p>O episódio evidencia a fragmentação e a disputa interna que a direita enfrenta atualmente, em um momento de reorganização para as eleições de 2026. A fala de Lucas Hang expôs tensões no grupo político ao qual pertence.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Novo parque nacional será criado com área de 32 mil hectares entre dois estados]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313411</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 11:12:47 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313411</guid>
+    <description><![CDATA[Um projeto para a criação de um parque nacional que abrange 32 mil hectares entre dois estados foi apresentado recentemente.]]></description>
+    <content:encoded><![CDATA[<p>Um projeto para a criação de um parque nacional que abrange 32 mil hectares entre dois estados foi apresentado recentemente.</p>
+<p>O parque incluirá áreas com cachoeiras, trilhas e zonas de preservação ambiental, visando proteger a biodiversidade local e promover o turismo sustentável. A delimitação da área foi definida por meio de um mapa que destaca os principais pontos de interesse natural. O projeto ainda está em fase de planejamento e depende de aprovação dos órgãos ambientais competentes para avançar. A expectativa é que a criação do parque contribua para a conservação dos ecossistemas e para o desenvolvimento econômico das regiões envolvidas. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Briga entre grupos em Brusque e Itajaí termina com jovem morto a facadas]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313409</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 10:45:44 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313409</guid>
+    <description><![CDATA[Um jovem de 21 anos morreu após dois confrontos entre grupos em Brusque e Itajaí. A ocorrência envolveu troca de agressões e perícia em veículo relacionado ao caso.]]></description>
+    <content:encoded><![CDATA[<p>Um jovem de 21 anos morreu após dois confrontos entre grupos em Brusque e Itajaí. A ocorrência envolveu troca de agressões e perícia em veículo relacionado ao caso.</p>
+<p>O primeiro confronto ocorreu em Brusque, seguido por um segundo em Itajaí, onde o jovem foi atacado a facadas. O veículo utilizado pelos envolvidos passou por perícia, que registrou um novo incidente durante o procedimento. As autoridades investigam as circunstâncias dos ataques e a relação entre os grupos.</p>
+<p>A polícia trabalha para identificar todos os envolvidos e esclarecer os motivos que levaram à briga. Até o momento, não há informações sobre prisões ou suspeitos detidos. O caso segue sob investigação para apurar as responsabilidades.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Cantor Mauri Lima morre em acidente na BR-116]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313405</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 10:01:19 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313405</guid>
+    <description><![CDATA[Um acidente envolvendo três veículos na BR-116 resultou na morte do cantor Mauri Lima, irmão da dupla Chitãozinho e Xororó. O acidente também deixou outras duas pessoas mortas e seis feridas.]]></description>
+    <content:encoded><![CDATA[<p>Um acidente envolvendo três veículos na BR-116 resultou na morte do cantor Mauri Lima, irmão da dupla Chitãozinho e Xororó. O acidente também deixou outras duas pessoas mortas e seis feridas.</p>
+<p>O acidente ocorreu na rodovia BR-116, em Santa Catarina, em data recente. Conforme as autoridades, três veículos se envolveram na colisão, que provocou vítimas fatais e feridos. Mauri Lima estava entre os mortos.</p>
+<p>Além do cantor, outras duas pessoas não resistiram aos ferimentos. Seis pessoas ficaram feridas e foram encaminhadas para atendimento médico. A polícia investiga as circunstâncias do acidente para determinar as causas.</p>
+<p>As condições do trânsito na região foram afetadas temporariamente devido ao atendimento da ocorrência. As autoridades orientam os motoristas a redobrarem a atenção no trecho.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Lombo assado com crosta crocante: três receitas para o Natal]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Flombo-assado-com-crosta-crocante-3-receitas-para-o-natal%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:20:08 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/lombo-assado-com-crosta-crocante-3-receitas-para-o-natal/</guid>
+    <description><![CDATA[Confira opções de preparo de lombo assado para a ceia de Natal.]]></description>
+    <content:encoded><![CDATA[<p>Confira opções de preparo de lombo assado para a ceia de Natal.</p>
+<p>O lombo assado é uma das escolhas tradicionais para a ceia de Natal. Apresentamos três receitas que destacam uma crosta crocante, oferecendo variações no tempero e no modo de preparo. Essas opções podem ajudar a diversificar o cardápio para a noite especial, garantindo sabor e textura diferenciados.</p>
+<p>As receitas incluem diferentes combinações de ingredientes para a crosta, como ervas, especiarias e elementos crocantes, que valorizam o prato principal. O preparo é indicado para quem deseja um prato principal saboroso e com apresentação atraente.</p>
+<p>Essas sugestões são destinadas a facilitar o planejamento da ceia, proporcionando alternativas para quem busca inovar sem perder a tradição. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Ciclone extratropical provoca chuva intensa e ventos fortes em Santa Catarina]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313399</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:19:43 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313399</guid>
+    <description><![CDATA[Santa Catarina enfrenta instabilidade climática entre segunda e quinta-feira, com alerta para chuvas intensas, ventos de até 100 km/h e risco de alagamentos.]]></description>
+    <content:encoded><![CDATA[<p>Santa Catarina enfrenta instabilidade climática entre segunda e quinta-feira, com alerta para chuvas intensas, ventos de até 100 km/h e risco de alagamentos.</p>
+<p>O ciclone extratropical que atua sobre o estado deve causar chuva contínua e ventos fortes ao longo da semana. A Defesa Civil emitiu alertas para áreas com maior risco de alagamentos e enxurradas, especialmente em regiões de relevo acentuado e próximas a rios. Os ventos podem atingir até 100 km/h, aumentando o risco de queda de árvores e danos a estruturas.</p>
+<p>As autoridades recomendam atenção redobrada para quem precisar transitar pelas vias, além de cuidados para evitar acidentes domésticos relacionados à instabilidade do tempo. O monitoramento do fenômeno segue ativo, com atualizações frequentes sobre a evolução das condições meteorológicas.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Quimioterapia e animais de estimação: orientações para uma convivência segura]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fquimioterapia-e-pets-saiba-como-manter-a-convivencia-segura%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:01:03 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/quimioterapia-e-pets-saiba-como-manter-a-convivencia-segura/</guid>
+    <description><![CDATA[Pacientes em tratamento de quimioterapia precisam adotar cuidados especiais na convivência com seus animais de estimação para garantir a segurança de ambos.]]></description>
+    <content:encoded><![CDATA[<p>Pacientes em tratamento de quimioterapia precisam adotar cuidados especiais na convivência com seus animais de estimação para garantir a segurança de ambos.</p>
+<p>Durante o tratamento oncológico, o sistema imunológico do paciente fica mais vulnerável, o que exige atenção redobrada na higiene e no contato com os pets. É recomendado que os tutores mantenham os ambientes limpos e evitem que os animais tenham acesso a áreas de maior fragilidade do paciente. Além disso, a vacinação e a vermifugação dos animais devem estar em dia para reduzir riscos de infecções. O acompanhamento veterinário regular também é fundamental para assegurar a saúde dos pets durante esse período. Essas medidas contribuem para preservar o bem-estar tanto do paciente quanto dos animais, promovendo uma convivência segura e saudável. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Casal é preso com 23 kg de maconha e ecstasy em Itapema]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313367</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:01:00 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313367</guid>
+    <description><![CDATA[Um casal foi detido em Itapema após a polícia encontrar 23 kg de maconha e ecstasy em poder deles.]]></description>
+    <content:encoded><![CDATA[<p>Um casal foi detido em Itapema após a polícia encontrar 23 kg de maconha e ecstasy em poder deles.</p>
+<p>A prisão ocorreu após denúncia de entregas suspeitas realizadas com uma motocicleta vermelha. Durante a abordagem, os agentes localizaram a droga com o casal, que foi encaminhado para a delegacia local para os procedimentos legais. A ocorrência segue sob investigação para identificar a origem e destino do entorpecente, além de possíveis envolvidos na distribuição. As autoridades reforçam o combate ao tráfico na região e pedem que a população continue colaborando com informações.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Horóscopo do dia traz previsões para os 12 signos em 8 de dezembro de 2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Fhoroscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:00:41 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-08-12-2025/</guid>
+    <description><![CDATA[O horóscopo de 8 de dezembro de 2025 apresenta as previsões diárias para os doze signos do zodíaco.]]></description>
+    <content:encoded><![CDATA[<p>O horóscopo de 8 de dezembro de 2025 apresenta as previsões diárias para os doze signos do zodíaco.</p>
+<p>As informações indicam as influências astrológicas que podem afetar o comportamento e as decisões dos nativos de cada signo ao longo do dia. As orientações são voltadas para aspectos pessoais, profissionais e emocionais, conforme a posição dos astros. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Previsão do tarot para os signos entre 8 e 14 de dezembro de 2025]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2Ftarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025%2F</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 09:00:17 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/tarot-semanal-previsao-para-os-signos-de-08-a-14-de-dezembro-de-2025/</guid>
+    <description><![CDATA[As cartas indicam orientações e tendências para os signos durante a semana de 8 a 14 de dezembro de 2025.]]></description>
+    <content:encoded><![CDATA[<p>As cartas indicam orientações e tendências para os signos durante a semana de 8 a 14 de dezembro de 2025.</p>
+<p>O tarot apresenta previsões que podem ajudar os nativos a se prepararem para os próximos dias, destacando aspectos relacionados a relacionamentos, trabalho e bem-estar. As orientações sugerem atenção a oportunidades e desafios que podem surgir ao longo da semana. Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Tio e sobrinho morrem após serem atropelados por veículo UTV em Camboriú]]></title>
+    <link>https://evwbr.github.io/news-sc-1/?id=https%3A%2F%2Fvisornoticias.com.br%2F%3Fp%3D313363</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 08 Dec 2025 08:24:06 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=313363</guid>
+    <description><![CDATA[Um tio e seu sobrinho morreram após serem atropelados por um veículo UTV em Camboriú. O condutor do veículo fugiu do local após o acidente.]]></description>
+    <content:encoded><![CDATA[<p>Um tio e seu sobrinho morreram após serem atropelados por um veículo UTV em Camboriú. O condutor do veículo fugiu do local após o acidente.</p>
+<p>As vítimas trabalhavam em uma obra próxima ao local do atropelamento. Segundo informações preliminares, o piloto do UTV não prestou socorro e fugiu do local. A polícia investiga as circunstâncias do acidente e busca identificar o condutor responsável. As autoridades orientam que testemunhas do caso entrem em contato para colaborar com as investigações.</p>
+<p>Informações com base em portais de notícias de Santa Catarina.</p>]]></content:encoded>
+  </item>
 </channel>
 </rss>
