@@ -1,125 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 08 Dec 2025 16:20:50 GMT</lastBuildDate>
-<language>pt-BR</language>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Mon, 08 Dec 2025 16:31:09 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Dados do Hospital Ruth Cardoso são apagados e direção registra boletim de ocorrência]]></title>
-<link>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Cidades]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Dados]]></category>
-<category><![CDATA[Hospital]]></category>
-<category><![CDATA[Ruth]]></category>
-<category><![CDATA[Cardoso]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Apagados]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 08 Dec 2025 16:17:18 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129397</guid>
-<description><![CDATA[Dados do histórico administrativo e de atendimentos do setor de Qualidade do Hospital Ruth Cardoso foram deletados do sistema, levantando suspeitas de uma ação proposital de boicote durante o processo de transição administrativa para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão da unidade hospitalar nesta segunda-feira, 8. A informação foi confirmada pela secretária de Saúde, Aline Leal, em entrevista à Rádio Menina, na sexta-feira, 5.]]></description>
-<content:encoded><![CDATA[<strong>Dados do histórico administrativo e de atendimentos do setor de Qualidade do Hospital Ruth Cardoso foram deletados do sistema, levantando suspeitas de uma ação proposital de boicote durante o processo de transição administrativa para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão da unidade hospitalar nesta segunda-feira, 8. A informação foi confirmada pela secretária de Saúde, Aline Leal, em entrevista à Rádio Menina, na sexta-feira, 5. Segundo ela, o setor afetado guarda informações cruciais para o acompanhamento da gestão da unidade, incluindo indicadores de internação, protocolos assistenciais, dados da UTI e registros de pacientes.</strong><br/><br/>As equipes de Tecnologia da Informação (TI) do hospital e da Viva Rio já estão analisando os acessos ao sistema para identificar o responsável pela exclusão dos dados. Cinco pessoas trabalham no setor responsável pelos dados, e a investigação inclui a rastreabilidade de IPs e registros internos. Um boletim de ocorrência foi registrado e a Polícia Civil está acompanhando o caso. A secretária Aline Leal reconheceu que o incidente expôs vulnerabilidades tecnológicas conhecidas, uma vez que o sistema utilizado não seguia os parâmetros da Lei Geral de Proteção de Dados (LGPD) e estava em processo de migração tecnológica interrompido durante a transição para a nova gestão.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Hospital Ruth Cardoso registra apagão de dados durante transição administrativa em Balneário Camboriú]]></title>
+		<link>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/</link>
+		<comments>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 16:17:18 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129397</guid>
 
-<item>
-<title><![CDATA[Nota de falecimento de Otilía Margarida Mendes]]></title>
-<link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:53:40 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171975</guid>
-<description><![CDATA[A SC Funerária de Tijucas e o Jornal Razão comunicam, com pesar, o falecimento de Otilía Margarida Mendes, ocorrido nesta segunda-feira (8), aos 93 anos. Natural de 6 de outubro de 1932, a falecida deixa cinco filhos, quinze netos, dezesseis bisnetos, além de outros familiares e amigos que lamentam sua partida.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Dados essenciais do Hospital Ruth Cardoso foram apagados do sistema na reta final da transição de gestão para a OSC Viva Rio, gerando investigação policial e mobilização das equipes de TI para recuperação das informações.]]></description>
+		<content:encoded><![CDATA[<p>Um apagão nos sistemas internos do Hospital Ruth Cardoso, em Balneário Camboriú, colocou em alerta a equipe da unidade e a Secretaria de Saúde do município no último fim de semana. Registros administrativos e de atendimentos do setor de Qualidade foram deletados, o que afeta dados importantes como indicadores de internação, protocolos assistenciais, informações da UTI e arquivos de pacientes.</p><p>A Secretaria de Saúde, liderada por Aline Leal, confirmou o caso e apontou que a exclusão dos dados levantou suspeitas de uma ação proposital durante o processo de transição para a Organização Social Civil (OSC) Viva Rio, que assumiu a gestão do hospital no dia 8 de junho.</p><p>Equipes de Tecnologia da Informação do hospital e da Viva Rio iniciaram uma análise aprofundada dos acessos para identificar a origem da exclusão dos dados, com investigação de IPs e rastreamento interno. Além disso, foi registrado boletim de ocorrência e a Polícia Civil acompanha o caso para apurar as circunstâncias do ocorrido.</p><p>O incidente evidenciou vulnerabilidades no sistema utilizado, desenvolvido por um servidor e que não seguia integralmente as normas da Lei Geral de Proteção de Dados (LGPD). Uma migração para uma plataforma mais segura e moderna estava em andamento, mas precisou ser pausada durante a transição de gestão.</p><p>Até o momento, as equipes trabalham para recuperar as informações afetadas, que são cruciais para o acompanhamento da qualidade e da gestão hospitalar. A situação reforça a necessidade de avanços tecnológicos no sistema de saúde local, especialmente em equipamentos públicos estratégicos na região.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/dados-do-hospital-ruth-cardoso-sao-apagados-e-direcao-registra-boletim-de-ocorrencia-suspeita-e-de-boicote-interno/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Porto Belo tem 51 criminosos foragidos da justiça; saiba quem são]]></title>
-<link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 15:30:59 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171963</guid>
-<description><![CDATA[**LIDE:** O Jornal Razão, em compromisso com a transparência e a segurança dos catarinenses, ampliou o acesso público às informações sobre criminosos foragidos em Santa Catarina. Com base em dados do Banco Nacional de Mandados de Prisão, foi verificado que Tijucas possui 63 criminosos foragidos da justiça, e Itapema conta com 43 foragidos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Morre em Biguaçu Otilía Margarida Mendes, aos 93 anos]]></title>
+		<link>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/</link>
+		<comments>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 15:53:40 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171975</guid>
 
-<item>
-<title><![CDATA[Itapema tem 43 criminosos foragidos da justiça; veja quem são]]></title>
-<link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 14:19:35 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171957</guid>
-<description><![CDATA[Itapema tem 43 criminosos foragidos da justiça; veja quem são O Jornal Razão, em busca de transparência e segurança para a população catarinense, torna pública a lista completa de criminosos foragidos da Justiça na Comarca de Itapema. Os dados foram obtidos do Banco Nacional de Mandados de Prisão e estão atualizados até às 11h de segunda-feira, 08 de dezembro de 2025.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Otilía Margarida Mendes faleceu nesta segunda-feira (8), em Biguaçu, deixando uma vasta família composta por cinco filhos, quinze netos e dezesseis bisnetos. Seu corpo é velado na Capela do Cemitério de Fundos e o sepultamento acontece ainda hoje no Cemitério Municipal de Três Riachos.]]></description>
+		<content:encoded><![CDATA[<p>Aos 93 anos, Otilía Margarida Mendes teve sua vida celebrada na comunidade de Biguaçu, cidade vizinha do Litoral Norte de Santa Catarina. Ela faleceu na segunda-feira (8) e sua partida foi comunicada pela SC Funerária de Tijucas e pelo Jornal Razão.</p><p>O velório acontece desde as 14h na Capela do Cemitério de Fundos, em Biguaçu, proporcionando aos familiares e amigos a oportunidade de prestar as últimas homenagens.</p><p>O sepultamento está marcado para as 17h no Cemitério Municipal de Três Riachos, com saída da capela até o local onde Otilía receberá seu descanso final.</p><p>Além dos cinco filhos, Otilía deixa quinze netos e dezesseis bisnetos, formando uma extensa rede familiar que expressa o impacto de sua trajetória de vida.</p><p>A SC Funerária de Tijucas e o Jornal Razão manifestam condolências aos familiares e amigos, reconhecendo o momento de luto e a importância de Otilía para a comunidade local.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/obituario/nota-de-falecimento-de-otilia-margarida-mendes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Colisão entre motos deixa duas mulheres feridas na ponte Altamiro Domingos Castilho]]></title>
-<link>https://portalmenina.com.br/colisao-entre-motos-deixa-duas-mulheres-feridas-na-ponte-altamiro-domingos-castilho/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:56:28 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129369</guid>
-<description><![CDATA[Duas mulheres ficaram feridas em um acidente envolvendo duas motocicletas na ponte Altamiro Domingos Castilho, que liga as cidades de Camboriú e Balneário Camboriú, no sábado, dia 6. A colisão ocorreu entre a Rua Dom Afonso e a Avenida Santo Amaro, mobilizando equipes do SAMU e da BC Trânsito.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Motociclista morre após colisão com caminhão na Caninana, Itajaí]]></title>
+		<link>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/</link>
+		<comments>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 15:43:57 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171971</guid>
 
-<item>
-<title><![CDATA[Tijucas tem 63 criminosos foragidos da justiça; saiba quem são]]></title>
-<link>https://jornalrazao.com/justica/tijucas-tem-63-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:38:22 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=171942</guid>
-<description><![CDATA[**LIDE:** O Jornal Razão, em busca de transparência e segurança para os catarinenses, divulga de forma pública a lista de criminosos foragidos da Justiça, com destaque para a cidade de Tijucas. A iniciativa, baseada em dados do Banco Nacional de Mandados de Prisão, visa fornecer informações atualizadas e acessíveis à população.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Uma jovem condutora de moto morreu no local após um acidente envolvendo uma carreta no cruzamento da Avenida Irineu Bornhausen com a Rua José Cândido, na tarde desta segunda-feira (8), em Itajaí.]]></description>
+		<content:encoded><![CDATA[<p>O acidente ocorreu no semáforo da Avenida Irineu Bornhausen, conhecida como Caninana, um importante corredor viário do Litoral Norte de Santa Catarina. Testemunhas relataram que a motociclista estava parada atrás de um veículo de autoescola. Ao abrir o sinal, o carro adiou a arrancada e a jovem tentou ultrapassá-lo pela esquerda, momento em que acabou entrando na trajetória de uma carreta que seguia na mesma via.</p><p>Apesar do caminhão trafegar em baixa velocidade, o motorista não conseguiu evitar a colisão. A vítima morreu ainda no local do acidente. Equipes do Corpo de Bombeiros e da Polícia Militar foram acionadas imediatamente para atender a ocorrência, isolar a área e realizar os trabalhos da perícia.</p><p>O trecho ficou parcialmente interditado, causando alterações no fluxo de trânsito na região, importante para o deslocamento diário dos moradores e visitantes de Itajaí. A identidade da vítima não foi divulgada, e as autoridades seguem investigando as causas exatas do acidente.</p><p>Este episódio reforça a necessidade de atenção redobrada em pontos críticos da cidade, especialmente em vias com intenso tráfego de veículos diversos, como a Caninana.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/jovem-morre-acidente-moto-carreta-caninana-itajai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Patinetes elétricos estacionados irregularmente são recolhidos após fiscalização em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/patinetes-eletricos-estacionados-irregularmente-sao-recolhidos-apos-fiscalizacao-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:34:44 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129358</guid>
-<description><![CDATA[Agentes da BC Trânsito realizaram uma operação de fiscalização que resultou na apreensão de 15 patinetes elétricos da empresa JET, no último domingo, dia 7, em Balneário Camboriú. A ação ocorreu nas avenidas Atlântica, Brasil e Marginal Oeste, onde os equipamentos estavam estacionados de forma irregular, obstruindo o espaço público e fora das áreas permitidas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Porto Belo registra 51 criminosos foragidos com mandados pendentes na Justiça]]></title>
+		<link>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/</link>
+		<comments>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 15:30:59 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171963</guid>
 
-<item>
-<title><![CDATA[Homem é preso após incendiar carro da ex-companheira em Santa Catarina]]></title>
-<link>https://visornoticias.com.br/homem-incendeia-carro-da-ex-companheira-apos-discussao-em-santa-catarina/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:14:05 GMT</pubDate>
-<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313446</guid>
-<description><![CDATA[Um homem foi detido em flagrante após incendiar o veículo da ex-companheira, que sofreu destruição total, em Santa Catarina.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A Comarca de Porto Belo tem 51 criminosos com mandados de prisão ativos e ainda não cumpridos, conforme dados oficiais do Banco Nacional de Mandados de Prisão. A lista pública é uma ferramenta importante para reforçar a segurança da população local no Litoral Norte catarinense.]]></description>
+		<content:encoded><![CDATA[<p>Em um esforço para ampliar a transparência e fortalecer a segurança na região, o Jornal Razão divulgou a lista oficial dos criminosos foragidos da Comarca de Porto Belo. Todos os nomes são extraídos diretamente do Banco Nacional de Mandados de Prisão (BNMP) e conferidos recentemente, garantindo a precisão das informações.</p><p>Ao todo, 51 mandados de prisão permanecem ativos em Porto Belo, abrangendo delitos diversos. Essas ordens judiciais são expedidas por varas competentes, com datas que variam de 2020 até mandados recentes de 2025. A lista inclui desde ordens mais antigas que ainda seguem válidas até mandados recentes com busca ativa.</p><p>O acesso público a esses dados proporciona um recurso para que a comunidade esteja informada sobre foragidos, colaborando para a prevenção e a promoção de um ambiente mais seguro no Litoral Norte catarinense. As autoridades continuam empenhadas em localizar e cumprir os mandados pendentes.</p><p>Essa movimentação ocorre em um momento de maior circulação de pessoas na região, especialmente com a aproximação das festividades de fim de ano, quando a atenção sobre segurança pública se torna ainda mais necessária.</p><p>Moradores e visitantes de Porto Belo e demais municípios do Litoral Norte podem consultar os nomes e detalhes dos foragidos por meio das plataformas oficiais e acompanhar as ações das forças de segurança locais.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/justica/porto-belo-tem-51-criminosos-foragidos-da-justica-saiba-quem-sao/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Dois homens morrem atropelados por veículo tipo gaiola em Camboriú]]></title>
-<link>https://visornoticias.com.br/dois-homens-morrem-atropelados-por-veiculo-tipo-gaiola-em-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 12:04:56 GMT</pubDate>
-<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313440</guid>
-<description><![CDATA[Dois homens perderam a vida após serem atropelados por um veículo tipo gaiola em Camboriú. O motorista e os responsáveis pelo veículo não estavam no local no momento do acidente.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Itapema registra 43 foragidos da Justiça; confira a lista oficial]]></title>
+		<link>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/</link>
+		<comments>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 14:19:35 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171957</guid>
 
-<item>
-<title><![CDATA[Ciclone extratropical muda clima no Vale do Itajaí e Litoral Norte entre segunda e quarta-feira]]></title>
-<link>https://portalmenina.com.br/ciclone-extratropical-deve-afetar-tempo-no-vale-do-itajai-entre-segunda-e-quarta-feira/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 08 Dec 2025 11:57:51 GMT</pubDate>
-<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129352</guid>
-<description><![CDATA[Depois de um domingo quente com temperaturas acima dos 30°C, um ciclone extratropical começa a afetar o tempo em Santa Catarina, provocando temporais, queda de temperatura e ventos fortes entre segunda (8) e quarta-feira (10).]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A Comarca de Itapema tem 43 indivíduos com mandados de prisão ativos, conforme dados atualizados do Banco Nacional de Mandados de Prisão (BNMP). A lista foi divulgada para reforçar a transparência e a segurança da população local, especialmente com as festividades de fim de ano se aproximando.]]></description>
+		<content:encoded><![CDATA[<p>O avanço das celebrações de final de ano em Santa Catarina traz atenção redobrada à segurança pública em cidades do Litoral Norte, como Itapema, onde 43 pessoas com ordens judiciais pendentes foram confirmadas como foragidas da Justiça.</p><p>As informações são oriundas do Banco Nacional de Mandados de Prisão (BNMP), banco oficial que reúne dados atualizados sobre mandados em todo o Brasil. A listagem dos foragidos da Comarca de Itapema foi divulgada publicamente pelo Jornal Razão, reforçando o compromisso com a transparência e o direito da comunidade de conhecer esses dados.</p><p>Entre os nomes listados, constam ordens expedidas pela Vara Criminal e pela Primeira Vara Cível, com mandados de recaptura e ordens não cumpridas datadas desde 2021 até dezembro de 2025. O documento público contém a relação em ordem alfabética, com a data de expedição de cada mandado, apoiando a ampla consulta pela população e órgãos de segurança.</p><p>Itapema integra a rede de cidades do Litoral Norte onde os mandados de prisão são monitorados e divulgados, em sintonia com municípios vizinhos como Porto Belo, que possui 51 foragidos confirmados, e Tijucas, com 63 mandados ativos. A divulgação dessas listas atende a uma iniciativa de cunho preventivo e informativo junto aos moradores da região.</p><p>Para acesso completo à lista e consultas atualizadas, a população pode utilizar o link oficial disponibilizado pelo Jornal Razão, ferramenta que reúne os dados em tempo real para facilitar o acompanhamento da situação judicial na comarca.</p><p>Esta ação é um recurso importante para contribuir com a segurança e a mobilização das autoridades locais em Itapema, garantindo que a comunidade possa colaborar com informações às forças de segurança e acompanhar os esforços para a recaptura dos foragidos.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/justica/itapema-tem-43-criminosos-foragidos-da-justica-veja-quem-sao/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-</channel>
+	<item>
+		<title><![CDATA[Santa Catarina em alerta vermelho: ciclone fora de época traz risco extremo de tornados e enchentes]]></title>
+		<link>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/</link>
+		<comments>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 16:10:35 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171983</guid>
+
+		<description><![CDATA[Santa Catarina enfrenta uma semana crítica com ciclone extratropical atípico que aumenta o risco de tornados, ventos fortes acima de 100 km/h e chuvas intensas, especialmente na Grande Florianópolis, Litoral Norte e regiões mais populosas do estado.]]></description>
+		<content:encoded><![CDATA[<p>Um ciclone extratropical atípico provoca alertas vermelhos em mais da metade de Santa Catarina, incluindo áreas do Litoral Norte, abrangendo cidades como Bombinhas, Porto Belo e Itapema. O fenômeno, que se desenvolve entre segunda e terça-feira, traz chuvas intensas, ventos fortes, raios frequentes e possibilidade de granizo, tornando esta uma das semanas mais perigosas do ano para o estado.</p><p>Segundo o Instituto Nacional de Meteorologia (INMET) e a Defesa Civil, o ciclone apresenta trajetória lenta e concentra uma grande umidade sobre Santa Catarina, elevando o risco de alagamentos, enxurradas e deslizamentos em áreas de encosta, especialmente entre a Grande Florianópolis e o Litoral Sul. Em municípios como Balneário Camboriú e Itajaí, há alerta para os impactos nas regiões mais afetadas pelo vento e pela chuva.</p><p>Os ventos intensos devem aumentar a partir de quarta-feira, com rajadas podendo ultrapassar 100 km/h, e algumas áreas do litoral e serras podem registrar picos próximos a 130 km/h. Essa situação traz vulnerabilidade para árvores, estruturas metálicas e sistemas de energia, podendo gerar interrupções e danos.</p><p>O mar também estará agitado, com ondas entre 2 e 4 metros e risco elevado de ressaca, principalmente ao longo do Litoral Sul e próximas à Grande Florianópolis, demandando atenção redobrada dos navegantes e moradores próximos à faixa costeira.</p><p>O risco de tornados isolados está confirmado para o Oeste, Planalto Sul, Litoral e áreas entre Florianópolis e Joinville. Por isso, as autoridades recomendam a população evitar deslocamentos desnecessários, manter-se informada pelas fontes oficiais e acionar a Defesa Civil pelo telefone 199 em caso de emergência.</p><p>O alerta permanece em vigor até pelo menos quinta-feira, quando a intensidade do ciclone deve começar a diminuir, mas ainda com possibilidade de instabilidade. Prefeituras e órgãos de emergência seguem atentos para garantir a segurança dos moradores e minimizar os impactos deste evento climático fora do padrão para esta época do ano.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/meioambiente/alerta-vermelho-em-sc-ciclone-perigoso/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Nutricionista gaúcha morre aos 42 anos após infarto em Jaraguá do Sul]]></title>
+		<link>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/</link>
+		<comments>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 16:02:47 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171979</guid>
+
+		<description><![CDATA[Janaina Moraes, profissional de nutrição respeitada e querida em Jaraguá do Sul, faleceu aos 42 anos vítima de um infarto fulminante, deixando familiares, amigos e colegas de trabalho em profunda tristeza.]]></description>
+		<content:encoded><![CDATA[<p>Natural do Rio Grande do Sul, Janaina Moraes vivia em Jaraguá do Sul, onde construiu uma sólida rede de amizades e destacava-se por sua postura acolhedora e alegre. Recentemente atuava na empresa Cassol, sendo reconhecida pelo profissionalismo, dedicação e simpatia no ambiente de trabalho.</p><p>A morte repentina ocorreu após um infarto fulminante, cuja causa ainda não foi oficialmente esclarecida. A notícia comoveu a comunidade local e se espalhou rapidamente pelas redes sociais, com inúmeras mensagens de solidariedade e homenagens postadas por amigos e familiares.</p><p>Janaina deixa uma filha, seus pais e um círculo de pessoas que lamentam a perda inesperada. O velório será realizado em sua cidade natal, no Rio Grande do Sul.</p><p>O episódio destaca a importância da atenção à saúde cardiovascular, especialmente para a população adulta. A comunidade do Litoral Norte e de toda Santa Catarina sente o impacto dessa perda e reforça a valorização da vida e dos profissionais que contribuem para o bem-estar da sociedade.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/geral/ela-era-muito-querida-e-deixa-filha-familiares-e-amigos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Homem é preso em Concórdia acusado de abuso sexual contra criança em Florianópolis]]></title>
+		<link>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/</link>
+		<comments>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 15:06:11 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://jornalrazao.com/?p=171960</guid>
+
+		<description><![CDATA[Um homem foi detido após ser apontado como autor de abuso sexual contra uma criança em Florianópolis. O caso foi identificado pelo Hospital Infantil Joana Gusmão e mobilizou forças policiais em diferentes regiões de Santa Catarina.]]></description>
+		<content:encoded><![CDATA[<p>Dirceu Ribeiro foi preso pela Polícia Militar em Concórdia, acusado de abuso sexual contra uma menina em Florianópolis. O caso ganhou atenção após a vítima ser atendida no Hospital Infantil Joana Gusmão, onde a equipe médica constatou sinais compatíveis com violência sexual.</p><p>A mãe da criança relatou que permitiu que o ex-companheiro dormisse em sua casa na noite do último sábado (6). Na manhã seguinte, ela precisou sair para trabalhar e deixou a filha sozinha com o suspeito. Durante esse período, a menina relatou ao hospital que sofreu abuso.</p><p>O atendimento médico acionou imediatamente a Polícia Militar, Polícia Civil, o Instituto Geral de Perícias (IGP) e o Conselho Tutelar. Para preservar a integridade da criança, nenhum contato direto foi feito com ela durante as investigações iniciais.</p><p>Enquanto os órgãos realizavam os procedimentos em Florianópolis, as equipes policiais iniciaram buscas pelo suspeito, que foi localizado e preso em Concórdia. Ele permanece detido à disposição da Justiça.</p><p>O caso segue em investigação, e todas as medidas legais estão sendo tomadas para garantir a proteção da vítima e apurar os fatos. Autoridades reforçam a importância da denúncia e do acompanhamento especializado em situações de violência contra crianças.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-mae-deixa-ex-dormir-em-sua-casa-e-filha-e-abusada-em-florianopolis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[SC-401 terá proibição de caminhões para aliviar trânsito no verão em Florianópolis]]></title>
+		<link>https://visornoticias.com.br/proibicao-de-caminhoes-na-sc-401-busca-reduzir-caos-no-transito-de-verao-em-florianopolis/</link>
+		<comments>https://visornoticias.com.br/proibicao-de-caminhoes-na-sc-401-busca-reduzir-caos-no-transito-de-verao-em-florianopolis/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 14:40:20 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://visornoticias.com.br/?p=313499</guid>
+
+		<description><![CDATA[Entre 15 de dezembro e 22 de fevereiro, caminhões estarão proibidos na SC-401 nos horários de pico, medida que visa reduzir os congestionamentos durante as obras de duplicação na principal via de acesso ao Norte da Ilha de Florianópolis.]]></description>
+		<content:encoded><![CDATA[<p>Durante o verão, a SC-401, que liga Florianópolis ao Litoral Norte, será restringida para o trânsito de caminhões nos horários de pico, entre 6h e 9h, e 16h e 20h. A proibição valerá de 15 de dezembro a 22 de fevereiro. A iniciativa busca diminuir filas e melhorar o fluxo de veículos na estrada, que tem sofrido com o aumento no volume de tráfego e obras em andamento.</p><p>A SC-401 é a principal via de acesso que conecta Florianópolis ao Litoral Norte catarinense, região que inclui locais muito visitados como Balneário Camboriú, Itajaí e Penha, que recebem grande movimentação turística nesta época do ano. A presença constante de caminhões durante os horários de maior movimento tem contribuído para congestionamentos extensos, comprometendo a mobilidade.</p><p>As obras em andamento incluem a triplicação da rodovia, que visa ampliar a capacidade e garantir maior segurança para os motoristas. Com esses trabalhos, a gestão do trânsito passa a ser um desafio maior, justificando a restrição temporária para veículos de carga.</p><p>Motoristas de caminhões deverão planejar suas rotas para evitar os horários proibidos, utilizando horários fora do pico para o trafego pela SC-401. A medida é acompanhada pelo Departamento Estadual de Infraestrutura de Santa Catarina (DEINFRA), que monitora o cumprimento da restrição para manter a fluidez no tráfego.</p><p>Moradores e visitantes do Litoral Norte de Santa Catarina poderão perceber melhora no trânsito durante o verão, especialmente nos períodos de maior movimentação pela manhã e fim de tarde, nas proximidades de Florianópolis.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/proibicao-de-caminhoes-na-sc-401-busca-reduzir-caos-no-transito-de-verao-em-florianopolis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Blumenau confirma cinco novos casos de dengue em atualização quinzenal]]></title>
+		<link>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/</link>
+		<comments>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 14:06:15 +0000</pubDate>
+		<category><![CDATA[ Região ]]></category>
+		<guid isPermaLink="false">evw-https://portalmenina.com.br/?p=129389</guid>
+
+		<description><![CDATA[Blumenau registrou cinco novos casos de dengue entre 24 de novembro e 8 de dezembro, chegando a 410 confirmações neste ano, sem mortes registradas, conforme aponta a última atualização da Secretaria de Promoção da Saúde.]]></description>
+		<content:encoded><![CDATA[<p>A Secretaria de Promoção da Saúde de Blumenau divulgou a atualização quinzenal sobre os casos de dengue na cidade. Entre os dias 24 de novembro e 8 de dezembro, foram confirmados cinco novos casos, elevando o total para 410 desde o início de 2025.</p><p>Esta nova divulgação adota uma metodologia focada exclusivamente na confirmação de casos a cada 15 dias, não contabilizando mais o número de focos encontrados. A mudança ocorre porque, no momento da coleta, não é possível diferenciar se os mosquitos coletados são Aedes aegypti transmissores da dengue ou mosquitos com Wolbachia, que não transmitem a doença.</p><p>Apesar da alteração no formato do boletim, a Prefeitura de Blumenau reforça a importância da população em manter cuidados para evitar acúmulo de água parada — ambiente propício para a reprodução do mosquito transmissor.</p><p>Até o momento, o município não registrou óbitos relacionados à dengue em 2025, mas mantém o alerta à comunidade para prevenção contínua, visando reduzir ainda mais a incidência da doença.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/atualizacao-quinzenal-indica-cinco-novos-casos-de-dengue-em-blumenau/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
