@@ -1,54 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 09 Dec 2025 16:50:59 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Noticias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Tue, 09 Dec 2025 16:59:17 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Balneário Camboriú registra 54,5 mm de chuva em 12 horas e mantém nível de atenção laranja]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-registra-545-mm-de-chuva-em-12-horas-e-mantem-nivel-de-atencao-laranja/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Comunidade]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Registra]]></category>
-<category><![CDATA[Mm]]></category>
-<category><![CDATA[Chuva]]></category>
-<category><![CDATA[Horas]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 09 Dec 2025 16:42:35 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129554</guid>
-<description><![CDATA[Balneário Camboriú permanece em estado de atenção nível laranja devido ao acumulado de 54,53 mm de chuva nas últimas 12 horas, conforme divulgado pela Defesa Civil municipal nesta terça-feira, 9. A previsão indica que os temporais devem se intensificar durante a tarde, avançando pela região.]]></description>
-<content:encoded><![CDATA[<strong>Balneário Camboriú permanece em estado de atenção nível laranja devido ao acumulado de 54,53 mm de chuva nas últimas 12 horas, conforme divulgado pela Defesa Civil municipal nesta terça-feira, 9. A previsão indica que os temporais devem se intensificar durante a tarde, avançando pela região. Os alagamentos foram pontuais e já baixaram em todos os locais afetados, como trechos da Avenida Atlântica, Rua 4700, Rua 4900 com a 4800 e áreas da Vila Fortaleza, no Bairro da Barra. Na Rua Panorâmica, a grande quantidade de água exigiu operação de pare e siga realizada pelos agentes de trânsito.</strong><br/><br/>O monitoramento dos rios segue ativo, com destaque para o Rio das Ostras, no Bairro Nova Esperança, que passou por desassoreamento na manhã desta terça-feira para auxiliar no escoamento. Equipes da Secretaria de Obras removeram um galho caído na Quarta Avenida, liberando o trânsito após apoio da BC Trânsito, que realizou a sinalização durante a ocorrência. A orientação do município é para que a população permaneça atenta às áreas de risco de alagamentos e deslizamentos e acione os órgãos de emergência sempre que necessário.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
 
-<item>
-<title><![CDATA[Funcionários protestam contra salários atrasados no Hospital de Camboriú; cirurgias foram remarcadas]]></title>
-<link>https://portalmenina.com.br/funcionarios-protestam-contra-salarios-atrasados-no-hospital-de-camboriu-cirurgias-foram-remarcadas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 09 Dec 2025 15:35:08 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129542</guid>
-<description><![CDATA[Os trabalhadores do Hospital Cirúrgico de Camboriú (HCC) iniciaram a terça-feira, 9 de março, protestando devido à falta de pagamento dos salários, que deveriam ter sido depositados na conta dos funcionários na sexta-feira, 5. O protesto impactou alguns serviços do hospital, com as cirurgias eletivas agendadas para esta terça-feira não sendo realizadas e a realização de exames também sendo afetada.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Afogamento fatal: Fam?lia ? arrastada por enchente na Grande Florian?polis]]></title>
+    <link>https://jornalrazao.com/seguranca/pai-mae-e-bebe-morrem-afogados/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 16:00:17 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172105</guid>
 
-<item>
-<title><![CDATA[Chuva forte mobiliza Defesa Civil, mas Itapema segue sem registros de risco]]></title>
-<link>https://portalmenina.com.br/chuva-forte-mobiliza-defesa-civil-mas-itapema-segue-sem-registros-de-risco/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 09 Dec 2025 15:22:56 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=129545</guid>
-<description><![CDATA[A Defesa Civil de Itapema está realizando um monitoramento intensivo em toda a cidade devido ao alto volume de chuvas ocorrido nesta terça-feira, dia 9. Até o momento, não foram detectados riscos à população nem mudanças significativas no escoamento das águas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+    <description><![CDATA[No cen?rio de uma trag?dia impactante, uma fam?lia composta por pai, m?e e beb? foi arrastada por uma enchente na regi?o da Grande Florian?polis. O beb?, de acordo com relatos de moradores que testemunharam o resgate, foi encontrado boiando pr?ximo a uma cerca, j? sem vida quando foi retirado do local.]]></description>
+    <content:encoded><![CDATA[<p>A situa??o chocante deixou a comunidade local consternada, com a triste not?cia se espalhando rapidamente. A fam?lia, v?tima do tr?gico acidente, teve sua vida interrompida de forma abrupta, deixando um vazio de dor e sofrimento entre aqueles que acompanharam o desdobramento da situa??o.</p><p>As autoridades locais est?o empenhadas em investigar as circunst?ncias que levaram a essa fatalidade, buscando entender o que poderia ter sido feito para evitar a perda dessas preciosas vidas. Enquanto isso, a .</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/pai-mae-e-bebe-morrem-afogados/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Carro ? arrastado pela enxurrada e Bombeiros buscam poss?veis v?timas]]></title>
+    <link>https://jornalrazao.com/seguranca/urgente-carro-e-arrastado-pela-enxurrada-e-bombeiros-tentam-localizar-possiveis-vitimas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 15:18:38 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172098</guid>
 
+    <description><![CDATA[As equipes de resgate seguem em busca do carro arrastado pela enxurrada, em uma opera??o que n?o para. Os Bombeiros enfrentam a for?a da ?gua para tentar localizar qualquer sinal do ve?culo desaparecido. Novas informa??es ser?o divulgadas conforme avan?arem as buscas.]]></description>
+    <content:encoded><![CDATA[<p>A corrida contra o tempo continua para encontrar o carro levado pela enxurrada, com os Bombeiros intensificando os esfor?os na ?rea afetada. A popula??o aguarda ansiosa por novidades sobre poss?veis v?timas e desdobramentos da ocorr?ncia, que mant?m todos em alerta.</p><p>Enquanto a opera??o de resgate prossegue, a comunidade se une na torcida por um desfecho positivo. A solidariedade e apoio m?tuo marcam esse momento de tens?o, onde a esperan?a ? o combust?vel para as equipes que n?o medem esfor?os na busca pelo carro desaparecido.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/urgente-carro-e-arrastado-pela-enxurrada-e-bombeiros-tentam-localizar-possiveis-vitimas/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Mapa revela ?reas de Santa Catarina atingidas por ventos intensos do ciclone: alerta para rajadas de at? 120 km/h]]></title>
+    <link>https://jornalrazao.com/seguranca/mapa-mostra-como-e-onde-ventos-do-ciclone-atingirao-sc-ate-120-km-h/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 14:53:42 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172095</guid>
+
+    <description><![CDATA[Ventos intensos est?o previstos para atingir o estado de Santa Catarina nos pr?ximos dias, com rajadas que podem chegar a 120 km/h nas regi?es litor?neas. O Instituto Nacional de Meteorologia (Inmet) divulgou mapas detalhados que indicam as ?reas mais afetadas, destacando com cores vibrantes o avan?o do ciclone extratropical pela regi?o.]]></description>
+    <content:encoded><![CDATA[<p>A previs?o ? de que os ventos fortes sejam sentidos entre quarta-feira (10) e quinta-feira (11), trazendo consigo poss?veis impactos e necessidade de precau??o por parte da popula??o. As autoridades locais est?o em alerta e orientam sobre medidas de seguran?a a serem tomadas diante da chegada do fen?meno clim?tico.</p><p>Com a aproxima??o do ciclone, a popula??o catarinense deve se manter informada e seguir as orienta??es das autoridades competentes para minimizar poss?veis danos e garantir a seguran?a de todos. O monitoramento constante das condi??es clim?ticas ? essencial para lidar com situa??es adversas e proteger a popula??o da regi?o.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/mapa-mostra-como-e-onde-ventos-do-ciclone-atingirao-sc-ate-120-km-h/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Sem sal?rio, equipe de hospital em Cambori? protesta contra falta de repasse de verbas]]></title>
+    <link>https://jornalrazao.com/saude/sem-salario-equipe-do-hospital-de-camboriu-protesta-vai-parar-tudo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 14:18:26 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172091</guid>
+
+    <description><![CDATA[Funcion?rios do Hospital Centro Cir?rgico de Cambori? (HCC) realizaram um protesto nesta ter?a-feira (09) devido ? paralisa??o do repasse de verbas pela Prefeitura. A indigna??o dos profissionais da sa?de cresce, pois est?o h? mais de 40 dias sem receber sal?rios. A manifesta??o reflete a tens?o entre a equipe e as autoridades locais, em meio a um cen?rio de incertezas e reivindica??es por parte dos trabalhadores.]]></description>
+    <content:encoded><![CDATA[<p>A situa??o se agrava com a falta de di?logo e solu??es imediatas por parte da Prefeitura de Cambori?, que ainda n?o se pronunciou sobre as reivindica??es dos funcion?rios do hospital. A aus?ncia de pagamento impacta diretamente na qualidade do atendimento e na motiva??o da equipe, que se v? desamparada diante da situa??o prec?ria.</p><p>Diante do impasse, a comunidade local tem se mobilizado para apoiar os profissionais da sa?de e pressionar as autoridades a encontrar uma solu??o urgente para a crise no hospital. A falta de sal?rios n?o apenas afeta os funcion?rios, mas tamb?m compromete o funcionamento da unidade de sa?de, colocando em risco a assist?ncia ? popula??o.</p><p>A expectativa ? de que medidas sejam tomadas para garantir a regulariza??o dos pagamentos e a continuidade dos servi?os prestados pelo HCC em Cambori?.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/saude/sem-salario-equipe-do-hospital-de-camboriu-protesta-vai-parar-tudo/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Caminh?o inovador reduz alagamentos em Santa Catarina]]></title>
+    <link>https://jornalrazao.com/seguranca/caminhao-moderno-impede-alagamentos-em-sc-todas-as-cidades-deveriam-fazer-isso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 13:50:18 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172087</guid>
+
+    <description><![CDATA[Um caminh?o moderno tem se destacado em Santa Catarina ao impedir alagamentos e trazer resultados pr?ticos para a popula??o. A limpeza das redes de drenagem tem sido fundamental para reduzir pontos de alagamento e garantir mais seguran?a nas cidades.]]></description>
+    <content:encoded><![CDATA[<p>Com a utiliza??o desse caminh?o especial, as autoridades locais t?m conseguido evitar transtornos causados pelas chuvas intensas, prevenindo inunda??es e protegendo a popula??o. A a??o tem sido elogiada e levantado questionamentos sobre a necessidade de implementar medidas semelhantes em outras regi?es do pa?s.</p><p>Os benef?cios trazidos pela iniciativa mostram a import?ncia de investir em tecnologias e pr?ticas que contribuam para a preven??o de desastres naturais. Com a efic?cia comprovada desse caminh?o moderno, fica evidente que a preven??o e a manuten??o adequada das redes de drenagem s?o essenciais para garantir a seguran?a e o bem-estar da popula??o.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/caminhao-moderno-impede-alagamentos-em-sc-todas-as-cidades-deveriam-fazer-isso/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Mulher causa revolta ao destruir imagem de Nossa Senhora em SC]]></title>
+    <link>https://jornalrazao.com/seguranca/mulher-destroi-imagem-de-nossa-senhora-em-sc-e-ato-revolta-comunidade/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 13:24:33 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172083</guid>
+
+    <description><![CDATA[Cenas perturbadoras foram capturadas por c?meras no momento em que uma mulher destemida arremessou a imagem sacra ao ch?o, deixando o local sem olhar para tr?s. O ato de vandalismo chocou a comunidade local e gerou indigna??o entre os fi?is.]]></description>
+    <content:encoded><![CDATA[<p>O incidente, ocorrido recentemente em Santa Catarina, deixou muitos moradores perplexos diante da falta de respeito demonstrada pela mulher. As autoridades locais est?o investigando o caso e buscando identificar a respons?vel por esse ato de desrespeito e intoler?ncia.</p><p>Diante da repercuss?o do ocorrido, a comunidade se mobilizou para reparar os danos causados ? imagem sagrada e promover a??es de solidariedade e respeito ? diversidade religiosa. Ainda n?o h? informa??es sobre as motiva??es por tr?s desse ato, mas as autoridades garantiram que medidas ser?o tomadas para evitar que situa??es semelhantes ocorram no futuro.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/mulher-destroi-imagem-de-nossa-senhora-em-sc-e-ato-revolta-comunidade/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Na Europa, a a??o policial n?o seria t?o eficaz: turista francesa se surpreende com atua??o da Pmsc em Florian?polis]]></title>
+    <link>https://jornalrazao.com/seguranca/na-europa-nao-ajudariam-tanto-francesa-se-impressiona-com-atuacao-da-pmsc-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 12:47:15 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172078</guid>
+
+    <description><![CDATA[Rastreio preciso da Pol?cia Militar de Santa Catarina leva equipe at? motorista desatento que esqueceu aparelho]]></description>
+    <content:encoded><![CDATA[<p>Uma turista francesa ficou impressionada com a efici?ncia da Pol?cia Militar de Santa Catarina em Florian?polis, ressaltando que na Europa n?o seriam t?o prestativos. A atua??o policial se destacou ao realizar um rastreamento que levou a equipe at? um motorista que havia esquecido um aparelho em sua posse. A r?pida a??o e efici?ncia foram elogiadas pela visitante estrangeira, que destacou a diferen?a de padr?es entre os pa?ses.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/na-europa-nao-ajudariam-tanto-francesa-se-impressiona-com-atuacao-da-pmsc-em-florianopolis/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Chuva intensa causa alagamentos em Tijucas, mas Defesa Civil garante controle da situa??o]]></title>
+    <link>https://jornalrazao.com/seguranca/morretes-enfrenta-transtornos-mas-situacao-em-tijucas-esta-controlada-diz-defesa-civil/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 12:15:35 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172075</guid>
+
+    <description><![CDATA[Ap?s uma madrugada de chuva intensa, a cidade de Tijucas enfrentou diversos pontos de alagamento nesta ter?a-feira (9), com um volume de precipita??o acima da m?dia, colocando o munic?pio entre os mais afetados pelas ?ltimas 12 horas de chuva em Santa Catarina. Apesar dos transtornos, a Defesa Civil assegurou que a situa??o est? sob controle.]]></description>
+    <content:encoded><![CDATA[<p>As fortes chuvas resultaram em problemas para os moradores de Tijucas, que tiveram que lidar com alagamentos em diversas ?reas da cidade. A Defesa Civil atuou rapidamente para minimizar os impactos e garantir a seguran?a da popula??o diante da situa??o de emerg?ncia.</p><p>Com a previs?o de mais chuvas para os pr?ximos dias, autoridades locais e equipes de resgate permanecem em alerta, monitorando de perto a evolu??o do tempo e prontas para intervir caso haja necessidade. A popula??o tamb?m ? orientada a manter a aten??o e seguir as recomenda??es de seguran?a para evitar maiores problemas decorrentes das condi??es clim?ticas adversas.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/morretes-enfrenta-transtornos-mas-situacao-em-tijucas-esta-controlada-diz-defesa-civil/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Preso por abusar de crian?a em Florian?polis, suspeito ? solto na delegacia]]></title>
+    <link>https://jornalrazao.com/seguranca/senti-algo-duro-preso-por-abusar-crianca-em-florianopolis-e-solto-na-delegacia/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 11:28:09 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172048</guid>
+
+    <description><![CDATA[Na cidade de Florian?polis, um homem suspeito de abusar de uma crian?a foi localizado pela Pol?cia Militar, que o rastreou at? Conc?rdia. No entanto, para surpresa de muitos, ele acabou sendo liberado na delegacia ap?s ser apontado como autor de estupro de vulner?vel.]]></description>
+    <content:encoded><![CDATA[<p>O caso chocante gerou indigna??o na comunidade local, que esperava por justi?a diante de um crime t?o repugnante. A libera??o do suspeito deixou muitos questionamentos no ar, levantando debates sobre a efic?cia do sistema de justi?a e a prote??o das v?timas.</p><p>Diante desse desfecho inesperado, as autoridades competentes est?o sendo pressionadas a tomar medidas mais rigorosas para garantir que casos como esse n?o se repitam, buscando assim evitar a impunidade e proteger a sociedade, principalmente as crian?as, de poss?veis agressores.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/senti-algo-duro-preso-por-abusar-crianca-em-florianopolis-e-solto-na-delegacia/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Alagamentos e caos: Grande Florian?polis em alerta por ciclone]]></title>
+    <link>https://jornalrazao.com/meioambiente/grande-florianopolis-tem-alagamentos-vias-bloqueadas-e-alerta-maximo-por-ciclone/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 09 Dec 2025 10:49:31 GMT</pubDate>
+    <category><![CDATA[Regi?o]]></category>
+    <guid isPermaLink="false">evw-https://jornalrazao.com/?p=172061</guid>
+
+    <description><![CDATA[A manh? na Grande Florian?polis foi marcada por vias alagadas, rodovias bloqueadas e bairros inundados, tudo isso em meio ao alerta m?ximo devido a um ciclone extratropical que avan?a sobre Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>A regi?o enfrentou uma situa??o ca?tica, com diversos pontos de alagamento, interdi??es em rodovias e moradores em alerta devido ?s fortes chuvas e ventos intensos causados pelo ciclone. O cen?rio de desordem e transtornos se espalhou pelos bairros, deixando a popula??o em estado de alerta.</p><p>As autoridades locais est?o mobilizadas para lidar com os impactos do ciclone na regi?o, buscando minimizar os danos e prestar assist?ncia ?s comunidades afetadas. A popula??o segue em alerta m?ximo, aguardando a melhora das condi??es clim?ticas e a normaliza??o da situa??o na Grande Florian?polis.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/meioambiente/grande-florianopolis-tem-alagamentos-vias-bloqueadas-e-alerta-maximo-por-ciclone/#respond</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
