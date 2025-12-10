@@ -1,125 +1,629 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
 <title>Evo Web News</title>
 <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/news-sc-1/</link>
 <description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 10 Dec 2025 16:20:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 16:39:36 GMT</lastBuildDate>
 <language>pt-BR</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>Evo Web News RSS 1.0</generator>
 
 <item>
 <title><![CDATA[Rio Camboriú: Balneário Camboriú intensifica ações para recuperar e proteger a principal fonte de vida da cidade]]></title>
 <link>https://portalmenina.com.br/rio-camboriu-balneario-camboriu-intensifica-acoes-para-recuperar-e-proteger-a-principal-fonte-de-vida-da-cidade/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Rio]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Intensifica]]></category>
-<category><![CDATA[Ações]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Wed, 10 Dec 2025 16:18:12 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 16:18:12 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129693</guid>
-<description><![CDATA[O Rio Camboriú, vital para o abastecimento de água de Balneário Camboriú e Camboriú, é o protagonista de uma história que atravessa gerações. Com aproximadamente 32 km de extensão, o rio é essencial para mais de 240 mil habitantes desses municípios, além da população flutuante.]]></description>
-<content:encoded><![CDATA[<strong>O Rio Camboriú, vital para o abastecimento de água de Balneário Camboriú e Camboriú, é o protagonista de uma história que atravessa gerações. Com aproximadamente 32 km de extensão, o rio é essencial para mais de 240 mil habitantes desses municípios, além da população flutuante. José Pinto Felipe, conhecido como Dego, de 78 anos, relembra com nostalgia a época em que o rio era cristalino e fonte de sustento para muitas famílias locais.</strong><br/><br/>A Empresa Municipal de Água e Saneamento (Emasa) é responsável por captar e tratar a água que chega às residências, buscando garantir a qualidade do abastecimento. A prefeita Juliana Pavan destaca a importância das melhorias realizadas na Estação de Tratamento de Esgoto, que opera com alta eficiência, tratando diariamente milhões de litros de esgoto antes de devolvê-los ao Rio Camboriú. A colaboração da população local também é fundamental para a preservação do rio, ressaltando a necessidade de um uso consciente da água e de ações que contribuam para a recuperação ambiental da região.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+<description><![CDATA[Sem água, não há vida. Um dito que pode soar clichê, mas segue sendo uma das verdades mais incontestáveis. Em Balneário Camboriú, essa vida nasce no Rio Camboriú. Com cerca de 32 km de extensão, ele é responsável por abastecer Camboriú e Balneário Camboriú, municípios que somam mais de 240 mil habitantes, sem contar a população flutuante.]]></description>
+<content:encoded><![CDATA[<p>Sem água, não há vida. Um dito que pode soar clichê, mas segue sendo uma das verdades mais incontestáveis. Em Balneário Camboriú, essa vida nasce no Rio Camboriú. Com cerca de 32 km de extensão, ele é responsável por abastecer Camboriú e Balneário Camboriú, municípios que somam mais de 240 mil habitantes, sem contar a população flutuante.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/rio-camboriu-balneario-camboriu-intensifica-acoes-para-recuperar-e-proteger-a-principal-fonte-de-vida-da-cidade/">Compartilhe esta notícia no Whatsapp</a></strong></li>
+</ul>
+
+
+
+<p>A história do Rio Camboriú atravessa gerações e faz parte da memória de muitos moradores, entre eles José Pinto Felipe, o Dego, de 78 anos. Ele lembra da infância nas margens do rio, onde brincava, preparava alimentos e encontrava o sustento da família.</p>
+
+
+
+<p>“Falar do Rio Camboriú pra mim é um orgulho, porque quem viu o Rio Camboriú com as águas cristalinas, brancas, puras, e na altura de dois metros a gente via um peixe, via um siri e tomava banho naquela água. A gente lavava camarão, cozinhava camarão, tudo com aquela água do rio e não tinha problema nenhum. A água era limpa, era pura”, relembra, com nostalgia.</p>
+
+
+
+<p><strong>Leia também: <a href="https://portalmenina.com.br/caravana-de-natal-da-coca-cola-passa-por-balneario-camboriu-e-camboriu-confira-a-data-e-a-rota/">Caravana de Natal da Coca-Cola passa por Balneário Camboriú e Camboriú; confira a data e a rota</a></strong></p>
+
+
+
+<p>A água que chega às torneiras das casas é captada e tratada pela Empresa Municipal de Água e Saneamento (Emasa), que neste ano passou a receber uma série de melhorias para qualificar o serviço e proteger o Rio Camboriú. A prefeita Juliana Pavan (PSD) destaca que algumas obras estão em execução e outras já foram entregues, todas com foco em garantir excelência no abastecimento.</p>
+
+
+
+<p>Entre as melhorias está a instalação de novos equipamentos na Estação de Tratamento de Esgoto, que hoje opera com mais de 90% de eficiência.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/Gqpn5grkUNBIPP9iyAkQna">CLIQUE AQUI E ENTRE NO GRUPO RÁDIO MENINA BC DO WHATSAPP</a></div>
+</div>
+
+
+
+<p>“A principal ação é nós resolvermos o problema da nossa Estação de Tratamento de Esgoto. Hoje a Emasa, todos os dias, ela trata e joga de volta para o rio Camboriú em torno de 40 milhões de litros de esgoto tratado. Então, como esse esgoto melhorou, ou seja, a qualidade que nós jogamos é bem melhor do que a do rio Cambriú, isso melhorou e muito. E também, eliminando muita ligação do pluvial no cloacal, nós estamos colaborando para a melhora do rio Cambriú”, explica Auri Pavoni, diretor-geral da Emasa.</p>
+
+
+
+<p>A recuperação do Rio Camboriú depende não apenas dos investimentos públicos, mas também do comportamento de quem vive na região. Cada gesto de cuidado, cada uso consciente da água, contribui para preservar o rio que sustenta a cidade.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="epyt-video-wrapper"><iframe  id="_ytid_22632"  width="800" height="450"  data-origwidth="800" data-origheight="450" src="https://www.youtube.com/embed/F2bfGG-gz-s?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=3&loop=0&rel=0&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  epyt-is-override  no-lazyload" title="YouTube player"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div>
+</div></figure>
+
+
+
+<h5 id="leia-mais-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765378982414 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>LEIA MAIS NO PORTAL MENINA: </span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="yypZHoDQcL"><a href="https://portalmenina.com.br/fim-do-periodo-educativo-radares-da-panoramica-e-martin-luther-passam-a-multar-nesta-quarta/">Fim do período educativo: radares da Panorâmica e Martin Luther passam a multar nesta quarta </a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Fim do período educativo: radares da Panorâmica e Martin Luther passam a multar nesta quarta ” — Portal Menina" src="https://portalmenina.com.br/fim-do-periodo-educativo-radares-da-panoramica-e-martin-luther-passam-a-multar-nesta-quarta/embed/#?secret=jFvvZZfqVM#?secret=yypZHoDQcL" data-secret="yypZHoDQcL" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="k7URMR0sN6"><a href="https://portalmenina.com.br/dilsinho-esta-confirmado-no-reveillon-de-itajai-cidade-tera-shows-musicais-e-queima-de-fogos/">Dilsinho está confirmado no Réveillon de Itajaí; cidade terá shows musicais e queima de fogos</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Dilsinho está confirmado no Réveillon de Itajaí; cidade terá shows musicais e queima de fogos” — Portal Menina" src="https://portalmenina.com.br/dilsinho-esta-confirmado-no-reveillon-de-itajai-cidade-tera-shows-musicais-e-queima-de-fogos/embed/#?secret=5HMMy1iFuZ#?secret=k7URMR0sN6" data-secret="k7URMR0sN6" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[Morre segunda vítima de grave acidente entre carro e caminhão na Jorge Lacerda, em Ilhota]]></title>
 <link>https://jornalrazao.com/seguranca/morre-segunda-vitima-acidente-carro-caminhao-jorge-lacerda-ilhota/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 15:55:58 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:55:58 +0000</pubDate>
 <guid isPermaLink="false">https://jornalrazao.com/?p=172203</guid>
-<description><![CDATA[Duas pessoas foram identificadas como vítimas de um grave acidente ocorrido na tarde desta terça-feira (9) na Rodovia Jorge Lacerda, em Ilhota, no Vale do Itajaí. O caminhoneiro Paulo Rodrigo dos Santos, de 32 anos, faleceu no local da colisão, enquanto o motorista do carro, Rafael de Melo Silva, de 37 anos, foi socorrido, porém não resistiu aos ferimentos e veio a óbito no Hospital Marieta Konder Bornhausen, em Itajaí.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[<p>Morreu a segunda vítima do grave acidente entre carro e caminhão na Rodovia Jorge Lacerda</p>
+<p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/morre-segunda-vitima-acidente-carro-caminhao-jorge-lacerda-ilhota/">Morre segunda vítima de grave acidente entre carro e caminhão na Jorge Lacerda, em Ilhota</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p>]]></description>
+<content:encoded><![CDATA[<p>Foram oficialmente identificadas as vítimas do grave acidente registrado na Rodovia Jorge Lacerda, em Ilhota, no Vale do Itajaí.</p>
+
+
+
+<p>O caminhoneiro&nbsp;<strong>Paulo Rodrigo dos Santos</strong>, de&nbsp;<strong>32 anos</strong>, morreu ainda no local da colisão. Já o motorista do carro,&nbsp;<strong>Rafael de Melo Silva</strong>, de&nbsp;<strong>37 anos</strong>, chegou a ser socorrido, mas não resistiu aos ferimentos e morreu no&nbsp;<strong>Hospital Marieta Konder Bornhausen</strong>, em Itajaí.</p>
+
+
+
+<p>O acidente ocorreu na tarde desta terça-feira (9) e envolveu um veículo de uma empresa e um caminhão. Segundo as informações apuradas no local, a batida foi frontal. Com a força do impacto, uma escada que estava sobre o teto do carro se soltou e foi arremessada contra o condutor do caminhão, que teve morte imediata.</p>
+
+
+
+<p>Rafael ficou preso às ferragens e foi retirado pelas equipes dos Bombeiros Voluntários de Ilhota e Itajaí. O helicóptero&nbsp;<strong>Arcanjo-03</strong>&nbsp;também foi acionado para o resgate aeromédico, levando a vítima em estado grave ao Hospital Marieta, onde o óbito foi confirmado horas depois.</p>
+
+
+
+<p>Durante o atendimento, a Rodovia Jorge Lacerda ficou parcialmente interditada.</p>
+
+
+
+<p><strong>Região vive sequência de acidentes fatais</strong></p>
+
+
+
+<p>O acidente em Ilhota se soma a uma série de tragédias recentes nas rodovias do Litoral Norte e Vale do Itajaí:</p>
+
+
+
+<p>Em&nbsp;<strong>Itajaí</strong>, uma jovem de&nbsp;<strong>18 anos</strong>&nbsp;morreu após um grave acidente envolvendo uma motocicleta e um caminhão.</p>
+
+
+
+<p>Em&nbsp;<strong>Camboriú</strong>, dois homens foram mortos após serem atropelados por um veículo do tipo&nbsp;<strong>UTV</strong>.</p>
+
+
+
+<p>Em&nbsp;<strong>Navegantes</strong>, no bairro&nbsp;<strong>Escalvados</strong>, um motociclista e o garupa morreram após a moto atingir a traseira de um caminhão. Com o impacto, o veículo chegou a pegar fogo.</p>
+
+
+
+<p>Em&nbsp;<strong>Barra Velha</strong>, um homem morreu atropelado na&nbsp;<strong>BR-101</strong>&nbsp;após descer de um veículo.</p>
+
+
+
+<p>Em&nbsp;<strong>Balneário Camboriú</strong>, um motociclista perdeu a vida em um acidente envolvendo dois caminhões e uma moto na&nbsp;<strong>BR-101</strong>.</p>
+<p>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
-<title><![CDATA[Dois PMs são detidos em operação ligada ao caso “Lobo da Batel” em Itapema]]></title>
+<title><![CDATA[Dois PMs são detidos em operação ligada ao caso “Lobo do Batel” em Itapema]]></title>
 <link>https://portalmenina.com.br/dois-pms-sao-detidos-em-operacao-ligada-ao-caso-lobo-da-batel-em-itapema/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 15:50:21 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:50:21 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129698</guid>
-<description><![CDATA[Dois policiais militares foram presos em Itapema, no Litoral Norte de Santa Catarina, no sábado, dia 6, sob suspeita de concussão e prevaricação durante uma ocorrência relacionada ao estelionatário conhecido como “Lobo da Batel”, investigado por aplicar um golpe bilionário no Paraná. As prisões foram confirmadas pela Polícia Militar por meio de nota oficial, que informou que a Justiça determinou a manutenção da prisão preventiva dos militares até a elucidação dos fatos iniciais.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[Dois policiais militares foram presos em Itapema, no Litoral Norte de Santa Catarina, suspeitos de cometer concussão e prevaricação durante uma ocorrência relacionada ao estelionatário conhecido como “Lobo da Batel”, investigado por aplicar um golpe bilionário no Paraná.]]></description>
+<content:encoded><![CDATA[<p>Dois policiais militares foram presos em Itapema, no Litoral Norte de Santa Catarina, suspeitos de cometer concussão e prevaricação durante uma ocorrência relacionada ao estelionatário conhecido como “Lobo do Batel”, investigado por aplicar um golpe bilionário no Paraná.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/dois-pms-sao-detidos-em-operacao-ligada-ao-caso-lobo-da-batel-em-itapema//">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p>Segundo o portal NDMais, as prisões ocorreram na tarde de sábado, 6, e foram confirmadas pela Polícia Militar por meio de nota oficial. Segundo a corporação, a Justiça decidiu manter a prisão preventiva dos dois militares “até elucidação dos fatos iniciais”. Eles seguem custodiados no 31º Batalhão de Polícia Militar, em Itapema.</p>
+
+
+
+<p>A reportagem ainda aponta que os crimes teriam sido cometidos no atendimento envolvendo o “Lobo do Batel”. A PM não detalhou as circunstâncias da prisão, mas respondeu aos questionamentos da reportagem por nota, sem acrescentar informações adicionais sobre o caso.</p>
+
+
+
+<h5 id="relembre-o-caso" class="cnvs-block-section-heading cnvs-block-section-heading-1765380582567 halignleft" >
+	<span class="cnvs-section-title">
+		<span><br>RELEMBRE O CASO</span>
+	</span>
+</h5>
+
+
+
+<p>Um homem identificado como José Oswaldo Dell Agnolo, procurado por crimes financeiros e organização criminosa, foi preso nesta terça-feira, 9, em Itapema. A detenção ocorreu no Blue Sea Hotel, no bairro Ilhota, após equipes do Tático do 31º BPM receberem informações da Agência de Inteligência sobre sua localização.</p>
+
+
+
+<p>José é apontado como um dos responsáveis pelos fundos <em>Futuree Bank</em> e <em>Theboss</em>, ambos sediados em Curitiba e investigados por esquema de investimentos fraudulentos. Em reportagens anteriores, ele ficou conhecido como o “Lobo do Batel”. Algumas vítimas relatam prejuízos que variam de R$ 20 mil a R$ 2 milhões.</p>
+
+
+
+<p>Durante as buscas no quarto do hotel, a polícia apreendeu um grande volume de materiais e dinheiro. Entre os itens recolhidos estão um tablet, dez celulares, um MacBook, chaves de veículos, relógios, além de R$ 1.131.220,00 em espécie e US$ 721.300,00. Convertidos, os valores totalizam aproximadamente R$ 5.055.092,00.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<p>O material foi encaminhado para a Polícia Federal de Itajaí. Já José Oswaldo passou por avaliação na UPA de Itapema e, posteriormente, foi levado ao Presídio do município, onde permanece à disposição da Justiça.</p>
+
+
+
+<p>As investigações sobre o esquema continuam.</p>
+
+
+
+<p></p>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765380673935 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="HX0JtkSrqv"><a href="https://portalmenina.com.br/bc-sanciona-lei-da-liberdade-economica-e-se-torna-uma-das-cidades-mais-empreendedoras-do-pais/">BC sanciona Lei da Liberdade Econômica e se torna uma das cidades mais empreendedoras do país</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“BC sanciona Lei da Liberdade Econômica e se torna uma das cidades mais empreendedoras do país” — Portal Menina" src="https://portalmenina.com.br/bc-sanciona-lei-da-liberdade-economica-e-se-torna-uma-das-cidades-mais-empreendedoras-do-pais/embed/#?secret=pJGvzMP5x1#?secret=HX0JtkSrqv" data-secret="HX0JtkSrqv" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="rQ9b1onGqa"><a href="https://portalmenina.com.br/morro-do-boi-ficara-bloqueado-para-atualizacao-no-sistema-de-automacao-nesta-quarta-e-quinta-feira-saiba-horarios/">Morro do Boi ficará bloqueado para atualização no sistema de automação nesta quarta e quinta-feira; saiba horários</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Morro do Boi ficará bloqueado para atualização no sistema de automação nesta quarta e quinta-feira; saiba horários” — Portal Menina" src="https://portalmenina.com.br/morro-do-boi-ficara-bloqueado-para-atualizacao-no-sistema-de-automacao-nesta-quarta-e-quinta-feira-saiba-horarios/embed/#?secret=FMs8sOifie#?secret=rQ9b1onGqa" data-secret="rQ9b1onGqa" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[Depósito secreto na fronteira com a Argentina: PF flagra carga gigante de alumínio contrabandeado]]></title>
 <link>https://portalmenina.com.br/deposito-secreto-na-fronteira-com-a-argentina-pf-flagra-carga-gigante-de-aluminio-contrabandeado/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 15:35:59 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:35:59 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129697</guid>
-<description><![CDATA[A Polícia Federal realizou a prisão de dois homens em flagrante na terça-feira, 9, em Barracão (PR), cidade localizada na fronteira com a Argentina. A ação ocorreu após a localização de um depósito clandestino contendo aproximadamente 40 toneladas de alumínio contrabandeado.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description><![CDATA[A Polícia Federal prendeu dois homens em flagrante após localizar um depósito clandestino com cerca de 40 toneladas de alumínio contrabandeado em Barracão (PR), na fronteira com a Argentina. A ação ocorreu nesta terça-feira, 9, e contou com apoio da Receita Federal.]]></description>
+<content:encoded><![CDATA[<p>A Polícia Federal prendeu dois homens em flagrante após localizar um depósito clandestino com cerca de 40 toneladas de alumínio contrabandeado em Barracão (PR), na fronteira com a Argentina. A ação ocorreu nesta terça-feira, 9, e contou com apoio da Receita Federal.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/deposito-secreto-na-fronteira-com-a-argentina-pf-flagra-carga-gigante-de-aluminio-contrabandeado/">Compartilhe esta notícia WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p>Os agentes identificaram um veículo utilizando uma passagem ilegal de fronteira para transportar resíduos até o depósito. Durante a abordagem, dois suspeitos conseguiram fugir, enquanto outros dois foram detidos no local.</p>
+
+
+
+<p><strong>Leia no Portal Menina: </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="https://portalmenina.com.br/fim-do-periodo-educativo-radares-da-panoramica-e-martin-luther-passam-a-multar-nesta-quarta/">Fim do período educativo: radares da Panorâmica e Martin Luther passam a multar nesta quarta</a></strong></li>
+</ul>
+
+
+
+<p>O material apreendido, além do veículo e de uma empilhadeira usada no transporte, foi encaminhado à Receita Federal. Os presos foram levados à Delegacia da PF em Dionísio Cerqueira e poderão responder pelo crime de contrabando.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://chat.whatsapp.com/BQgz3zpryrxEvV6pNGfLua">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA NO WHATSAPP</a></div>
+</div>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765380026230 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>LEIA NO PORTAL MENINA</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="gH8wRmXKcd"><a href="https://portalmenina.com.br/caravana-de-natal-da-coca-cola-passa-por-balneario-camboriu-e-camboriu-confira-a-data-e-a-rota/">Caravana de Natal da Coca-Cola passa por Balneário Camboriú e Camboriú; confira a data e a rota</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Caravana de Natal da Coca-Cola passa por Balneário Camboriú e Camboriú; confira a data e a rota” — Portal Menina" src="https://portalmenina.com.br/caravana-de-natal-da-coca-cola-passa-por-balneario-camboriu-e-camboriu-confira-a-data-e-a-rota/embed/#?secret=VCLk9hPHo8#?secret=gH8wRmXKcd" data-secret="gH8wRmXKcd" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="OLrpnBsIrv"><a href="https://portalmenina.com.br/policia-prende-em-itapema-foragido-conhecido-como-lobo-da-batel-mais-de-r-5-milhoes-foram-apreendidos/">Polícia prende em Itapema foragido conhecido como “Lobo da Batel”; mais de R$ 5 milhões foram apreendidos</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Polícia prende em Itapema foragido conhecido como “Lobo da Batel”; mais de R$ 5 milhões foram apreendidos” — Portal Menina" src="https://portalmenina.com.br/policia-prende-em-itapema-foragido-conhecido-como-lobo-da-batel-mais-de-r-5-milhoes-foram-apreendidos/embed/#?secret=QGKSFmM64y#?secret=OLrpnBsIrv" data-secret="OLrpnBsIrv" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[BC sanciona Lei da Liberdade Econômica e se torna uma das cidades mais empreendedoras do país]]></title>
 <link>https://portalmenina.com.br/bc-sanciona-lei-da-liberdade-economica-e-se-torna-uma-das-cidades-mais-empreendedoras-do-pais/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 15:17:20 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 15:17:20 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129692</guid>
 <description><![CDATA[A prefeitura de Balneário Camboriú vai sancionar nesta quinta-feira, 11,  a Lei Municipal de Liberdade Econômica, que vai dispensar de alvará 1.114 atividades classificadas como de baixo risco, colocando a cidade entre as menos burocráticas e mais empreendedoras do país. A assinatura será feita pela prefeita Juliana Pavan, às 19h, na sede da CDL e Sindilojas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p>A prefeitura de Balneário Camboriú vai sancionar nesta quinta-feira, 11,  a Lei Municipal de Liberdade Econômica, que vai dispensar de alvará 1.114 atividades classificadas como de baixo risco, colocando a cidade entre as menos burocráticas e mais empreendedoras do país. A assinatura será feita pela prefeita Juliana Pavan, às 19h, na sede da CDL e Sindilojas.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="whatsapp://send?text=https://portalmenina.com.br/bc-sanciona-lei-da-liberdade-economica-e-se-torna-uma-das-cidades-mais-empreendedoras-do-pais/">Compartilhe esta notícia no WhatsApp</a></strong></li>
+</ul>
+
+
+
+<p>A nova legislação, baseada na Lei Federal 13.874/2019, simplifica significativamente a abertura e regularização de empresas no município. Com a medida, atividades de baixo risco passarão a operar com Certidão de Dispensa de Alvará; as de médio risco receberão alvará automático, com possível vistoria posterior; e apenas atividades de alto risco continuarão exigindo vistoria prévia.</p>
+
+
+
+<p>Segundo a prefeitura, Balneário Camboriú ultrapassa estados e capitais na desburocratização: enquanto a cidade libera 1.114 atividades, São Paulo dispensa 911, Paraná 771, Rio Grande do Sul 770 e Florianópolis apenas 290.</p>
+
+
+
+<p>O impacto deve ser ainda maior para micro e pequenos empreendedores, que terão redução de custos, mais agilidade na formalização e isenção total de taxas para atividades intelectuais, endereços fiscais e empresas com endereço apenas para correspondência. A secretária da Fazenda, Magda Bez, destaca que o município segue princípios como presunção de boa-fé, menor intervenção estatal e previsibilidade regulatória.</p>
+
+
+
+<p><strong>Leia também:</strong> <a href="https://portalmenina.com.br/caravana-de-natal-da-coca-cola-passa-por-balneario-camboriu-e-camboriu-confira-a-data-e-a-rota/">Caravana de Natal da Coca-Cola passa por Balneário Camboriú e Camboriú; confira a data e a rota</a></p>
+
+
+
+<p>A classificação das 1.413 atividades econômicas locais foi feita em parceria com a Vigilância Sanitária. Além das 1.114 de baixo risco, 126 foram enquadradas como médio risco e 173 como alto risco. A lei ainda prevê regras específicas para caixas eletrônicos, coworkings, e-commerces e showrooms, além de permitir Licença de Instalação Preliminar para empreendimentos em obras.</p>
+
+
+
+<p>Dados apresentados durante a tramitação indicam que cidades que adotaram legislações semelhantes registraram aumento de 88,9% na abertura anual de novas empresas e crescimento de 65,7% no número de negócios ativos. A expectativa é que Balneário Camboriú vivencie expansão semelhante.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">CLIQUE AQUI E ENTRE NO GRUPO DA RÁDIO MENINA BC NO WHATSAPP</a></div>
+</div>
+
+
+
+<p>A prefeitura reforça que a desburocratização não elimina a fiscalização. Órgãos municipais poderão realizar vistorias a qualquer momento e suspender o funcionamento caso sejam encontradas irregularidades.</p>
+
+
+
+<h5 id="leia-no-portal-menina" class="cnvs-block-section-heading cnvs-block-section-heading-1765379809942 is-style-cnvs-block-section-heading-default halignleft" >
+	<span class="cnvs-section-title">
+		<span>leia no portal menina</span>
+	</span>
+</h5>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="LEov1GfW0G"><a href="https://portalmenina.com.br/fim-do-periodo-educativo-radares-da-panoramica-e-martin-luther-passam-a-multar-nesta-quarta/">Fim do período educativo: radares da Panorâmica e Martin Luther passam a multar nesta quarta </a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Fim do período educativo: radares da Panorâmica e Martin Luther passam a multar nesta quarta ” — Portal Menina" src="https://portalmenina.com.br/fim-do-periodo-educativo-radares-da-panoramica-e-martin-luther-passam-a-multar-nesta-quarta/embed/#?secret=ubnf4LN6Jg#?secret=LEov1GfW0G" data-secret="LEov1GfW0G" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-portal-menina wp-block-embed-portal-menina"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="80X7LREtc1"><a href="https://portalmenina.com.br/morro-do-boi-ficara-bloqueado-para-atualizacao-no-sistema-de-automacao-nesta-quarta-e-quinta-feira-saiba-horarios/">Morro do Boi ficará bloqueado para atualização no sistema de automação nesta quarta e quinta-feira; saiba horários</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="“Morro do Boi ficará bloqueado para atualização no sistema de automação nesta quarta e quinta-feira; saiba horários” — Portal Menina" src="https://portalmenina.com.br/morro-do-boi-ficara-bloqueado-para-atualizacao-no-sistema-de-automacao-nesta-quarta-e-quinta-feira-saiba-horarios/embed/#?secret=jSGayt8nAH#?secret=80X7LREtc1" data-secret="80X7LREtc1" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[‘Aberração’: vereador tenta impedir que Governo Lula transforme terras de SC em Parque Nacional]]></title>
 <link>https://jornalrazao.com/politica/aberracao-vereador-tenta-impedir-que-governo-lula-transforme-terras-de-sc-em-parque-nacional/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 14:59:41 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 14:59:41 +0000</pubDate>
 <guid isPermaLink="false">https://jornalrazao.com/?p=172199</guid>
 <description><![CDATA[<p>Em uma reação firme à tentativa do Governo Federal de impor uma nova unidade de conservação em Santa Catarina sem diálogo direto com a população local, o vereador Diego Machado PSD tornou-se a principal voz de oposição à criação do Parque Nacional Araçatuba Quiriri, que afetaria diretamente os municípios de Joinville, Garuva e Campo Alegre. ... <a title="‘Aberração’: vereador tenta impedir que Governo Lula transforme terras de SC em Parque Nacional" class="read-more" href="https://jornalrazao.com/politica/aberracao-vereador-tenta-impedir-que-governo-lula-transforme-terras-de-sc-em-parque-nacional/" aria-label="Read more about ‘Aberração’: vereador tenta impedir que Governo Lula transforme terras de SC em Parque Nacional">Ler mais</a></p>
 <p>O post <a rel="nofollow" href="https://jornalrazao.com/politica/aberracao-vereador-tenta-impedir-que-governo-lula-transforme-terras-de-sc-em-parque-nacional/">‘Aberração’: vereador tenta impedir que Governo Lula transforme terras de SC em Parque Nacional</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p>]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p><strong>Em uma reação firme à tentativa do Governo Federal de impor uma nova unidade de conservação em Santa Catarina sem diálogo direto com a população local</strong>, o vereador <strong>Diego Machado</strong> PSD tornou-se a principal voz de oposição à criação do <strong>Parque Nacional Araçatuba Quiriri</strong>, que afetaria diretamente os municípios de Joinville, Garuva e Campo Alegre.</p>
+
+
+
+<p>A proposta, articulada por deputados do PSOL e PDT com apoio do Ministério do Meio Ambiente e do ICMBio, prevê transformar <strong>32,7 mil hectares</strong> entre SC e PR em área de proteção integral, impondo severas restrições ao uso do solo. Críticos afirmam que a região já possui ampla cobertura de APAs, como a <strong>APA Serra Dona Francisca</strong>, o que evidencia sobreposição de proteções e <strong>duplicação de restrições consideradas desnecessárias</strong>.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Estamos lutando contra essa aberração vinda de Brasília!”</strong></p>
+<cite>Vereador Diego Machado</cite></blockquote>
+
+
+
+<p>O vídeo publicado pelo vereador viralizou entre moradores da região Norte de SC. Nele, Diego condena o que chama de condução vertical e unilateral do Governo Federal, alegando que o plano ignora impactos sociais, econômicos e urbanos.</p>
+
+
+
+<h2 class="wp-block-heading">O que está em jogo</h2>
+
+
+
+<p>Se implementado, o parque nacional atingirá <strong>áreas rurais produtivas</strong>, comunidades tradicionais e zonas urbanas em expansão. Só Joinville teria <strong>2,6 mil hectares</strong> incluídos no novo perímetro, número que pode crescer com a criação das “zonas de amortecimento”.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Não somos contra a preservação. Somos contra decisões impostas de cima para baixo, sem ouvir quem vive aqui.”</strong></p>
+<cite>Vereador Diego Machado</cite></blockquote>
+
+
+
+<p>Além disso, a proposta ameaça conquistas recentes em Joinville. Após quatro anos de embates, a cidade conseguiu atualizar seu Plano Diretor e revisar as regras da APA Dona Francisca. Agora, com o novo parque, <strong>todo o avanço pode voltar à estaca zero</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1320" height="1013" src="https://controle.jornalrazao.com/wp-content/uploads/2025/12/874e8d42-27e5-4002-aab3-a692afbac65e.jpg" class="wp-image-172196" srcset="https://jornalrazao.com/wp-content/uploads/2025/12/874e8d42-27e5-4002-aab3-a692afbac65e.jpg 1320w, https://jornalrazao.com/wp-content/uploads/2025/12/874e8d42-27e5-4002-aab3-a692afbac65e-202x155.jpg 202w, https://jornalrazao.com/wp-content/uploads/2025/12/874e8d42-27e5-4002-aab3-a692afbac65e-768x589.jpg 768w" sizes="(max-width: 1320px) 100vw, 1320px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Apoio institucional e mobilização regional</h2>
+
+
+
+<p>A Câmara de Joinville aprovou <strong>moção de repúdio</strong> ao projeto. A Prefeitura enviou ofício ao ICMBio expressando oposição, assinado pelo prefeito <strong>Adriano Silva</strong> Novo. Segundo o município, a nova unidade criaria conflitos de gestão ambiental e travaria o desenvolvimento urbano.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Acabamos de conquistar uma grande vitória para Joinville. E agora surge essa notícia absurda.”</strong></p>
+<cite>Vereador Diego Machado</cite></blockquote>
+
+
+
+<h2 class="wp-block-heading">“Plano de Brasília”: desapropriações e insegurança jurídica</h2>
+
+
+
+<p>Nos bastidores, cresce a preocupação com um possível plano de <strong>desapropriações futuras</strong> e mais restrições à propriedade privada, impulsionado por setores ideológicos ligados ao PSOL e ao Governo Lula. Comunidades tradicionais como <strong>Postinho, Cubatão e Ponte Alta</strong> podem ser diretamente afetadas, gerando insegurança jurídica em produtores rurais.</p>
+
+
+
+<p>Diego afirma que o processo ignora legislações já estabelecidas, como o plano de manejo da APA Dona Francisca, que busca equilibrar preservação com a atividade econômica.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Joinville não aceitará medidas que ameacem a propriedade privada e o sustento do trabalhador rural.”</strong></p>
+<cite>Vereador Diego Machado</cite></blockquote>
+
+
+
+<h2 class="wp-block-heading">Audiência pública e convocação do ICMBio</h2>
+
+
+
+<p>Uma audiência pública foi marcada para <strong>15 de dezembro, às 19h30</strong>, na Sociedade Rio da Prata, em Pirabeiraba. O objetivo é discutir impactos, ouvir moradores e cobrar respostas técnicas do ICMBio, convocado pela Comissão de Urbanismo.</p>
+
+
+
+<p>Paralelamente, Diego articula com o senador <strong>Esperidião Amin</strong> PP e parlamentares conservadores um movimento político em Brasília para barrar o projeto.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Precisamos de força política no Congresso para impedir essa aberração. A luta é nossa e não vamos recuar.”</strong></p>
+<cite>Vereador Diego Machado</cite></blockquote>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1200" height="800" src="https://controle.jornalrazao.com/wp-content/uploads/2025/12/66e5a7f2-1d03-4398-884e-015321dd1f35-66346-00001421c0f55124_file.jpg" alt="" class="wp-image-172197" srcset="https://jornalrazao.com/wp-content/uploads/2025/12/66e5a7f2-1d03-4398-884e-015321dd1f35-66346-00001421c0f55124_file.jpg 1200w, https://jornalrazao.com/wp-content/uploads/2025/12/66e5a7f2-1d03-4398-884e-015321dd1f35-66346-00001421c0f55124_file-233x155.jpg 233w, https://jornalrazao.com/wp-content/uploads/2025/12/66e5a7f2-1d03-4398-884e-015321dd1f35-66346-00001421c0f55124_file-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Reações nas redes e polarização</h2>
+
+
+
+<p>A mobilização liderada por Diego alcançou grande repercussão. Moradores acusam o Governo Federal de tentar <strong>“tomar terras produtivas”</strong> e entregá-las a ONGs e movimentos aliados. Os vídeos do vereador ganharam atenção por criticar o que ele chama de “ambientalismo ideológico” distante da realidade catarinense.</p>
+
+
+
+<p>Defensores do parque alegam que o processo é transparente e que haverá consulta pública. Mesmo assim, a desconfiança cresce diante do histórico de decisões impostas por Brasília.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="‘Aberração’: vereador tenta impedir que Governo Lula transforme terras de SC em Parque Nacional" width="563" height="1000" src="https://www.youtube.com/embed/PddOE6Ee230?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+<p>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[Condutores de Gaspar são alvo de golpe com multas enviadas por e-mail]]></title>
 <link>https://portalmenina.com.br/condutores-de-gaspar-sao-alvo-de-golpe-com-multas-enviadas-por-e-mail/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 14:32:32 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 14:32:32 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129689</guid>
 <description><![CDATA[A Prefeitura de Gaspar alerta motoristas sobre um golpe que envolve o envio de falsas multas de trânsito por e-mail, acompanhadas de boletos irregulares. O município reforça que não envia multas pela internet e que qualquer cobrança online deve ser desconsiderada.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p>A Prefeitura de Gaspar alerta motoristas sobre um golpe que envolve o envio de falsas multas de trânsito por e-mail, acompanhadas de boletos irregulares. O município reforça que não envia multas pela internet e que qualquer cobrança online deve ser desconsiderada.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://chat.whatsapp.com/EW4y2mEOM9zHMwd8fGo3oN" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="970" height="90" src="https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png" alt="" class="wp-image-32170" srcset="https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png 970w, https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2-800x74.png 800w, https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2-120x11.png 120w, https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2-90x8.png 90w, https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2-320x30.png 320w, https://portalmenina.com.br/wp-content/uploads/2023/03/020-23-RM_Botao-Grupo-Whats_BLU-3-2-560x52.png 560w" sizes="auto, (max-width: 970px) 100vw, 970px" /></a></figure>
+
+
+
+<p>Nesta terça-feira (9), a Superintendência de Trânsito (Ditran) registrou seis relatos de cobranças indevidas visualizadas no sistema de Débito Direto Autorizado (DDA). Os valores – R$ 85,74, R$ 550,00 e R$ 575,00 – usavam indevidamente o nome da Prefeitura e um CNPJ falso. Após análise, foi confirmado que não correspondem à tabela oficial de multas.<br><br><strong>Leia também:</strong> <a href="https://portalmenina.com.br/atendimento-presencial-para-retirada-do-iptu-comeca-em-12-de-janeiro-em-blumenau-confira-os-locais/" target="_blank" rel="noreferrer noopener"><strong>Atendimento presencial para retirada do IPTU começa em 12 de janeiro em Blumenau; confira os locais</strong></a></p>
+
+
+
+<p>O município orienta que o cidadão verifique a autenticidade de qualquer cobrança antes de pagar. Em caso de dúvida, o atendimento é prestado pelo WhatsApp do DETRAN/SC no número (48) 3664-1800 ou pela Ditran de Gaspar pelo telefone (47) 3091-2016.</p>
+
+
+
+<p>O DDA apenas exibe boletos vinculados ao CPF ou CNPJ do usuário, e o pagamento só ocorre com sua autorização. Para consultar multas com segurança, recomenda-se acessar os<a href="https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito" target="_blank" rel="noreferrer noopener"> serviços oficiais do trânsito</a>.</p>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[Radialista é achado morto com chuveiro ligado em apartamento de Concórdia]]></title>
 <link>https://jornalrazao.com/seguranca/radialista-e-achado-morto-com-chuveiro-ligado-em-apartamento-de-concordia/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 14:22:29 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 14:22:29 +0000</pubDate>
 <guid isPermaLink="false">https://jornalrazao.com/?p=172194</guid>
 <description><![CDATA[<p>Profissional trabalhava há seis anos na área e será sepultado no Paraná</p>
 <p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/radialista-e-achado-morto-com-chuveiro-ligado-em-apartamento-de-concordia/">Radialista é achado morto com chuveiro ligado em apartamento de Concórdia</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p>]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p class="p1">O radialista Adriel Gonçalves, de 45 anos, foi encontrado morto no apartamento onde morava, em Concórdia, na tarde de terça-feira (9). Ele estava no quarto, com o chuveiro ligado, e apresentava sinais de vômito. A causa da morte ainda é considerada indeterminada pela Polícia Científica.</p>
+
+
+
+<p class="p1">O laudo preliminar identificou uma lesão no cérebro que pode indicar um possível infarto do miocárdio, hipótese que segue em análise pelos peritos.</p>
+
+
+
+<p class="p1">No fim de semana anterior, Adriel relatou a pessoas próximas que estava com desconfortos. Na segunda-feira (8), disse que não se sentia bem e que permaneceria em casa para buscar atendimento médico.</p>
+
+
+
+<p class="p1">Colegas e amigos passaram a tentar contato ao longo da terça-feira. Sem retorno, foram até o apartamento, localizado na rua Júlio Moritz, no bairro Sunti. Como não houve resposta no interfone, um chaveiro foi acionado para abrir o imóvel. O corpo foi encontrado no quarto.</p>
+
+
+
+<p class="p1">Adriel trabalhava como radialista e coordenador de marketing havia seis anos. Também já havia atuado em outras emissoras de rádio e televisão da região ao longo de sua carreira.</p>
+
+
+
+<p class="p1">O velório começou na madrugada desta quarta-feira (10) em Concórdia. Pela manhã, o corpo foi levado para Guarapuava (PR), onde será sepultado. Ele deixa uma filha.</p>
+
+
+
+<p></p>
+
+
+
+<p>COM INFORMAÇÕES DE OESTE MAIS</p>
+<p>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[Reino: saiba como vai funcionar a nova moeda de descontos do Garcia em Blumenau]]></title>
 <link>https://portalmenina.com.br/reino-saiba-como-vai-funcionar-a-nova-moeda-de-descontos-do-garcia-em-blumenau/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 14:19:11 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 14:19:11 +0000</pubDate>
 <guid isPermaLink="false">https://portalmenina.com.br/?p=129651</guid>
 <description><![CDATA[Vouchers começam a circular em janeiro e poderão ser usados como desconto entre diferentes lojas da região; iniciativa é da CDL e Câmara Empresarial]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p>A partir de janeiro, os cinco bairros que compõem a região do “Grande Garcia”, em <a href="https://portalmenina.com.br/noticias-blumenau/">Blumenau</a>, terão em circulação o “Reino”, um voucher com valor fixado em R$ 10,00, criado para reter o consumo dentro da comunidade e fortalecer a economia local.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://chat.whatsapp.com/FJN3EnuHtpP1MI8QzTJbDy"><img loading="lazy" decoding="async" width="970" height="90" src="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png" alt="" class="wp-image-129186" srcset="https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2.png 970w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-800x74.png 800w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-120x11.png 120w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-90x8.png 90w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-320x30.png 320w, https://portalmenina.com.br/wp-content/uploads/2025/12/020-23-RM_Botao-Grupo-Whats_BLU-3-2-560x52.png 560w" sizes="auto, (max-width: 970px) 100vw, 970px" /></a></figure>
+
+
+
+<p>A iniciativa é da Câmara Empresarial do Grande Garcia em parceria com a CDL Blumenau. Diferente de cartões fidelidade comuns, o “Reino” não precisa ser gasto na mesma loja onde ganhou.</p>
+
+
+
+<p><strong>Leia também: </strong><a href="https://portalmenina.com.br/casa-abandonada-usada-como-ponto-de-trafico-e-alvo-da-rocam-no-bairro-itoupava-norte-em-blumenau/" target="_blank" rel="noreferrer noopener"><strong>Casa abandonada usada como ponto de tráfico é alvo da Rocam no bairro Itoupava Norte em Blumenau</strong></a></p>
+
+
+
+<h2 id="como-vai-funcionar" class="wp-block-heading">Como vai funcionar</h2>
+
+
+
+<p>De acordo com o coordenador da Câmara Empresarial do Garcia, Dalmo Bardini, o cliente deve procurar um dos 29 comércios participantes para ganhar um desses cupons após a compra. Ouça:</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://portalmenina.com.br/wp-content/uploads/2025/12/DALMO.mp3"></audio></figure>
+
+
+
+<ol start="1" class="wp-block-list"></ol>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 <item>
 <title><![CDATA[“Sem peru de Natal”: GTI ‘invade’ presídios de SC e manda recado às facções]]></title>
 <link>https://jornalrazao.com/seguranca/sem-peru-de-natal-gti-invade-presidios-de-sc-e-manda-recado-as-faccoes/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 10 Dec 2025 13:43:01 GMT</pubDate>
+<pubDate>Wed, 10 Dec 2025 13:43:01 +0000</pubDate>
 <guid isPermaLink="false">https://jornalrazao.com/?p=172191</guid>
 <description><![CDATA[<p>O Grupo Tático de Intervenção (GTI), unidade de elite do sistema prisional catarinense, iniciou a operação Natal Seguro com ações ostensivas em diversas penitenciárias do estado. A ofensiva, que ocorre às vésperas das festas de fim de ano, tem o objetivo de conter articulações criminosas e evitar qualquer movimentação irregular durante o período festivo. As ... <a title="“Sem peru de Natal”: GTI ‘invade’ presídios de SC e manda recado às facções" class="read-more" href="https://jornalrazao.com/seguranca/sem-peru-de-natal-gti-invade-presidios-de-sc-e-manda-recado-as-faccoes/" aria-label="Read more about “Sem peru de Natal”: GTI ‘invade’ presídios de SC e manda recado às facções">Ler mais</a></p>
 <p>O post <a rel="nofollow" href="https://jornalrazao.com/seguranca/sem-peru-de-natal-gti-invade-presidios-de-sc-e-manda-recado-as-faccoes/">“Sem peru de Natal”: GTI ‘invade’ presídios de SC e manda recado às facções</a> apareceu primeiro em <a rel="nofollow" href="https://jornalrazao.com">Jornal Razão</a>.</p>]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<content:encoded><![CDATA[<p>O Grupo Tático de Intervenção (GTI), unidade de elite do sistema prisional catarinense, iniciou a operação Natal Seguro com ações ostensivas em diversas penitenciárias do estado. A ofensiva, que ocorre às vésperas das festas de fim de ano, tem o objetivo de conter articulações criminosas e evitar qualquer movimentação irregular durante o período festivo.</p>
+
+
+
+<p>As ações já passaram pelas regionais Sul e Norte e, nesta semana, estão concentradas na região Oeste. Até o Natal, o GTI deve percorrer todas as regiões de Santa Catarina, atuando com incursões, revistas em massa e ações de monitoramento.</p>
+
+
+
+<p>Os policiais penais estão deixando um recado duro às lideranças criminosas que ainda tentam exercer influência de dentro das cadeias. A presença do GTI nos presídios serve como alerta preventivo para motins, fugas, articulações de atentados ou qualquer ação ligada a facções.</p>
+
+
+
+<p>Criado em 2017, o GTI é composto por policiais penais especializados em controle de crises, com treinamento tático avançado e atuação rápida em cenários de alta complexidade. São esses profissionais que intervêm em motins, escoltas de alta periculosidade e situações de fuga.</p>
+
+
+
+<p>Durante todo o fim de ano e o início de 2026, o grupo estará de prontidão em regime especial. Segundo a SEJURI, o objetivo é manter a ordem no sistema penitenciário e garantir a segurança da população catarinense em um dos períodos mais sensíveis do calendário.</p>
+
+
+
+<p>Em meio às tensões causadas pela atuação de organizações criminosas em todo o Brasil nos últimos anos, a mensagem do GTI é clara: não haverá trégua para o crime, nem dentro, nem fora dos muros.</p>
+<p>]]></content:encoded>
+<slash:comments>0</slash:comments>
 </item>
 
 </channel>
