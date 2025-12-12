@@ -1,181 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  >
-
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Notícias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Fri, 12 Dec 2025 21:19:34 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Fri, 12 Dec 2025 21:21:08 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Colisão com caminhão deixa dois feridos no bairro Fidélis, em Blumenau]]></title>
-		<link>https://visornoticias.com.br/acidente-com-caminhao-deixa-dois-feridos-em-blumenau/</link>
-		<comments>https://visornoticias.com.br/acidente-com-caminhao-deixa-dois-feridos-em-blumenau/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 21:15:02 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:mxGik6J-CIN21MjvVkY7VV</guid>
+<item>
+<title><![CDATA[Colisão com caminhão deixa dois feridos no bairro Fidélis, em Blumenau]]></title>
+<link>https://visornoticias.com.br/acidente-com-caminhao-deixa-dois-feridos-em-blumenau/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 21:15:02 GMT</pubDate>
+<guid isPermaLink="false">evoweb:mxGik6J-CIN21MjvVkY7VV</guid>
+<description><![CDATA[Um acidente envolvendo um caminhão no bairro Fidélis, em Blumenau, resultou em duas pessoas feridas que foram atendidas e levadas a hospitais da cidade para tratamento.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um acidente envolvendo um caminhão no bairro Fidélis, em Blumenau, resultou em duas pessoas feridas que foram atendidas e levadas a hospitais da cidade para tratamento.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu nesta manhã no bairro Fidélis, uma área residencial de Blumenau. Um caminhão esteve envolvido na colisão que causou ferimentos em duas pessoas.</p><p>As vítimas receberam atendimento ainda no local por equipes de emergência e foram encaminhadas para hospitais da cidade para avaliação e cuidados médicos.</p><p>As autoridades de trânsito estiveram presentes para registrar a ocorrência, organizar o tráfego e investigar as causas do acidente.</p><p>Moradores da região relataram que o trânsito no bairro teve lentidão temporária devido à operação de socorro e à retirada do caminhão do local.</p><p>Este tipo de incidente reforça a importância da atenção redobrada no trânsito das cidades do litoral norte catarinense, incluindo municípios vizinhos como Itajaí e Balneário Camboriú, que também enfrentam alto fluxo diário de veículos.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/acidente-com-caminhao-deixa-dois-feridos-em-blumenau/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Capotamento na BR-470 em Santa Catarina deixa duas pessoas feridas]]></title>
+<link>https://visornoticias.com.br/capotamento-na-br-470-em-sc-deixa-duas-pessoas-feridas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 21:05:06 GMT</pubDate>
+<guid isPermaLink="false">evoweb:vUPZDTelooHScrwHCUqUvi</guid>
+<description><![CDATA[Um acidente envolvendo o capotamento de um veículo na BR-470 resultou em duas pessoas feridas, que foram encaminhadas ao pronto-socorro para atendimento médico.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Capotamento na BR-470 em Santa Catarina deixa duas pessoas feridas]]></title>
-		<link>https://visornoticias.com.br/capotamento-na-br-470-em-sc-deixa-duas-pessoas-feridas/</link>
-		<comments>https://visornoticias.com.br/capotamento-na-br-470-em-sc-deixa-duas-pessoas-feridas/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 21:05:06 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:vUPZDTelooHScrwHCUqUvi</guid>
+<item>
+<title><![CDATA[Montagem de balsas para o Réveillon 2025 movimenta o Canto da Praia em Itapema]]></title>
+<link>https://visornoticias.com.br/balsas-comecam-a-ser-montadas-para-o-show-pirotecnico-de-reveillon-em-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 20:47:59 GMT</pubDate>
+<guid isPermaLink="false">evoweb:VxA3kYpQLsyXLeiM3DsckG</guid>
+<description><![CDATA[Nesta sexta-feira (12), a montagem das balsas para o aguardado show pirotécnico de Réveillon começou no Canto da Praia, preparando a cidade para as celebrações da virada de 2025 em Itapema.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um acidente envolvendo o capotamento de um veículo na BR-470 resultou em duas pessoas feridas, que foram encaminhadas ao pronto-socorro para atendimento médico.]]></description>
-		<content:encoded><![CDATA[<p>Na BR-470, rodovia importante que conecta diversas cidades do Litoral Norte catarinense, um veículo capotou e causou ferimentos em duas pessoas. O acidente mobilizou equipes de socorro e segurança locais.</p><p>As vítimas receberam atendimento emergencial no local e, posteriormente, foram encaminhadas ao pronto-socorro para avaliações médicas. Até o momento, não foram divulgadas informações detalhadas sobre o estado de saúde delas.</p><p>O incidente impactou o trânsito na rodovia por algum tempo, com retenções e necessidade de manobras para desviar do local do acidente. Motoristas que trafegam pela região são orientados a redobrar a atenção e respeitar a sinalização.</p><p>A BR-470 é uma via fundamental para a mobilidade entre cidades como Navegantes, Itajaí e outras do Litoral Norte, facilitando o transporte de moradores e turistas. A segurança no trecho é prioridade para evitar ocorrências semelhantes.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/capotamento-na-br-470-em-sc-deixa-duas-pessoas-feridas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[75,3% das praias de Santa Catarina estão próprias para banho, aponta IMA]]></title>
+<link>https://visornoticias.com.br/ima-aponta-753-das-praias-proprias-para-banho-em-santa-catarina/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 20:31:30 GMT</pubDate>
+<guid isPermaLink="false">evoweb:ZcnN-LBIqA3E7I6Q3NZRGS</guid>
+<description><![CDATA[O Instituto do Meio Ambiente de Santa Catarina (IMA) indicou que, na semana de 8 a 12 de dezembro, 75,3% das praias do estado estão adequadas para banho, com monitoramento em 251 pontos ao longo do litoral catarinense.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Montagem de balsas para o Réveillon 2025 movimenta o Canto da Praia em Itapema]]></title>
-		<link>https://visornoticias.com.br/balsas-comecam-a-ser-montadas-para-o-show-pirotecnico-de-reveillon-em-itapema/</link>
-		<comments>https://visornoticias.com.br/balsas-comecam-a-ser-montadas-para-o-show-pirotecnico-de-reveillon-em-itapema/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 20:47:59 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:VxA3kYpQLsyXLeiM3DsckG</guid>
+<item>
+<title><![CDATA[Balneário Camboriú terá última etapa de castrações gratuitas entre 19 e 22 de dezembro]]></title>
+<link>https://portalmenina.com.br/balneario-camboriu-tera-ultima-etapa-de-castracoes-gratuitas-entre-19-e-22-de-dezembro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Comunidade]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Balneário]]></category>
+<category><![CDATA[Camboriú]]></category>
+<category><![CDATA[Terá]]></category>
+<category><![CDATA[Última]]></category>
+<category><![CDATA[Etapa]]></category>
+<category><![CDATA[Castrações]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Fri, 12 Dec 2025 20:25:33 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130065</guid>
+<description><![CDATA[A Prefeitura de Balneário Camboriú realizará, entre os dias 19 e 22 de dezembro, a última etapa do mutirão de castrações gratuitas de cães e gatos, integrando o programa Castra Pet. A ação tem como objetivo concluir as mil cirurgias previstas para este ano.]]></description>
+<content:encoded><![CDATA[<strong>A Prefeitura de Balneário Camboriú realizará, entre os dias 19 e 22 de dezembro, a última etapa do mutirão de castrações gratuitas de cães e gatos, integrando o programa Castra Pet. A ação tem como objetivo concluir as mil cirurgias previstas para este ano. Os procedimentos serão realizados em uma carreta e em um ônibus adaptados, que circularão pelos bairros Municípios, Centro, Vila Real e Nova Esperança. Até a última sexta-feira, 12, 636 animais estavam inscritos, restando 28 vagas disponíveis. Outras 336 castrações já foram realizadas em mutirões anteriores, em bairros como São Judas Tadeu, Nações e Barra.</strong><br/><br/>As inscrições para as castrações podem ser feitas por formulário online ou pelo WhatsApp da Secretaria de Meio Ambiente. Animais de tutores inscritos no Cadastro Único e de protetores têm prioridade no agendamento, porém o cadastro está aberto ao público em geral. Os procedimentos incluem avaliação pré-operatória, cirurgia, medicação para cinco dias, microchipagem, uso obrigatório de roupa cirúrgica ou colar elizabetano e acompanhamento pós-operatório, quando necessário. O investimento total do programa é de R$ 270,8 mil, com R$ 96 mil arrecadados na Festa dos Amigos deste ano e destinados ao Fundo Municipal de Amparo aos Animais. A castração itinerante começou em 19 de outubro, substituindo o modelo anterior realizado em clínicas veterinárias conveniadas. (<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[Nesta sexta-feira (12), a montagem das balsas para o aguardado show pirotécnico de Réveillon começou no Canto da Praia, preparando a cidade para as celebrações da virada de 2025 em Itapema.]]></description>
-		<content:encoded><![CDATA[<p>As equipes responsáveis pela organização do Réveillon em Itapema iniciaram a instalação das balsas que servirão como base para o tradicional show de fogos. O trabalho teve início na manhã desta sexta-feira (12), no Canto da Praia, local que concentra a maior parte das atrações da festa.</p><p>A estrutura é fundamental para garantir a segurança e o espetáculo durante a queima de fogos, que atrai moradores e turistas do Litoral Norte catarinense. O evento é um dos principais impulsionadores do turismo local nesta época do ano, movimentando a economia e valorizando o comércio da cidade.</p><p>As balsas serão posicionadas estrategicamente na orla para oferecer a melhor vista para o público presente nas praias próximas. A previsão é de que, nos próximos dias, o montante da estrutura seja concluído para os testes técnicos e ajustes finais, garantindo a programação do réveillon conforme planejamento.</p><p>As autoridades municipais seguem acompanhando o trabalho, reafirmando o compromisso com a segurança e organização do evento. A expectativa é que o show pirotécnico reúna milhares de pessoas na costa itapemense, marcando a chegada de 2025 com uma celebração visual emocionante e segura.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/balsas-comecam-a-ser-montadas-para-o-show-pirotecnico-de-reveillon-em-itapema/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Itapema terá interdições totais em ruas de três bairros para obras da Conasa Águas]]></title>
+<link>https://visornoticias.com.br/conasa-aguas-de-itapema-anuncia-obras-com-interdicao-total-de-vias-entre-15-e-19-de-dezembro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 20:18:47 GMT</pubDate>
+<guid isPermaLink="false">evoweb:Sq9MNDxicMaIw-xY4dzz2f</guid>
+<description><![CDATA[Entre 15 e 19 de dezembro, a Conasa Águas realiza obras essenciais nos bairros Morretes, Alto São Bento e Ilhota, com interdição completa das vias para implantação de emissário de esgoto e nova adutora de água.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[75,3% das praias de Santa Catarina estão próprias para banho, aponta IMA]]></title>
-		<link>https://visornoticias.com.br/ima-aponta-753-das-praias-proprias-para-banho-em-santa-catarina/</link>
-		<comments>https://visornoticias.com.br/ima-aponta-753-das-praias-proprias-para-banho-em-santa-catarina/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 20:31:30 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:ZcnN-LBIqA3E7I6Q3NZRGS</guid>
+<item>
+<title><![CDATA[Polícia Civil de Santa Catarina anuncia 300 vagas com salário de até R$ 10,2 mil]]></title>
+<link>https://visornoticias.com.br/policia-civil-de-sc-abre-300-vagas-em-concurso-com-salarios-de-ate-r-10-mil/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 20:11:46 GMT</pubDate>
+<guid isPermaLink="false">evoweb:nTW2XV0qZBQZX_lkrUJdX2</guid>
+<description><![CDATA[A Polícia Civil de Santa Catarina abriu concurso público com 300 vagas para cargos que exigem nível superior, oferecendo salários que chegam a R$ 10,2 mil. As provas estão previstas para março de 2026, abrindo oportunidades para profissionais de diversas áreas.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[O Instituto do Meio Ambiente de Santa Catarina (IMA) indicou que, na semana de 8 a 12 de dezembro, 75,3% das praias do estado estão adequadas para banho, com monitoramento em 251 pontos ao longo do litoral catarinense.]]></description>
-		<content:encoded><![CDATA[<p>O relatório mais recente do IMA traz uma boa notícia para moradores e turistas que frequentam as praias de Santa Catarina. Entre os 251 pontos analisados no litoral entre os dias 8 e 12 de dezembro, 75,3% apresentaram condições apropriadas para banho, garantindo segurança para o contato direto com a água.</p><p>Na região do Litoral Norte, cidades como Balneário Camboriú, Itajaí, Navegantes, Porto Belo e Bombinhas acompanham essa tendência, contribuindo significativamente para o percentual estadual positivo. O monitoramento constante é fundamental para detectar possíveis contaminações e informar a população.</p><p>Em Florianópolis, a capital do estado, o índice foi um pouco abaixo da média estadual, com 68,97% das praias próprias para banho avaliadas no mesmo período. Mesmo assim, a maioria dos pontos segue recomendada para banhistas, reforçando o compromisso local com a qualidade ambiental.</p><p>Essas informações auxiliam moradores e turistas a planejarem seus momentos de lazer com segurança e responsabilidade ambiental. O IMA segue com o programa contínuo de fiscalização e divulgação dos resultados para garantir a preservação do litoral catarinense, tão valorizado pela população e economia locais.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/ima-aponta-753-das-praias-proprias-para-banho-em-santa-catarina/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Caminhão carregado tomba em Blumenau e atinge muro de residência, deixando dois feridos]]></title>
+<link>https://portalmenina.com.br/tombamento-de-caminhao-atinge-casa-e-deixa-dois-feridos-em-blumenau/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 19:48:34 GMT</pubDate>
+<guid isPermaLink="false">evoweb:MMEPCpLAS1PCicjXKxv0lf</guid>
+<description><![CDATA[Na tarde desta sexta-feira (12), um caminhão carregado com polipropileno tombou na Rua Professor Hermann Lange, no bairro Fidélis, em Blumenau, atingindo o muro de uma casa e ferindo os dois ocupantes do veículo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Itapema terá interdições totais em ruas de três bairros para obras da Conasa Águas]]></title>
-		<link>https://visornoticias.com.br/conasa-aguas-de-itapema-anuncia-obras-com-interdicao-total-de-vias-entre-15-e-19-de-dezembro/</link>
-		<comments>https://visornoticias.com.br/conasa-aguas-de-itapema-anuncia-obras-com-interdicao-total-de-vias-entre-15-e-19-de-dezembro/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 20:18:47 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:Sq9MNDxicMaIw-xY4dzz2f</guid>
+<item>
+<title><![CDATA[Jovem de 22 anos desaparece em Camboriú; família busca informações urgentes]]></title>
+<link>https://portalmenina.com.br/jovem-de-22-anos-desaparece-em-camboriu-e-familia-pede-ajuda/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 19:44:17 GMT</pubDate>
+<guid isPermaLink="false">evoweb:A-DfDxvOlPo4EheGE_llG6</guid>
+<description><![CDATA[Damodara Oliveira Bucatti, morador do bairro Santa Regina em Camboriú, está desaparecido desde a manhã do dia 11 de dezembro. A família solicita a ajuda da comunidade para localizar o jovem, que está em tratamento contra depressão.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Entre 15 e 19 de dezembro, a Conasa Águas realiza obras essenciais nos bairros Morretes, Alto São Bento e Ilhota, com interdição completa das vias para implantação de emissário de esgoto e nova adutora de água.]]></description>
-		<content:encoded><![CDATA[<p>O serviço, que acontecerá durante cinco dias, visa melhorar a infraestrutura de saneamento e abastecimento em Itapema, refletindo diretamente na qualidade de vida dos moradores da região.</p><p>As interdições afetarão o trânsito nas ruas dos bairros Morretes, Alto São Bento e Ilhota, e motoristas e pedestres devem buscar rotas alternativas para evitar transtornos.</p><p>A execução das obras ocorrerá entre os dias 15 e 19 de dezembro, com horários e locais específicos que serão comunicados pela Conasa para garantir a segurança e fluidez do trabalho.</p><p>Os investimentos da concessionária fazem parte do compromisso com a expansão e modernização dos sistemas de água e esgoto, alinhados às necessidades do crescimento da cidade.</p><p>Moradores e comerciantes dessas regiões devem se programar para as interdições e acompanhar as atualizações divulgadas pela empresa e pela Prefeitura de Itapema.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/conasa-aguas-de-itapema-anuncia-obras-com-interdicao-total-de-vias-entre-15-e-19-de-dezembro/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Grave acidente entre carro e moto na SC-108 em Guaramirim deixa duas vítimas fatais]]></title>
+<link>https://jornalrazao.com/seguranca/vitimas-grave-acidente-sc108-guaramirim-identificadas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 19:42:53 GMT</pubDate>
+<guid isPermaLink="false">evoweb:5m-U2v-2ansRTLUB-ccWl1</guid>
+<description><![CDATA[Na manhã desta sexta-feira (12), um acidente entre um carro e uma motocicleta na SC-108, em Guaramirim, resultou na morte de dois jovens e deixou uma terceira pessoa gravemente ferida.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Polícia Civil de Santa Catarina anuncia 300 vagas com salário de até R$ 10,2 mil]]></title>
-		<link>https://visornoticias.com.br/policia-civil-de-sc-abre-300-vagas-em-concurso-com-salarios-de-ate-r-10-mil/</link>
-		<comments>https://visornoticias.com.br/policia-civil-de-sc-abre-300-vagas-em-concurso-com-salarios-de-ate-r-10-mil/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 20:11:46 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:nTW2XV0qZBQZX_lkrUJdX2</guid>
-
-		<description><![CDATA[A Polícia Civil de Santa Catarina abriu concurso público com 300 vagas para cargos que exigem nível superior, oferecendo salários que chegam a R$ 10,2 mil. As provas estão previstas para março de 2026, abrindo oportunidades para profissionais de diversas áreas.]]></description>
-		<content:encoded><![CDATA[<p>O concurso público da Polícia Civil de Santa Catarina visa preencher 300 vagas em cargos de nível superior, com remunerações que podem alcançar R$ 10.250. A iniciativa é um importante reforço para a segurança pública no estado, especialmente relevante para o Litoral Norte, onde a presença policial é essencial para a proteção da população e do turismo local.</p><p>Os interessados devem se preparar para etapas seletivas que incluem provas escritas, previstas para março de 2026. O certame tem como foco profissionais qualificados, ampliando a capacidade investigativa e operacional da corporação.</p><p>A abertura do concurso representa uma oportunidade significativa para quem busca carreira na área policial em Santa Catarina, contribuindo diretamente para a segurança das cidades da região como Balneário Camboriú, Itajaí e Bombinhas.</p><p>Detalhes sobre o edital, cronograma e inscrição estarão disponíveis nos canais oficiais da Polícia Civil e no site do concurso em breve, permitindo que os candidatos organizem seus preparativos para a seleção.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/policia-civil-de-sc-abre-300-vagas-em-concurso-com-salarios-de-ate-r-10-mil/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Caminhão carregado tomba em Blumenau e atinge muro de residência, deixando dois feridos]]></title>
-		<link>https://portalmenina.com.br/tombamento-de-caminhao-atinge-casa-e-deixa-dois-feridos-em-blumenau/</link>
-		<comments>https://portalmenina.com.br/tombamento-de-caminhao-atinge-casa-e-deixa-dois-feridos-em-blumenau/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 19:48:34 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:MMEPCpLAS1PCicjXKxv0lf</guid>
-
-		<description><![CDATA[Na tarde desta sexta-feira (12), um caminhão carregado com polipropileno tombou na Rua Professor Hermann Lange, no bairro Fidélis, em Blumenau, atingindo o muro de uma casa e ferindo os dois ocupantes do veículo.]]></description>
-		<content:encoded><![CDATA[<p>O acidente aconteceu quando o caminhão, que transportava carga de polipropileno, perdeu o equilíbrio e tombou, atingindo o muro de uma residência na Rua Professor Hermann Lange.</p><p>Os bombeiros foram acionados e, ao chegarem ao local, encontraram o veículo tombado, com o motorista e a passageira já fora da cabine. Ambos apresentavam escoriações, e a passageira também demonstrava sinais de confusão mental.</p><p>O Serviço de Atendimento Móvel de Urgência (Samu) prestou os primeiros socorros e encaminhou as vítimas ao hospital para atendimento médico.</p><p>Para garantir a segurança da área e facilitar a remoção do caminhão, a Guarda Municipal de Trânsito e a Polícia Militar isolaram o local até a normalização do trânsito.</p><p>Este incidente reforça a importância da atenção ao trânsito nas vias urbanas de Blumenau, especialmente em regiões residenciais como o bairro Fidélis.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/tombamento-de-caminhao-atinge-casa-e-deixa-dois-feridos-em-blumenau/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Jovem de 22 anos desaparece em Camboriú; família busca informações urgentes]]></title>
-		<link>https://portalmenina.com.br/jovem-de-22-anos-desaparece-em-camboriu-e-familia-pede-ajuda/</link>
-		<comments>https://portalmenina.com.br/jovem-de-22-anos-desaparece-em-camboriu-e-familia-pede-ajuda/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 19:44:17 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:A-DfDxvOlPo4EheGE_llG6</guid>
-
-		<description><![CDATA[Damodara Oliveira Bucatti, morador do bairro Santa Regina em Camboriú, está desaparecido desde a manhã do dia 11 de dezembro. A família solicita a ajuda da comunidade para localizar o jovem, que está em tratamento contra depressão.]]></description>
-		<content:encoded><![CDATA[<p>Damodara Oliveira Bucatti, de 22 anos, saiu de casa na manhã do dia 11 de dezembro, vestindo camiseta branca e calça jeans preta, e não retornou desde então. Ele mora no bairro Santa Regina, em Camboriú.</p><p>A preocupação da família aumenta devido ao fato de que Damodara está em tratamento contra depressão, o que torna sua ausência ainda mais delicada.</p><p>Quem tiver qualquer informação sobre o paradeiro do jovem deve entrar em contato imediatamente pelo telefone (47) 99758-5923. A família também pede que a notícia seja compartilhada para ampliar o alcance da busca.</p><p>Informações pontuais da comunidade local podem ser decisivas para ajudar a encontrar Damodara e garantir sua segurança.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/jovem-de-22-anos-desaparece-em-camboriu-e-familia-pede-ajuda/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Grave acidente entre carro e moto na SC-108 em Guaramirim deixa duas vítimas fatais]]></title>
-		<link>https://jornalrazao.com/seguranca/vitimas-grave-acidente-sc108-guaramirim-identificadas/</link>
-		<comments>https://jornalrazao.com/seguranca/vitimas-grave-acidente-sc108-guaramirim-identificadas/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 19:42:53 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:5m-U2v-2ansRTLUB-ccWl1</guid>
-
-		<description><![CDATA[Na manhã desta sexta-feira (12), um acidente entre um carro e uma motocicleta na SC-108, em Guaramirim, resultou na morte de dois jovens e deixou uma terceira pessoa gravemente ferida.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu quando o veículo, conduzido por Iago Coelho, de 30 anos, tentou realizar uma conversão à esquerda e foi atingido lateralmente pela motocicleta, pilotada por Maurício Westphal Boneti, de 23 anos.</p><p>Iago, natural de Guaramirim, era casado e pai de um filho. Maurício, que residia em Jaraguá do Sul e nasceu no Paraná, também perdeu a vida no local da colisão.</p><p>A passageira da moto foi socorrida em estado grave e encaminhada ao Hospital São José, em Jaraguá do Sul, onde permanece em atendimento.</p><p>As equipes do Corpo de Bombeiros Militar estiveram no local e prestaram os primeiros socorros. A Polícia Científica e a Polícia Militar Rodoviária investigam as causas do acidente para esclarecer as circunstâncias exatas da colisão.</p><p>Até o momento, ainda não foram divulgadas informações sobre velórios e sepultamentos. Familiares e amigos têm compartilhado homenagens nas redes sociais pelas perdas.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/vitimas-grave-acidente-sc108-guaramirim-identificadas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Ilusão de Ótica faz avião parecer parado no céu de Joinville e chama atenção nas redes]]></title>
-		<link>https://visornoticias.com.br/aviao-para-no-ceu-de-joinville-e-viraliza-nas-redes-sociais/</link>
-		<comments>https://visornoticias.com.br/aviao-para-no-ceu-de-joinville-e-viraliza-nas-redes-sociais/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 19:28:31 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">evoweb:24LeyGHNCsNtAF8koyV49V</guid>
-
-		<description><![CDATA[Um fenômeno visual registrado durante a decolagem de um avião em Joinville despertou curiosidade entre moradores ao dar a impressão de que a aeronave estava parada no céu, viralizando rapidamente nas redes sociais.]]></description>
-		<content:encoded><![CDATA[<p>O fenômeno ocorreu durante a decolagem de um avião no aeroporto de Joinville, quando moradores observaram a aeronave aparentemente parada no céu, uma imagem que causou surpresa e entusiasmo nas redes sociais.</p><p>Especialistas explicam que o efeito é resultado de uma ilusão de ótica conhecida como paralaxe, que ocorre quando o movimento do observador e do objeto visto geram uma percepção visual enganosa. Assim, o avião, embora em movimento, parece ficar imóvel para quem assiste do solo.</p><p>Esse fenômeno chama atenção por destacar aspectos interessantes do comportamento visual em ambientes urbanos, especialmente em cidades com movimentação aérea como Joinville. Para os moradores do Litoral Norte catarinense, que acompanham frequentemente o deslocamento de aviões para cidades vizinhas como Navegantes e Itajaí, é um lembrete de como a interação entre luz, distância e perspectiva pode surpreender.</p><p>Embora curioso, o fenômeno não afeta as operações aéreas, que seguem normalmente sob rigorosos protocolos de segurança. A imagem serve como um ponto de interesse para quem gosta de observar o céu, especialmente em dias claros, quando esse tipo de ilusão é mais perceptível.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/aviao-para-no-ceu-de-joinville-e-viraliza-nas-redes-sociais/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	</channel>
+</channel>
 </rss>
