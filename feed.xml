@@ -1,181 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  >
-
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Notícias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Fri, 12 Dec 2025 16:18:54 +0000</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Fri, 12 Dec 2025 16:21:10 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Marcelo Brigadeiro anuncia pré-candidatura ao governo de Santa Catarina pelo Partido Missão]]></title>
-		<link>https://portalmenina.com.br/marcelo-brigadeiro-anuncia-pre-candidatura-ao-governo-de-sc-pelo-recem-aprovado-partido-missao/</link>
-		<comments>https://portalmenina.com.br/marcelo-brigadeiro-anuncia-pre-candidatura-ao-governo-de-sc-pelo-recem-aprovado-partido-missao/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 15:19:03 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129996</guid>
+<item>
+<title><![CDATA[Música e humor marcam a Abertura de Verão neste domingo em Porto Belo]]></title>
+<link>https://horadeportobelo.com.br/2025/12/12/musica-e-humor-marcam-a-abertura-de-verao-neste-domingo-em-porto-belo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Região]]></category>
+<category><![CDATA[Música]]></category>
+<category><![CDATA[Humor]]></category>
+<category><![CDATA[Marcam]]></category>
+<category><![CDATA[Abertura]]></category>
+<category><![CDATA[Verão]]></category>
+<category><![CDATA[Neste]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Fri, 12 Dec 2025 16:11:23 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20361</guid>
+<description><![CDATA[A banda Geriatricus, fenômeno nacional que combina música ao vivo, humor e teatralidade com artistas caracterizados como idosos, será a atração principal da Abertura de Verão 2025/2026 em Porto Belo. O evento, organizado pelo Governo Municipal por meio da Fundação de Turismo e Desenvolvimento Econômico, ocorrerá neste domingo, dia 14, na Praça da Bandeira.]]></description>
+<content:encoded><![CDATA[<strong>A banda Geriatricus, fenômeno nacional que combina música ao vivo, humor e teatralidade com artistas caracterizados como idosos, será a atração principal da Abertura de Verão 2025/2026 em Porto Belo. O evento, organizado pelo Governo Municipal por meio da Fundação de Turismo e Desenvolvimento Econômico, ocorrerá neste domingo, dia 14, na Praça da Bandeira. A programação tem início às 15h e se estende até as 22h, com destaque para a apresentação da banda Geriatricus no início da noite. Criada por Jean Lima, intérprete da icônica “Véia” (Dona Celeste), a banda surpreende o público com um show cômico, vibrante e cheio de personalidade, ao lado de Leandrinho e Gutinho, todos caracterizados como idosos, transformando o palco em um espetáculo contagiante para públicos de todas as idades.</strong><br/><br/>Com vídeos virais nas redes sociais e uma trajetória de shows por todo o Brasil, a Geriatricus já abriu apresentações de grandes artistas e segue em ascensão. Além do show da banda, a programação da Abertura de Verão em Porto Belo inclui atividades como oficina interativa e sensorial de samba, espaço Criançada com atividades lúdicas, feira de artesanato, pintura facial, DJ com som ambiente e apresentações culturais. O evento é gratuito e aberto a toda a comunidade, proporcionando uma celebração animada e divertida para marcar a chegada da estação mais quente do ano.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[O lutador e influencer Marcelo Brigadeiro confirmou sua pré-candidatura ao governo de Santa Catarina pelo recém-aprovado Partido Missão, oficializando a entrada do novo partido na corrida eleitoral de 2026.]]></description>
-		<content:encoded><![CDATA[<p>Na manhã desta sexta-feira (12), Marcelo Brigadeiro, morador de Balneário Camboriú, anunciou sua pré-candidatura ao governo do estado pelo Partido Missão, sigla que teve aprovação formal pelo Tribunal Superior Eleitoral (TSE) no dia 4 de novembro.</p><p>Reconhecido por sua carreira nas artes marciais, Brigadeiro é mestre de Luta Livre, campeão mundial e europeu, faixa-preta 6º Dan, além de fundador da Astra Fight Team. Sua trajetória ganhou destaque na região do Litoral Norte, especialmente em Balneário Camboriú, onde reside.</p><p>O anúncio chega em um momento decisivo para o Partido Missão, que está em fase de estruturação dos diretórios estaduais e estaduais e busca consolidar quadros para o pleito estadual de 2026. A oficialização das candidaturas ocorrerá durante as convenções partidárias previstas para o próximo ano.</p><p>Esse movimento marca uma etapa importante na política catarinense, oferecendo novas opções e fortalecendo o cenário eleitoral para os próximos anos.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/marcelo-brigadeiro-anuncia-pre-candidatura-ao-governo-de-sc-pelo-recem-aprovado-partido-missao/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Marcelo Brigadeiro anuncia pré-candidatura ao governo de Santa Catarina pelo Partido Missão]]></title>
+<link>https://portalmenina.com.br/marcelo-brigadeiro-anuncia-pre-candidatura-ao-governo-de-sc-pelo-recem-aprovado-partido-missao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 15:19:03 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129996</guid>
+<description><![CDATA[O lutador e influencer Marcelo Brigadeiro confirmou sua pré-candidatura ao governo de Santa Catarina pelo recém-aprovado Partido Missão, oficializando a entrada do novo partido na corrida eleitoral de 2026.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Porto Belo enfrenta queda no abastecimento de água por danos em rede durante obras]]></title>
-		<link>https://visornoticias.com.br/bairro-de-porto-belo-tem-abastecimento-de-agua-prejudicado-devido-a-problema-na-rede/</link>
-		<comments>https://visornoticias.com.br/bairro-de-porto-belo-tem-abastecimento-de-agua-prejudicado-devido-a-problema-na-rede/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 14:22:33 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=315941</guid>
+<item>
+<title><![CDATA[Prazo final para resgatar créditos não utilizados da 40ª Oktoberfest Blumenau encerra nesta sexta]]></title>
+<link>https://portalmenina.com.br/creditos-nao-usados-na-oktoberfest-devem-ser-resgatados-ate-esta-sexta-feira/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 14:49:13 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129994</guid>
+<description><![CDATA[Visitantes da Oktoberfest Blumenau têm até esta sexta-feira (12) para solicitar o reembolso dos créditos não usados no Oktoberkarte, cartão utilizado para compras dentro do evento. O processo é online e simples, mas exige atenção ao prazo para garantir o ressarcimento.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Moradores do bairro em Porto Belo enfrentam interrupção no fornecimento de água após danos na rede causados por obras de implantação de gás na Rua Rudy Arnaldo Hintz.]]></description>
-		<content:encoded><![CDATA[<p>O abastecimento de água em um bairro de Porto Belo foi comprometido devido a danos na rede durante trabalhos para implantar gás na Rua Rudy Arnaldo Hintz. A situação afeta diretamente os moradores locais, que registram queda no fornecimento e relatos de baixa pressão.</p><p>Segundo as equipes responsáveis, a interrupção foi um incidente inesperado durante a instalação da rede de gás, o que levou à necessidade de reparos imediatos para restaurar o funcionamento normal da distribuição de água.</p><p>As obras fazem parte de uma iniciativa para ampliar a infraestrutura de serviços essenciais na região, mas o transtorno temporário causa impactos no dia a dia da população. A concessionária local está mobilizando equipe para o conserto da tubulação danificada e trabalha para minimizar o tempo da interrupção.</p><p>Moradores são orientados a utilizar a água com parcimônia até a normalização do sistema. A administração municipal acompanha o caso e mantém contato com a concessionária para garantir informações atualizadas aos usuários.</p><p>Esse episódio reforça a necessidade de planejamento integrado entre serviços públicos para evitar problemas que afetam a qualidade de vida nos bairros de Porto Belo, especialmente em áreas em desenvolvimento no Litoral Norte de Santa Catarina.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/bairro-de-porto-belo-tem-abastecimento-de-agua-prejudicado-devido-a-problema-na-rede/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Homem é morto a tiros após discussão sobre aluguel em Blumenau]]></title>
+<link>https://visornoticias.com.br/homem-e-morto-a-tiros-apos-discussao-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 14:25:45 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=315939</guid>
+<description><![CDATA[Um homem de 38 anos foi assassinado a tiros no bairro Fortaleza, em Blumenau, após uma discussão relacionada ao aluguel; a polícia está em busca do suspeito responsável pelo crime.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Discussão por aluguel atrasado termina com morte a tiros em Blumenau]]></title>
-		<link>https://jornalrazao.com/seguranca/dono-de-kitnet-mata-inquilino-em-blumenau-apos-discussao-por-aluguel-atrasado/</link>
-		<comments>https://jornalrazao.com/seguranca/dono-de-kitnet-mata-inquilino-em-blumenau-apos-discussao-por-aluguel-atrasado/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 14:19:59 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172353</guid>
+<item>
+<title><![CDATA[Porto Belo enfrenta queda no abastecimento de água por danos em rede durante obras]]></title>
+<link>https://visornoticias.com.br/bairro-de-porto-belo-tem-abastecimento-de-agua-prejudicado-devido-a-problema-na-rede/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 14:22:33 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=315941</guid>
+<description><![CDATA[Moradores do bairro em Porto Belo enfrentam interrupção no fornecimento de água após danos na rede causados por obras de implantação de gás na Rua Rudy Arnaldo Hintz.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um conflito entre proprietário e inquilino por atraso no pagamento do aluguel culminou na morte de um homem de 38 anos, na noite desta quinta-feira, no bairro Fortaleza, em Blumenau.]]></description>
-		<content:encoded><![CDATA[<p>O crime aconteceu em uma servidão no final da Rua Edmundo Goldacker, onde a vítima, identificada como Joel Ramos de Morais, residia em uma kitnet. Testemunhas relataram ter ouvido uma discussão seguida de disparos de arma de fogo.</p><p>Ao chegar ao local, a Polícia Militar encontrou Joel caído, ferido por dois tiros, um no ombro esquerdo e outro no abdômen. Equipes do Corpo de Bombeiros e do SAMU iniciaram manobras de ressuscitação cardiopulmonar, mas o homem não resistiu aos ferimentos.</p><p>Durante o atendimento, os policiais também localizaram uma faca e um revólver calibre .38 com três cápsulas deflagradas próximos ao corpo. O proprietário da kitnet, Johannes Winter Neto, é o principal suspeito do crime e está foragido.</p><p>Segundo informações apuradas, a discussão teve como pano de fundo o atraso no pagamento do aluguel, agravada por supostas ameaças entre as partes ao longo do dia. Vizinhos confirmaram o desentendimento horas antes dos disparos.</p><p>Na manhã do mesmo dia, Johannes havia registrado um boletim de ocorrência relatando que Joel o ameaçava há cerca de seis meses, citando também o possível uso abusivo de álcool e variações de humor do inquilino.</p><p>A Polícia Civil, com apoio da Polícia Científica, isola a área e conduz as investigações para esclarecer a dinâmica do crime, a motivação precisa e localizar o suspeito. A comunidade local acompanha o desenrolar do caso, que reforça a necessidade de atenção em conflitos residenciais na região do Vale do Itajaí.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/dono-de-kitnet-mata-inquilino-em-blumenau-apos-discussao-por-aluguel-atrasado/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Discussão por aluguel atrasado termina com morte a tiros em Blumenau]]></title>
+<link>https://jornalrazao.com/seguranca/dono-de-kitnet-mata-inquilino-em-blumenau-apos-discussao-por-aluguel-atrasado/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 14:19:59 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172353</guid>
+<description><![CDATA[Um conflito entre proprietário e inquilino por atraso no pagamento do aluguel culminou na morte de um homem de 38 anos, na noite desta quinta-feira, no bairro Fortaleza, em Blumenau.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Motorista Embriagado Atropela Ciclista na Marginal Oeste em Balneário Camboriú]]></title>
-		<link>https://portalmenina.com.br/motorista-embriagado-se-envolve-em-acidente-com-ciclista-na-marginal-oeste-em-balneario-camboriu/</link>
-		<comments>https://portalmenina.com.br/motorista-embriagado-se-envolve-em-acidente-com-ciclista-na-marginal-oeste-em-balneario-camboriu/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 14:05:22 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129980</guid>
+<item>
+<title><![CDATA[Motorista Embriagado Atropela Ciclista na Marginal Oeste em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/motorista-embriagado-se-envolve-em-acidente-com-ciclista-na-marginal-oeste-em-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 14:05:22 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129980</guid>
+<description><![CDATA[Um motorista recusou o teste do bafômetro após atropelar um ciclista na Marginal Oeste, esquina com a rua Canelinha, em Balneário Camboriú. O ciclista sofreu ferimentos leves e não precisou de atendimento médico.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um motorista recusou o teste do bafômetro após atropelar um ciclista na Marginal Oeste, esquina com a rua Canelinha, em Balneário Camboriú. O ciclista sofreu ferimentos leves e não precisou de atendimento médico.]]></description>
-		<content:encoded><![CDATA[<p>O acidente aconteceu por volta das 21h de quinta-feira (11) na Marginal Oeste, localidade conhecida pelo fluxo intenso de veículos e ciclistas em Balneário Camboriú.</p><p>O veículo envolvido foi um Jeep Compass, que parou na pista com uma das rodas destruída e danos na estrutura da ciclovia, conforme registrado em vídeo enviado por testemunhas.</p><p>Os agentes de trânsito que atenderam a ocorrência ofereceram o teste do etilômetro ao condutor, que se recusou a realizá-lo. A Guarda Municipal deu suporte durante o atendimento da ocorrência.</p><p>Apesar da colisão, o ciclista teve apenas ferimentos leves e dispensou atendimento médico no local.</p><p>O Jeep foi removido pela concessionária Arteris e encaminhado ao pátio conveniado da BC Trânsito para os procedimentos legais.</p><p>O episódio reforça a atenção necessária aos cuidados no trânsito, principalmente em regiões movimentadas do Litoral Norte, onde a convivência entre motoristas e ciclistas é constante.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/motorista-embriagado-se-envolve-em-acidente-com-ciclista-na-marginal-oeste-em-balneario-camboriu/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Motorista de app invade casa e tenta estuprar passageira em Itajaí; agressor é preso horas depois]]></title>
+<link>https://jornalrazao.com/seguranca/obcecado-por-passageira-motorista-de-app-invade-casa-e-tenta-estupra-la-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 13:51:34 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172350</guid>
+<description><![CDATA[Uma jovem de 26 anos foi vítima de tentativa de estupro seguida de roubo dentro da própria residência no bairro Limoeiro, em Itajaí. O suspeito, um motorista de aplicativo, foi capturado pela Polícia Militar poucas horas após o ataque, graças a uma ação rápida e integrada.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Motorista de app invade casa e tenta estuprar passageira em Itajaí; agressor é preso horas depois]]></title>
-		<link>https://jornalrazao.com/seguranca/obcecado-por-passageira-motorista-de-app-invade-casa-e-tenta-estupra-la-em-itajai/</link>
-		<comments>https://jornalrazao.com/seguranca/obcecado-por-passageira-motorista-de-app-invade-casa-e-tenta-estupra-la-em-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 13:51:34 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172350</guid>
+<item>
+<title><![CDATA[Polícia apreende quase 22 kg de drogas em kitnet no bairro Espinheiros, Itajaí]]></title>
+<link>https://portalmenina.com.br/kitnet-vira-alvo-de-operacao-e-policia-apreende-quase-22-kg-de-maconha-cocaina-e-ecstasy-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 13:42:17 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=129973</guid>
+<description><![CDATA[Uma ação da Polícia Militar no bairro Espinheiros, em Itajaí, resultou na apreensão de quase 22 kg de maconha, além de cocaína, skunk e ecstasy, em uma kitnet próxima à Rodovia Jorge Lacerda. Um homem foi preso durante a operação, que também recolheu uma motocicleta e materiais relacionados ao tráfico.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Uma jovem de 26 anos foi vítima de tentativa de estupro seguida de roubo dentro da própria residência no bairro Limoeiro, em Itajaí. O suspeito, um motorista de aplicativo, foi capturado pela Polícia Militar poucas horas após o ataque, graças a uma ação rápida e integrada.]]></description>
-		<content:encoded><![CDATA[<p>Na noite de quarta-feira (10), por volta das 22h, uma ocorrência grave mobilizou a Polícia Militar no bairro Limoeiro, em Itajaí. Uma mulher de 26 anos foi surpreendida dentro de casa por um homem armado com uma faca, que tentou estuprá-la e roubá-la.</p><p>Segundo a vítima, o agressor, um homem de estatura média e pele parda, entrou pela porta dos fundos do imóvel escondendo o rosto e usando luvas. Ele a ameaçou dizendo querer manter relações sexuais e que, se negasse, a mataria. A mulher conseguiu reagir e feriu o suspeito com uma faca, mas acabou sendo agredida com golpes nas mãos e na perna.</p><p>O invasor desistiu do abuso, roubou um celular iPhone 15 e fugiu ao saber que familiares da vítima chegariam em breve. A jovem, mesmo ferida, enviou uma mensagem para uma prima, que foi imediatamente prestar apoio e chamar a polícia.</p><p>A Polícia Militar iniciou buscas com o apoio do COPOM e equipes de Itajaí e Brusque. O suspeito, identificado como Raygison Vasconcelos, motorista de aplicativo natural de Manaus, foi encontrado em Brusque, com ferimentos compatíveis e na posse da faca usada no ataque.</p><p>Durante o interrogatório, Raygison confirmou o crime e alegou ter retornado à casa da vítima após uma corrida feita semanas antes. Ele foi encaminhado à Central de Plantão Policial de Itajaí, onde ocorreu a formalização da prisão.</p><p>O caso destaca a resposta rápida e coordenada das forças de segurança de Santa Catarina, que atuaram de forma integrada para garantir a prisão do suspeito e a proteção da vítima no Litoral Norte.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/obcecado-por-passageira-motorista-de-app-invade-casa-e-tenta-estupra-la-em-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Polícia prende líder feminina de organização criminosa em Criciúma]]></title>
+<link>https://visornoticias.com.br/lider-do-nucleo-feminino-criminoso-e-presa/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 12 Dec 2025 13:34:01 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=315929</guid>
+<description><![CDATA[Autoridades detiveram em Criciúma uma mulher de 46 anos apontada como líder do núcleo feminino de uma organização criminosa, acusada de impor punições severas às integrantes, incluindo agressões físicas e raspagem de cabelo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Polícia apreende quase 22 kg de drogas em kitnet no bairro Espinheiros, Itajaí]]></title>
-		<link>https://portalmenina.com.br/kitnet-vira-alvo-de-operacao-e-policia-apreende-quase-22-kg-de-maconha-cocaina-e-ecstasy-em-itajai/</link>
-		<comments>https://portalmenina.com.br/kitnet-vira-alvo-de-operacao-e-policia-apreende-quase-22-kg-de-maconha-cocaina-e-ecstasy-em-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 13:42:17 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129973</guid>
-
-		<description><![CDATA[Uma ação da Polícia Militar no bairro Espinheiros, em Itajaí, resultou na apreensão de quase 22 kg de maconha, além de cocaína, skunk e ecstasy, em uma kitnet próxima à Rodovia Jorge Lacerda. Um homem foi preso durante a operação, que também recolheu uma motocicleta e materiais relacionados ao tráfico.]]></description>
-		<content:encoded><![CDATA[<p>A Operação da Polícia Militar ocorreu na tarde desta quinta-feira, 11, por volta das 17h40, na região dos Espinheiros, área próxima à Rodovia Jorge Lacerda, ícone do Litoral Norte de Santa Catarina que liga importantes municípios como Itajaí e Balneário Camboriú.</p><p>A ação foi deflagrada após denúncias de que um indivíduo estaria distribuindo drogas em prostíbulos da região, utilizando uma motocicleta Honda CG preta. Durante as rondas, os policiais localizaram o endereço suspeito e avistaram a motocicleta estacionada na frente do conjunto de kitnets.</p><p>Ao abordarem o homem no pátio, os policiais encontraram um torrão de maconha e dinheiro em sua posse. Questionado, o suspeito permitiu a entrada da equipe em sua residência, onde foram apreendidos 21,014 kg de maconha, 898 gramas de cocaína, 30 gramas de skunk, cinco comprimidos de ecstasy, além de dois aparelhos de balança de precisão, três celulares, uma faca com vestígios de drogas e caderno com anotações do tráfico.</p><p>A motocicleta utilizada para o transporte das substâncias entorpecentes foi apreendida, também por apresentar pendências administrativas. O homem foi preso e encaminhado à delegacia para os procedimentos legais.</p><p>Esta apreensão representa um desdobramento importante no combate ao tráfico de drogas em Itajaí, especialmente em regiões estratégicas que conectam o Litoral Norte e a grande movimentação da Rodovia Jorge Lacerda, contribuindo para a segurança da população local.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/kitnet-vira-alvo-de-operacao-e-policia-apreende-quase-22-kg-de-maconha-cocaina-e-ecstasy-em-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Prazo final para resgatar créditos não utilizados da 40ª Oktoberfest Blumenau encerra nesta sexta]]></title>
-		<link>https://portalmenina.com.br/creditos-nao-usados-na-oktoberfest-devem-ser-resgatados-ate-esta-sexta-feira/</link>
-		<comments>https://portalmenina.com.br/creditos-nao-usados-na-oktoberfest-devem-ser-resgatados-ate-esta-sexta-feira/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 14:49:13 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=129994</guid>
-
-		<description><![CDATA[Visitantes da Oktoberfest Blumenau têm até esta sexta-feira (12) para solicitar o reembolso dos créditos não usados no Oktoberkarte, cartão utilizado para compras dentro do evento. O processo é online e simples, mas exige atenção ao prazo para garantir o ressarcimento.]]></description>
-		<content:encoded><![CDATA[<p>A 40ª Oktoberfest Blumenau fecha nesta sexta-feira (12) o prazo para que os participantes peçam o reembolso dos créditos remanescentes no Oktoberkarte, cartão utilizado durante a festa para compras de alimentos, bebidas e produtos no evento.</p><p>O procedimento é totalmente digital e deve ser realizado pelo site oficial da Oktoberfest, através da plataforma Eleven Cash, responsável pelo sistema de devolução. Os visitantes precisam acessar o link, informar o CPF usado na ativação do cartão e seguir as instruções para concluir o pedido.</p><p>Não há limite mínimo para solicitar o reembolso: qualquer valor remanescente pode ser devolvido, seja ele maior ou menor que R$ 200. No entanto, o valor do cartão em si não é reembolsável, e uma taxa administrativa de R$ 10 será descontada do valor solicitado.</p><p>Este é o momento para quem participou da Oktoberfest Blumenau e ainda possui créditos no Oktoberkarte garantir o ressarcimento do valor não utilizado, evitando perdas financeiras após o fechamento da festa. Moradores e turistas da região do Vale do Itajaí e do Litoral Norte devem ficar atentos ao prazo para não perder a oportunidade.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/creditos-nao-usados-na-oktoberfest-devem-ser-resgatados-ate-esta-sexta-feira/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Homem é morto a tiros após discussão sobre aluguel em Blumenau]]></title>
-		<link>https://visornoticias.com.br/homem-e-morto-a-tiros-apos-discussao-em-sc/</link>
-		<comments>https://visornoticias.com.br/homem-e-morto-a-tiros-apos-discussao-em-sc/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 14:25:45 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=315939</guid>
-
-		<description><![CDATA[Um homem de 38 anos foi assassinado a tiros no bairro Fortaleza, em Blumenau, após uma discussão relacionada ao aluguel; a polícia está em busca do suspeito responsável pelo crime.]]></description>
-		<content:encoded><![CDATA[<p>O crime ocorreu no bairro Fortaleza, em Blumenau, na noite recente, quando um desentendimento sobre valores de aluguel terminou em violência. A vítima, um homem de 38 anos, foi baleada e não resistiu aos ferimentos.</p><p>Equipes da Polícia Civil trabalham na investigação e já identificaram um suspeito, que segue foragido. As autoridades solicitam colaboração da população para qualquer informação que ajude na prisão do responsável.</p><p>O caso alerta para a importância da mediação em disputas relacionadas a imóveis, tema que tem ganhado destaque nas cidades da região, incluindo o Litoral Norte catarinense, onde a procura por moradias temporárias e aluguel vem crescendo.</p><p>Moradores do bairro Fortaleza relatam sensação de insegurança após o ocorrido, e reforçam a necessidade de políticas públicas voltadas à segurança e resolução pacífica de conflitos.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/homem-e-morto-a-tiros-apos-discussao-em-sc/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Polícia prende líder feminina de organização criminosa em Criciúma]]></title>
-		<link>https://visornoticias.com.br/lider-do-nucleo-feminino-criminoso-e-presa/</link>
-		<comments>https://visornoticias.com.br/lider-do-nucleo-feminino-criminoso-e-presa/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 13:34:01 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=315929</guid>
-
-		<description><![CDATA[Autoridades detiveram em Criciúma uma mulher de 46 anos apontada como líder do núcleo feminino de uma organização criminosa, acusada de impor punições severas às integrantes, incluindo agressões físicas e raspagem de cabelo.]]></description>
-		<content:encoded><![CDATA[<p>Em uma ação coordenada, a polícia de Criciúma prendeu uma mulher de 46 anos suspeita de comandar o núcleo feminino de uma organização criminosa. As investigações indicam que ela aplicava punições internas violentas às integrantes, entre elas agressões físicas e a raspagem de cabelo como forma de castigo.</p><p>O caso chamou atenção pelas práticas adotadas no grupo, que reforçam a estrutura e disciplina impostas dentro da organização. A atuação da líder tinha papel fundamental no controle das mulheres envolvidas, segundo as apurações das autoridades.</p><p>Este tipo de crime preocupa as forças de segurança da região, que têm intensificado operações para desarticular organizações criminosas e reduzir seus impactos na comunidade local. Em Santa Catarina, especialmente no Sul, a colaboração entre delegacias e o trabalho investigativo busca oferecer maior segurança à população.</p><p>A prisão reforça o compromisso da polícia em combater a criminalidade organizada e proteger aqueles que podem ser vítimas de violência dentro desses grupos. Novos desdobramentos do caso devem ser divulgados pelas autoridades nos próximos dias.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/lider-do-nucleo-feminino-criminoso-e-presa/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Polícia Civil prende mulher líder de núcleo feminino de facção em Santa Catarina]]></title>
-		<link>https://visornoticias.com.br/mulher-apontada-como-lider-de-nucleo-feminino-de-faccao-e-presa-em-santa-catarina/</link>
-		<comments>https://visornoticias.com.br/mulher-apontada-como-lider-de-nucleo-feminino-de-faccao-e-presa-em-santa-catarina/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 13:20:54 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://visornoticias.com.br/?p=315926</guid>
-
-		<description><![CDATA[Durante operação no Litoral Norte de Santa Catarina, a Polícia Civil prendeu uma mulher apontada como líder de um grupo feminino ligado a facção criminosa, responsável por punições internas que incluíam agressões e mutilações.]]></description>
-		<content:encoded><![CDATA[<p>A prisão aconteceu em Santa Catarina, dentro de uma ação coordenada da Polícia Civil que mira o combate às organizações criminosas na região. A mulher detida era acusada de comandar um núcleo feminino dentro da estrutura da facção, promovendo medidas punitivas rigorosas contra membros do grupo.</p><p>Segundo as investigações, as punições internas comandadas pela suspeita incluíam agressões físicas e até a raspagem de cabelo, táticas usadas para impor disciplina e manter o controle dentro da facção. Essa prática preocupa as autoridades pela violência e coação envolvidas.</p><p>A operação reforça o empenho das forças de segurança em Santa Catarina, sobretudo no Litoral Norte, onde ações integradas têm buscado minar o poder das organizações criminosas e proteger a população local. A detenção da mulher faz parte desse esforço para desarticular as lideranças e enfraquecer a estrutura do crime.</p><p>A Polícia Civil segue investigando o caso para identificar demais envolvidos e ampliar o alcance das prisões, contribuindo para a redução da criminalidade na região que abrange cidades como Itajaí, Balneário Camboriú e Bombinhas.</p>]]></content:encoded>
-		<wfw:commentRss>https://visornoticias.com.br/mulher-apontada-como-lider-de-nucleo-feminino-de-faccao-e-presa-em-santa-catarina/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	</channel>
+</channel>
 </rss>
