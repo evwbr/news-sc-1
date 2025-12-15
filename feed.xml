@@ -1,34 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 15 Dec 2025 21:20:41 GMT</lastBuildDate>
-<language>pt-BR</language>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
 
-<item>
-<title><![CDATA[Motorista de Porsche é solta após pagar fiança por acidente que matou empresária em BC]]></title>
-<link>https://portalmenina.com.br/motorista-de-porsche-e-solta-apos-pagar-fianca-por-acidente-que-matou-empresaria-em-bc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Motorista]]></category>
-<category><![CDATA[Porsche]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Solta]]></category>
-<category><![CDATA[Após]]></category>
-<category><![CDATA[Pagar]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 15 Dec 2025 20:58:36 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130365</guid>
-<description><![CDATA[A motorista do Porsche Macan envolvida no acidente que resultou na morte da empresária Aline Cristina Dalmolin, em Balneário Camboriú, foi liberada após audiência de custódia realizada na tarde de segunda-feira, 15. Gisele Forneroli, de 57 anos, foi solta mediante o pagamento de R$ 30 mil de fiança.]]></description>
-<content:encoded><![CDATA[<strong>A motorista do Porsche Macan envolvida no acidente que resultou na morte da empresária Aline Cristina Dalmolin, em Balneário Camboriú, foi liberada após audiência de custódia realizada na tarde de segunda-feira, 15. Gisele Forneroli, de 57 anos, foi solta mediante o pagamento de R$ 30 mil de fiança. O acidente ocorreu na madrugada do mesmo dia, na Avenida Normando Tedesco, na região da Barra Sul, quando o veículo de luxo colidiu contra um poste, resultando na morte de Aline, de 41 anos, que ficou presa às ferragens e veio a óbito durante o encaminhamento ao hospital.</strong><br/><br/>A decisão judicial que determinou a soltura da motorista levou em consideração o fato de ela não possuir condenações anteriores por crime doloso, além de ter informado endereço fixo e telefone para contato. Apesar de ter sido liberada, Gisele terá sua Carteira Nacional de Habilitação (CNH) suspensa e deverá cumprir medidas cautelares, como a proibição de mudar de endereço ou telefone sem comunicar a Justiça, a restrição de sair da cidade por mais de sete dias sem autorização judicial, a obrigação de permanecer em casa entre 22h e 6h e a proibição de frequentar bares e estabelecimentos similares, exceto por motivo de trabalho. A defesa da motorista afirmou que ela permanecerá à disposição da Justiça e cumprirá todas as determinações judiciais, sem fornecer detalhes sobre a relação entre as duas mulheres envolvidas no acidente. Imagens de câmeras de segurança registraram a violência da colisão, que interrompeu o fornecimento de energia elétrica em parte da região.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+<channel>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description><![CDATA[Notícias locais reescritas com IA - Evo Web News]]></description>
+  <lastBuildDate>Mon, 15 Dec 2025 21:41:12 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <generator>Evo Web News</generator>
+
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+
+  <item>
+    <title><![CDATA[Operação policial em Santa Catarina apreende mais de 100 kg de drogas e neutraliza criminoso em Itajaí]]></title>
+    <link><![CDATA[https://jornalrazao.com/seguranca/operacao-contra-o-trafico-neutraliza-criminoso-em-itajai-e-apreende-drogas/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 21:12:49 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172642]]></guid>
+    <description><![CDATA[A Polícia Civil de Santa Catarina realizou uma operação que resultou na apreensão de mais de 100 kg de drogas, prisões em flagrante e na neutralização de um criminoso durante o cumprimento de mandados em múltiplas cidades do estado e no Paraná.]]></description>
+    <content:encoded><![CDATA[<p>A Operação Escama, deflagrada na madrugada de segunda-feira (15), foi coordenada pela Delegacia de Combate às Drogas da DIC de Itajaí e focou em uma organização criminosa envolvida com tráfico de drogas em larga escala. A investigação monitorava o grupo em várias cidades de Santa Catarina e também identificou ramificações no Paraná.</p><p>Com base nas provas coletadas, a Justiça autorizou o cumprimento de 18 mandados de busca e apreensão em municípios como Itajaí, Florianópolis, Palhoça, Barra Velha, Penha, Chapecó e Curitiba. Durante uma ação no bairro São Vicente, em Itajaí, um dos suspeitos reagiu armado e foi neutralizado pela equipe da Coordenadoria de Recursos Especiais da Polícia Civil.</p><p>No bairro Sítio Cercado, em Curitiba, policiais prenderam três pessoas em flagrante por tráfico de drogas, associação para o tráfico e porte ilegal de arma de fogo. Foram apreendidos cerca de 110 kg de maconha, 5 kg de haxixe, 1,5 kg de skunk, duas pistolas, 105 munições, além de balança de precisão, colete balístico e outros materiais.</p><p>A operação contou com o apoio de unidades especializadas da Polícia Civil e da Polícia Militar de Santa Catarina, evidenciando a integração das forças de segurança. Os presos foram encaminhados para a delegacia e permanecem à disposição da Justiça enquanto as investigações prosseguem para identificar outros integrantes e desarticular completamente a organização criminosa.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista que causou morte de empresária em Balneário Camboriú é solta após pagar fiança de R$ 30 mil]]></title>
+    <link><![CDATA[https://jornalrazao.com/seguranca/motorista-porsche-solta-fianca-morte-aline-dalmolin-balneario-camboriu/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 21:06:33 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172644]]></guid>
+    <description><![CDATA[Condutora embriagada que se envolveu em acidente fatal com empresária em Balneário Camboriú foi liberada após audiência de custódia mediante pagamento de fiança.]]></description>
+    <content:encoded><![CDATA[<p>A motorista Gisele Piccoli Forneroli, de 57 anos, que dirigia sob efeito de álcool e causou a morte da empresária Aline Cristina Dalmolin em Balneário Camboriú, foi solta após pagamento de fiança no valor de R$ 30.360, correspondente a 20 salários mínimos, conforme decisão da Vara Regional de Garantias da Comarca de Balneário Camboriú.</p><p>Na audiência de custódia realizada nesta segunda-feira (15), a Justiça concedeu liberdade provisória à condutora, impondo medidas cautelares como a suspensão da Carteira Nacional de Habilitação (CNH), proibição de mudança de endereço ou telefone sem autorização judicial, além de restrição para se ausentar da comarca por mais de sete dias e frequência em bares, salvo em atividades profissionais.</p><p>Além disso, Gisele deve cumprir recolhimento domiciliar das 22h às 6h, ficando proibida de cometer novas infrações penais enquanto o inquérito estiver em andamento. O acidente ocorreu na Avenida Normando Tedesco, na região da Barra Sul, quando o Porsche conduzido pela motorista colidiu contra um poste, resultado na morte da empresária.</p><p>Aline Cristina Dalmolin sofreu graves ferimentos, incluindo amputação traumática de um braço e traumatismo craniano, e morreu ao dar entrada no hospital. Após o acidente, a motorista abandonou o local e foi encontrada em estado visível de embriaguez com 0,97 mg/L de álcool no sangue, quase três vezes acima do limite legal.</p><p>O caso segue em investigação pela Polícia Civil para apurar as circunstâncias do acidente e definir as responsabilidades criminais de Gisele Piccoli Forneroli.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista de Porsche envolvida em acidente fatal em Balneário Camboriú é liberada após pagamento de fiança]]></title>
+    <link><![CDATA[https://portalmenina.com.br/motorista-de-porsche-e-solta-apos-pagar-fianca-por-acidente-que-matou-empresaria-em-bc/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 20:58:36 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130365]]></guid>
+    <description><![CDATA[Gisele Forneroli, motorista envolvida em colisão que resultou na morte da empresária Aline Dalmolin, foi solta após audiência de custódia mediante pagamento de R$ 30 mil de fiança.]]></description>
+    <content:encoded><![CDATA[<p>O acidente ocorreu na madrugada de segunda-feira (15), na Avenida Normando Tedesco, em Balneário Camboriú, quando o Porsche Macan colidiu contra um poste na região da Barra Sul. A passageira, Aline Cristina Dalmolin, de 41 anos, ficou presa às ferragens, sofreu traumatismo craniano e faleceu durante o encaminhamento ao hospital após múltiplas paradas cardiorrespiratórias.</p><p>A motorista do veículo, Gisele Forneroli, de 57 anos, realizou o teste do bafômetro que indicou consumo de álcool em nível caracterizado como crime de trânsito. Após ser localizada pela polícia militar próxima ao Rio Camboriú, apresentando sinais de embriaguez, ela foi encaminhada ao hospital e posteriormente à delegacia, onde foi autuada por homicídio culposo ao volante com agravante de embriaguez.</p><p>Na audiência de custódia realizada na tarde da segunda-feira, o juiz levou em consideração que Gisele não possui antecedentes criminais dolosos e dispõe de endereço fixo e telefone para contato, o que contribuiu para sua liberação mediante pagamento de fiança no valor de R$ 30 mil.</p><p>Além da soltura, a motorista terá a Carteira Nacional de Habilitação suspensa e deverá cumprir medidas cautelares impostas pela Justiça. Entre elas estão a proibição de mudar de endereço ou telefone sem autorização judicial, restrição de viagens fora da cidade sem consentimento, recolhimento domiciliar entre 22h e 6h, e a vedação de frequentar bares ou estabelecimentos similares, salvo por motivos profissionais.</p><p>O advogado de defesa declarou que a condutora permanecerá à disposição da Justiça e seguirá todas as determinações judiciais, ressaltando que as investigações continuam em andamento. A motivação do acidente e a relação entre as envolvidas não foram divulgadas.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Vivapark Porto Belo será sede da nova unidade da PSG Academy no Brasil]]></title>
+    <link><![CDATA[https://visornoticias.com.br/vivapark-porto-belo-e-escolhido-pelo-paris-saint-germain-para-nova-unidade-da-psg-academy-no-brasil/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 20:42:57 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317016]]></guid>
+    <description><![CDATA[O clube francês Paris Saint-Germain escolheu o Vivapark Porto Belo para inaugurar uma nova unidade de sua academia oficial no país, com foco em projetos sustentáveis e turmas a partir de 2 anos de idade.]]></description>
+    <content:encoded><![CDATA[<p>O Vivapark Porto Belo foi selecionado pelo Paris Saint-Germain para abrigar uma nova unidade da PSG Academy no Brasil. A iniciativa marca a expansão da escola oficial do clube francês no país.</p><p>A unidade contará com um projeto sustentável, alinhado às práticas ambientais, e oferecerá aulas para crianças a partir de 2 anos, ampliando o acesso ao programa esportivo desde a primeira infância.</p><p>A PSG Academy é uma rede global de escolas de futebol que promove treinamento esportivo baseado nas metodologias do Paris Saint-Germain, com foco em desenvolvimento técnico e valores sociais.</p><p>A chegada da academia ao Vivapark Porto Belo visa fortalecer a presença do clube no Brasil e incentivar a prática esportiva com qualidade em diferentes faixas etárias.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[MPF cobra rapidez na manutenção da ponte sobre o Rio Itajaí-Açu na BR-101]]></title>
+    <link><![CDATA[https://visornoticias.com.br/mpf-pede-agilidade-na-manutencao-de-ponte-estrategica-da-br-101/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 20:23:14 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=316987]]></guid>
+    <description><![CDATA[O Ministério Público Federal (MPF) solicitou à Agência Nacional de Transportes Terrestres (ANTT) que apresente, em até dez dias, um plano detalhado para a manutenção da ponte sobre o Rio Itajaí-Açu, na BR-101.]]></description>
+    <content:encoded><![CDATA[<p>O MPF determinou que a ANTT esclareça as medidas corretivas que serão adotadas para garantir a segurança e a integridade da ponte estratégica localizada na rodovia BR-101, no trecho que cruza o Rio Itajaí-Açu.</p><p>O prazo estipulado para o envio dessas informações à Justiça é de dez dias, período no qual a ANTT deve apresentar um plano de ação visando a manutenção e possíveis reparos necessários na estrutura.</p><p>A expectativa é que as ações promovam a segurança dos usuários que transitam pela ponte, bem como previnam riscos que possam comprometer a operação da rodovia e a circulação de veículos.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem embriagado reage à remoção de veículo em local proibido no litoral de SC]]></title>
+    <link><![CDATA[https://jornalrazao.com/seguranca/baiano-se-revolta-ao-ter-carro-guinchado-no-litoral-sc/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 19:12:59 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172622]]></guid>
+    <description><![CDATA[Um homem foi contido pela polícia após tentar impedir a remoção do próprio carro estacionado irregularmente e com licenciamento atrasado em Itajaí, Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>Na tarde do último domingo (14), por volta das 17h22, agentes de trânsito de Itajaí, no Litoral Norte de Santa Catarina, realizaram a remoção de um veículo GM Cruze azul estacionado em local proibido na Rua Conselheiro Júlio Künh. Moradores haviam feito denúncia ao Centro de Operações Integradas.</p><p>Durante a abordagem, foi constatado que o automóvel apresentava licenciamento atrasado, o que impossibilitava sua circulação. No momento em que o guincho já havia colocado o carro sobre a plataforma com as rodas amarradas, o proprietário chegou exaltado e apresentava sinais visíveis de embriaguez, como fala arrastada, agressividade e dificuldade para se manter em pé.</p><p>Ele passou a ofender o operador do guincho e tentou impedir a remoção, chegando a subir na plataforma, entrar no veículo e acelerar o motor na tentativa de retirar o carro à força. Ao ser impedido, ameaçou o motorista com uma pedra. O conflito foi contido após intervenção do irmão do homem.</p><p>Diante da situação, as forças de segurança foram acionadas, contando com a Guarda Municipal de Itajaí, a ROMU da Guarda Municipal de Balneário Camboriú e a Polícia Militar de Santa Catarina. O homem foi imobilizado e conduzido à viatura após desobedecer ordens e tentar agressões.</p><p>O carro foi removido ao pátio e permanecerá retido até a quitação de todas as multas e taxas pendentes, seguindo os procedimentos legais estabelecidos para casos de remoção de veículos.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista embriagada de Porsche causa acidente fatal em Balneário Camboriú após confraternização]]></title>
+    <link><![CDATA[https://jornalrazao.com/seguranca/motorista-de-porsche-que-matou-empresaria-voltava-de-festa-da-firma/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 18:42:19 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172617]]></guid>
+    <description><![CDATA[A empresária Aline Cristina Dalmolin, de 40 anos, morreu em acidente na madrugada após veículo colidir contra poste; condutora apresentava alto teor alcoólico.]]></description>
+    <content:encoded><![CDATA[<p>Na madrugada desta segunda-feira (15), um grave acidente na Avenida Normando Tedesco, em Balneário Camboriú, resultou na morte da empresária Aline Cristina Dalmolin, de 40 anos. Ela estava no banco do passageiro de um Porsche Macan que colidiu violentamente contra um poste de energia elétrica e depois contra um muro.</p><p>A empresária ficou presa às ferragens, sofreu amputação traumática de um dos braços, traumatismo craniano grave e múltiplas lesões. Foi socorrida por equipes do Corpo de Bombeiros e SAMU, mas não resistiu aos ferimentos no hospital Marieta Konder Bornhausen, em Itajaí.</p><p>A motorista do Porsche, Gisele Piccoli Forneroli, não sofreu ferimentos aparentes, porém apresentava sinais de intoxicação alcoólica e confusão mental. Teste do bafômetro indicou 0,97 mg/L de álcool no sangue, quase três vezes acima do limite legal para condutores. Ela foi localizada pela Polícia Militar às margens do Rio Camboriú, em estado de sonolência e desorientação.</p><p>Testemunhas relataram que ambas participaram de uma confraternização da empresa da motorista horas antes do acidente. Gisele foi encaminhada para avaliação médica e, depois, conduzida à Delegacia de Polícia para as providências legais.</p><p>A Polícia Civil segue investigando as causas do acidente. A empresa onde a vítima trabalhava anunciou luto oficial por três dias e deslocou esforços para apoiar familiares e colaboradores neste momento.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Mutirão em Tubarão atende pacientes com câncer de pele em fila do SUS]]></title>
+    <link><![CDATA[https://visornoticias.com.br/mutirao-cancer-de-pele-tubarao/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 21:34:34 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=316990]]></guid>
+    <description><![CDATA[Um mutirão de dermatologia realizado em Tubarão, Santa Catarina, atendeu casos de câncer de pele que estavam na fila de espera do Sistema Único de Saúde (SUS).]]></description>
+    <content:encoded><![CDATA[<p>O mutirão de dermatologia ocorreu na cidade de Tubarão com o objetivo de acelerar o atendimento e os procedimentos para pacientes diagnosticados com câncer de pele. Essa ação visa reduzir o tempo de espera que os pacientes enfrentavam na rede pública de saúde.</p><p>Pacientes que estavam aguardando consultas e tratamento pelo SUS puderam receber atendimento especializado durante o mutirão, realizando procedimentos fundamentais para o diagnóstico e combate ao câncer de pele.</p><p>A iniciativa integra esforços municipais e estaduais para melhorar o acesso à saúde dermatológica na região, buscando evitar o avanço da doença e as complicações que ela pode acarretar.</p><p>Os profissionais envolvidos realizaram exames e tratamentos em um número significativo de pacientes, contribuindo para a organização da fila e para o atendimento mais rápido e eficiente.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Polícia prende homem por maus-tratos após encontrar cães feridos em ambiente insalubre em SC]]></title>
+    <link><![CDATA[https://visornoticias.com.br/policia-encontra-caes-feridos-e-prende-tutor-por-maus-tratos-em-sc/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 21:08:00 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=316999]]></guid>
+    <description><![CDATA[Autoridades detiveram um homem em Santa Catarina após denúncias que levaram à descoberta de cães feridos em condições precárias de higiene.]]></description>
+    <content:encoded><![CDATA[<p>A polícia prendeu um homem suspeito de maus-tratos a animais em Santa Catarina. A ação policial foi motivada por denúncias que indicavam a presença de cães em situação de negligência.</p><p>No local vistoriado, os agentes constataram que os animais estavam feridos e residiam em um ambiente insalubre, o que configurou crime de maus-tratos. Os cães receberam atendimento adequado posteriormente.</p><p>O suspeito foi detido para prestar esclarecimentos e responder legalmente pelos atos apontados pelas autoridades. O caso seguiu para investigação e o homem poderá responder judicialmente, conforme a legislação vigente sobre proteção animal.</p>]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Briga generalizada com tiroteio deixa dois feridos em Salto Veloso (SC)]]></title>
+    <link><![CDATA[https://jornalrazao.com/seguranca/briga-generalizada-termina-em-tiroteio-em-sc/]]></link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 15 Dec 2025 19:47:34 +0000</pubDate>
+    <category><![CDATA[Região]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172637]]></guid>
+    <description><![CDATA[Uma briga generalizada resultou em tiroteio e deixou duas pessoas feridas na noite deste domingo (14) em Salto Veloso, no Meio-Oeste de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>O incidente ocorreu por volta das 21h20 em via pública e mobilizou equipes da Polícia Militar após relatos de agressões e disparos de arma de fogo. Ao chegar ao local, os policiais não encontraram os envolvidos, que já haviam fugido.</p><p>Uma mulher ferida na confusão estava sendo atendida no Hospital Santa Juliana, apresentando lesões provocadas pela briga, mas não pôde prestar depoimento devido ao atendimento médico. A Polícia Militar, com auxílio do videomonitoramento, identificou os veículos utilizados na fuga em direção ao município de Treze Tílias.</p><p>Equipes locais localizaram um homem também ferido por arma branca, que recebia atendimento em hospital da região e não prestou esclarecimentos até o momento. No local da ocorrência, foi encontrada uma faca entre arbustos, que pode ter sido usada na agressão.</p><p>Um boletim de ocorrência foi registrado e os dados foram encaminhados para a Polícia Civil, que assume a investigação e a apuração dos fatos. A PM ressaltou que a rápida atuação e o uso de videomonitoramento foram essenciais para a identificação dos suspeitos e veículos envolvidos.</p>]]></content:encoded>
+  </item>
 
 </channel>
 </rss>
