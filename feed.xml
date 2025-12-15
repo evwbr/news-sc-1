@@ -1,150 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 15 Dec 2025 19:20:52 GMT</lastBuildDate>
-<language>pt-BR</language>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Mon, 15 Dec 2025 19:25:06 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Decreto proíbe circulação de carretas e caminhões betoneiras durante alta temporada]]></title>
-<link>https://jornalrazao.com/geral/decreto-proibe-circulacao-carretas-caminhoes-betoneiras-alta-temporada-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Geral]]></category>
-<category><![CDATA[Alta temporada]]></category>
-<category><![CDATA[caminhões betoneiras]]></category>
-<category><![CDATA[Decreto]]></category>
-<category><![CDATA[Proíbe]]></category>
-<category><![CDATA[Circulação]]></category>
-<category><![CDATA[Carretas]]></category>
-<category><![CDATA[Caminhões]]></category>
-<category><![CDATA[Betoneiras]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 15 Dec 2025 19:17:02 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172627</guid>
-<description><![CDATA[A Prefeitura de Itapema decretou a proibição da circulação de carretas e caminhões betoneiras no município durante a alta temporada de verão. A restrição, estabelecida pelo Decreto nº 119/2025, estará em vigor entre os dias 22 de dezembro e 4 de janeiro.]]></description>
-<content:encoded><![CDATA[<strong>A Prefeitura de Itapema decretou a proibição da circulação de carretas e caminhões betoneiras no município durante a alta temporada de verão. A restrição, estabelecida pelo Decreto nº 119/2025, estará em vigor entre os dias 22 de dezembro e 4 de janeiro. A medida visa aprimorar a fluidez do trânsito, reforçar a segurança viária e garantir maior mobilidade para moradores e visitantes durante o período de maior movimento na cidade.</strong><br/><br/>O decreto, publicado em 24 de novembro de 2025, abrange o perímetro das rodovias urbanas de Itapema e determina que a fiscalização será conduzida pela Secretaria de Segurança Pública, por meio do Departamento de Trânsito Municipal (DETRAMI) e da Guarda Municipal, atuando de forma integrada ao longo da vigência da norma. Segundo o prefeito Alexandre Xepa, a restrição às carretas e caminhões betoneiras tem o propósito de otimizar a organização do trânsito, proporcionando mais fluidez, segurança e menos transtornos para os residentes locais e os veranistas que escolhem Itapema como destino de férias.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Novo serviço de helicópteros por aplicativo estreia em Santa Catarina com voos a partir de Joinville]]></title>
+		<link>https://visornoticias.com.br/helicoptero-por-aplicativo-promete-agilidade-e-economia-no-deslocamento-em-sc/</link>
+		<comments>https://visornoticias.com.br/helicoptero-por-aplicativo-promete-agilidade-e-economia-no-deslocamento-em-sc/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 19:14:54 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:ZIjkbOexqIwtIwkY7IHJza</guid>
 
-<item>
-<title><![CDATA[Baiano se revolta ao ter carro guinchado no litoral catarinense: ‘eu não autorizei!’]]></title>
-<link>https://jornalrazao.com/seguranca/baiano-se-revolta-ao-ter-carro-guinchado-no-litoral-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[confusão]]></category>
-<category><![CDATA[embriaguez]]></category>
-<category><![CDATA[Baiano]]></category>
-<category><![CDATA[Se]]></category>
-<category><![CDATA[Revolta]]></category>
-<category><![CDATA[Ao]]></category>
-<category><![CDATA[Ter]]></category>
-<category><![CDATA[Carro]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 15 Dec 2025 19:12:59 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172622</guid>
-<description><![CDATA[Um homem natural da Bahia se envolveu em uma confusão na tarde do último domingo (14) em Itajaí, no Litoral Norte de Santa Catarina. O incidente ocorreu por volta das 17h22 na Rua Conselheiro Júlio Künh, quando agentes de trânsito guincharam um veículo GM Cruze azul que estava estacionado em local proibido após denúncia de moradores ao Centro de Operações Integradas.]]></description>
-<content:encoded><![CDATA[<strong>Um homem natural da Bahia se envolveu em uma confusão na tarde do último domingo (14) em Itajaí, no Litoral Norte de Santa Catarina. O incidente ocorreu por volta das 17h22 na Rua Conselheiro Júlio Künh, quando agentes de trânsito guincharam um veículo GM Cruze azul que estava estacionado em local proibido após denúncia de moradores ao Centro de Operações Integradas. O carro tinha o licenciamento atrasado, o que impediu sua liberação para circulação. O proprietário, visivelmente embriagado, tentou impedir a remoção do veículo, chegando a ameaçar o motorista do guincho com uma pedra de paralelepípedo, sendo contido por seu irmão. Diante da situação, foi necessário o apoio da Guarda Municipal de Itajaí, ROMU da Guarda Municipal de Balneário Camboriú e Polícia Militar de Santa Catarina para conter o homem, que foi imobilizado e colocado na viatura.</strong><br/><br/>Após a tentativa frustrada de retirar o carro guinchado à força, o proprietário, que apresentava sinais de embriaguez, foi imobilizado e detido pelas forças de segurança em Itajaí. O veículo GM Cruze azul foi removido para o pátio e permanecerá retido até que todas as multas e taxas pendentes sejam quitadas. Os agentes de trânsito seguiram os procedimentos previstos para a remoção do automóvel, garantindo a segurança da operação e dos envolvidos. A situação foi resolvida com a intervenção das autoridades locais, evitando maiores transtornos no local. <br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+		<description><![CDATA[A partir de 20 de dezembro, moradores e visitantes de Santa Catarina poderão usar um aplicativo para reservar voos compartilhados de helicóptero, ligando Joinville ao Litoral Norte e ao Vale do Itajaí com mais agilidade e custo acessível.]]></description>
+		<content:encoded><![CDATA[<p>Santa Catarina ganha uma alternativa inovadora de transporte aéreo a partir de 20 de dezembro. Um serviço de helicóptero por aplicativo começará a operar voos compartilhados partindo de Joinville para diversas cidades do Litoral Norte, como Balneário Camboriú e Penha, além de destinos no Vale do Itajaí.</p><p>O objetivo é oferecer deslocamentos mais rápidos e econômicos, comparado ao transporte terrestre, especialmente em uma região conhecida pelo trânsito intenso em épocas de alta temporada turística. O sistema permitirá que usuários reservem suas passagens por meio de um aplicativo, tornando o serviço acessível e prático.</p><p>Para moradores locais e visitantes das cidades litorâneas, essa modalidade pode representar uma significativa redução no tempo de viagem entre o interior do Estado e o litoral, beneficiando quem precisa se deslocar por motivos profissionais ou turísticos.</p><p>Além do Litoral Norte, o serviço abrangerá localidades do Vale do Itajaí, ampliando a conectividade aérea na região. A iniciativa chega em um momento em que a demanda por mobilidade ágil ganha espaço em Santa Catarina, sobretudo durante períodos com maior fluxo de pessoas.</p><p>Os voos compartilhados também trazem uma proposta de economia, já que o custo por passageiro é reduzido quando comparado ao aluguel tradicional de helicópteros. Assim, o serviço poderá ser uma alternativa viável para quem busca eficiência sem abrir mão de orçamento.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/helicoptero-por-aplicativo-promete-agilidade-e-economia-no-deslocamento-em-sc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[‘Escapou ilesa’: motorista de Porsche que matou empresária em BC voltava de ‘festa da firma’]]></title>
-<link>https://jornalrazao.com/seguranca/motorista-de-porsche-que-matou-empresaria-voltava-de-festa-da-firma/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 18:42:19 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172617</guid>
-<description><![CDATA[A empresária Aline Cristina Dalmolin, de 40 anos, faleceu em decorrência de um grave acidente envolvendo um Porsche Macan, na madrugada desta segunda-feira (15), na Avenida Normando Tedesco, região da Barra Sul, em Balneário Camboriú. Aline estava no banco do passageiro quando o veículo colidiu violentamente contra um poste de energia elétrica e um muro, resultando em amputação traumática de um dos braços, traumatismo craniano grave e múltiplas lesões pelo corpo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Itapema proíbe circulação de carretas e caminhões betoneiras na alta temporada para melhorar trânsito]]></title>
+		<link>https://visornoticias.com.br/decreto-proibe-circulacao-de-carretas-e-caminhoes-betoneiras-durante-a-alta-temporada-em-itapema/</link>
+		<comments>https://visornoticias.com.br/decreto-proibe-circulacao-de-carretas-e-caminhoes-betoneiras-durante-a-alta-temporada-em-itapema/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 18:48:17 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:pTF_kxd93Uj05wci-aowwZ</guid>
 
-<item>
-<title><![CDATA[Motorista embriagada é presa após acidente que matou passageira em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/motorista-embriagada-e-presa-apos-acidente-que-matou-passageira-emm-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Trânsito]]></category>
-<category><![CDATA[Motorista]]></category>
-<category><![CDATA[Embriagada]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Presa]]></category>
-<category><![CDATA[Após]]></category>
-<category><![CDATA[Acidente]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 15 Dec 2025 18:30:47 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130354</guid>
-<description><![CDATA[Uma motorista de 57 anos foi presa em flagrante por embriaguez ao volante após se envolver em um grave acidente de trânsito que resultou na morte da empresária Aline Cristina Dalmolin, de 40 anos, na madrugada desta segunda-feira, 15, em Balneário Camboriú. O acidente ocorreu por volta das 3h15, na Avenida Normando Tedesco, quando o veículo, um Porsche Macan, colidiu violentamente contra um poste de energia, causando a morte da passageira.]]></description>
-<content:encoded><![CDATA[<strong>Uma motorista de 57 anos foi presa em flagrante por embriaguez ao volante após se envolver em um grave acidente de trânsito que resultou na morte da empresária Aline Cristina Dalmolin, de 40 anos, na madrugada desta segunda-feira, 15, em Balneário Camboriú. O acidente ocorreu por volta das 3h15, na Avenida Normando Tedesco, quando o veículo, um Porsche Macan, colidiu violentamente contra um poste de energia, causando a morte da passageira. A motorista foi conduzida à Central de Plantão Policial após a ocorrência, onde foi constatado, por meio do teste do etilômetro, que estava com índice de álcool acima do permitido por lei.</strong><br/><br/>Durante o interrogatório, a condutora optou por permanecer em silêncio e foi informada sobre o falecimento da passageira, que era sua amiga. Com base no artigo 302 do Código de Trânsito Brasileiro, combinado com o parágrafo 3º, que trata do crime de homicídio culposo na direção de veículo automotor sob influência de álcool, a motorista foi autuada. Após os procedimentos legais, ela foi encaminhada ao sistema prisional e conduzida à unidade da Canhanduba, onde permanece à disposição da Justiça. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+		<description><![CDATA[Entre 22 de dezembro e 4 de janeiro, Itapema restringe o tráfego de carretas e caminhões betoneiras visando garantir maior fluidez e segurança nas ruas durante o período de maior movimentação turística.]]></description>
+		<content:encoded><![CDATA[<p>Com o aumento do fluxo de visitantes na alta temporada, a Prefeitura de Itapema publicou um decreto que proíbe a circulação de carretas e caminhões betoneiras entre os dias 22 de dezembro e 4 de janeiro.</p><p>A restrição tem como objetivo principal melhorar a fluidez do trânsito, reduzindo os congestionamentos e riscos nas vias da cidade durante os dias de maior circulação.</p><p>Itapema, conhecida por suas praias e eventos de fim de ano, recebe um grande número de turistas nesse período, o que impacta diretamente no tráfego local. Com a medida, espera-se que a mobilidade dos moradores e visitantes seja facilitada, promovendo uma experiência mais segura e confortável.</p><p>O decreto cobre todo o perímetro urbano, sendo fiscalizado pela Secretaria de Trânsito e Segurança Pública. Caminhões que não respeitarem a norma poderão ser autuados e removidos.</p><p>Moradores e motoristas também são orientados a colaborarem com a medida e planejar suas rotas para evitar transtornos.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/decreto-proibe-circulacao-de-carretas-e-caminhoes-betoneiras-durante-a-alta-temporada-em-itapema/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Casal que morreu após grave acidente de moto é identificado em Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/casal-morre-colidir-moto-poste-grave-acidente-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 18:03:40 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172610</guid>
-<description><![CDATA[Um acidente fatal ocorreu na tarde de domingo, dia 14, na Avenida Santo Amaro, em Camboriú, próximo à divisa com Balneário Camboriú. Um casal que estava em uma motocicleta perdeu a vida após uma sequência de colisões no local.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Primavera encerra com sol e temperaturas elevadas em Santa Catarina após tempestades intensas]]></title>
+		<link>https://visornoticias.com.br/primavera-termina-com-calor-e-sol-em-santa-catarina-apos-temporais-no-inicio-da-semana/</link>
+		<comments>https://visornoticias.com.br/primavera-termina-com-calor-e-sol-em-santa-catarina-apos-temporais-no-inicio-da-semana/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 18:25:17 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:8KadycXHzbbm1P3TEGaJGI</guid>
 
-<item>
-<title><![CDATA[Identificado casal vítima de acidente fatal na Avenida Santo Amaro]]></title>
-<link>https://portalmenina.com.br/identificado-casal-vitima-de-acidente-fatal-na-avenida-santo-amaro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 17:30:04 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130342</guid>
-<description><![CDATA[Um casal veio a óbito em decorrência de um grave acidente de trânsito que ocorreu na tarde do último domingo, dia 14, na Avenida Santo Amaro, em Camboriú, na divisa com Balneário Camboriú. As vítimas foram identificadas como Daniel Pinheiro Carvalho, de 25 anos, e Jaqueline Santos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Após uma semana marcada por temporais com chuvas fortes, raios e ventos intensos, Santa Catarina vê o fim da primavera com sol e calor, trazendo alívio e melhores condições para o Litoral Norte do estado.]]></description>
+		<content:encoded><![CDATA[<p>O início da semana foi de instabilidade em Santa Catarina, com a chegada de uma frente fria que provocou chuva forte, descargas elétricas e rajadas de vento em várias regiões, incluindo o Litoral Norte, abrangendo cidades como Balneário Camboriú e Itajaí.</p><p>Até terça-feira (16), os moradores enfrentaram condições climáticas adversas, que, apesar de rápidas, impactaram o cotidiano e demandaram atenção às condições de trânsito e segurança em áreas urbanas e costeiras.</p><p>No entanto, a estação termina em cenário diferente: a partir de quarta-feira, o sol retorna com intensidade, elevando as temperaturas e proporcionando dias mais agradáveis, ideais para atividades ao ar livre e o turismo nas cidades litorâneas.</p><p>Especialistas recomendam a população estar atenta às variações climáticas, principalmente em áreas suscetíveis a alagamentos e quedas de árvores, comuns nesta época do ano. A recuperação do clima favorece setores como comércio e serviços turísticos, essenciais para a economia local do Litoral Norte.</p><p>Para os próximos dias, a previsão indica tempo firme e temperaturas em elevação, consolidando o fim da primavera com condições estáveis e clima mais quente, promovendo um cenário propício para a movimentação nas praias e espaços públicos da região.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/primavera-termina-com-calor-e-sol-em-santa-catarina-apos-temporais-no-inicio-da-semana/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Natal Encanto 2025 emociona público com desfile e espetáculo na Igreja Matriz de Itajaí]]></title>
-<link>https://portalmenina.com.br/natal-encanto-2025-emociona-publico-com-desfile-e-espetaculo-na-igreja-matriz-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 17:25:48 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130338</guid>
-<description><![CDATA[Milhares de pessoas se reuniram no centro de Itajaí, neste domingo, 14 de dezembro, para acompanhar mais uma noite especial das atividades do Natal Encanto 2025. O evento contou com a presença da Orquestra Brasileira e projeção mapeada na Igreja Matriz, atraindo a atenção do público.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Carreata de Natal da Havan ilumina as ruas de Balneário Camboriú]]></title>
+		<link>https://visornoticias.com.br/carreata-de-natal-da-havan-leva-a-magia-natalina-a-balneario-camboriu/</link>
+		<comments>https://visornoticias.com.br/carreata-de-natal-da-havan-leva-a-magia-natalina-a-balneario-camboriu/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 18:15:42 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:fzdESmn2Amkpi75ECgjZIX</guid>
 
-<item>
-<title><![CDATA[Avenida Governador Celso Ramos terá interdição temporária para instalação da decoração de Natal]]></title>
-<link>https://horadeportobelo.com.br/2025/12/15/avenida-governador-celso-ramos-tera-interdicao-temporaria-para-instalacao-da-decoracao-de-natal/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 16:21:20 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20384</guid>
-<description><![CDATA[O Governo de Porto Belo, por meio do Departamento de Trânsito, anunciou que a Avenida Governador Celso Ramos será temporariamente interditada para a instalação da decoração natalina. A interdição está programada para ocorrer nesta segunda-feira, dia 15 de dezembro, das 22h às 5h da manhã de terça-feira, dia 16.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Na noite desta terça-feira (16), Balneário Camboriú foi tomada pelo brilho da carreata de Natal da Havan, que desfilou com caminhões decorados e iluminados, espalhando o espírito natalino por pontos estratégicos da cidade.]]></description>
+		<content:encoded><![CDATA[<p>A carreata de Natal da Havan percorreu as principais ruas de Balneário Camboriú, reunindo famílias e moradores que acompanharam o desfile dos caminhões enfeitados com luzes e decoração temática. A ação começou no fim da tarde, trazendo alegria e colorido para o centro e bairros próximos.</p><p>O evento faz parte da programação natalina local, que reforça a tradição de celebração e integração comunitária. Além do aspecto visual, a carreata também promove um clima festivo, incentivando o turismo e o comércio regional durante a temporada.</p><p>Para os moradores, a passagem da carreata representa uma oportunidade de confraternização em tempos de datas tradicionais, em especial para as crianças que acompanham com entusiasmo a diversidade e brilho dos veículos.</p><p>Balneário Camboriú, conhecida pela movimentação turística e pela valorização de eventos culturais, recebeu mais uma atração que soma à programação natalina da cidade, contribuindo para a atmosfera festiva nos próximos dias.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/carreata-de-natal-da-havan-leva-a-magia-natalina-a-balneario-camboriu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Homem é encontrado morto sob deck do Pontal Norte; causa pode ser eletrocussão]]></title>
-<link>https://portalmenina.com.br/homem-e-encontrado-morto-sob-deck-do-pontal-norte-causa-pode-ser-eletrocussao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 15:44:41 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130328</guid>
-<description><![CDATA[Um homem, supostamente em situação de rua, foi encontrado sem vida na manhã desta segunda-feira, 15, sob o deck do Pontal Norte, em Balneário Camboriú. De acordo com informações da Prefeitura, há suspeitas de que ele tenha sofrido uma descarga elétrica durante uma possível tentativa de furto da fiação do local.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Secretária de Educação de SC defende manutenção das cotas raciais e ressalta dívida histórica]]></title>
+		<link>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/</link>
+		<comments>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 17:01:33 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:Ul9jdDk2dTv4-Yt2yntrVL</guid>
 
-<item>
-<title><![CDATA[Morador de São João Batista morre em grave acidente no Vale do Rio Tijucas]]></title>
-<link>https://jornalrazao.com/seguranca/morador-de-sao-joao-batista-morre-em-grave-acidente-sjb/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 15:32:53 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172593</guid>
-<description><![CDATA[Um motociclista de 55 anos faleceu em decorrência de uma colisão ocorrida na manhã de segunda-feira, dia 15 de dezembro, na SC-108, em São João Batista. A vítima, identificada como Ivanor Leal, residente do município, se envolveu no acidente no bairro Fernandes, que envolveu uma motocicleta e um Chevrolet Tracker.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A secretária de Estado da Educação de Santa Catarina, Luciane Ceretta, expressou oposição à recente aprovação que extingue as cotas raciais nas universidades estaduais, destacando a importância de políticas inclusivas para reparar desigualdades históricas no acesso ao ensino superior.]]></description>
+		<content:encoded><![CDATA[<p>A discussão sobre as cotas raciais em Santa Catarina ganhou novo capítulo após a secretária de Estado da Educação, Luciane Ceretta, posicionar-se contra o projeto aprovado na Assembleia Legislativa que elimina esse tipo de reserva nas instituições públicas e privadas que recebem recursos do Estado.</p><p>Em entrevista à Rádio Som Maior, de Criciúma, Ceretta afirmou que o tema demanda análise cuidadosa e ressaltou uma “dívida histórica” com as populações negra, parda e indígena, que enfrentam exclusão no acesso às universidades. O projeto mantém apenas cotas baseadas em critérios econômicos, para pessoas com deficiência e alunos de escolas públicas.</p><p>Segundo a secretária, apesar dos avanços, as universidades catarinenses ainda apresentam baixa diversidade racial. Ela citou exemplos de iniciativas locais, como as realizadas na Universidade do Extremo Sul Catarinense (Unesc), que ampliaram o ingresso de estudantes negros, indicando resultados positivos dessa política afirmativa.</p><p>Ceretta também reforçou que a discussão não deve ser polarizada nem tratar cotas de forma absoluta. O foco, para ela, deve ser a vulnerabilidade social com atenção ao fator racial, em reconhecimento às desigualdades construídas historicamente no Brasil e no estado.</p><p>O posicionamento da secretária ocorre em meio a debates acalorados, com parlamentares da oposição planejando ações jurídicas contra o projeto, que aguarda sanção do governador Jorginho Mello. Especialistas em direito apontam para possível questionamento de constitucionalidade, já que o Supremo Tribunal Federal reconheceu a validade das cotas raciais como instrumento de promoção da igualdade material.</p><p>Em um cenário marcado por tensões políticas, a manifestação pública de Ceretta, membro do primeiro escalão do governo, acrescenta uma voz significativa ao debate sobre as políticas de inclusão educacional em Santa Catarina. O assunto permanece em pauta, mobilizando setores da sociedade civil e do meio acadêmico no Litoral Norte e em todo o estado.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-</channel>
+	<item>
+		<title><![CDATA[Motorista com criança no carro foge de abordagem em SC e polícia reage com disparos para conter fuga]]></title>
+		<link>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/</link>
+		<comments>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 16:51:41 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:mYaQWY7AT7H8lfFzh0YWTK</guid>
+
+		<description><![CDATA[Uma perseguição entre Imbituba e Garopaba mobilizou Polícia Rodoviária Federal e Polícia Militar na tarde de domingo (14) após motorista desobedecer ordem de parada durante barreira, avançar contra policiais e tentar fugir, colocando em risco a segurança de todos, inclusive da filha menor que estava no veículo.]]></description>
+		<content:encoded><![CDATA[<p>Uma ação policial realizada no Sul de Santa Catarina na tarde do último domingo (14) chamou a atenção em Imbituba e Garopaba. A Polícia Rodoviária Federal tentou abordar um veículo Fiat Doblò durante uma barreira, mas o motorista não obedeceu à ordem para parar e iniciou uma fuga em alta velocidade pelas ruas de ambos os municípios.</p><p>A Polícia Militar foi acionada para reforçar o acompanhamento e recebeu informações sobre o trajeto do veículo, que transitava pela Estrada Geral da Limpa e poderia retornar à rodovia SC-434. Por isso, os policiais se posicionaram para interceptar o automóvel.</p><p>Durante a abordagem, o motorista avançou contra os policiais sem reduzir a velocidade, o que exigiu que os agentes se jogassem para fora da pista para evitar atropelamento. Em defesa, foram efetuados disparos contra os pneus para conter a fuga e garantir a segurança.</p><p>Logo após, o veículo foi parado pela ação conjunta das polícias. No interior, estava a filha menor do condutor. Nenhuma irregularidade além dos documentos atrasados do carro foi encontrada.</p><p>Segundo informações coletadas, o motorista trabalha com o automóvel e teria fugido ao temer a apreensão do veículo. Ele foi encaminhado à Delegacia de Polícia Civil para os procedimentos legais cabíveis.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Chefe de facção de Santa Catarina é preso após troca de tiros no Paraguai]]></title>
+		<link>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/</link>
+		<comments>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 14:55:52 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:lclBNSP2aYy5vkemvR3OVw</guid>
+
+		<description><![CDATA[Maykon de Souza, um dos líderes mais procurados de facção criminosa com atuação em Santa Catarina, foi capturado em Pedro Juan Caballero após uma perseguição que terminou em troca de tiros, reforçando a cooperação entre Brasil e Paraguai na luta contra o crime organizado.]]></description>
+		<content:encoded><![CDATA[<p>Na última terça-feira, as forças de segurança do Paraguai prenderam Maykon de Souza, conhecido como “Maykon Gordo” ou “Marcolinha”, principal nome de facção criminosa ligada ao Litoral Norte de Santa Catarina. A prisão ocorreu na fronteira entre Brasil e Paraguai, em Pedro Juan Caballero, durante uma operação de inteligência que envolveu perseguição e confronto armado.</p><p>Com múltiplos mandados de prisão emitidos pelo Tribunal de Justiça de Santa Catarina por crimes relacionados ao tráfico de drogas e organização criminosa, Maykon estava foragido utilizando documentos falsos e identidade falsa, o que dificultava sua localização há cerca de quatro a cinco anos.</p><p>As investigações revelaram que ele mantinha vínculos pessoais na região e atuava como um dos principais articuladores da facção exterior ao sistema prisional. A perícia papiloscópica confirmou que Maykon de Souza e Maykon Dutra Dias são a mesma pessoa, reforçando o uso de identidades duplicadas para fugir da Justiça.</p><p>A prisão foi fruto da cooperação entre as polícias do Brasil e do Paraguai, que trocaram informações para localizar e capturar o criminoso. Após a detenção, Maykon foi colocado à disposição das autoridades responsáveis pelos procedimentos legais, incluindo a possibilidade de extradição ao Brasil.</p><p>Essa ação faz parte do esforço conjunto para combater a atuação das facções criminosas que impactam a segurança pública especialmente no Litoral Norte de Santa Catarina, região que tem registrado desafios relacionados ao crime organizado nos últimos anos. Novos detalhes sobre o caso serão divulgados pelas autoridades nos próximos dias.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Condutor foge após colisão entre motos e deixa passageiro ferido abandonado em Blumenau]]></title>
+		<link>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/</link>
+		<comments>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 14:12:13 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">evoweb:87_4UcilN0Wb-MAMliiJRb</guid>
+
+		<description><![CDATA[Na noite de domingo (14), um acidente envolvendo duas motocicletas na Rua Engenheiro Udo Deeke, bairro Salto do Norte, resultou na fuga do condutor de uma das motos, que abandonou seu passageiro ferido no local.]]></description>
+		<content:encoded><![CDATA[<p>O acidente ocorreu por volta das 20h e envolveu duas motocicletas: uma Honda CG 160 Fan e uma Honda CG 150 Fan. Após a colisão, o condutor da CG 160 fugiu do local, deixando para trás um passageiro ferido, cuja identidade não foi confirmada.</p><p>O passageiro recebeu atendimento imediato do Corpo de Bombeiros e foi encaminhado ao Hospital Santo Antônio para cuidados médicos. A Polícia Militar registrou a ocorrência e investiga as circunstâncias da fuga.</p><p>O condutor da Honda CG 150, um jovem de 21 anos, também teve ferimentos, mas foi atendido e liberado no local. A passageira da mesma moto, também de 21 anos, sofreu ferimentos e precisou ser socorrida pelo Serviço de Atendimento Móvel de Urgência (SAMU), sendo levada ao Hospital Santa Isabel.</p><p>O episódio chama atenção para a necessidade de cautela nas vias urbanas, especialmente em bairros movimentados como o Salto do Norte, que é uma das áreas em expansão de Blumenau.</p><p>As autoridades reforçam o pedido para que testemunhas ou quem tiver informações sobre o músico condutor que fugiu entre em contato para auxiliar nas investigações.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
