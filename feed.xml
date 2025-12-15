@@ -1,181 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  >
-
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title>Evo Web News</title>
-	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://evwbr.github.io/news-sc-1/</link>
-	<description>Notícias locais reescritas com IA - Evo Web News</description>
-	<lastBuildDate>Mon, 15 Dec 2025 19:34:15 GMT</lastBuildDate>
-	<language>pt-BR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Mon, 15 Dec 2025 19:40:47 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-	<image>
-		<url>https://evoweb.app.br/favicon-32x32.png</url>
-		<title>Evo Web News</title>
-		<link>https://evwbr.github.io/news-sc-1/</link>
-		<width>32</width>
-		<height>32</height>
-	</image>
-	<item>
-		<title><![CDATA[Avenida Governador Celso Ramos terá interdição temporária para instalação de decoração natalina]]></title>
-		<link>https://horadeportobelo.com.br/2025/12/15/avenida-governador-celso-ramos-tera-interdicao-temporaria-para-instalacao-da-decoracao-de-natal/</link>
-		<comments>https://horadeportobelo.com.br/2025/12/15/avenida-governador-celso-ramos-tera-interdicao-temporaria-para-instalacao-da-decoracao-de-natal/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 16:21:20 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20384</guid>
+<item>
+<title><![CDATA[Decreto proíbe circulação de carretas e caminhões betoneiras durante alta temporada em Itapema]]></title>
+<link>https://jornalrazao.com/geral/decreto-proibe-circulacao-carretas-caminhoes-betoneiras-alta-temporada-itapema/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Geral]]></category>
+<category><![CDATA[Alta temporada]]></category>
+<category><![CDATA[caminhões betoneiras]]></category>
+<category><![CDATA[Decreto]]></category>
+<category><![CDATA[Proíbe]]></category>
+<category><![CDATA[Circulação]]></category>
+<category><![CDATA[Carretas]]></category>
+<category><![CDATA[Caminhões]]></category>
+<category><![CDATA[Betoneiras]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Mon, 15 Dec 2025 19:17:02 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172627</guid>
+<description><![CDATA[A Prefeitura de Itapema, por meio do Decreto nº 119/2025, determinou a proibição da circulação de carretas e caminhões betoneiras no município durante a alta temporada de verão. A restrição estará em vigor no período de 22 de dezembro a 4 de janeiro, abrangendo o perímetro das rodovias urbanas da cidade.]]></description>
+<content:encoded><![CDATA[<strong>A Prefeitura de Itapema, por meio do Decreto nº 119/2025, determinou a proibição da circulação de carretas e caminhões betoneiras no município durante a alta temporada de verão. A restrição estará em vigor no período de 22 de dezembro a 4 de janeiro, abrangendo o perímetro das rodovias urbanas da cidade. A medida tem como propósito principal otimizar o fluxo do trânsito, reforçar a segurança viária e proporcionar maior mobilidade aos moradores e visitantes durante o período de maior movimento em Itapema.</strong><br/><br/>O decreto, publicado em 24 de novembro de 2025, estabelece que a fiscalização será conduzida pela Secretaria de Segurança Pública, por meio do Departamento de Trânsito Municipal (DETRAMI) e da Guarda Municipal, que atuarão de forma integrada ao longo da vigência da norma. O prefeito Alexandre Xepa destacou a importância da medida, ressaltando que, durante a alta temporada, a cidade se torna mais populosa, necessitando de uma organização no trânsito para garantir o bom funcionamento. A proibição das carretas e caminhões betoneiras visa proporcionar maior fluidez, segurança e comodidade tanto para os residentes locais quanto para os veranistas em Itapema.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-		<description><![CDATA[Avenida Governador Celso Ramos será interditada na noite de 15 para 16 de dezembro para instalação da decoração de Natal.]]></description>
-		<content:encoded><![CDATA[<p>O Governo de Porto Belo, por meio do Departamento de Trânsito, comunicou que a Avenida Governador Celso Ramos estará interditada nesta segunda-feira, 15 de dezembro, das 22h até as 5h da manhã de terça-feira, 16 de dezembro.</p><p>A interdição tem como objetivo permitir a instalação da decoração natalina na via, garantindo a segurança das equipes responsáveis e dos usuários da avenida.</p><p>Durante o período de bloqueio, o tráfego será desviado para ruas paralelas que estarão devidamente sinalizadas para orientar os motoristas.</p>]]></content:encoded>
-		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/15/avenida-governador-celso-ramos-tera-interdicao-temporaria-para-instalacao-da-decoracao-de-natal/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Secretária de Educação de SC se posiciona contra fim das cotas raciais]]></title>
+<link>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 17:01:33 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172605</guid>
+<description><![CDATA[A secretária de Educação de Santa Catarina, Luciane Ceretta, manifestou-se contrária ao projeto que elimina cotas raciais nas universidades estaduais.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Homem é encontrado morto sob deck do Pontal Norte em Balneário Camboriú]]></title>
-		<link>https://portalmenina.com.br/homem-e-encontrado-morto-sob-deck-do-pontal-norte-causa-pode-ser-eletrocussao/</link>
-		<comments>https://portalmenina.com.br/homem-e-encontrado-morto-sob-deck-do-pontal-norte-causa-pode-ser-eletrocussao/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 15:44:41 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=130328</guid>
+<item>
+<title><![CDATA[Motorista foge de abordagem policial com criança em veículo no Sul de SC]]></title>
+<link>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 16:51:41 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172601</guid>
+<description><![CDATA[Uma perseguição envolvendo a Polícia Rodoviária Federal e a Polícia Militar ocorreu em Imbituba e Garopaba após um motorista desobedecer a uma barreira policial, transportando uma criança no veículo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um homem foi encontrado morto sob o deck do Pontal Norte, em Balneário Camboriú, na manhã desta segunda-feira, 15, com suspeita de eletrocussão.]]></description>
-		<content:encoded><![CDATA[<p>Segundo nota da Prefeitura, o homem, possivelmente em situação de rua, pode ter sofrido uma descarga elétrica ao tentar furtar a fiação do local.</p><p>Imagens de câmeras de monitoramento registraram o homem acessando a área por volta das 0h45, pouco antes de uma queda de energia que causou uma interrupção momentânea no sistema.</p><p>Durante uma inspeção técnica realizada na manhã, uma equipe de manutenção encontrou o homem já sem vida, segurando um fio elétrico.</p><p>A ocorrência envolveu a Polícia Civil, Polícia Militar, Guarda Municipal e Polícia Científica, que conduziram os procedimentos legais no local.</p><p>As autoridades aguardam o resultado do laudo pericial para determinar a causa da morte, seja acidente ou crime.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/homem-e-encontrado-morto-sob-deck-do-pontal-norte-causa-pode-ser-eletrocussao/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Avenida Governador Celso Ramos terá interdição temporária para instalação de decoração natalina]]></title>
+<link>https://horadeportobelo.com.br/2025/12/15/avenida-governador-celso-ramos-tera-interdicao-temporaria-para-instalacao-da-decoracao-de-natal/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 16:21:20 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20384</guid>
+<description><![CDATA[Avenida Governador Celso Ramos será interditada na noite de 15 para 16 de dezembro para instalação da decoração de Natal.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Motociclista morre após colisão na SC-108 em São João Batista]]></title>
-		<link>https://jornalrazao.com/seguranca/morador-de-sao-joao-batista-morre-em-grave-acidente-sjb/</link>
-		<comments>https://jornalrazao.com/seguranca/morador-de-sao-joao-batista-morre-em-grave-acidente-sjb/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 15:32:53 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172593</guid>
+<item>
+<title><![CDATA[Homem é encontrado morto sob deck do Pontal Norte em Balneário Camboriú]]></title>
+<link>https://portalmenina.com.br/homem-e-encontrado-morto-sob-deck-do-pontal-norte-causa-pode-ser-eletrocussao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 15:44:41 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130328</guid>
+<description><![CDATA[Um homem foi encontrado morto sob o deck do Pontal Norte, em Balneário Camboriú, na manhã desta segunda-feira, 15, com suspeita de eletrocussão.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um motociclista de 55 anos morreu após um acidente envolvendo uma motocicleta e um carro na SC-108, em São João Batista, na manhã desta segunda-feira.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu no bairro Fernandes e envolveu uma motocicleta e um Chevrolet Tracker. Segundo informações apuradas no local, o motociclista seguia no sentido do Centro de São João Batista para o interior, enquanto o carro trafegava na direção contrária.</p><p>Em determinado momento, o condutor da motocicleta teria perdido o controle, colidido na lateral do veículo e saído da pista, sofrendo ferimentos gravíssimos. O Corpo de Bombeiros foi acionado por volta das 8h40 e realizou o atendimento pré-hospitalar, encaminhando a vítima em estado crítico ao Hospital Monsenhor José Locks.</p><p>Apesar das tentativas de reanimação após uma parada cardiorrespiratória, o motociclista não resistiu e morreu. A aeronave do Arcanjo foi acionada, mas a transferência não ocorreu devido ao óbito confirmado no hospital.</p><p>Os ocupantes do Chevrolet Tracker, que eram membros de uma família, não se feriram. Ambos os veículos tiveram danos materiais. A Polícia Militar Rodoviária e a Polícia Científica estiveram no local para os procedimentos legais, e as causas do acidente serão investigadas.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/morador-de-sao-joao-batista-morre-em-grave-acidente-sjb/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Motociclista morre após colisão na SC-108 em São João Batista]]></title>
+<link>https://jornalrazao.com/seguranca/morador-de-sao-joao-batista-morre-em-grave-acidente-sjb/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 15:32:53 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172593</guid>
+<description><![CDATA[Um motociclista de 55 anos morreu após um acidente envolvendo uma motocicleta e um carro na SC-108, em São João Batista, na manhã desta segunda-feira.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Homem morre eletrocutado ao tentar furtar fiação no Pontal Norte, em Balneário Camboriú]]></title>
-		<link>https://jornalrazao.com/seguranca/morador-de-rua-morre-eletrocutado-tentando-furtar-fiacao-no-deck-do-pontal-norte-em-bc/</link>
-		<comments>https://jornalrazao.com/seguranca/morador-de-rua-morre-eletrocutado-tentando-furtar-fiacao-no-deck-do-pontal-norte-em-bc/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 15:28:41 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172589</guid>
+<item>
+<title><![CDATA[Homem morre eletrocutado ao tentar furtar fiação no Pontal Norte, em Balneário Camboriú]]></title>
+<link>https://jornalrazao.com/seguranca/morador-de-rua-morre-eletrocutado-tentando-furtar-fiacao-no-deck-do-pontal-norte-em-bc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 15:28:41 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172589</guid>
+<description><![CDATA[Um homem foi encontrado morto sob o deck do Pontal Norte, em Balneário Camboriú, em suspeita de eletrocussão durante tentativa de furto de fiação elétrica.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um homem foi encontrado morto sob o deck do Pontal Norte, em Balneário Camboriú, em suspeita de eletrocussão durante tentativa de furto de fiação elétrica.]]></description>
-		<content:encoded><![CDATA[<p>O corpo do homem, possivelmente em situação de rua, foi localizado na manhã desta segunda-feira (15) durante uma vistoria de manutenção no Pontal Norte.</p><p>Segundo a Prefeitura Municipal, câmeras de monitoramento registraram o homem entrando por baixo do parapeito do deck por volta de 0h45, seguido por uma queda de energia no local.</p><p>Durante a inspeção técnica realizada pela equipe de manutenção, o homem foi encontrado já sem vida, segurando um fio de energia elétrica.</p><p>As autoridades policiais e a Polícia Científica foram acionadas para os procedimentos legais, e o corpo permanece no local aguardando o laudo pericial.</p><p>O laudo indicará se a morte foi causada por acidente ou se há indícios de crime para autorização da remoção do corpo.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/morador-de-rua-morre-eletrocutado-tentando-furtar-fiacao-no-deck-do-pontal-norte-em-bc/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[Motociclista foge após colisão e abandona veículo adulterado em Itajaí]]></title>
+<link>https://portalmenina.com.br/motociclista-foge-apos-colisao-deixa-mulher-ferida-e-abandona-veiculo-adulterado-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 14:58:57 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130324</guid>
+<description><![CDATA[Um acidente envolvendo uma motocicleta e uma motoneta deixou uma mulher ferida em Itajaí, enquanto o condutor da moto fugiu do local abandonando o veículo adulterado.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[Motociclista foge após colisão e abandona veículo adulterado em Itajaí]]></title>
-		<link>https://portalmenina.com.br/motociclista-foge-apos-colisao-deixa-mulher-ferida-e-abandona-veiculo-adulterado-em-itajai/</link>
-		<comments>https://portalmenina.com.br/motociclista-foge-apos-colisao-deixa-mulher-ferida-e-abandona-veiculo-adulterado-em-itajai/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 14:58:57 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=130324</guid>
+<item>
+<title><![CDATA[Líder de facção catarinense é preso no Paraguai após troca de tiros]]></title>
+<link>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 14:55:52 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172584</guid>
+<description><![CDATA[Maykon de Souza, líder de facção criminosa em Santa Catarina, foi preso em Pedro Juan Caballero após operação que envolveu perseguição e confronto armado.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-		<description><![CDATA[Um acidente envolvendo uma motocicleta e uma motoneta deixou uma mulher ferida em Itajaí, enquanto o condutor da moto fugiu do local abandonando o veículo adulterado.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu na noite de domingo, 14, na Rua Heitor Liberato, em frente ao supermercado Bistek, em Itajaí. Segundo a Coordenadoria de Trânsito (Codetran), a colisão envolveu uma motocicleta e uma motoneta que aguardava o semáforo abrir.</p><p>A condutora da motoneta sofreu lesões corporais, recebeu atendimento no local e foi encaminhada a uma unidade de saúde. O motociclista fugiu do local e ainda não foi identificado pelas autoridades.</p><p>Durante a verificação do veículo abandonado, as equipes constataram adulteração na placa, feita com fita adesiva preta para modificar as letras originais, além do licenciamento vencido. A motocicleta foi removida ao pátio.</p><p>Testemunhas relataram que o condutor da moto apresentava sinais de embriaguez. Este foi o segundo caso de adulteração de veículo registrado no mesmo dia em Itajaí, conforme informações divulgadas.</p><p>O caso segue sob investigação da autoridade policial, enquanto a Coordenadoria de Trânsito informa que as ações de fiscalização continuam para coibir infrações e garantir a segurança viária.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/motociclista-foge-apos-colisao-deixa-mulher-ferida-e-abandona-veiculo-adulterado-em-itajai/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
+<item>
+<title><![CDATA[CELD Esportes anuncia fechamento após morte da proprietária em acidente]]></title>
+<link>https://portalmenina.com.br/celd-esportes-lamenta-morte-de-proprietaria-e-anuncia-fechamento-por-tres-dias/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 15 Dec 2025 14:24:21 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130320</guid>
+<description><![CDATA[Aline Cristina Dalmolin, proprietária do CELD Esportes, morreu em acidente de trânsito em Balneário Camboriú, e o empreendimento ficará fechado por três dias.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-	<item>
-		<title><![CDATA[CELD Esportes anuncia fechamento após morte da proprietária em acidente]]></title>
-		<link>https://portalmenina.com.br/celd-esportes-lamenta-morte-de-proprietaria-e-anuncia-fechamento-por-tres-dias/</link>
-		<comments>https://portalmenina.com.br/celd-esportes-lamenta-morte-de-proprietaria-e-anuncia-fechamento-por-tres-dias/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 14:24:21 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=130320</guid>
-
-		<description><![CDATA[Aline Cristina Dalmolin, proprietária do CELD Esportes, morreu em acidente de trânsito em Balneário Camboriú, e o empreendimento ficará fechado por três dias.]]></description>
-		<content:encoded><![CDATA[<p>O Centro Empresarial CELD Esportes comunicou o falecimento de sua proprietária, Aline Cristina Dalmolin, vítima de um acidente na Avenida Normando Tedesco, na madrugada desta segunda-feira, 15, em Balneário Camboriú.</p><p>Aline era passageira de um Porsche que colidiu contra postes e a mureta de um muro. Ela foi socorrida e levada ao Hospital Marieta Konder Bornhausen, mas não resistiu aos ferimentos.</p><p>Segundo informações, o acidente ocorreu por volta das 2h45. A empresária ficou presa às ferragens e teve um braço amputado no local. A condutora do veículo foi submetida ao teste do bafômetro, que indicou 0,97 mg/L de álcool por litro de ar expelido, configurando crime de embriaguez ao volante. Ela foi presa em flagrante e encaminhada à Delegacia de Polícia Civil.</p><p>Em nota, o CELD Esportes destacou a importância de Aline para a equipe e a comunidade. O centro esportivo informou que ficará fechado por três dias a partir desta segunda-feira.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/celd-esportes-lamenta-morte-de-proprietaria-e-anuncia-fechamento-por-tres-dias/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Secretária de Educação de SC se posiciona contra fim das cotas raciais]]></title>
-		<link>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/</link>
-		<comments>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 17:01:33 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172605</guid>
-
-		<description><![CDATA[A secretária de Educação de Santa Catarina, Luciane Ceretta, manifestou-se contrária ao projeto que elimina cotas raciais nas universidades estaduais.]]></description>
-		<content:encoded><![CDATA[<p>Luciane Ceretta afirmou, em entrevista à Rádio Som Maior, que a retirada das cotas raciais deve ser analisada com cautela, destacando a existência de uma "dívida histórica" com populações negras, pardas e indígenas no acesso ao ensino superior.</p><p>O projeto aprovado pela Assembleia Legislativa de Santa Catarina elimina as cotas raciais, mantendo apenas reservas de vagas baseadas em critérios econômicos, para pessoas com deficiência e estudantes oriundos de escolas públicas. A proposta segue agora para sanção do governador Jorginho Mello.</p><p>A secretária ressaltou que as universidades do estado ainda são majoritariamente frequentadas por pessoas brancas e que o tema não deve ser tratado de forma simplista. Ela defende que o foco principal deve ser a vulnerabilidade social, sem ignorar o recorte racial como fator histórico de exclusão.</p><p>Ceretta citou como exemplo a Universidade do Extremo Sul Catarinense (Unesc), que adotou ações para ampliar o ingresso de estudantes negros, resultando em mais de 400 alunos dessa população atualmente matriculados.</p><p>O projeto enfrenta críticas de setores ligados à educação e pode ser questionado juridicamente, com base em decisões anteriores do Supremo Tribunal Federal que reconhecem a legalidade das cotas raciais como instrumento de promoção da igualdade material.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/educacao/secretaria-de-educacao-de-sc-e-contra-o-fim-das-cotas-raciais/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Motorista foge de abordagem policial com criança em veículo no Sul de SC]]></title>
-		<link>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/</link>
-		<comments>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 16:51:41 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172601</guid>
-
-		<description><![CDATA[Uma perseguição envolvendo a Polícia Rodoviária Federal e a Polícia Militar ocorreu em Imbituba e Garopaba após um motorista desobedecer a uma barreira policial, transportando uma criança no veículo.]]></description>
-		<content:encoded><![CDATA[<p>A ocorrência teve início quando a Polícia Rodoviária Federal tentou abordar um Fiat Doblò durante uma barreira policial, mas o motorista não parou e fugiu em alta velocidade por bairros de Imbituba e Garopaba.</p><p>A Polícia Militar foi acionada para apoiar a ação e posicionou-se na Estrada Geral da Limpa, onde o veículo tentou avançar contra os policiais, que precisaram se afastar para evitar atropelamento.</p><p>Foram realizados disparos contra os pneus do veículo para conter a fuga, e a abordagem foi concluída pouco depois pela ação conjunta das forças policiais.</p><p>O condutor estava acompanhado da filha menor de idade e foi encaminhado à Delegacia de Polícia Civil. Nenhum item ilícito foi encontrado no carro, que possuía documentação atrasada.</p><p>Segundo informações, o motorista utiliza o veículo para trabalhar e teria fugido por receio de apreensão do automóvel.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/com-crianca-no-veiculo-motorista-foge-de-abordagem/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Líder de facção catarinense é preso no Paraguai após troca de tiros]]></title>
-		<link>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/</link>
-		<comments>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 14:55:52 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://jornalrazao.com/?p=172584</guid>
-
-		<description><![CDATA[Maykon de Souza, líder de facção criminosa em Santa Catarina, foi preso em Pedro Juan Caballero após operação que envolveu perseguição e confronto armado.]]></description>
-		<content:encoded><![CDATA[<p>A prisão ocorreu nesta terça-feira em Pedro Juan Caballero, no Paraguai, durante uma operação de inteligência que contou com troca de tiros e perseguição policial.</p><p>Maykon de Souza, também conhecido pelos apelidos “Maykon Gordo” e “Marcolinha”, estava foragido da Justiça brasileira e utilizava documentos falsos para se esconder na região de fronteira.</p><p>Contra ele existem múltiplos mandados de prisão emitidos pelo Tribunal de Justiça de Santa Catarina, relacionados a crimes de tráfico de drogas e organização criminosa, com validade até 2031 e 2038.</p><p>As investigações indicam que Maykon estava no Paraguai há cerca de quatro a cinco anos, onde criou vínculos pessoais sob identidade falsa, dificultando sua localização.</p><p>A prisão foi resultado da cooperação entre as forças de segurança do Brasil e do Paraguai, e Maykon foi colocado à disposição das autoridades para os procedimentos legais cabíveis.</p>]]></content:encoded>
-		<wfw:commentRss>https://jornalrazao.com/seguranca/chefe-de-faccao-catarinense-e-preso-no-paraguai-apos-troca-de-tiros-e-perseguicao/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	<item>
-		<title><![CDATA[Condutor abandona passageiro após acidente de moto em Blumenau]]></title>
-		<link>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/</link>
-		<comments>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/#respond</comments>
-		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 14:12:13 +0000</pubDate>
-		<category><![CDATA[Região]]></category>
-		<guid isPermaLink="false">https://portalmenina.com.br/?p=130318</guid>
-
-		<description><![CDATA[Um acidente envolvendo duas motocicletas na Rua Engenheiro Udo Deeke, em Blumenau, resultou na fuga de um dos condutores que deixou o passageiro ferido no local.]]></description>
-		<content:encoded><![CDATA[<p>O acidente ocorreu na noite de domingo (14), por volta das 20h, no bairro Salto do Norte, envolvendo duas motocicletas. Após a colisão, o condutor de uma Honda CG 160 Fan fugiu, deixando para trás o passageiro ferido.</p><p>O passageiro, cuja idade não foi identificada, recebeu atendimento do Corpo de Bombeiros e foi encaminhado ao Hospital Santo Antônio. O outro veículo envolvido, uma Honda CG 150 Fan, era conduzido por um jovem de 21 anos que também ficou ferido.</p><p>O condutor da segunda motocicleta foi atendido pelos Bombeiros e liberado no local. A passageira, uma mulher de 21 anos, sofreu ferimentos e foi socorrida pelo SAMU, sendo levada ao Hospital Santa Isabel.</p>]]></content:encoded>
-		<wfw:commentRss>https://portalmenina.com.br/condutor-foge-apos-acidente-e-abandona-passageiro-ferido-na-rua-em-blumenau/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-	</item>
-
-	</channel>
+</channel>
 </rss>
