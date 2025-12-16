@@ -1,124 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 16 Dec 2025 18:10:46 GMT</lastBuildDate>
-<language>pt-BR</language>
-
-<item>
-<title><![CDATA[Mãe e filho autista são resgatados de apartamento em chamas em Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/incendio-residencia-sao-francisco-de-assis-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[corpo de bombeiros]]></category>
-<category><![CDATA[Mãe]]></category>
-<category><![CDATA[Filho]]></category>
-<category><![CDATA[Autista]]></category>
-<category><![CDATA[São]]></category>
-<category><![CDATA[Resgatados]]></category>
-<category><![CDATA[Apartamento]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 16 Dec 2025 18:09:26 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172730</guid>
-<description><![CDATA[Na tarde desta terça-feira (16), o Corpo de Bombeiros Militar foi acionado para atender a um incêndio em uma residência localizada na rua São Marcos, no bairro São Francisco de Assis, em Camboriú. A ocorrência mobilizou diversas viaturas e órgãos de segurança devido à informação inicial de que haveria vítimas no interior do imóvel.]]></description>
-<content:encoded><![CDATA[<strong>Na tarde desta terça-feira (16), o Corpo de Bombeiros Militar foi acionado para atender a um incêndio em uma residência localizada na rua São Marcos, no bairro São Francisco de Assis, em Camboriú. A ocorrência mobilizou diversas viaturas e órgãos de segurança devido à informação inicial de que haveria vítimas no interior do imóvel. O chamado foi feito pelo telefone 193, indicando a possibilidade de pessoas presas dentro da residência. Diante da gravidade da situação, foram deslocados caminhões de combate a incêndio, equipes de atendimento pré-hospitalar, auto escada e, de forma preventiva, até o helicóptero Águia, que poderia ser utilizado caso houvesse vítimas em estado grave. A Polícia Militar, a Defesa Civil e o SAMU também atuaram na ocorrência.</strong><br/><br/>Ao chegarem ao local, as equipes constataram que duas pessoas estavam dentro da residência no momento do incêndio. Essas duas vítimas foram retiradas do imóvel por moradores da região antes da chegada dos bombeiros. Durante o combate às chamas, os bombeiros atuaram não apenas para extinguir o fogo, mas também para realizar a ventilação do ambiente, reduzindo o calor, a fumaça e a presença de gases tóxicos, o que permitiu um trabalho mais seguro e eficiente no interior da residência. O capitão Tomás explicou que as causas do incêndio ainda não podem ser confirmadas e que somente após a investigação de incêndio por um bombeiro militar será possível apurar oficialmente a origem das chamas e as circunstâncias da ocorrência. Ele também destacou a importância de a população agir com cautela em situações de risco, acionando imediatamente os serviços de emergência e utilizando sistemas preventivos, como extintores, apenas em casos de princípio de incêndio.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Motorista de Porsche envolvida em morte de empresária tinha histórico de multas por excesso de velocidade]]></title>
-<link>https://portalmenina.com.br/motorista-de-porsche-envolvida-em-morte-de-empresaria-tinha-historico-de-multas-por-excesso-de-velocidade/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 17:22:22 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130457</guid>
-<description><![CDATA[A condutora do veículo Porsche envolvido no acidente que resultou na morte da empresária Aline Dalmolin, em Balneário Camboriú, possui um histórico de multas por excesso de velocidade. Segundo registros de sua Carteira Nacional de Habilitação (CNH), nos últimos 12 meses, a motorista, identificada como Gisele Forneroli, acumulou quatro infrações desse tipo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Pratique inaugura academia no novo Giassi em Florianópolis]]></title>
-<link>https://jornalrazao.com/saude/pratique-transforma-em-academia-andar-inteiro-do-giassi/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 17:07:54 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172708</guid>
-<description><![CDATA[A Pratique Fitness instalou uma academia de alto padrão no 4º andar do novo complexo Giassi Supermercados, no bairro Saco Grande, em Florianópolis. A unidade oferece mais de 900 m² de área e equipamentos modernos, além de estacionamento gratuito para frequentadores.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Trabalhador morre após queda de 15 metros em Santa Catarina]]></title>
-<link>https://visornoticias.com.br/trabalhador-morre-apos-cair-de-cerca-de-15-metros-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 16:52:24 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317423</guid>
-<description><![CDATA[Um trabalhador faleceu após cair de uma altura de aproximadamente 15 metros em Santa Catarina. O acidente ocorreu no local de trabalho, onde equipes de resgate foram acionadas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Idoso de 66 anos morre após mal súbito na orla de Itapema]]></title>
-<link>https://portalmenina.com.br/idoso-de-66-anos-morre-apos-mal-subito-na-orla-de-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 16:46:54 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130449</guid>
-<description><![CDATA[Um homem de 66 anos faleceu na noite de segunda-feira, 15, após sofrer um mal súbito na orla da praia de Itapema, localizada em frente à Rua 289, no bairro Meia Praia. O incidente ocorreu por volta das 19h e, inicialmente, levantou suspeitas de afogamento.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Papai Noel faz rapel na Roda Gigante de Balneário Camboriú]]></title>
-<link>https://visornoticias.com.br/papai-noel-desce-de-rapel-na-roda-gigante-bc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 16:46:09 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317416</guid>
-<description><![CDATA[O Papai Noel vai realizar uma apresentação de rapel na Roda Gigante de Balneário Camboriú nesta quinta-feira (18). A atividade acontece a 37 metros de altura, proporcionando uma atração natalina diferenciada na cidade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Rompimento de adutora afeta abastecimento em Itajaí e Navegantes]]></title>
-<link>https://visornoticias.com.br/rompimento-de-adutora-compromete-abastecimento-de-agua-em-itajai-e-navegantes/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 16:32:52 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317411</guid>
-<description><![CDATA[Um vazamento em uma adutora principal compromete o fornecimento de água em bairros de Itajaí e Navegantes. O reparo está previsto para ser concluído até o fim da tarde.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Som alto e lixo afastam famílias das cachoeiras de Brusque e Guabiruba]]></title>
-<link>https://jornalrazao.com/meioambiente/som-alto-lixo-e-confusao-afastam-familias/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 16:22:51 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172704</guid>
-<description><![CDATA[Cachoeiras em Brusque e Guabiruba, no Vale do Itajaí, têm registrado aumento de reclamações devido a som alto, lixo e desordem. Moradores afirmam que esses problemas estão afastando famílias e prejudicando o uso dos espaços naturais.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Velório de empresária morta em acidente na Barra Sul será nesta quarta]]></title>
-<link>https://portalmenina.com.br/velorio-de-empresaria-morta-em-acidente-de-transito-na-barra-sul-sera-nesta-quarta-feira/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 15:53:04 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130441</guid>
-<description><![CDATA[O velório de Aline Dalmolin, empresária de 41 anos vítima de um acidente de trânsito em Balneário Camboriú, será realizado nesta quarta-feira no Crematório Vaticano. O horário das cerimônias será divulgado em breve.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Pesquisa aponta liderança de Jorginho Mello e rejeição alta a candidato do PT em SC]]></title>
-<link>https://jornalrazao.com/politica/candidato-do-pt-lidera-pesquisa-ao-governo-de-santa-catarina-em-rejeicao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 15:04:37 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172702</guid>
-<description><![CDATA[Levantamento do Instituto Mapa divulgado em dezembro de 2025 mostra Jorginho Mello (PL) com 56,2% de intenção de voto para o governo de Santa Catarina em cenário estimulado. Décio Lima (PT) aparece com alta taxa de rejeição, liderando entre os principais nomes.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Tue, 16 Dec 2025 18:30:59 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Feminicídio é registrado após discussão entre casal]]></title>
+    <link>https://visornoticias.com.br/jovem-escuta-gritos-e-flagra-feminicidio-dentro-de-casa/</link>
+    <comments>https://visornoticias.com.br/jovem-escuta-gritos-e-flagra-feminicidio-dentro-de-casa/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 18:20:06 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317507</guid>
+    <description><![CDATA[Um jovem testemunhou um feminicídio em sua residência, que ocorreu após uma discussão entre o casal. O agressor cometeu suicídio após o ataque, conforme informações da polícia.]]></description>
+    <content:encoded><![CDATA[<p>Um jovem presenciou um feminicídio em sua casa, que aconteceu após uma discussão entre o casal. O incidente chocou a comunidade local.</p><p>De acordo com a polícia, o agressor tirou a própria vida logo após cometer o crime. As autoridades estão investigando as circunstâncias do ocorrido.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/jovem-escuta-gritos-e-flagra-feminicidio-dentro-de-casa/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Polícia Federal realiza operação contra tráfico internacional de brasileiros em SC]]></title>
+    <link>https://visornoticias.com.br/pf-deflagra-operacao-contra-trafico-internacional-de-brasileiros-e-cumpre-mandados-em-sc/</link>
+    <comments>https://visornoticias.com.br/pf-deflagra-operacao-contra-trafico-internacional-de-brasileiros-e-cumpre-mandados-em-sc/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 18:13:02 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317503</guid>
+    <description><![CDATA[A Polícia Federal deflagrou uma operação visando desarticular uma organização criminosa envolvida com o tráfico internacional de brasileiros, resultando em prisões e outras medidas em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>A Polícia Federal (PF) iniciou uma operação com o objetivo de combater o tráfico internacional de brasileiros, ligada a organizações criminosas que atuam em plataformas de apostas online.</p><p>Durante a ação, foram realizadas prisões, bloqueio de bens e a retirada de sites do ar, como parte das medidas para desmantelar a estrutura da organização.</p><p>A operação ocorreu em Santa Catarina e é parte de um esforço mais amplo para enfrentar o crime organizado no país.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/pf-deflagra-operacao-contra-trafico-internacional-de-brasileiros-e-cumpre-mandados-em-sc/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Mãe e filho autista são resgatados de apartamento em chamas em Camboriú]]></title>
+    <link>https://jornalrazao.com/seguranca/incendio-residencia-sao-francisco-de-assis-camboriu/</link>
+    <comments>https://jornalrazao.com/seguranca/incendio-residencia-sao-francisco-de-assis-camboriu/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 18:09:26 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172730</guid>
+    <description><![CDATA[Na tarde desta terça-feira (16), o Corpo de Bombeiros Militar foi acionado para atender a um incêndio em uma residência localizada na rua São Marcos, no bairro São Francisco de Assis, em Camboriú. A ocorrência mobilizou diversas viaturas e órgãos de segurança…]]></description>
+    <content:encoded><![CDATA[<p>Na tarde desta terça-feira (16), o Corpo de Bombeiros Militar foi acionado para atender a um incêndio em uma residência localizada na rua São Marcos, no bairro São Francisco de Assis, em Camboriú. A ocorrência mobilizou diversas viaturas e órgãos de segurança devido à informação inicial de que haveria vítimas no interior do imóvel.</p><p>De acordo com o capitão Tomás, responsável pela operação no local, o chamado foi feito pelo telefone 193 e indicava a possibilidade de pessoas presas dentro da residência. Diante da gravidade da situação, foram deslocados caminhões de combate a incêndio, equipes de atendimento pré-hospitalar, auto escada e, de forma preventiva, até o helicóptero Águia, que poderia ser utilizado caso houvesse vítimas em estado grave. A Polícia Militar, a Defesa Civil e o SAMU também atuaram na ocorrência.</p><p>Ao chegarem ao local, as equipes constataram que duas pessoas estavam dentro da residência no momento do incêndio. Segundo o capitão, essas duas vítimas foram retiradas do imóvel por moradores da região antes da chegada dos bombeiros. As equipes de resgate e o SAMU realizaram o atendimento imediato às vítimas, bem como às pessoas que auxiliaram no salvamento.</p><p>Durante o combate às chamas, os bombeiros atuaram não apenas para extinguir o fogo, mas também para realizar a ventilação do ambiente, reduzindo o calor, a fumaça e a presença de gases tóxicos, o que permitiu um trabalho mais seguro e eficiente no interior da residência.</p><p>Questionado sobre informações preliminares que apontavam que as vítimas seriam mãe e filho, sendo o filho autista, e que o fogo teria começado em um dos quartos, o capitão explicou que as causas do incêndio ainda não podem ser confirmadas. Segundo ele, somente após o encerramento do combate e a realização da investigação de incêndio por um bombeiro militar é que será possível apurar oficialmente a origem das chamas e as circunstâncias da ocorrência.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/incendio-residencia-sao-francisco-de-assis-camboriu/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Falece fundadora de centro de educação infantil em Blumenau]]></title>
+    <link>https://jornalrazao.com/obituario/morre-fundadora-centro-educacao-amiguinho-feliz-blumenau/</link>
+    <comments>https://jornalrazao.com/obituario/morre-fundadora-centro-educacao-amiguinho-feliz-blumenau/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 18:02:48 GMT</pubDate>
+    <category><![CDATA[Obituário]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172726</guid>
+    <description><![CDATA[Úrsula Richter, fundadora e presidente emérita do Centro de Educação Amiguinho Feliz, faleceu, deixando um legado significativo no atendimento a crianças em situação de vulnerabilidade em Blumenau.]]></description>
+    <content:encoded><![CDATA[<p>Úrsula Richter, fundadora e presidente emérita do Centro de Educação Amiguinho Feliz, faleceu, marcando a história da instituição que atende crianças em situação de vulnerabilidade em Blumenau. Ao longo de sua vida, ela se dedicou ao trabalho social e educacional, sendo reconhecida por gerações de famílias atendidas pela entidade.</p><p>Em comunicado oficial, a direção do Amiguinho Feliz anunciou que não haverá atendimento nesta terça-feira (16/12) em respeito à trajetória de Úrsula Richter. A fundadora, de origem alemã, chegou a Blumenau na década de 1960 e, após uma passagem pelo Canadá, fundou o centro em 15 de fevereiro de 1982, estabelecendo-o como uma instituição filantrópica sem fins lucrativos.</p><p>Localizado na Rua Benjamin Constant, nº 1552, no bairro Escola Agrícola, o Amiguinho Feliz atua como creche e centro de educação infantil, tendo atendido mais de 1.700 crianças ao longo de sua história, oferecendo educação, alimentação e apoio a famílias em situação de vulnerabilidade social. A morte de Úrsula Richter é considerada uma perda significativa para a comunidade blumenauense, especialmente nas áreas social e educacional.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/obituario/morre-fundadora-centro-educacao-amiguinho-feliz-blumenau/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Noite abençoada: show de Padre Fábio de Melo promete lotar Largo da Matriz no Natal Encanto de Itajaí]]></title>
+    <link>https://portalmenina.com.br/noite-abencoada-show-de-padre-fabio-de-melo-promete-lotar-largo-da-matriz-no-natal-encanto-de-itajai/</link>
+    <comments>https://portalmenina.com.br/noite-abencoada-show-de-padre-fabio-de-melo-promete-lotar-largo-da-matriz-no-natal-encanto-de-itajai/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:56:33 GMT</pubDate>
+    <category><![CDATA[Cultura]]></category>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=130472</guid>
+    <description><![CDATA[Um dos momentos mais aguardados do Natal Encanto de Itajaí acontece na noite desta terça-feira, 16, com a apresentação gratuita do Padre Fábio de Melo no palco montado no Largo da Matriz, a partir das 20h30. A expectativa é de grande público para uma noite de…]]></description>
+    <content:encoded><![CDATA[<p>Um dos momentos mais aguardados do Natal Encanto de Itajaí acontece na noite desta terça-feira, 16, com a apresentação gratuita do Padre Fábio de Melo no palco montado no Largo da Matriz, a partir das 20h30. A expectativa é de grande público para uma noite de fé, emoção e mensagens de esperança, em clima de preparação para o Natal.</p><p>Compartilhe esta notícia no WhatsApp</p><p>A apresentação integra a programação oficial do evento e deve reunir milhares de fiéis e admiradores. Além do público presente, o show também poderá ser acompanhado ao vivo pelo YouTube. A orientação é que os espectadores cheguem com antecedência para melhor acomodação e segurança.</p><p>Referência nacional na música e na comunicação católica, Padre Fábio de Melo é sacerdote, cantor, escritor e comunicador, com milhões de seguidores nas redes sociais e forte presença na televisão e no rádio. Suas apresentações costumam ir além do formato tradicional de show, combinando canções, espiritualidade e reflexões sobre a vida cotidiana.</p><p>Leia também: Segundo viaduto da Rodovia Antônio Heil com a BR-101 será liberado ao tráfego nesta sexta-feira</p>]]></content:encoded>
+    <wfw:commentRss>https://portalmenina.com.br/noite-abencoada-show-de-padre-fabio-de-melo-promete-lotar-largo-da-matriz-no-natal-encanto-de-itajai/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Dois acidentes graves na BR-280 em SC resultam em feridos]]></title>
+    <link>https://visornoticias.com.br/dois-graves-acidentes-em-uma-hora-mobilizam-helicoptero-na-br-280-em-sc/</link>
+    <comments>https://visornoticias.com.br/dois-graves-acidentes-em-uma-hora-mobilizam-helicoptero-na-br-280-em-sc/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:55:41 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317434</guid>
+    <description><![CDATA[Dois acidentes ocorridos em um intervalo de uma hora na BR-280, em Santa Catarina, deixaram um motorista e um pedestre gravemente feridos, sendo ambos transportados ao hospital pelo helicóptero Águia 01 da Polícia Militar.]]></description>
+    <content:encoded><![CDATA[<p>Na BR-280, em Santa Catarina, dois acidentes graves foram registrados em um período de uma hora. Os incidentes resultaram em ferimentos significativos para um motorista e um pedestre.</p><p>Ambas as vítimas foram socorridas e transportadas ao hospital pelo helicóptero Águia 01, da Polícia Militar, que foi mobilizado para a ocorrência.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/dois-graves-acidentes-em-uma-hora-mobilizam-helicoptero-na-br-280-em-sc/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Motociclista fica ferido após colisão com carro em SC]]></title>
+    <link>https://visornoticias.com.br/motociclista-fica-ferido-apos-bater-na-traseira-de-carro-em-sc/</link>
+    <comments>https://visornoticias.com.br/motociclista-fica-ferido-apos-bater-na-traseira-de-carro-em-sc/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:53:33 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317494</guid>
+    <description><![CDATA[Um motociclista ficou ferido em um acidente na Avenida Gustavo Fetter, em Santa Catarina, na manhã desta terça-feira (16). A vítima foi encaminhada ao hospital.]]></description>
+    <content:encoded><![CDATA[<p>Um acidente envolvendo um motociclista e um carro ocorreu na manhã desta terça-feira (16) na Avenida Gustavo Fetter, em Santa Catarina. O motociclista colidiu na traseira do veículo.</p><p>A vítima foi imediatamente levada ao hospital para receber atendimento médico. As circunstâncias do acidente estão sendo investigadas pelas autoridades competentes.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/motociclista-fica-ferido-apos-bater-na-traseira-de-carro-em-sc/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Fiscalização de perus em Florianópolis descobre padrão curioso nos supermercados]]></title>
+    <link>https://jornalrazao.com/geral/fiscalizacao-de-perus-em-florianopolis-padrao-curioso/</link>
+    <comments>https://jornalrazao.com/geral/fiscalizacao-de-perus-em-florianopolis-padrao-curioso/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:52:07 GMT</pubDate>
+    <category><![CDATA[Economia]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172721</guid>
+    <description><![CDATA[Uma fiscalização realizada pelo Procon Municipal de Florianópolis identificou indícios de falta de concorrência na venda de produtos tradicionais da ceia de Natal . Quatro supermercados da capital catarinense foram notificados após fixarem exatamente o mesmo…]]></description>
+    <content:encoded><![CDATA[<p>Uma fiscalização realizada pelo Procon Municipal de Florianópolis identificou indícios de falta de concorrência na venda de produtos tradicionais da ceia de Natal . Quatro supermercados da capital catarinense foram notificados após fixarem exatamente o mesmo preço para o quilo do peru temperado , prática que pode caracterizar infração à ordem econômica e violação ao direito do consumidor .</p><p>O levantamento analisou cinco mercados de Florianópolis e pesquisou os preços de 25 itens comuns na ceia natalina . Segundo o Procon, a igualdade de valores entre diferentes estabelecimentos aponta possível combinação de preços , o que prejudica a livre escolha do consumidor e compromete a concorrência justa .</p><p>Além do caso dos perus, a pesquisa revelou grandes variações de preços em outros produtos. Os espumantes do tipo Brut apresentaram a maior diferença , com valores entre R$ 42,99 e R$ 115,90 , uma variação de 169% . As frutas cristalizadas também chamaram atenção, com preços entre R$ 24,95 e R$ 66,60 , diferença de 166% . Já panetones e chocotones tiveram variação menor, de 9,13% , custando entre R$ 22,90 e R$ 24,99 .</p><p>De acordo com o diretor do Procon Municipal, Tiago Silva , a fiscalização tem como objetivo proteger o consumidor em um período de compras intensas. Ele destacou que, no fim do ano , muitos consumidores compram com pressa e que a pesquisa serve para auxiliar nas escolhas da ceia de Natal . Durante o levantamento, segundo ele, os fiscais constataram prática de combinação de preços entre diferentes estabelecimentos , o que motivou a emissão de notificações para que esse tipo de abuso seja interrompido e os consumidores de Florianópolis tenham possibilidade real de escolha .</p><p>As condutas apuradas podem se enquadrar como infração à ordem econômica , conforme a Lei nº 12.529 de 2011 , que trata da defesa da concorrência . A legislação considera infração atos que limitem ou prejudiquem a livre concorrência , dominem mercado relevante , aumentem arbitrariamente os lucros ou exerçam posição dominante de forma abusiva .</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/geral/fiscalizacao-de-perus-em-florianopolis-padrao-curioso/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Natal Balneário Camboriú realiza paradas nos bairros Nações e Iate Clube]]></title>
+    <link>https://visornoticias.com.br/natal-balneario-camboriu-15/</link>
+    <comments>https://visornoticias.com.br/natal-balneario-camboriu-15/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:45:33 GMT</pubDate>
+    <category><![CDATA[Balneário Camboriú]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317377</guid>
+    <description><![CDATA[O Natal Balneário Camboriú amplia suas festividades com paradas natalinas nos bairros Nações e Iate Clube.]]></description>
+    <content:encoded><![CDATA[<p>O Natal Balneário Camboriú está expandindo suas celebrações com a inclusão de paradas natalinas nos bairros Nações e Iate Clube. As atividades visam levar a magia do Natal para diferentes regiões da cidade.</p><p>As paradas são parte das festividades programadas para este período e buscam envolver a comunidade local nas celebrações natalinas, proporcionando um ambiente festivo e de confraternização.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/natal-balneario-camboriu-15/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Feira de Verão de Balneário Camboriú amplia dias de funcionamento]]></title>
+    <link>https://visornoticias.com.br/feira-verao-balneario-camboriu/</link>
+    <comments>https://visornoticias.com.br/feira-verao-balneario-camboriu/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 17:45:25 GMT</pubDate>
+    <category><![CDATA[Balneário Camboriú]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317376</guid>
+    <description><![CDATA[A Feira de Verão de Balneário Camboriú irá funcionar por mais dias durante o período das festas de fim de ano.]]></description>
+    <content:encoded><![CDATA[<p>A Feira de Verão de Balneário Camboriú anunciou uma ampliação em seu calendário de funcionamento para o período das festas de fim de ano.</p><p>A medida visa atender a demanda crescente de visitantes e moradores durante essa época do ano, oferecendo mais oportunidades para compras e lazer.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/feira-verao-balneario-camboriu/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
