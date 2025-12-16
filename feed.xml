@@ -1,124 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 16 Dec 2025 00:00:40 GMT</lastBuildDate>
-<language>pt-BR</language>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Tue, 16 Dec 2025 00:17:29 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 
-<item>
-<title><![CDATA[PM PRENDE HOMEM POR TRÁFICO DE DROGAS EM ITAPEMA]]></title>
-<link>https://horadeportobelo.com.br/2025/12/15/pm-prende-homem-por-trafico-de-drogas-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Pm]]></category>
-<category><![CDATA[Prende]]></category>
-<category><![CDATA[Homem]]></category>
-<category><![CDATA[Tráfico]]></category>
-<category><![CDATA[Drogas]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Mon, 15 Dec 2025 23:52:09 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20390</guid>
-<description><![CDATA[Na tarde deste sábado (13), por volta das 17h30, a guarnição da Polícia Militar deslocou-se até a Rua 450, no bairro Morretes, área conhecida como “Invasão”, em Itapema, para averiguar denúncias relacionadas ao tráfico de drogas. No local, os policiais identificaram um homem de 30 anos, apontado como suspeito de comercializar entorpecentes.]]></description>
-<content:encoded><![CDATA[<strong>Na tarde deste sábado (13), por volta das 17h30, a guarnição da Polícia Militar deslocou-se até a Rua 450, no bairro Morretes, área conhecida como “Invasão”, em Itapema, para averiguar denúncias relacionadas ao tráfico de drogas. No local, os policiais identificaram um homem de 30 anos, apontado como suspeito de comercializar entorpecentes. Após breve monitoramento, foram observados movimentos compatíveis com a prática do tráfico, motivo pelo qual foi realizada a abordagem.</strong><br/><br/>Durante a busca pessoal, foram encontrados R$ 125,00 em espécie no bolso do suspeito. Em um terreno baldio próximo ao ponto onde ele se encontrava, a guarnição localizou 45 porções de substância análoga ao crack, embaladas e prontas para venda. Todo o material foi apreendido e devidamente lacrado. Diante dos fatos, o homem foi detido e conduzido à Delegacia de Polícia de Itapema, juntamente com a droga apreendida, para os procedimentos legais cabíveis. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Câmara de Itapema promove espetáculo natalino nesta quinta-feira]]></title>
+		<link>https://visornoticias.com.br/camara-de-itapema-convida-comunidade-para-espetaculo-de-natal/</link>
+		<comments>https://visornoticias.com.br/camara-de-itapema-convida-comunidade-para-espetaculo-de-natal/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 23:56:28 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317061</guid>
 
-<item>
-<title><![CDATA[Mutirão em Tubarão atende pacientes com câncer de pele em fila do SUS]]></title>
-<link>https://visornoticias.com.br/mutirao-cancer-de-pele-tubarao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 21:34:34 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=316990</guid>
-<description><![CDATA[Um mutirão de dermatologia realizado em Tubarão, Santa Catarina, atendeu casos de câncer de pele que estavam na fila de espera do Sistema Único de Saúde (SUS).]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A Câmara de Itapema organiza o show “Vozes de Natal”, com apresentações de corais e teatro. O evento acontece em frente ao Legislativo nesta quinta-feira, 18 de dezembro.]]></description>
+		<content:encoded><![CDATA[<p>O espetáculo “Vozes de Natal” reunirá atrações natalinas, incluindo corais e peças teatrais, para celebrar a data em ambiente comunitário. A iniciativa acontece na frente da Câmara de Itapema, localizada no litoral catarinense.</p><p>A programação está marcada para o dia 18 de dezembro, quinta-feira, e tem o objetivo de aproximar a população às celebrações do fim de ano. O evento é aberto ao público e gratuito.</p><p>Os organizadores esperam reunir moradores e visitantes para aproveitar as apresentações e o clima natalino, fortalecendo o vínculo da comunidade local com as tradições da temporada.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/camara-de-itapema-convida-comunidade-para-espetaculo-de-natal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Segundo viaduto da Rodovia Antônio Heil com a BR]]></title>
-<link>https://portalmenina.com.br/segundo-viaduto-da-rodovia-antonio-heil-com-a-br-101-sera-liberado-ao-trafego-nesta-sexta-feira/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 21:33:28 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130369</guid>
-<description><![CDATA[O segundo elevado do complexo viário que conecta a SC-486 (Rodovia Antônio Heil) à BR-101 será liberado ao tráfego a partir das 8h30 desta sexta-feira, 19. A estrutura, parte de uma das principais obras de mobilidade em andamento em Santa Catarina, tem como objetivo ampliar a fluidez do trânsito em um dos entroncamentos mais movimentados do estado.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[PM prende homem por tráfico de drogas em Itapema]]></title>
+		<link>https://horadeportobelo.com.br/2025/12/15/pm-prende-homem-por-trafico-de-drogas-em-itapema/</link>
+		<comments>https://horadeportobelo.com.br/2025/12/15/pm-prende-homem-por-trafico-de-drogas-em-itapema/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 23:52:09 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20390</guid>
 
-<item>
-<title><![CDATA[Operação policial em Santa Catarina apreende mais de 100 kg de drogas e neutraliza criminoso em Itajaí]]></title>
-<link>https://jornalrazao.com/seguranca/operacao-contra-o-trafico-neutraliza-criminoso-em-itajai-e-apreende-drogas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 21:12:49 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172642</guid>
-<description><![CDATA[A Polícia Civil de Santa Catarina realizou uma operação que resultou na apreensão de mais de 100 kg de drogas, prisões em flagrante e na neutralização de um criminoso durante o cumprimento de mandados em múltiplas cidades do estado e no Paraná.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Um homem de 30 anos foi detido pela Polícia Militar na tarde deste sábado (13) em Itapema, após denúncias de tráfico de drogas. A ação ocorreu no bairro Morretes, onde foram apreendidas substâncias ilícitas.]]></description>
+		<content:encoded><![CDATA[<p>Por volta das 17h30, uma guarnição da Polícia Militar foi até a Rua 450, na área conhecida como "Invasão", para averiguar denúncias relacionadas ao tráfico de drogas. No local, os policiais identificaram o suspeito e monitoraram seus movimentos.</p><p>Após constatar atividades compatíveis com a venda de entorpecentes, os agentes realizaram a abordagem. Durante a busca pessoal, foram encontrados R$ 125 em dinheiro com o homem.</p><p>Em um terreno baldio próximo ao ponto onde ele estava, os policiais localizaram 45 porções de uma substância semelhante ao crack, embaladas e prontas para comercialização.</p><p>Todo o material foi apreendido e lacrado. O suspeito foi conduzido à Delegacia de Polícia de Itapema para os procedimentos legais cabíveis.</p>]]></content:encoded>
+		<wfw:commentRss>https://horadeportobelo.com.br/2025/12/15/pm-prende-homem-por-trafico-de-drogas-em-itapema/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Polícia prende homem por maus-tratos após encontrar cães feridos em ambiente insalubre em SC]]></title>
-<link>https://visornoticias.com.br/policia-encontra-caes-feridos-e-prende-tutor-por-maus-tratos-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 21:08:00 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=316999</guid>
-<description><![CDATA[Autoridades detiveram um homem em Santa Catarina após denúncias que levaram à descoberta de cães feridos em condições precárias de higiene.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Homem é preso por arrastar cachorro amarrado a caminhão em Blumenau]]></title>
+		<link>https://jornalrazao.com/seguranca/homem-preso-arrastar-cachorro-caminhao-guincho-blumenau/</link>
+		<comments>https://jornalrazao.com/seguranca/homem-preso-arrastar-cachorro-caminhao-guincho-blumenau/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 23:22:01 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=172660</guid>
 
-<item>
-<title><![CDATA[Motorista bêbada que causou morte de empresária em BC é solta após pagar fiança de R$ 30 mil]]></title>
-<link>https://jornalrazao.com/seguranca/motorista-porsche-solta-fianca-morte-aline-dalmolin-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 21:06:33 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172644</guid>
-<description><![CDATA[A motorista do Porsche Macan que causou a morte da empresária Aline Cristina Dalmolin, em Balneário Camboriú, foi solta após audiência de custódia realizada nesta segunda-feira (15). Gisele Piccoli Forneroli, de 57 anos, foi liberada mediante o pagamento de fiança no valor de R$ 30.360,00, equivalente a 20 salários mínimos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Um homem de 34 anos foi preso em flagrante em Blumenau após arrastar um cachorro amarrado à carroceria de um caminhão guincho por cerca de 1 km. O animal sofreu ferimentos graves e foi encaminhado para tratamento veterinário.]]></description>
+		<content:encoded><![CDATA[<p>O caso ocorreu no dia 29 de novembro na Rua Bahia, quando uma motorista percebeu que um cachorro estava sendo arrastado pela via pública e acionou as autoridades. As câmeras de videomonitoramento confirmaram que o animal percorreu aproximadamente 1 km preso por uma corrente ao caminhão guincho.</p><p>Após relatos de testemunhas, o motorista deixou o local, mas a Polícia Civil iniciou as investigações e localizou o suspeito em sua residência. No local, o cachorro foi encontrado com feridas abertas, unhas arrancadas e músculos expostos, em estado grave de sofrimento.</p><p>O homem admitiu em depoimento que não levou o animal ao veterinário durante os 16 dias posteriores ao ocorrido, tendo aplicado apenas óleo de girassol nos ferimentos. A médica veterinária da Secretaria Municipal de Meio Ambiente e Sustentabilidade (SEMMAS) confirmou que o animal estava em situação de maus-tratos e precisava de atendimento imediato.</p><p>O cachorro foi resgatado e encaminhado ao Centro de Proteção e Recuperação Animal Doméstico (CEPRAD), onde permanece em tratamento e estará disponível para adoção responsável após a recuperação. A conduta do suspeito enquadra-se no crime de maus-tratos a animal, com pena prevista de 2 a 5 anos de reclusão.</p><p>A Delegacia de Proteção Animal reforça a importância da denúncia da população e orienta que denúncias podem ser feitas de forma anônima pelo Disque Denúncia 181.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/homem-preso-arrastar-cachorro-caminhao-guincho-blumenau/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Motorista de Porsche é solta após pagar fiança por acidente que matou empresária em BC]]></title>
-<link>https://portalmenina.com.br/motorista-de-porsche-e-solta-apos-pagar-fianca-por-acidente-que-matou-empresaria-em-bc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 20:58:36 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130365</guid>
-<description><![CDATA[A motorista do Porsche Macan envolvida no acidente que resultou na morte da empresária Aline Cristina Dalmolin, em Balneário Camboriú, foi liberada após audiência de custódia realizada na tarde de segunda-feira, 15. Gisele Forneroli, de 57 anos, teve a soltura condicionada ao pagamento de R$ 30 mil de fiança.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Protesto bloqueia avenida em Florianópolis após morte em operação da PM]]></title>
+		<link>https://jornalrazao.com/seguranca/protesto-contra-a-pmsc-apos-morte-em-florianopolis/</link>
+		<comments>https://jornalrazao.com/seguranca/protesto-contra-a-pmsc-apos-morte-em-florianopolis/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 22:50:23 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=172656</guid>
 
-<item>
-<title><![CDATA[Vivapark Porto Belo será sede da nova unidade da PSG Academy no Brasil]]></title>
-<link>https://visornoticias.com.br/vivapark-porto-belo-e-escolhido-pelo-paris-saint-germain-para-nova-unidade-da-psg-academy-no-brasil/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 20:42:57 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317016</guid>
-<description><![CDATA[O clube francês Paris Saint-Germain escolheu o Vivapark Porto Belo para inaugurar uma nova unidade de sua academia oficial no país, com foco em projetos sustentáveis e turmas a partir de 2 anos de idade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Moradores do Morro do Mocotó realizaram protesto na tarde desta segunda-feira (15) contra a morte de Hudson Pinheiro Martins Cipriano, ocorrida durante uma ação da Polícia Militar em Florianópolis. O ato interditou a Avenida Hercílio Luz, no Centro da capital catarinense.]]></description>
+		<content:encoded><![CDATA[<p>Os manifestantes exibiram faixas e cartazes e pediram o uso obrigatório de câmeras corporais pelos policiais militares, alegando que isso garantiria maior transparência nas abordagens. Durante a manifestação, moradores denunciaram o que classificam como violência desproporcional e seletiva da corporação.</p><p>Segundo os participantes do protesto, Hudson seria mais uma vítima da política de extermínio contra jovens negros e pobres das favelas de Florianópolis. Por sua vez, a Polícia Militar informou que o jovem estava armado com uma pistola 9mm, usava balaclava e teria reagido a uma abordagem durante uma patrulha de rotina, o que resultou no confronto e na morte dele. A arma foi apreendida.</p><p>A comunidade contesta essa versão, afirmando que Hudson tentou fugir e foi atingido pelas costas, sem chance de se render. O protesto ocorreu de forma pacífica, porém o clima permanece tenso na região.</p><p>A Polícia Científica deve realizar perícia balística e análise da arma para esclarecer as circunstâncias da morte.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/seguranca/protesto-contra-a-pmsc-apos-morte-em-florianopolis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[MPF cobra rapidez na manutenção da ponte sobre o Rio Itajaí-Açu na BR-101]]></title>
-<link>https://visornoticias.com.br/mpf-pede-agilidade-na-manutencao-de-ponte-estrategica-da-br-101/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 20:23:14 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=316987</guid>
-<description><![CDATA[O Ministério Público Federal (MPF) solicitou à Agência Nacional de Transportes Terrestres (ANTT) que apresente, em até dez dias, um plano detalhado para a manutenção da ponte sobre o Rio Itajaí-Açu, na BR-101.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Horizon Palace é entregue com vista para o mar em Itapema]]></title>
+		<link>https://visornoticias.com.br/horizon-palace-e-entregue-em-itapema-com-vista-definitiva-para-o-mar/</link>
+		<comments>https://visornoticias.com.br/horizon-palace-e-entregue-em-itapema-com-vista-definitiva-para-o-mar/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 22:28:12 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317045</guid>
 
-<item>
-<title><![CDATA[Bairros Nações e Iate Clube recebem paradas do Viva o Natal BC; saiba quando]]></title>
-<link>https://portalmenina.com.br/bairros-nacoes-e-iate-clube-recebem-paradas-do-viva-o-natal-bc-saiba-quando/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 15 Dec 2025 19:52:12 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130359</guid>
-<description><![CDATA[O evento Viva o Natal BC 2025 está levando sua programação aos bairros Nações e Iate Clube nesta semana, com paradas natalinas que contam com música, apresentações artísticas e atividades voltadas para o público infantil. Bailarinos, músicos e o Papai Noel oficial do Natal de Balneário Camboriú estão presentes nas ações, que têm como objetivo descentralizar as atrações natalinas, levando entretenimento para além da região central da cidade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[O empreendimento de alto padrão Horizon Palace foi entregue recentemente em Itapema, na região da Meia Praia. As unidades possuem quatro suítes e oferecem lazer completo e tecnologia residencial.]]></description>
+		<content:encoded><![CDATA[<p>Localizado na Meia Praia, o Horizon Palace é um residencial que se destaca pela vista definitiva para o mar. O condomínio reúne conforto e inovação, com infraestrutura completa voltada para o lazer dos moradores.</p><p>Cada unidade conta com quatro suítes, proporcionando amplo espaço e privacidade. Além disso, o empreendimento incorpora tecnologia residencial para garantir praticidade e segurança aos residentes.</p><p>A entrega do Horizon Palace marca uma nova opção de moradia de alto padrão no Litoral Norte de Santa Catarina, contribuindo para o desenvolvimento e valorização da região.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/horizon-palace-e-entregue-em-itapema-com-vista-definitiva-para-o-mar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-</channel>
+	<item>
+		<title><![CDATA[Viaduto da Segala&apos;s na BR-470 é liberado em Gaspar]]></title>
+		<link>https://portalmenina.com.br/viaduto-da-segalas-na-br-470-sera-entregue-nesta-terca-feira/</link>
+		<comments>https://portalmenina.com.br/viaduto-da-segalas-na-br-470-sera-entregue-nesta-terca-feira/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 22:11:03 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=130366</guid>
+
+		<description><![CDATA[O viaduto da Segala's, no km 45 da BR-470, em Gaspar, será liberado para o tráfego de veículos nesta terça-feira (16). A obra visa melhorar o fluxo e a segurança no local.]]></description>
+		<content:encoded><![CDATA[<p>Localizado no quilômetro 45 da BR-470, em Gaspar, o viaduto da Segala's terá sua liberação oficial ao trânsito nesta terça-feira (16). A estrutura possui 51,40 metros de extensão por 12,80 metros de largura.</p><p>Considerando as rampas, vias laterais e acessos, as intervenções viárias somam um total de 570 metros. O investimento na obra foi de R$ 17,5 milhões.</p><p>Segundo o Departamento Nacional de Infraestrutura de Transportes (DNIT), a nova construção vai melhorar a ligação entre o Centro de Gaspar e o bairro Belchior Central, proporcionando maior fluidez no trânsito e segurança tanto para motoristas quanto para pedestres.</p><p>Em 2025, já foram concluídos dois outros viadutos na BR-470: o Viaduto Fortaleza, no km 48, e o Complexo Viário do Badenfurt, no km 57, ambos em Blumenau. Dos 27 viadutos previstos na duplicação da rodovia em Santa Catarina, 20 estão finalizados até o momento.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/viaduto-da-segalas-na-br-470-sera-entregue-nesta-terca-feira/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Homem é preso em SC após matar esposa em São Paulo]]></title>
+		<link>https://visornoticias.com.br/apos-matar-esposa-em-sp-homem-foge-para-sc-e-acaba-preso-no-oeste-catarinense/</link>
+		<comments>https://visornoticias.com.br/apos-matar-esposa-em-sp-homem-foge-para-sc-e-acaba-preso-no-oeste-catarinense/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 22:07:16 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317041</guid>
+
+		<description><![CDATA[Um homem acusado de matar a esposa em São Paulo foi preso na cidade de Irani, no Oeste de Santa Catarina. A Justiça decretou a prisão preventiva do suspeito após sua localização no estado catarinense.]]></description>
+		<content:encoded><![CDATA[<p>O homem estava foragido desde o crime cometido em São Paulo e foi encontrado pelas autoridades em Irani, região Oeste de Santa Catarina. Após a prisão, ele foi encaminhado às autoridades locais para as providências cabíveis.</p><p>A Justiça de São Paulo já havia decretado a prisão preventiva do suspeito, o que motivou as equipes policiais catarinenses a realizarem a busca e efetivarem sua detenção.</p><p>O caso segue sob investigação para elucidação dos detalhes do crime. A prisão foi confirmada pelas forças de segurança responsáveis pela operação em Santa Catarina.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/apos-matar-esposa-em-sp-homem-foge-para-sc-e-acaba-preso-no-oeste-catarinense/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Homem é preso após atirar contra vizinho em Santa Catarina]]></title>
+		<link>https://visornoticias.com.br/homem-que-tentou-matar-vizinho-a-tiros-e-preso-em-sc/</link>
+		<comments>https://visornoticias.com.br/homem-que-tentou-matar-vizinho-a-tiros-e-preso-em-sc/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 21:54:46 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317038</guid>
+
+		<description><![CDATA[Um homem foi detido após disparar cinco tiros contra um vizinho, em Santa Catarina. A prisão preventiva foi realizada nesta segunda-feira (15).]]></description>
+		<content:encoded><![CDATA[<p>Um homem foi preso preventivamente na última segunda-feira (15) em Santa Catarina, após tentar matar um vizinho a tiros. De acordo com as autoridades, o suspeito efetuou cinco disparos contra a vítima.</p><p>A ação resultou na detenção imediata do autor dos disparos. As circunstâncias que motivaram o crime ainda estão sendo investigadas pela polícia local.</p><p>A prisão preventiva visa garantir a segurança da comunidade e impedir que o suspeito pratique novos atos violentos enquanto o caso é apurado.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/homem-que-tentou-matar-vizinho-a-tiros-e-preso-em-sc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Mutirão atende pacientes com câncer de pele em Tubarão]]></title>
+		<link>https://visornoticias.com.br/mutirao-cancer-de-pele-tubarao/</link>
+		<comments>https://visornoticias.com.br/mutirao-cancer-de-pele-tubarao/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 21:34:34 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=316990</guid>
+
+		<description><![CDATA[A Prefeitura de Tubarão realizou um mutirão de dermatologia para reduzir a fila de espera por atendimento no Sistema Único de Saúde (SUS) referente a casos de câncer de pele. O objetivo foi oferecer diagnósticos e procedimentos a pacientes que aguardavam no serviço público.]]></description>
+		<content:encoded><![CDATA[<p>O mutirão de dermatologia em Tubarão, no Sul de Santa Catarina, concentrou esforços para atender pacientes que estavam em lista de espera por exames e tratamentos relacionados ao câncer de pele. A iniciativa buscou oferecer atendimento especializado, incluindo consultas e procedimentos necessários para o diagnóstico e controle da doença.</p><p>A ação integra as estratégias da Secretaria Municipal de Saúde para desafogar a demanda reprimida e reduzir os riscos associados à demora no diagnóstico e tratamento do câncer de pele. Os atendimentos foram realizados por profissionais capacitados, seguindo protocolos do SUS.</p><p>Além dos procedimentos realizados durante o mutirão, os pacientes receberam orientações sobre cuidados e prevenção, com o intuito de promover a saúde e evitar casos futuros. O município reforça o compromisso com a ampliação do acesso aos serviços de saúde dermatológica.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/mutirao-cancer-de-pele-tubarao/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Segundo viaduto na SC-486 com BR-101 será liberado nesta sexta-feira]]></title>
+		<link>https://portalmenina.com.br/segundo-viaduto-da-rodovia-antonio-heil-com-a-br-101-sera-liberado-ao-trafego-nesta-sexta-feira/</link>
+		<comments>https://portalmenina.com.br/segundo-viaduto-da-rodovia-antonio-heil-com-a-br-101-sera-liberado-ao-trafego-nesta-sexta-feira/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 21:33:28 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=130369</guid>
+
+		<description><![CDATA[O segundo elevado do complexo viário que liga a SC-486 (Rodovia Antônio Heil) à BR-101 será liberado ao tráfego nesta sexta-feira, 19, às 8h30. A obra deve melhorar a fluidez e diminuir congestionamentos em uma das áreas mais movimentadas de Santa Catarina.]]></description>
+		<content:encoded><![CDATA[<p>A liberação do segundo viaduto contará com a presença do governador Jorginho Mello e do secretário da Infraestrutura e Mobilidade, Jerry Comper. A estrutura integra um conjunto de intervenções destinadas a melhorar a ligação entre o Vale do Itajaí e o Litoral Norte, contemplando municípios como Itajaí, Brusque e Balneário Camboriú.</p><p>Com a entrega do novo elevado, espera-se reduzir as interferências no tráfego entre a SC-486 e a BR-101, contribuindo para diminuir os congestionamentos e o risco de acidentes, principalmente nos horários de pico. A medida deverá impactar positivamente no tempo de deslocamento dos veículos que utilizam diariamente essa rota.</p><p>O complexo viário inclui a construção de dois elevados, viadutos, alças de acesso, duplicação de pistas, além de melhorias geométricas e na drenagem. Até o momento foram concluídos o primeiro elevado, quatro alças externas, duas internas e adequações nos acessos.</p><p>O investimento total ultrapassa R$ 60 milhões, com recursos do Governo do Estado por meio da Secretaria de Estado da Infraestrutura e Mobilidade (SIE). A obra faz parte do programa Estrada Boa, que visa a recuperação e ampliação da malha rodoviária catarinense.</p><p>As obras continuam em andamento para a finalização completa do complexo. A previsão é que, ao serem concluídas todas as etapas, o projeto elimine gargalos históricos no acesso entre a Rodovia Antônio Heil e a BR-101, oferecendo uma solução definitiva para o trânsito da região.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/segundo-viaduto-da-rodovia-antonio-heil-com-a-br-101-sera-liberado-ao-trafego-nesta-sexta-feira/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
