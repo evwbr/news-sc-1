@@ -1,137 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 16 Dec 2025 19:30:47 GMT</lastBuildDate>
-<language>pt-BR</language>
-
-<item>
-<title><![CDATA[Tijucas conquista Selo Ouro em Transparência Pública após salto histórico no índice nacional]]></title>
-<link>https://horadeportobelo.com.br/2025/12/16/tijucas-conquista-selo-ouro-em-transparencia-publica-apos-salto-historico-no-indice-nacional/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 19:09:29 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20398</guid>
-<description><![CDATA[A Prefeitura de Tijucas foi agraciada com o Selo de Qualidade em Transparência Pública na categoria Ouro, concedido pelo Programa Nacional de Transparência Pública (PNTP), coordenado pela Associação dos Membros dos Tribunais de Contas do Brasil (Atricon), em parceria com os Tribunais de Contas. O reconhecimento refere-se ao ciclo de avaliação de 2025, no qual o município alcançou um índice de transparência de 85,11%, com a totalidade dos itens essenciais atendidos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Vídeo: incêndio atinge residência em Camboriú e mobiliza Corpo de Bombeiros]]></title>
-<link>https://portalmenina.com.br/video-incendio-atinge-residencia-em-camboriu-e-mobiliza-corpo-de-bombeiros/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[Vídeo]]></category>
-<category><![CDATA[Incêndio]]></category>
-<category><![CDATA[Atinge]]></category>
-<category><![CDATA[Residência]]></category>
-<category><![CDATA[Mobiliza]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 16 Dec 2025 18:49:46 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130481</guid>
-<description><![CDATA[Um incêndio atingiu um sobrado localizado na Rua São Marcos, no bairro São Francisco de Assis, em Camboriú, no início da tarde desta terça-feira, 16. As chamas mobilizaram diversas equipes do Corpo de Bombeiros, que prontamente se deslocaram para o local com o objetivo de conter o fogo.]]></description>
-<content:encoded><![CDATA[<strong>Um incêndio atingiu um sobrado localizado na Rua São Marcos, no bairro São Francisco de Assis, em Camboriú, no início da tarde desta terça-feira, 16. As chamas mobilizaram diversas equipes do Corpo de Bombeiros, que prontamente se deslocaram para o local com o objetivo de conter o fogo. Segundo relatos de uma testemunha residente em frente à casa, o incêndio teria iniciado no sistema de ar-condicionado do imóvel, especificamente nas instalações do equipamento. No momento do ocorrido, não havia moradores dentro da residência, e não foram registrados feridos.</strong><br/><br/>As autoridades competentes ainda deverão investigar as causas do incêndio, que permanecem desconhecidas até o momento. Não há informações disponíveis sobre a extensão dos danos materiais causados pelo incidente. A rápida ação das equipes de bombeiros foi fundamental para evitar maiores prejuízos e garantir a segurança da região. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Polícia Militar vai ganhar reforço de efetivo para a temporada de verão em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/policia-militar-reforca-efetivo-para-a-temporada-de-verao-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[balneário camboriú]]></category>
-<category><![CDATA[Polícia]]></category>
-<category><![CDATA[Militar]]></category>
-<category><![CDATA[Vai]]></category>
-<category><![CDATA[Ganhar]]></category>
-<category><![CDATA[Reforço]]></category>
-<category><![CDATA[Efetivo]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 16 Dec 2025 18:34:27 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130478</guid>
-<description><![CDATA[A Polícia Militar está intensificando o policiamento em Balneário Camboriú visando ao aumento do fluxo de turistas durante a temporada de verão e, especialmente, às celebrações de Réveillon. A ação é coordenada pelo 12º Batalhão de Polícia Militar (12º BPM) e teve início no mês de outubro.]]></description>
-<content:encoded><![CDATA[<strong>A Polícia Militar está intensificando o policiamento em Balneário Camboriú visando ao aumento do fluxo de turistas durante a temporada de verão e, especialmente, às celebrações de Réveillon. A ação é coordenada pelo 12º Batalhão de Polícia Militar (12º BPM) e teve início no mês de outubro. De acordo com o comandante do 12º BPM, tenente-coronel Rafael Vicente, mais de 200 policiais militares foram empregados nos três últimos finais de semana para garantir a segurança durante os desfiles de Natal realizados na cidade.</strong><br/><br/>Na semana do Natal, com o início da Operação Estação Verão, o batalhão recebe um reforço imediato de 59 policiais, que atuarão de forma fixa em Balneário Camboriú até a segunda quinzena de janeiro. O objetivo do reforço é ampliar a sensação de segurança para moradores, turistas e investidores, especialmente em um dos períodos de maior movimento do ano no Litoral Norte catarinense. Para otimizar a atuação, o comandante do 12º BPM adotou uma estratégia operacional de divisão do efetivo, concentrando policiais vindos de outras regiões do estado, como o Oeste e o Extremo-Oeste, principalmente no cinturão central da cidade, com atuação reforçada na Avenida Atlântica e na Avenida Brasil, áreas com maior circulação de turistas. Enquanto os policiais que atuam durante todo o ano em Balneário Camboriú permanecem responsáveis pelo policiamento dos bairros, garantindo a segurança das áreas residenciais. A intensificação do policiamento seguirá ao longo da temporada de verão, com foco na prevenção de crimes, atendimento rápido à população e manutenção da ordem pública durante os grandes eventos de fim de ano, até o Carnaval.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Feminicídio é registrado após discussão entre casal]]></title>
-<link>https://visornoticias.com.br/jovem-escuta-gritos-e-flagra-feminicidio-dentro-de-casa/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 18:20:06 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317507</guid>
-<description><![CDATA[Um jovem testemunhou um feminicídio em sua residência, que ocorreu após uma discussão entre o casal. O agressor cometeu suicídio após o ataque, conforme informações da polícia.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Polícia Federal realiza operação contra tráfico internacional de brasileiros em SC]]></title>
-<link>https://visornoticias.com.br/pf-deflagra-operacao-contra-trafico-internacional-de-brasileiros-e-cumpre-mandados-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 18:13:02 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317503</guid>
-<description><![CDATA[A Polícia Federal deflagrou uma operação visando desarticular uma organização criminosa envolvida com o tráfico internacional de brasileiros, resultando em prisões e outras medidas em Santa Catarina.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Mãe e filho autista são resgatados de apartamento em chamas em Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/incendio-residencia-sao-francisco-de-assis-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 18:09:26 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172730</guid>
-<description><![CDATA[Na tarde desta terça-feira (16), o Corpo de Bombeiros Militar foi acionado para atender a um incêndio em uma residência localizada na rua São Marcos, no bairro São Francisco de Assis, em Camboriú. A ocorrência mobilizou diversas viaturas e órgãos de segurança devido à informação inicial de que haveria vítimas no interior do imóvel.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Falece fundadora de centro de educação infantil em Blumenau]]></title>
-<link>https://jornalrazao.com/obituario/morre-fundadora-centro-educacao-amiguinho-feliz-blumenau/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 18:02:48 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172726</guid>
-<description><![CDATA[Úrsula Richter, fundadora e presidente emérita do Centro de Educação Amiguinho Feliz, faleceu, deixando um legado significativo no atendimento a crianças em situação de vulnerabilidade em Blumenau.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Noite abençoada: show de Padre Fábio de Melo promete lotar Largo da Matriz no Natal Encanto de Itajaí]]></title>
-<link>https://portalmenina.com.br/noite-abencoada-show-de-padre-fabio-de-melo-promete-lotar-largo-da-matriz-no-natal-encanto-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 17:56:33 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130472</guid>
-<description><![CDATA[Nesta terça-feira, 16, o Natal Encanto de Itajaí apresentará um dos momentos mais aguardados do evento, com a realização do show gratuito do Padre Fábio de Melo no palco montado no Largo da Matriz, a partir das 20h30. A expectativa é de um grande público reunido para uma noite de fé, emoção e mensagens de esperança, em preparação para o Natal.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Dois acidentes graves na BR-280 em SC resultam em feridos]]></title>
-<link>https://visornoticias.com.br/dois-graves-acidentes-em-uma-hora-mobilizam-helicoptero-na-br-280-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 17:55:41 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317434</guid>
-<description><![CDATA[Dois acidentes ocorridos em um intervalo de uma hora na BR-280, em Santa Catarina, deixaram um motorista e um pedestre gravemente feridos, sendo ambos transportados ao hospital pelo helicóptero Águia 01 da Polícia Militar.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Motociclista fica ferido após colisão com carro em SC]]></title>
-<link>https://visornoticias.com.br/motociclista-fica-ferido-apos-bater-na-traseira-de-carro-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 17:53:33 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317494</guid>
-<description><![CDATA[Um motociclista ficou ferido em um acidente na Avenida Gustavo Fetter, em Santa Catarina, na manhã desta terça-feira (16). A vítima foi encaminhada ao hospital.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Tue, 16 Dec 2025 20:52:18 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Cadeira anfíbia facilita acesso ao mar em praia de Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/</link>
+    <comments>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
+    <category><![CDATA[Geral]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317585</guid>
+    <description><![CDATA[O Programa Praia Acessível oferece cadeiras anfíbias que permitem que pessoas com mobilidade reduzida entrem no mar com segurança.]]></description>
+    <content:encoded><![CDATA[<p>O Programa Praia Acessível, implementado em uma praia de Santa Catarina, disponibiliza cadeiras anfíbias para facilitar o acesso ao mar para pessoas com mobilidade reduzida.</p><p>Essas cadeiras têm como objetivo proporcionar segurança e conforto, permitindo que mais pessoas possam desfrutar do banho de mar.</p><p>A iniciativa visa realizar o sonho de muitos que enfrentam dificuldades de locomoção, promovendo inclusão e acessibilidade nas praias.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Ação de Natal beneficia 200 crianças em Tubarão com brinquedos]]></title>
+    <link>https://visornoticias.com.br/acao-natal-tubarao/</link>
+    <comments>https://visornoticias.com.br/acao-natal-tubarao/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:31:02 GMT</pubDate>
+    <category><![CDATA[Assistência Social]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317562</guid>
+    <description><![CDATA[O Instituto Nossa Família realizou uma ação de Natal que atendeu 200 crianças em Tubarão, oferecendo brinquedos, lanches e atividades recreativas.]]></description>
+    <content:encoded><![CDATA[<p>O Instituto Nossa Família promoveu uma ação de Natal em Tubarão, beneficiando 200 crianças. O evento incluiu a distribuição de brinquedos, lanches e a realização de atividades recreativas.</p><p>A iniciativa visa proporcionar momentos de alegria e diversão para as crianças durante o período natalino, promovendo a inclusão e o bem-estar social.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/acao-natal-tubarao/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Tubarão avança na fase final das obras de drenagem da Rua Aldo Hülse]]></title>
+    <link>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/</link>
+    <comments>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:30:57 GMT</pubDate>
+    <category><![CDATA[Infraestrutura]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317563</guid>
+    <description><![CDATA[As obras de drenagem na Rua Aldo Hülse, em Tubarão, estão na fase final e incluem a instalação de uma nova galeria para escoamento da água.]]></description>
+    <content:encoded><![CDATA[<p>As obras de drenagem na Rua Aldo Hülse, localizada na cidade de Tubarão, estão progredindo para a fase final. O projeto inclui a instalação de uma nova galeria destinada ao escoamento da água, visando melhorar a infraestrutura da região.</p><p>A iniciativa faz parte de um esforço maior para prevenir alagamentos e garantir a eficiência do sistema de drenagem urbana. A conclusão das obras é esperada para breve, trazendo benefícios para os moradores e o tráfego local.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Procon de Tubarão analisa variação nos preços do chester]]></title>
+    <link>https://visornoticias.com.br/preco-do-chester/</link>
+    <comments>https://visornoticias.com.br/preco-do-chester/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:30:52 GMT</pubDate>
+    <category><![CDATA[Economia e Negócios]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317567</guid>
+    <description><![CDATA[Levantamento do Procon de Tubarão destaca a importância da pesquisa de preços do chester para a economia na ceia de Natal.]]></description>
+    <content:encoded><![CDATA[<p>O Procon de Tubarão realizou um levantamento sobre os preços do chester, evidenciando a variação encontrada entre os estabelecimentos. A pesquisa tem como objetivo orientar os consumidores na escolha do produto para a ceia de Natal.</p><p>De acordo com a análise, a comparação de preços é fundamental para garantir economia durante as festividades. O Procon recomenda que os consumidores verifiquem as opções disponíveis antes de realizar a compra.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/preco-do-chester/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Réveillon Encantado é promovido pela Prefeitura de Brusque no Pavilhão da Fenarreco]]></title>
+    <link>https://visornoticias.com.br/reveillon-em-brusque/</link>
+    <comments>https://visornoticias.com.br/reveillon-em-brusque/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:30:48 GMT</pubDate>
+    <category><![CDATA[Brusque]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317573</guid>
+    <description><![CDATA[A Prefeitura de Brusque organiza o Réveillon Encantado, um evento gratuito no Pavilhão da Fenarreco, com programação musical, queima de fogos silenciosos e medidas de segurança.]]></description>
+    <content:encoded><![CDATA[<p>A cidade de Brusque se prepara para a chegada de 2026 com o evento Réveillon Encantado, que ocorrerá no Pavilhão da Fenarreco. A festa, que é gratuita, marca a retomada das celebrações públicas de fim de ano após mais de uma década.</p><p>O evento contará com uma programação musical de artistas locais, além de queima de fogos silenciosos. Para garantir a segurança e tranquilidade das famílias presentes, haverá um esquema de segurança e controle na entrada de bebidas.</p><p>O Réveillon Encantado em Brusque está programado para começar às 20h.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/reveillon-em-brusque/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Homem é preso em Blumenau por suspeita de arrastar cão]]></title>
+    <link>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/</link>
+    <comments>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:21:01 GMT</pubDate>
+    <category><![CDATA[Blumenau]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317570</guid>
+    <description><![CDATA[Um homem foi preso em flagrante pela Polícia Civil em Blumenau, suspeito de arrastar um cão por um quilômetro. O animal, que sofreu ferimentos graves, foi resgatado e está em tratamento sob os cuidados do município.]]></description>
+    <content:encoded><![CDATA[<p>Na cidade de Blumenau, a Polícia Civil prendeu em flagrante um homem suspeito de arrastar um cão por uma distância de um quilômetro. O incidente gerou preocupação devido à gravidade dos ferimentos sofridos pelo animal.</p><p>Após o resgate, o cão recebeu atendimento veterinário e atualmente está em tratamento sob os cuidados do município. As autoridades continuam a investigar o caso para determinar as circunstâncias exatas do ocorrido.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Homem condenado por homicídio na direção é preso em SC]]></title>
+    <link>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/</link>
+    <comments>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:18:20 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317559</guid>
+    <description><![CDATA[Um homem foi preso em Santa Catarina após ser condenado por homicídio culposo na direção de veículo, relacionado a um acidente ocorrido em 2018.]]></description>
+    <content:encoded><![CDATA[<p>Um homem foi detido em Santa Catarina após ser condenado por homicídio culposo na direção de veículo. O crime ocorreu em 2018, na SC-355, em Catanduvas.</p><p>A vítima do acidente faleceu 28 dias após o incidente, em decorrência dos ferimentos sofridos. A prisão foi realizada em cumprimento a um mandado judicial.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Vereador do PSOL defende Secretária de Educação em SC após polêmica sobre cotas raciais]]></title>
+    <link>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/</link>
+    <comments>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:10:37 GMT</pubDate>
+    <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172745</guid>
+    <description><![CDATA[Após a secretária de Educação de Santa Catarina, Luciane Ceretta, se posicionar contra o fim das cotas raciais nas universidades, ela recebeu apoio de lideranças do PSOL, incluindo o vereador Leonel Camasão, que a elogiou como 'pessoa competente'. A proposta que extingue as cotas foi aprovada pela Assembleia Legislativa e aguarda sanção do governador Jorginho Mello.]]></description>
+    <content:encoded><![CDATA[<p>A secretária de Estado da Educação de Santa Catarina, Luciane Ceretta, recebeu apoio de setores da esquerda após se manifestar contra a aprovação de um projeto que extingue as cotas raciais para negros e indígenas nas universidades estaduais. A proposta, aprovada pela Assembleia Legislativa, mantém apenas critérios socioeconômicos para Pessoas com Deficiência e egressos de escolas públicas e aguarda sanção do governador Jorginho Mello.</p><p>Após uma entrevista em que Ceretta afirmou que Santa Catarina possui uma 'dívida histórica' com a população negra, parda e indígena, o vereador Leonel Camasão (PSOL) expressou apoio à secretária, elogiando sua competência e criticando o projeto aprovado. Camasão, que já havia manifestado críticas ao programa Universidade Gratuita, uma das iniciativas educacionais associadas a Ceretta, destacou a importância das cotas raciais para corrigir desigualdades históricas.</p><p>O debate sobre as cotas raciais se intensificou nas redes sociais e no meio político, com apoiadores do projeto defendendo que a inclusão deve ser baseada em critérios econômicos. A posição de Ceretta, que diverge da base governista, ampliou a tensão política em torno do tema, que se consolidou como um dos mais polarizados em Santa Catarina neste final de ano.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados]]></title>
+    <link>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/</link>
+    <comments>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:05:54 GMT</pubDate>
+    <category><![CDATA[Florianópolis]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317528</guid>
+    <description><![CDATA[Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal
+O post Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados apareceu primeiro em Visor Notícias .]]></description>
+    <content:encoded><![CDATA[<p>Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal</p><p>O post Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados apareceu primeiro em Visor Notícias .</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Polícia Rodoviária apreende 333 garrafas de vinho argentino por descaminho na SC-114]]></title>
+    <link>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/</link>
+    <comments>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:01:56 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317545</guid>
+    <description><![CDATA[A Polícia Rodoviária apreendeu 333 garrafas de vinho argentino na SC-114, devido à falta de documentação aduaneira.]]></description>
+    <content:encoded><![CDATA[<p>A Polícia Rodoviária apreendeu 333 garrafas de vinho argentino na rodovia SC-114. A mercadoria foi interceptada por estar sem a devida documentação aduaneira.</p><p>A ação ocorreu durante uma fiscalização de rotina, onde os agentes identificaram a irregularidade na documentação da carga. O vinho foi apreendido e as autoridades estão investigando as circunstâncias do descaminho.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
