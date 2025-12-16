@@ -1,126 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 16 Dec 2025 21:30:49 GMT</lastBuildDate>
-<language>pt-BR</language>
-
-<item>
-<title><![CDATA[Terceira edição do projeto Oficina de Cinema para Jovens forma estudantes de Bombinhas]]></title>
-<link>https://horadeportobelo.com.br/2025/12/16/terceira-edicao-do-projeto-oficina-de-cinema-para-jovens-forma-estudantes-de-bombinhas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Bombinhas]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Região]]></category>
-<category><![CDATA[Terceira]]></category>
-<category><![CDATA[Edição]]></category>
-<category><![CDATA[Projeto]]></category>
-<category><![CDATA[Oficina]]></category>
-<category><![CDATA[Cinema]]></category>
-<category><![CDATA[Jovens]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 16 Dec 2025 21:29:37 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20406</guid>
-<description><![CDATA[A terceira edição da Oficina de Cinema para Jovens, projeto realizado pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, sob coordenação do cineasta Santiago José Asef, formou estudantes do nono ano do CEIT Leonel de Moura Brizola, escola municipal de Bombinhas. Durante o ano letivo, aproximadamente cem alunos tiveram a oportunidade de participar do curso que aborda aspectos técnicos, noções de criatividade, direção, atuação e produção no mundo audiovisual.]]></description>
-<content:encoded><![CDATA[<strong>A terceira edição da Oficina de Cinema para Jovens, projeto realizado pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, sob coordenação do cineasta Santiago José Asef, formou estudantes do nono ano do CEIT Leonel de Moura Brizola, escola municipal de Bombinhas. Durante o ano letivo, aproximadamente cem alunos tiveram a oportunidade de participar do curso que aborda aspectos técnicos, noções de criatividade, direção, atuação e produção no mundo audiovisual. A iniciativa visa proporcionar aos estudantes uma nova forma de expressão, estimular o trabalho coletivo e oferecer uma perspectiva no mercado de trabalho.</strong><br/><br/>A proposta da Oficina de Cinema para Jovens vai além do ensino da filmagem, conforme explica Santiago José Asef. O curso busca desenvolver o pensamento crítico dos jovens, fazendo-os refletir sobre sua própria visão de mundo e transformar isso em ideias e discurso. Asef enxerga Bombinhas como um potencial polo de ensino, especialmente na área audiovisual, e já iniciou ações, como a Residência Audiovisual do Mar (RAM) e o Laboratório de Criação Audiovisual, para fortalecer essa visão. Os alunos, ao longo das edições, produziram curtas-metragens que abordam temas relevantes para eles, como cyberbullying e solidão na escola, sendo reconhecidos em festivais internacionais. Os filmes podem ser assistidos no canal da Tiqsi Filmes no YouTube.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
-
-<item>
-<title><![CDATA[Cadeira anfíbia facilita acesso ao mar em praia de Santa Catarina]]></title>
-<link>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317585</guid>
-<description><![CDATA[O Programa Praia Acessível oferece cadeiras anfíbias que permitem que pessoas com mobilidade reduzida entrem no mar com segurança.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Ação de Natal beneficia 200 crianças em Tubarão com brinquedos]]></title>
-<link>https://visornoticias.com.br/acao-natal-tubarao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:31:02 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317562</guid>
-<description><![CDATA[O Instituto Nossa Família realizou uma ação de Natal que atendeu 200 crianças em Tubarão, oferecendo brinquedos, lanches e atividades recreativas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Tubarão avança na fase final das obras de drenagem da Rua Aldo Hülse]]></title>
-<link>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:30:57 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317563</guid>
-<description><![CDATA[As obras de drenagem na Rua Aldo Hülse, em Tubarão, estão na fase final e incluem a instalação de uma nova galeria para escoamento da água.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Procon de Tubarão analisa variação nos preços do chester]]></title>
-<link>https://visornoticias.com.br/preco-do-chester/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:30:52 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317567</guid>
-<description><![CDATA[Levantamento do Procon de Tubarão destaca a importância da pesquisa de preços do chester para a economia na ceia de Natal.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Réveillon Encantado é promovido pela Prefeitura de Brusque no Pavilhão da Fenarreco]]></title>
-<link>https://visornoticias.com.br/reveillon-em-brusque/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:30:48 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317573</guid>
-<description><![CDATA[A Prefeitura de Brusque organiza o Réveillon Encantado, um evento gratuito no Pavilhão da Fenarreco, com programação musical, queima de fogos silenciosos e medidas de segurança.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Homem é preso em Blumenau por suspeita de arrastar cão]]></title>
-<link>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:21:01 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317570</guid>
-<description><![CDATA[Um homem foi preso em flagrante pela Polícia Civil em Blumenau, suspeito de arrastar um cão por um quilômetro. O animal, que sofreu ferimentos graves, foi resgatado e está em tratamento sob os cuidados do município.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Homem condenado por homicídio na direção é preso em SC]]></title>
-<link>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:18:20 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317559</guid>
-<description><![CDATA[Um homem foi preso em Santa Catarina após ser condenado por homicídio culposo na direção de veículo, relacionado a um acidente ocorrido em 2018.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Vereador do PSOL defende Secretária de Educação em SC após polêmica sobre cotas raciais]]></title>
-<link>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:10:37 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172745</guid>
-<description><![CDATA[Após a secretária de Educação de Santa Catarina, Luciane Ceretta, se posicionar contra o fim das cotas raciais nas universidades, ela recebeu apoio de lideranças do PSOL, incluindo o vereador Leonel Camasão, que a elogiou como 'pessoa competente'. A proposta que extingue as cotas foi aprovada pela Assembleia Legislativa e aguarda sanção do governador Jorginho Mello.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados]]></title>
-<link>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 20:05:54 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317528</guid>
-<description><![CDATA[Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal
-O post Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados apareceu primeiro em Visor Notícias .]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Tue, 16 Dec 2025 22:53:23 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Caminhoneiro sofre mal súbito e carga de frango é saqueada após acidente na SC-480]]></title>
+    <link>https://jornalrazao.com/seguranca/acidente-caminhao-frangos-chapeco/</link>
+    <comments>https://jornalrazao.com/seguranca/acidente-caminhao-frangos-chapeco/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 22:38:14 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172758</guid>
+    <description><![CDATA[Um caminhão que transportava frangos caiu em uma ribanceira na SC-480, em Chapecó, na manhã desta terça-feira. O motorista sofreu ferimentos leves e parte da carga foi saqueada antes da chegada da polícia. O caso está sob investigação.]]></description>
+    <content:encoded><![CDATA[<p>Na manhã desta terça-feira, um caminhão que transportava frangos caiu em uma ribanceira na SC-480, em Chapecó. O acidente ocorreu por volta das 5h30, no km 162,500, em um trecho de serra da rodovia.</p><p>O veículo, um VW/26.320 CRM 6×2, com placas de Irati/SC, seguia no sentido Goio-Ên a Chapecó quando saiu da pista e despencou cerca de 100 metros. O motorista, de 23 anos, sofreu ferimentos leves na cabeça e foi encaminhado ao Hospital Regional do Oeste.</p><p>De acordo com o motorista, ele perdeu a consciência antes do acidente. O teste do bafômetro realizado pela Polícia Militar Rodoviária (PMRv) indicou 0,00 mg/L, descartando o consumo de álcool.</p><p>Informações do gestor de frotas da empresa responsável pela carga indicam que parte dos frangos foi saqueada por populares, mas os envolvidos não foram identificados até o momento.</p><p>A PMRv investiga as causas do acidente, que podem incluir um mal súbito ou o motorista ter adormecido ao volante. O caso permanece em análise.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/acidente-caminhao-frangos-chapeco/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Júlia Cherem Lança Novos Sabores de Chocotone para 2025]]></title>
+    <link>https://visornoticias.com.br/julia-cherem-apresenta-novos-sabores-de-chocotone-e-amplia-cardapio-para-as-festas-de-2025/</link>
+    <comments>https://visornoticias.com.br/julia-cherem-apresenta-novos-sabores-de-chocotone-e-amplia-cardapio-para-as-festas-de-2025/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 22:30:00 GMT</pubDate>
+    <category><![CDATA[Florianópolis]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317083</guid>
+    <description><![CDATA[A confeitaria Júlia Cherem, localizada em Florianópolis, apresenta uma nova versão do chocotone de pistache e amplia seu cardápio para as festas de 2025. As encomendas já superam em 10% as do ano anterior, refletindo a popularidade dos produtos.]]></description>
+    <content:encoded><![CDATA[<p>A confeitaria Júlia Cherem, situada em Florianópolis, anunciou a introdução de novos sabores de chocotone para as festividades de 2025. Entre as novidades, destaca-se uma versão repaginada do chocotone de pistache, que promete agradar aos clientes.</p><p>Além dos novos sabores, a confeitaria também está lançando opções de verão, mantendo os clássicos que já são os mais pedidos pelos consumidores. Essa diversidade no cardápio visa atender a diferentes paladares durante as celebrações.</p><p>As encomendas para os produtos da confeitaria já estão 10% acima do volume registrado no ano passado, indicando um aumento na demanda. Esse crescimento pode ser atribuído à reputação da marca e à qualidade dos produtos oferecidos.</p><p>Os clientes interessados em experimentar as novidades podem realizar suas encomendas diretamente na confeitaria, que se destaca pela variedade e inovação em seus produtos. A expectativa é que a nova linha de chocotones atraia ainda mais consumidores durante a temporada festiva.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/julia-cherem-apresenta-novos-sabores-de-chocotone-e-amplia-cardapio-para-as-festas-de-2025/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Velório de empresária vítima de acidente será em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/empresaria-que-morreu-em-acidente-com-porsche-sera-velada-em-balneario-camboriu/</link>
+    <comments>https://visornoticias.com.br/empresaria-que-morreu-em-acidente-com-porsche-sera-velada-em-balneario-camboriu/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 22:16:36 GMT</pubDate>
+    <category><![CDATA[Balneário Camboriú]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317624</guid>
+    <description><![CDATA[A empresária Aline Dalmolin, que faleceu em um acidente envolvendo um veículo Porsche, será velada em Balneário Camboriú. A cerimônia ocorrerá nesta quarta-feira e estará aberta ao público.]]></description>
+    <content:encoded><![CDATA[<p>Aline Dalmolin, empresária que perdeu a vida em um acidente de carro, será homenageada em uma cerimônia de velório em Balneário Camboriú.</p><p>O acidente ocorreu recentemente e gerou comoção na comunidade local, destacando a importância da segurança no trânsito.</p><p>A cerimônia de despedida está marcada para esta quarta-feira e será aberta ao público, permitindo que amigos, familiares e admiradores prestem suas últimas homenagens.</p><p>O evento será uma oportunidade para refletir sobre a vida e o legado de Aline, que deixou uma marca significativa em sua área de atuação.</p><p>Os detalhes sobre o local e horário do velório foram divulgados nas redes sociais e em comunicados à imprensa, visando facilitar a participação de todos que desejam se despedir.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/empresaria-que-morreu-em-acidente-com-porsche-sera-velada-em-balneario-camboriu/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Denúncia de envenenamento em pronto-socorro de SC]]></title>
+    <link>https://visornoticias.com.br/tia-e-sobrinho-sao-denunciados-por-envenenar-funcionarios-em-pronto-socorro-de-sc/</link>
+    <comments>https://visornoticias.com.br/tia-e-sobrinho-sao-denunciados-por-envenenar-funcionarios-em-pronto-socorro-de-sc/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 22:08:33 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317603</guid>
+    <description><![CDATA[O Ministério Público de Santa Catarina (MPSC) denunciou uma tia e seu sobrinho por supostamente envenenarem funcionários de um pronto-socorro. O caso envolve a adulteração de refrigerante com medicamento, que resultou em mal-estar em pelo menos 11 profissionais da unidade de saúde.]]></description>
+    <content:encoded><![CDATA[<p>O Ministério Público de Santa Catarina (MPSC) apresentou uma denúncia contra uma tia e seu sobrinho, acusados de envenenar funcionários de um pronto-socorro. A denúncia se baseia em um incidente que ocorreu na unidade de saúde, onde um refrigerante foi adulterado com um medicamento.</p><p>De acordo com o MPSC, a adulteração do refrigerante causou mal-estar em pelo menos 11 profissionais que consumiram a bebida. Os sintomas relatados pelos funcionários levantaram preocupações sobre a segurança no ambiente de trabalho.</p><p>As investigações apontam que o ato foi intencional, e as autoridades estão tratando o caso com seriedade. A denúncia foi formalizada com base nas evidências coletadas durante a apuração dos fatos.</p><p>O impacto desse incidente pode ser significativo, não apenas para os envolvidos, mas também para a reputação da unidade de saúde. A administração do pronto-socorro está colaborando com as investigações e reforçando as medidas de segurança para evitar novos incidentes.</p><p>O MPSC continuará acompanhando o caso e tomará as medidas legais necessárias para garantir a responsabilização dos envolvidos. A segurança dos profissionais de saúde e a integridade do ambiente de trabalho são prioridades nas ações do Ministério Público.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/tia-e-sobrinho-sao-denunciados-por-envenenar-funcionarios-em-pronto-socorro-de-sc/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Silvinei Vasques é condenado a 24 anos de prisão]]></title>
+    <link>https://jornalrazao.com/seguranca/ex-chefe-da-prf-de-bolsonaro-e-secretario-em-sao-jose-vasques-e-condenado-a-24-anos-de-prisao/</link>
+    <comments>https://jornalrazao.com/seguranca/ex-chefe-da-prf-de-bolsonaro-e-secretario-em-sao-jose-vasques-e-condenado-a-24-anos-de-prisao/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 21:43:28 GMT</pubDate>
+    <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172753</guid>
+    <description><![CDATA[Silvinei Vasques, ex-diretor da PRF e secretário em São José, pediu exoneração após ser condenado pelo STF a 24 anos e 6 meses de prisão por tentativa de golpe de Estado. A decisão envolve crimes relacionados ao processo democrático nas eleições de 2022 e inclui multas e inelegibilidade.]]></description>
+    <content:encoded><![CDATA[<p>Silvinei Vasques, ex-diretor-geral da Polícia Rodoviária Federal e secretário de Desenvolvimento Econômico e Inovação de São José, pediu exoneração do cargo nesta terça-feira (16). A solicitação ocorreu no mesmo dia em que o Supremo Tribunal Federal (STF) concluiu o julgamento que resultou em sua condenação a 24 anos e 6 meses de prisão.</p><p>A Prefeitura de São José confirmou o pedido de desligamento e emitiu uma nota oficial agradecendo a contribuição de Vasques durante seu tempo na administração municipal. A condenação foi decidida pela Primeira Turma do STF, que analisou os réus do chamado “núcleo 2” da denúncia da Procuradoria-Geral da República.</p><p>O STF determinou que o grupo, do qual Vasques fazia parte, atuou para “impedir o funcionamento regular do processo democrático”, incluindo ações que visavam dificultar a votação de eleitores, especialmente no Nordeste, durante o segundo turno das eleições presidenciais de 2022.</p><p>Vasques foi condenado por crimes de golpe de Estado, tentativa de abolição violenta do Estado Democrático de Direito, organização criminosa e dano qualificado. A pena inclui regime inicial fechado, multa, suspensão dos direitos políticos e inelegibilidade, além de participação em indenização coletiva de R$ 30 milhões.</p><p>Outros quatro réus também foram condenados no mesmo julgamento, incluindo ex-assessores e membros do governo federal da época. A PGR destacou que o grupo teve um papel estratégico na elaboração de ações consideradas golpistas.</p><p>Silvinei Vasques já havia sido preso em 2023 durante as investigações, mas foi liberado meses depois com medidas cautelares. Natural do Paraná, ele ingressou na PRF em 1995 e se aposentou em dezembro de 2022. Até o momento, a Polícia Federal não informou como será cumprida a pena imposta pelo STF.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/ex-chefe-da-prf-de-bolsonaro-e-secretario-em-sao-jose-vasques-e-condenado-a-24-anos-de-prisao/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Incêndio em ônibus entre São Bento do Sul e Campo Alegre]]></title>
+    <link>https://visornoticias.com.br/onibus-pega-fogo-entre-sao-bento-do-sul-e-campo-alegre/</link>
+    <comments>https://visornoticias.com.br/onibus-pega-fogo-entre-sao-bento-do-sul-e-campo-alegre/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 21:35:33 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317619</guid>
+    <description><![CDATA[Um incêndio em um ônibus foi registrado no final da tarde desta terça-feira (16) entre São Bento do Sul e Campo Alegre. O incidente gerou preocupação entre os passageiros e a equipe de emergência foi acionada para controlar as chamas.]]></description>
+    <content:encoded><![CDATA[<p>Um incêndio em um ônibus ocorreu no final da tarde desta terça-feira (16) entre as cidades de São Bento do Sul e Campo Alegre. O incidente chamou a atenção de motoristas que passavam pela região.</p><p>De acordo com informações preliminares, as chamas começaram de forma repentina, mas não há relatos de feridos entre os passageiros. A equipe de emergência foi rapidamente acionada para controlar o fogo.</p><p>As causas do incêndio ainda estão sendo investigadas pelas autoridades competentes. A situação gerou transtornos no tráfego da região, com interdições temporárias na rodovia.</p><p>Os passageiros foram evacuados com segurança e receberam assistência. A empresa responsável pelo ônibus informou que está colaborando com as investigações e prestando apoio aos afetados.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/onibus-pega-fogo-entre-sao-bento-do-sul-e-campo-alegre/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Oficina de Cinema para Jovens forma estudantes em Bombinhas]]></title>
+    <link>https://horadeportobelo.com.br/2025/12/16/terceira-edicao-do-projeto-oficina-de-cinema-para-jovens-forma-estudantes-de-bombinhas/</link>
+    <comments>https://horadeportobelo.com.br/2025/12/16/terceira-edicao-do-projeto-oficina-de-cinema-para-jovens-forma-estudantes-de-bombinhas/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 21:29:37 GMT</pubDate>
+    <category><![CDATA[Bombinhas]]></category>
+    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20406</guid>
+    <description><![CDATA[A terceira edição da Oficina de Cinema para Jovens, realizada no CEIT Leonel de Moura Brizola em Bombinhas, capacitou alunos em aspectos técnicos e criativos do audiovisual. O projeto, promovido pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, já beneficiou cerca de cem estudantes desde sua criação.]]></description>
+    <content:encoded><![CDATA[<p>A terceira edição da Oficina de Cinema para Jovens foi realizada ao longo do ano letivo no CEIT Leonel de Moura Brizola, em Bombinhas. O curso, promovido pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, abordou aspectos técnicos e criativos do audiovisual, proporcionando aos alunos uma nova forma de expressão e aprendizado sobre trabalho coletivo.</p><p>Segundo o cineasta Santiago José Asef, coordenador do projeto, o curso vai além do aprendizado técnico, incentivando os jovens a refletirem sobre sua própria visão de mundo e a importância da comunicação. Asef acredita que Bombinhas possui potencial para se tornar um polo de ensino, especialmente na área audiovisual, e sugere que a baixa temporada poderia ser utilizada para receber estudantes de diversas partes do mundo.</p><p>Recentemente, Asef iniciou ações que visam concretizar essa visão, como a Residência Audiovisual do Mar (RAM), que reuniu roteiristas para um final de semana de imersão criativa, e o Laboratório de Criação Audiovisual, onde interessados puderam desenvolver seus projetos autorais.</p><p>Os alunos da Oficina de Cinema para Jovens também produziram curta-metragens durante o curso. O filme Anônima, da primeira edição em 2022, ganhou o Prêmio do Júri Popular no Festival Audiovisual do Mercosul (FAM). Em 2024, os estudantes lançaram Dó, Ré, Mi, Fá, Solidão, e agora, para a edição de 2025, está em produção o curta ACRE, que será apresentado em festivais de cinema.</p><p>A produtora e coordenadora Aline Vieira destaca que os filmes abordam temas relevantes para os alunos, como cyber bullying, solidão na escola e xenofobia, refletindo sobre a realidade dos jovens migrantes que chegam a Bombinhas.</p><p>A Oficina de Cinema para Jovens é viabilizada pelo Edital Mestre Cantalício Rocha 2024, com recursos da Prefeitura de Bombinhas através do Fundo Municipal de Cultura da Fundação de Cultura de Bombinhas.</p>]]></content:encoded>
+    <wfw:commentRss>https://horadeportobelo.com.br/2025/12/16/terceira-edicao-do-projeto-oficina-de-cinema-para-jovens-forma-estudantes-de-bombinhas/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[“Chegamos a um ponto de colapso“: vereador Marcelo Achutti denuncia problemas no Hospital Ruth Cardoso após estadualização]]></title>
+    <link>https://portalmenina.com.br/chegamos-a-um-ponto-de-colapso-vereador-marcelo-achutti-denuncia-problemas-no-hospital-ruth-cardoso-apos-estadualizacao/</link>
+    <comments>https://portalmenina.com.br/chegamos-a-um-ponto-de-colapso-vereador-marcelo-achutti-denuncia-problemas-no-hospital-ruth-cardoso-apos-estadualizacao/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 21:04:55 GMT</pubDate>
+    <category><![CDATA[Balneário Camboriú]]></category>
+    <guid isPermaLink="false">https://portalmenina.com.br/?p=130509</guid>
+    <description><![CDATA[O vereador de Balneário Camboriú, Marcelo Achutti, afirmou estar fiscalizando e recebendo denúncias relacionadas ao funcionamento do Hospital Ruth Cardoso após o processo de estadualização da unidade. As declarações foram feitas durante entrevista à Rádio Menina, na qual o parlamentar levantou preocupações sobre a atu…]]></description>
+    <content:encoded><![CDATA[<p>O vereador de Balneário Camboriú, Marcelo Achutti, afirmou estar fiscalizando e recebendo denúncias relacionadas ao funcionamento do Hospital Ruth Cardoso após o processo de estadualização da unidade. As declarações foram feitas durante entrevista à Rádio Menina, na qual o parlamentar levantou preocupações sobre a atuação da organização social responsável pela gestão, a contratação de funcionários e o atendimento à população.</p><p>Segundo Achutti, a estadualização do hospital foi resultado de uma luta histórica do município, que por anos assumiu atendimentos de média e alta complexidade para toda a região. Ele relembrou que o processo envolveu negociações com diferentes governos estaduais até a atual gestão.</p><p>• Compartilhe esta notícia no WhatsApp</p><p>“Nós, quando eu digo nós, o povo de Balneário Camboriú lutou muito para nós conseguimos se estadualizar e chamar a atenção do governo do Estado, porque nós deixamos de fazer a nossa saúde básica para fazer média e alta complexidade”, afirmou.</p><p>O vereador destacou que o reconhecimento da responsabilidade do Estado foi visto inicialmente de forma positiva pela cidade. “Foi bonito, viemos aqui, aplaudimos, o Balneário Camboriú agradeceu, cheguei a dizer que nós tínhamos que fazer uma estátua ao governador”, disse. No entanto, segundo ele, os problemas começaram após a definição da organização social responsável pela gestão.</p><p>“Agora, com todo respeito, a organização social que assumiu não tem condições nenhuma, a forma que ela assumiu, de tocar o hospital”, declarou.</p><p>Leia também: Polícia Militar vai ganhar reforço de efetivo para a temporada de verão em Balneário Camboriú</p><p>Achutti citou o valor do contrato firmado como um dos fatores que, segundo ele, impactam diretamente o funcionamento da unidade. “Primeiro, um baixo valor de contrato. Baixo valor”, afirmou. Ele também comentou sobre a lógica de funcionamento das organizações sociais. “Nenhuma organização social quer ter prejuízo, na qual ela não pode ter lucro. Organização social não pode ter lucro”, completou.</p>]]></content:encoded>
+    <wfw:commentRss>https://portalmenina.com.br/chegamos-a-um-ponto-de-colapso-vereador-marcelo-achutti-denuncia-problemas-no-hospital-ruth-cardoso-apos-estadualizacao/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[‘Não vão descer pra SC’: turistas são expulsos de avião com destino a Florianópolis]]></title>
+    <link>https://jornalrazao.com/seguranca/turistas-tumulto-voo-florianopolis-buenos-aires/</link>
+    <comments>https://jornalrazao.com/seguranca/turistas-tumulto-voo-florianopolis-buenos-aires/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:57:53 GMT</pubDate>
+    <category><![CDATA[Segurança]]></category>
+    <guid isPermaLink="false">https://jornalrazao.com/?p=172749</guid>
+    <description><![CDATA[Quatro turistas foram retirados à força de um avião que seguiria para Florianópolis após provocarem tumulto momentos antes da decolagem no Aeroporto Internacional Jorge Newbery, em Buenos Aires, na Argentina. O caso ocorreu no início deste mês, mas ganhou repercussão nesta segunda feira (15) após vídeos da confusão vi…]]></description>
+    <content:encoded><![CDATA[<p>Quatro turistas foram retirados à força de um avião que seguiria para Florianópolis após provocarem tumulto momentos antes da decolagem no Aeroporto Internacional Jorge Newbery, em Buenos Aires, na Argentina. O caso ocorreu no início deste mês, mas ganhou repercussão nesta segunda feira (15) após vídeos da confusão viralizarem nas redes sociais.</p><p>De acordo com informações apuradas, o grupo era formado por dois homens e duas mulheres, que apresentavam sinais evidentes de embriaguez. Testemunhas relataram que um dos passageiros começou a vapear dentro da aeronave, prática proibida, o que levou outros ocupantes a alertarem a tripulação. Durante a abordagem das comissárias, os turistas passaram a discutir de forma exaltada, causando desordem no interior do avião.</p><p>A situação saiu do controle quando o grupo resistiu às ordens da equipe de bordo e se recusou a cooperar. Diante do risco à segurança do voo, a Polícia de Segurança Aeroportuária foi acionada e entrou na aeronave antes da decolagem. Imagens gravadas por passageiros mostram o momento em que os quatro são obrigados a deixar o avião sob protestos, xingamentos e empurrões, enquanto os demais passageiros demonstram irritação com o atraso.</p><p>Segundo as autoridades argentinas, três dos envolvidos acabaram detidos por resistência à autoridade e ferimentos leves registrados durante a intervenção policial. Eles foram encaminhados ao setor de prevenção do aeroporto e colocados à disposição da Justiça argentina. O quarto integrante também foi impedido de seguir viagem.</p><p>O tumulto provocou atraso na partida do voo e gerou forte desconforto entre os passageiros que aguardavam o deslocamento para a capital catarinense. A aeronave só foi liberada após a retirada completa do grupo e a verificação das condições de segurança.</p><p>Até o momento, a companhia aérea não divulgou nota oficial detalhando eventuais punições adicionais aos envolvidos. O caso reacende o alerta sobre consumo excessivo de álcool antes de voos e o rigor adotado por companhias e autoridades aeroportuárias para preservar a segurança de todos a bordo.</p>]]></content:encoded>
+    <wfw:commentRss>https://jornalrazao.com/seguranca/turistas-tumulto-voo-florianopolis-buenos-aires/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
+  <item>
+    <title><![CDATA[Cadeira anfíbia facilita acesso ao mar em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/</link>
+    <comments>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/#respond</comments>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
+    <category><![CDATA[Geral]]></category>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317585</guid>
+    <description><![CDATA[O Programa Praia Acessível oferece cadeiras anfíbias que permitem que pessoas com mobilidade reduzida entrem no mar com segurança, promovendo inclusão e acessibilidade nas praias de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[<p>O Programa Praia Acessível foi implementado em diversas praias de Santa Catarina com o objetivo de garantir o acesso ao mar para pessoas com mobilidade reduzida.</p><p>As cadeiras anfíbias, disponibilizadas pelo programa, permitem que esses indivíduos desfrutem do banho de mar de forma segura e confortável.</p><p>Além de proporcionar uma experiência única, a iniciativa visa promover a inclusão social e a autonomia das pessoas com deficiência.</p><p>O uso das cadeiras é gratuito e conta com o apoio de profissionais treinados, que auxiliam na manobra e no acesso ao mar.</p><p>Com essa ação, espera-se que mais pessoas possam aproveitar as belezas naturais das praias catarinenses, contribuindo para o bem-estar e a qualidade de vida.</p>]]></content:encoded>
+    <wfw:commentRss>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+  </item>
 </channel>
 </rss>
