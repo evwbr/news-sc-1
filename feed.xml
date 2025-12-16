@@ -1,123 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Tue, 16 Dec 2025 16:30:44 GMT</lastBuildDate>
-<language>pt-BR</language>
+	<title>Evo Web News</title>
+	<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://evwbr.github.io/news-sc-1/</link>
+	<description>Notícias locais reescritas com IA - Evo Web News</description>
+	<lastBuildDate>Tue, 16 Dec 2025 17:24:55 GMT</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 
-<item>
-<title><![CDATA[Velório de empresária morta em acidente de trânsito na Barra Sul será nesta quarta]]></title>
-<link>https://portalmenina.com.br/velorio-de-empresaria-morta-em-acidente-de-transito-na-barra-sul-sera-nesta-quarta-feira/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Trânsito]]></category>
-<category><![CDATA[Velório]]></category>
-<category><![CDATA[Empresária]]></category>
-<category><![CDATA[Morta]]></category>
-<category><![CDATA[Acidente]]></category>
-<category><![CDATA[Barra]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Tue, 16 Dec 2025 15:53:04 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130441</guid>
-<description><![CDATA[O velório de Aline Dalmolin, de 41 anos, vítima fatal de um acidente de trânsito ocorrido na madrugada de segunda-feira, 15, em Balneário Camboriú, será realizado nesta quarta-feira, 17, no Crematório Vaticano. A empresária faleceu após um acidente envolvendo o veículo em que era passageira, uma Porsche/Macan, que colidiu contra um poste e uma mureta.]]></description>
-<content:encoded><![CDATA[<strong>O velório de Aline Dalmolin, de 41 anos, vítima fatal de um acidente de trânsito ocorrido na madrugada de segunda-feira, 15, em Balneário Camboriú, será realizado nesta quarta-feira, 17, no Crematório Vaticano. A empresária faleceu após um acidente envolvendo o veículo em que era passageira, uma Porsche/Macan, que colidiu contra um poste e uma mureta. Aline chegou a ser levada ao Hospital Marieta Konder Bornhausen, porém não resistiu aos ferimentos e teve o óbito confirmado logo após dar entrada na unidade hospitalar.</strong><br/><br/>A motorista do veículo, Gisele Piccoli Forneroli, de 57 anos, submetida ao teste do bafômetro no local do acidente, foi constatado que estava embriagada. Ela foi presa, mas posteriormente liberada após audiência de custódia mediante o pagamento de R$ 30 mil de fiança. O horário das cerimônias fúnebres de Aline ainda não foi definido, conforme comunicado divulgado nas redes sociais da empresária, com a promessa de divulgação em breve. A tragédia gerou repercussão na região de Balneário Camboriú e levantou debates sobre a segurança no trânsito e a responsabilidade dos condutores.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FWhatsApp-Image-2025-12-16-at-12.54.09-1-1160x1442.jpeg" type="image/jpeg"/>
-</item>
+	<image>
+		<url>https://evoweb.app.br/favicon-32x32.png</url>
+		<title>Evo Web News</title>
+		<link>https://evwbr.github.io/news-sc-1/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
+	<item>
+		<title><![CDATA[Pratique inaugura academia no novo Giassi em Florianópolis]]></title>
+		<link>https://jornalrazao.com/saude/pratique-transforma-em-academia-andar-inteiro-do-giassi/</link>
+		<comments>https://jornalrazao.com/saude/pratique-transforma-em-academia-andar-inteiro-do-giassi/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 17:07:54 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=172708</guid>
 
-<item>
-<title><![CDATA[“Teremos um grande show nacional no Carnaval em Balneário Camboriú”, afirma Juliana Pavan em coletiva de imprensa]]></title>
-<link>https://portalmenina.com.br/teremos-um-grande-show-nacional-no-carnaval-em-balneario-camboriu-afirma-juliana-pavan-em-coletiva-de-imprensa/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 15:04:00 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130434</guid>
-<description><![CDATA[Balneário Camboriú se prepara para receber um grande show nacional durante o Carnaval. A informação foi divulgada pela prefeita Juliana Pavan em coletiva de imprensa realizada nesta terça-feira, 16, onde foram apresentados os planos para a temporada de verão e Réveillon, abrangendo áreas como segurança, turismo, saúde e a Emasa.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[A Pratique Fitness instalou uma academia de alto padrão no 4º andar do novo complexo Giassi Supermercados, no bairro Saco Grande, em Florianópolis. A unidade oferece mais de 900 m² de área e equipamentos modernos, além de estacionamento gratuito para frequentadores.]]></description>
+		<content:encoded><![CDATA[<p>A academia Pratique Fitness passou a ocupar um andar completo do novo Giassi Supermercados, situado na SC-401, bairro Saco Grande, em Florianópolis. Com mais de 900 metros quadrados, o espaço foi planejado para proporcionar conforto e tecnologia a alunos que buscam acompanhamento personalizado e resultados concretos.</p><p>O local conta com equipamentos de última geração da linha Total Strength, atendimento de alto padrão e uma área dedicada ao bem-estar, incluindo cadeira de massagem disponível para os frequentadores. Um destaque da unidade é a tecnologia exclusiva SUPERBIO, que permite o monitoramento detalhado da composição corporal por meio de exame de bioimpedância.</p><p>O novo Giassi Supermercados, inaugurado em 11 de dezembro, é o maior empreendimento do grupo até hoje, com aproximadamente 50 mil metros quadrados e um complexo que reúne cerca de 60 serviços e estabelecimentos, como praça de alimentação, farmácia, clínica veterinária e coworking. O espaço oferece 750 vagas de estacionamento para clientes.</p><p>A instalação da Pratique Fitness no local faz parte da estratégia de expansão da rede, que busca pontos de grande circulação e oferece conveniência aos moradores e frequentadores da região norte da Ilha de Santa Catarina. A academia funciona no 4º andar do Giassi, na Rodovia José Carlos Daux, nº 4460, Saco Grande.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/saude/pratique-transforma-em-academia-andar-inteiro-do-giassi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[PM viraliza com gargalhada após traficante ‘trapalhão’ levar a pior em Balneário Camboriú]]></title>
-<link>https://jornalrazao.com/seguranca/pm-viraliza-com-gargalhada-apos-traficante-trapalhao-levar-a-pior-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 13:53:58 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172691</guid>
-<description><![CDATA[A Polícia Militar de Santa Catarina ganhou destaque em Balneário Camboriú após a prisão de um traficante em uma ação cinematográfica no bairro Nova Esperança. A ocorrência teve início durante um procedimento de trânsito, quando uma motocicleta com indícios de adulteração desobedeceu à ordem de parada de uma guarnição da ROCAM, acelerando bruscamente e colocando em risco a vida dos policiais.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Trabalhador morre após queda de 15 metros em Santa Catarina]]></title>
+		<link>https://visornoticias.com.br/trabalhador-morre-apos-cair-de-cerca-de-15-metros-em-sc/</link>
+		<comments>https://visornoticias.com.br/trabalhador-morre-apos-cair-de-cerca-de-15-metros-em-sc/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 16:52:24 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317423</guid>
 
-<item>
-<title><![CDATA[Tele]]></title>
-<link>https://jornalrazao.com/seguranca/tele-entrega-de-drogas-foragidos-presos-e-apreensoes-em-sequencia-no-litoral-norte/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 12:40:48 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172684</guid>
-<description><![CDATA[Forças de segurança realizaram ações distintas que resultaram em prisões por tráfico de drogas, cumprimento de mandados judiciais e apreensão de entorpecentes nos municípios do Litoral Norte de Santa Catarina. As ocorrências ocorreram entre a madrugada e a tarde dos últimos dias em Itapema, Bombinhas e São João Batista, além de uma prisão durante patrulhamento da Guarda Municipal na orla central.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Um trabalhador faleceu após cair de uma altura de aproximadamente 15 metros em Santa Catarina. O acidente ocorreu no local de trabalho, onde equipes de resgate foram acionadas.]]></description>
+		<content:encoded><![CDATA[<p>O homem sofreu uma queda de cerca de 15 metros e foi imediatamente atendido pelas equipes de resgate. Apesar dos esforços para salvar sua vida, ele não resistiu aos ferimentos e morreu no local.</p><p>O caso aconteceu em Santa Catarina, porém as circunstâncias exatas do acidente ainda não foram divulgadas. As autoridades competentes estão investigando o ocorrido.</p><p>Não há informações sobre a identidade da vítima ou sobre a empresa onde ele trabalhava até o momento. O episódio reforça a importância das medidas de segurança no trabalho em altura.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/trabalhador-morre-apos-cair-de-cerca-de-15-metros-em-sc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Mais uma tragédia anunciada: motorista bêbado atinge pai e filha em Itajaí]]></title>
-<link>https://jornalrazao.com/seguranca/mais-uma-tragedia-anunciada-motorista-bebado-atinge-pai-e-filha-em-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 12:14:59 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172680</guid>
-<description><![CDATA[Na noite desta segunda-feira (15), um caso de embriaguez ao volante resultou em prisão e vítimas feridas em Itajaí. Por volta das 21h45, um motorista de 52 anos foi detido em flagrante após se envolver em um acidente de trânsito na Avenida Paulo Cantídio da Silva, no bairro Santa Regina.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Papai Noel faz rapel na Roda Gigante de Balneário Camboriú]]></title>
+		<link>https://visornoticias.com.br/papai-noel-desce-de-rapel-na-roda-gigante-bc/</link>
+		<comments>https://visornoticias.com.br/papai-noel-desce-de-rapel-na-roda-gigante-bc/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 16:46:09 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317416</guid>
 
-<item>
-<title><![CDATA[Homem bêbado colide com motocicleta e deixa duas pessoas feridas em Itajaí; ele foi preso em flagrante]]></title>
-<link>https://portalmenina.com.br/homem-bebado-colide-com-motocicleta-e-deixa-duas-pessoas-feridas-em-itajai-ele-foi-preso-em-flagrante/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 12:11:42 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130401</guid>
-<description><![CDATA[Um condutor embriagado, de 52 anos, foi detido em flagrante após provocar um acidente de trânsito na Avenida Paulo Cantídio da Silva, no bairro Santa Regina, em Itajaí. O incidente ocorreu por volta das 21h45 de segunda-feira, 15.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[O Papai Noel vai realizar uma apresentação de rapel na Roda Gigante de Balneário Camboriú nesta quinta-feira (18). A atividade acontece a 37 metros de altura, proporcionando uma atração natalina diferenciada na cidade.]]></description>
+		<content:encoded><![CDATA[<p>A performance com Papai Noel na Roda Gigante de Balneário Camboriú está marcada para o dia 18 de dezembro. A ação, que envolve acrobacias a 37 metros de altura, promete atrair moradores e turistas para acompanhar o evento.</p><p>A Roda Gigante é um dos principais pontos turísticos da cidade e será o cenário para essa apresentação especial, que faz parte das comemorações natalinas em Balneário Camboriú.</p><p>Com a atividade, a administração turística busca oferecer uma programação inovadora e convidativa para a temporada de festas, unindo adrenalina e espírito natalino em um único acontecimento.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/papai-noel-desce-de-rapel-na-roda-gigante-bc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Pescador de 67 anos morre enquanto pescava em Itapema]]></title>
-<link>https://jornalrazao.com/seguranca/pescador-de-67-anos-morre-enquanto-pescava-em-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 11:40:21 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172677</guid>
-<description><![CDATA[Um pescador profissional de 67 anos faleceu durante uma pescaria na segunda-feira (15), em Itapema, no Litoral Norte de Santa Catarina. A vítima, identificada como Ailton, residente de Laguna, estava na cidade em um momento de lazer quando o incidente ocorreu.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Rompimento de adutora afeta abastecimento em Itajaí e Navegantes]]></title>
+		<link>https://visornoticias.com.br/rompimento-de-adutora-compromete-abastecimento-de-agua-em-itajai-e-navegantes/</link>
+		<comments>https://visornoticias.com.br/rompimento-de-adutora-compromete-abastecimento-de-agua-em-itajai-e-navegantes/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 16:32:52 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317411</guid>
 
-<item>
-<title><![CDATA[Carro com para]]></title>
-<link>https://portalmenina.com.br/carro-com-para-brisa-trincado-e-mais-de-r11-mil-em-debitos-e-apreendido-no-centro-de-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 11:22:29 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130395</guid>
-<description><![CDATA[Durante uma abordagem realizada na segunda-feira, 15, na Rua Síria, em Balneário Camboriú, um veículo com mais de R$11 mil em débitos foi removido ao pátio. Equipes de fiscalização identificaram que o carro estava em mau estado de conservação, com o para-brisa trincado em diversos pontos, o que motivou a abordagem.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Um vazamento em uma adutora principal compromete o fornecimento de água em bairros de Itajaí e Navegantes. O reparo está previsto para ser concluído até o fim da tarde.]]></description>
+		<content:encoded><![CDATA[<p>O abastecimento de água em Itajaí e Navegantes foi afetado devido ao rompimento de uma adutora considerada uma das principais estruturas do sistema de distribuição na região. O vazamento impactou o fornecimento em diversos bairros dos dois municípios.</p><p>Equipes técnicas trabalham no local para efetuar o conserto da adutora. A previsão é de que o reparo seja concluído até o fim da tarde desta quarta-feira, segundo informações dadas pelas autoridades responsáveis.</p><p>Moradores da região podem enfrentar redução na pressão ou suspensão temporária do abastecimento enquanto os serviços de manutenção são realizados. A normalização do sistema ocorrerá gradativamente após a finalização do reparo.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/rompimento-de-adutora-compromete-abastecimento-de-agua-em-itajai-e-navegantes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-<item>
-<title><![CDATA[Patinetes elétricos estacionados irregularmente em calçadas são removidos após fiscalização]]></title>
-<link>https://portalmenina.com.br/patinetes-eletricos-estacionados-irregularmente-em-calcadas-sao-removidos-apos-fiscalizacao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 11:00:01 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130391</guid>
-<description><![CDATA[A fiscalização dos patinetes elétricos ofertados em Balneário Camboriú segue em andamento. Na segunda-feira, 15, aproximadamente oito patinetes elétricos foram apreendidos por estacionamento irregular na Avenida Brasil.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+	<item>
+		<title><![CDATA[Som alto e lixo afastam famílias das cachoeiras de Brusque e Guabiruba]]></title>
+		<link>https://jornalrazao.com/meioambiente/som-alto-lixo-e-confusao-afastam-familias/</link>
+		<comments>https://jornalrazao.com/meioambiente/som-alto-lixo-e-confusao-afastam-familias/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 16:22:51 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=172704</guid>
 
-<item>
-<title><![CDATA[Bolsa de Empregos – 16/12/2025]]></title>
-<link>https://portalmenina.com.br/bolsa-de-empregos-16-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 16 Dec 2025 09:53:23 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130386</guid>
-<description><![CDATA[**Vagas de emprego disponíveis em Itapema** Diversas oportunidades de emprego estão disponíveis na cidade de Itapema. Estão sendo procurados profissionais para diferentes funções, tais como auxiliar de serviços gerais, diarista, ajudante de operações, motorista de betoneira, mecânico, balanceiro para área de logística, estoquista, analista de departamento pessoal, assistente de recursos humanos, auxiliar de laboratório de concreto, atendente de café e operador de usina de concreto.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+		<description><![CDATA[Cachoeiras em Brusque e Guabiruba, no Vale do Itajaí, têm registrado aumento de reclamações devido a som alto, lixo e desordem. Moradores afirmam que esses problemas estão afastando famílias e prejudicando o uso dos espaços naturais.]]></description>
+		<content:encoded><![CDATA[<p>As cachoeiras localizadas em Brusque e Guabiruba, tradicionalmente associadas à tranquilidade e contato com a natureza, passaram a ser alvo de críticas por parte de moradores e frequentadores. Relatos nas redes sociais destacam a presença constante de som em volume elevado, consumo de álcool, lixo espalhado e descarte irregular de preservativos nas áreas naturais.</p><p>No Parque Municipal Vereador Érico Vicentini, em Guabiruba, conhecido pelas quedas d’água e trilhas, moradores dizem que o ambiente tem perdido seu perfil familiar. Muitas pessoas evitam levar crianças ao local devido ao tipo de música, à movimentação intensa e à falta de respeito às regras básicas de convivência.</p><p>Em Brusque, na região da Cachoeira do Taquaruçu, imagens divulgadas mostram restos de comida, latas, fraldas e outros resíduos espalhados pelo chão após fins de semana movimentados. Também há relatos frequentes de brigas, som alto e acidentes, o que contribui para a percepção de desorganização nessas áreas.</p><p>Segundo relatos, existem placas que proíbem o som alto e o consumo de bebidas alcoólicas, mas essas normas costumam ser desrespeitadas. Há casos em que, mesmo com a presença de viaturas durante eventos, as ocorrências de barulho e desordem prosseguem, gerando reclamações entre a comunidade.</p><p>A situação tem gerado preocupação entre frequentadores antigos, que alertam para a necessidade de maior fiscalização e conscientização para preservar esses locais naturais e garantir a permanência de um ambiente seguro e tranquilo para as famílias na região.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/meioambiente/som-alto-lixo-e-confusao-afastam-familias/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
 
-</channel>
+	<item>
+		<title><![CDATA[Velório de empresária morta em acidente na Barra Sul será nesta quarta]]></title>
+		<link>https://portalmenina.com.br/velorio-de-empresaria-morta-em-acidente-de-transito-na-barra-sul-sera-nesta-quarta-feira/</link>
+		<comments>https://portalmenina.com.br/velorio-de-empresaria-morta-em-acidente-de-transito-na-barra-sul-sera-nesta-quarta-feira/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 15:53:04 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=130441</guid>
+
+		<description><![CDATA[O velório de Aline Dalmolin, empresária de 41 anos vítima de um acidente de trânsito em Balneário Camboriú, será realizado nesta quarta-feira no Crematório Vaticano. O horário das cerimônias será divulgado em breve.]]></description>
+		<content:encoded><![CDATA[<p>Aline Dalmolin sofreu um acidente na madrugada de segunda-feira, 15, na Barra Sul, em Balneário Camboriú. Ela era passageira de um Porsche Macan que colidiu contra um poste e uma mureta. Após o acidente, foi levada ao Hospital Marieta Konder Bornhausen, onde o óbito foi confirmado.</p><p>A motorista do veículo, Gisele Piccoli Forneroli, de 57 anos, foi submetida ao teste do bafômetro no local e constatado que estava embriagada. Ela foi presa, mas liberada após audiência de custódia mediante pagamento de fiança de R$ 30 mil.</p><p>O velório será realizado no Crematório Vaticano nesta quarta-feira, 17, com horário ainda a ser informado. O comunicado oficial foi divulgado nas redes sociais da empresária.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/velorio-de-empresaria-morta-em-acidente-de-transito-na-barra-sul-sera-nesta-quarta-feira/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Pesquisa aponta liderança de Jorginho Mello e rejeição alta a candidato do PT em SC]]></title>
+		<link>https://jornalrazao.com/politica/candidato-do-pt-lidera-pesquisa-ao-governo-de-santa-catarina-em-rejeicao/</link>
+		<comments>https://jornalrazao.com/politica/candidato-do-pt-lidera-pesquisa-ao-governo-de-santa-catarina-em-rejeicao/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 15:04:37 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://jornalrazao.com/?p=172702</guid>
+
+		<description><![CDATA[Levantamento do Instituto Mapa divulgado em dezembro de 2025 mostra Jorginho Mello (PL) com 56,2% de intenção de voto para o governo de Santa Catarina em cenário estimulado. Décio Lima (PT) aparece com alta taxa de rejeição, liderando entre os principais nomes.]]></description>
+		<content:encoded><![CDATA[<p>A pesquisa realizada pelo Instituto Mapa entre 1º e 8 de dezembro de 2025, encomendada pela Jovem Pan News Floripa, apresenta dados sobre a corrida ao governo de Santa Catarina nas eleições de 2026, com informações sobre intenção de voto e rejeição dos candidatos.</p><p>No cenário de intenção de voto estimulada, Jorginho Mello (PL) lidera com 56,2%, seguido por João Rodrigues (PSD), com 17%, e Décio Lima (PT), com 10,4%. Votos em branco ou nulos somam 7,6%, enquanto 8,8% dos entrevistados não souberam ou preferiram não responder.</p><p>Na intenção de voto espontânea, Jorginho Mello também aparece na frente, com 30,6%. João Rodrigues registra 6,6% e Décio Lima tem 2,4%. A maioria dos entrevistados, 56,3%, declarou-se indecisa.</p><p>Em relação à rejeição, Décio Lima lidera com 50,9% dos eleitores afirmando que não votariam nele. Jorginho Mello apresenta 14,3% de rejeição e João Rodrigues 8,1%. Outros dados indicam que 12,3% dos entrevistados não rejeitam nenhum candidato, enquanto 3,8% rejeitam todos os nomes apresentados.</p><p>A pesquisa tem margem de erro de 3,1 pontos percentuais e nível de confiança de 95%, refletindo o cenário atual da disputa para o governo estadual.</p>]]></content:encoded>
+		<wfw:commentRss>https://jornalrazao.com/politica/candidato-do-pt-lidera-pesquisa-ao-governo-de-santa-catarina-em-rejeicao/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Balneário Camboriú confirma show nacional gratuito no Carnaval]]></title>
+		<link>https://portalmenina.com.br/teremos-um-grande-show-nacional-no-carnaval-em-balneario-camboriu-afirma-juliana-pavan-em-coletiva-de-imprensa/</link>
+		<comments>https://portalmenina.com.br/teremos-um-grande-show-nacional-no-carnaval-em-balneario-camboriu-afirma-juliana-pavan-em-coletiva-de-imprensa/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 15:04:00 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=130434</guid>
+
+		<description><![CDATA[Balneário Camboriú terá um grande show nacional feminino durante o Carnaval, com entrada gratuita e sem uso de recursos públicos, anunciou a prefeita Juliana Pavan. A apresentação acontecerá na Praia Central, integrando a programação oficial da festa.]]></description>
+		<content:encoded><![CDATA[<p>A prefeita Juliana Pavan anunciou nesta terça-feira (16) a realização de um show nacional de grande porte em Balneário Camboriú durante o Carnaval. A atração será feminina, terá entrada aberta ao público e não utilizará recursos públicos para sua realização.</p><p>De acordo com a prefeita, a confirmação do evento ocorreu pouco antes da coletiva de imprensa, após articulação da Secretaria de Turismo. O show está marcado para acontecer na Praia Central, embora o nome da artista e a data exata ainda não tenham sido divulgados.</p><p>O espetáculo faz parte da programação oficial do Carnaval de Balneário Camboriú, que inclui desfiles de blocos e outras atrações tradicionais. Juliana Pavan ressaltou que o evento deve ampliar a movimentação na cidade durante o período carnavalesco, que já atrai grande número de visitantes.</p><p>Ao ser questionada sobre o estilo musical ou a identidade da artista, a prefeita optou por manter o suspense, indicando apenas que se trata de uma cantora mulher.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/teremos-um-grande-show-nacional-no-carnaval-em-balneario-camboriu-afirma-juliana-pavan-em-coletiva-de-imprensa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Bombeiros controlam vazamento de amônia em Itapema]]></title>
+		<link>https://visornoticias.com.br/vazamento-de-amonia-em-empresa-de-itapema/</link>
+		<comments>https://visornoticias.com.br/vazamento-de-amonia-em-empresa-de-itapema/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 14:31:54 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://visornoticias.com.br/?p=317328</guid>
+
+		<description><![CDATA[Um vazamento de amônia registrado em uma empresa de Itapema mobilizou os bombeiros na manhã desta quinta-feira. A situação foi controlada pouco tempo após a chegada das equipes.]]></description>
+		<content:encoded><![CDATA[<p>O incidente ocorreu por volta das 10h na empresa localizada em Itapema, no Litoral Norte de Santa Catarina. Equipes dos bombeiros foram acionadas para conter o vazamento da substância química.</p><p>Segundo as autoridades, o vazamento já foi controlado e não há informações sobre feridos ou danos ambientais. A área foi isolada para garantir a segurança dos trabalhadores e moradores próximos.</p><p>Os bombeiros seguiram com procedimentos para garantir que não haja riscos adicionais e monitoram o local para evitar novos vazamentos. As causas do incidente estão sendo investigadas pelas autoridades competentes.</p>]]></content:encoded>
+		<wfw:commentRss>https://visornoticias.com.br/vazamento-de-amonia-em-empresa-de-itapema/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	<item>
+		<title><![CDATA[Casal é forçado a entrar em carro durante cobrança de dívida em Blumenau]]></title>
+		<link>https://portalmenina.com.br/homem-e-esposa-sao-obrigados-a-entrar-em-carro-durante-cobranca-de-divida-em-blumenau/</link>
+		<comments>https://portalmenina.com.br/homem-e-esposa-sao-obrigados-a-entrar-em-carro-durante-cobranca-de-divida-em-blumenau/#respond</comments>
+		<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 14:04:09 +0000</pubDate>
+		<category><![CDATA[Região]]></category>
+		<guid isPermaLink="false">https://portalmenina.com.br/?p=130423</guid>
+
+		<description><![CDATA[A Polícia Militar atendeu uma ocorrência na madrugada desta terça-feira (16) em Blumenau envolvendo tentativa de extorsão e lesão corporal leve. Um homem e sua esposa foram obrigados a entrar em um automóvel durante o episódio.]]></description>
+		<content:encoded><![CDATA[<p>Por volta das 2h da madrugada, policiais militares flagraram um homem sendo empurrado para dentro de um veículo que saiu em alta velocidade no bairro Garcia. O carro foi acompanhado e abordado pelos agentes no mesmo bairro.</p><p>Dentro do veículo estavam quatro homens, com idades entre 22 e 43 anos, e uma mulher de 30 anos. Segundo relato do homem de 31 anos, ele estava em casa quando três suspeitos invadiram a residência, o obrigaram a entrar no automóvel junto com a esposa e o agrediram.</p><p>A agressão teria relação com uma dívida que a vítima teria com um dos ocupantes do carro, de 22 anos. Durante o incidente, o homem sofreu uma lesão leve no nariz, enquanto a esposa não foi ferida.</p><p>Os três homens suspeitos e o veículo foram encaminhados à Delegacia de Polícia Civil para providências legais.</p>]]></content:encoded>
+		<wfw:commentRss>https://portalmenina.com.br/homem-e-esposa-sao-obrigados-a-entrar-em-carro-durante-cobranca-de-divida-em-blumenau/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+
+	</channel>
 </rss>
