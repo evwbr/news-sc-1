@@ -1,158 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 16 Dec 2025 20:52:18 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
-  <item>
-    <title><![CDATA[Cadeira anfíbia facilita acesso ao mar em praia de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/</link>
-    <comments>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
-    <category><![CDATA[Geral]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317585</guid>
-    <description><![CDATA[O Programa Praia Acessível oferece cadeiras anfíbias que permitem que pessoas com mobilidade reduzida entrem no mar com segurança.]]></description>
-    <content:encoded><![CDATA[<p>O Programa Praia Acessível, implementado em uma praia de Santa Catarina, disponibiliza cadeiras anfíbias para facilitar o acesso ao mar para pessoas com mobilidade reduzida.</p><p>Essas cadeiras têm como objetivo proporcionar segurança e conforto, permitindo que mais pessoas possam desfrutar do banho de mar.</p><p>A iniciativa visa realizar o sonho de muitos que enfrentam dificuldades de locomoção, promovendo inclusão e acessibilidade nas praias.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Ação de Natal beneficia 200 crianças em Tubarão com brinquedos]]></title>
-    <link>https://visornoticias.com.br/acao-natal-tubarao/</link>
-    <comments>https://visornoticias.com.br/acao-natal-tubarao/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:31:02 GMT</pubDate>
-    <category><![CDATA[Assistência Social]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317562</guid>
-    <description><![CDATA[O Instituto Nossa Família realizou uma ação de Natal que atendeu 200 crianças em Tubarão, oferecendo brinquedos, lanches e atividades recreativas.]]></description>
-    <content:encoded><![CDATA[<p>O Instituto Nossa Família promoveu uma ação de Natal em Tubarão, beneficiando 200 crianças. O evento incluiu a distribuição de brinquedos, lanches e a realização de atividades recreativas.</p><p>A iniciativa visa proporcionar momentos de alegria e diversão para as crianças durante o período natalino, promovendo a inclusão e o bem-estar social.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/acao-natal-tubarao/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Tubarão avança na fase final das obras de drenagem da Rua Aldo Hülse]]></title>
-    <link>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/</link>
-    <comments>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:30:57 GMT</pubDate>
-    <category><![CDATA[Infraestrutura]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317563</guid>
-    <description><![CDATA[As obras de drenagem na Rua Aldo Hülse, em Tubarão, estão na fase final e incluem a instalação de uma nova galeria para escoamento da água.]]></description>
-    <content:encoded><![CDATA[<p>As obras de drenagem na Rua Aldo Hülse, localizada na cidade de Tubarão, estão progredindo para a fase final. O projeto inclui a instalação de uma nova galeria destinada ao escoamento da água, visando melhorar a infraestrutura da região.</p><p>A iniciativa faz parte de um esforço maior para prevenir alagamentos e garantir a eficiência do sistema de drenagem urbana. A conclusão das obras é esperada para breve, trazendo benefícios para os moradores e o tráfego local.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Procon de Tubarão analisa variação nos preços do chester]]></title>
-    <link>https://visornoticias.com.br/preco-do-chester/</link>
-    <comments>https://visornoticias.com.br/preco-do-chester/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:30:52 GMT</pubDate>
-    <category><![CDATA[Economia e Negócios]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317567</guid>
-    <description><![CDATA[Levantamento do Procon de Tubarão destaca a importância da pesquisa de preços do chester para a economia na ceia de Natal.]]></description>
-    <content:encoded><![CDATA[<p>O Procon de Tubarão realizou um levantamento sobre os preços do chester, evidenciando a variação encontrada entre os estabelecimentos. A pesquisa tem como objetivo orientar os consumidores na escolha do produto para a ceia de Natal.</p><p>De acordo com a análise, a comparação de preços é fundamental para garantir economia durante as festividades. O Procon recomenda que os consumidores verifiquem as opções disponíveis antes de realizar a compra.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/preco-do-chester/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Réveillon Encantado é promovido pela Prefeitura de Brusque no Pavilhão da Fenarreco]]></title>
-    <link>https://visornoticias.com.br/reveillon-em-brusque/</link>
-    <comments>https://visornoticias.com.br/reveillon-em-brusque/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:30:48 GMT</pubDate>
-    <category><![CDATA[Brusque]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317573</guid>
-    <description><![CDATA[A Prefeitura de Brusque organiza o Réveillon Encantado, um evento gratuito no Pavilhão da Fenarreco, com programação musical, queima de fogos silenciosos e medidas de segurança.]]></description>
-    <content:encoded><![CDATA[<p>A cidade de Brusque se prepara para a chegada de 2026 com o evento Réveillon Encantado, que ocorrerá no Pavilhão da Fenarreco. A festa, que é gratuita, marca a retomada das celebrações públicas de fim de ano após mais de uma década.</p><p>O evento contará com uma programação musical de artistas locais, além de queima de fogos silenciosos. Para garantir a segurança e tranquilidade das famílias presentes, haverá um esquema de segurança e controle na entrada de bebidas.</p><p>O Réveillon Encantado em Brusque está programado para começar às 20h.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/reveillon-em-brusque/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Homem é preso em Blumenau por suspeita de arrastar cão]]></title>
-    <link>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/</link>
-    <comments>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:21:01 GMT</pubDate>
-    <category><![CDATA[Blumenau]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317570</guid>
-    <description><![CDATA[Um homem foi preso em flagrante pela Polícia Civil em Blumenau, suspeito de arrastar um cão por um quilômetro. O animal, que sofreu ferimentos graves, foi resgatado e está em tratamento sob os cuidados do município.]]></description>
-    <content:encoded><![CDATA[<p>Na cidade de Blumenau, a Polícia Civil prendeu em flagrante um homem suspeito de arrastar um cão por uma distância de um quilômetro. O incidente gerou preocupação devido à gravidade dos ferimentos sofridos pelo animal.</p><p>Após o resgate, o cão recebeu atendimento veterinário e atualmente está em tratamento sob os cuidados do município. As autoridades continuam a investigar o caso para determinar as circunstâncias exatas do ocorrido.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Homem condenado por homicídio na direção é preso em SC]]></title>
-    <link>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/</link>
-    <comments>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:18:20 GMT</pubDate>
-    <category><![CDATA[Segurança]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317559</guid>
-    <description><![CDATA[Um homem foi preso em Santa Catarina após ser condenado por homicídio culposo na direção de veículo, relacionado a um acidente ocorrido em 2018.]]></description>
-    <content:encoded><![CDATA[<p>Um homem foi detido em Santa Catarina após ser condenado por homicídio culposo na direção de veículo. O crime ocorreu em 2018, na SC-355, em Catanduvas.</p><p>A vítima do acidente faleceu 28 dias após o incidente, em decorrência dos ferimentos sofridos. A prisão foi realizada em cumprimento a um mandado judicial.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Vereador do PSOL defende Secretária de Educação em SC após polêmica sobre cotas raciais]]></title>
-    <link>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/</link>
-    <comments>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:10:37 GMT</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172745</guid>
-    <description><![CDATA[Após a secretária de Educação de Santa Catarina, Luciane Ceretta, se posicionar contra o fim das cotas raciais nas universidades, ela recebeu apoio de lideranças do PSOL, incluindo o vereador Leonel Camasão, que a elogiou como 'pessoa competente'. A proposta que extingue as cotas foi aprovada pela Assembleia Legislativa e aguarda sanção do governador Jorginho Mello.]]></description>
-    <content:encoded><![CDATA[<p>A secretária de Estado da Educação de Santa Catarina, Luciane Ceretta, recebeu apoio de setores da esquerda após se manifestar contra a aprovação de um projeto que extingue as cotas raciais para negros e indígenas nas universidades estaduais. A proposta, aprovada pela Assembleia Legislativa, mantém apenas critérios socioeconômicos para Pessoas com Deficiência e egressos de escolas públicas e aguarda sanção do governador Jorginho Mello.</p><p>Após uma entrevista em que Ceretta afirmou que Santa Catarina possui uma 'dívida histórica' com a população negra, parda e indígena, o vereador Leonel Camasão (PSOL) expressou apoio à secretária, elogiando sua competência e criticando o projeto aprovado. Camasão, que já havia manifestado críticas ao programa Universidade Gratuita, uma das iniciativas educacionais associadas a Ceretta, destacou a importância das cotas raciais para corrigir desigualdades históricas.</p><p>O debate sobre as cotas raciais se intensificou nas redes sociais e no meio político, com apoiadores do projeto defendendo que a inclusão deve ser baseada em critérios econômicos. A posição de Ceretta, que diverge da base governista, ampliou a tensão política em torno do tema, que se consolidou como um dos mais polarizados em Santa Catarina neste final de ano.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados]]></title>
-    <link>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/</link>
-    <comments>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:05:54 GMT</pubDate>
-    <category><![CDATA[Florianópolis]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317528</guid>
-    <description><![CDATA[Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Tue, 16 Dec 2025 21:30:49 GMT</lastBuildDate>
+<language>pt-BR</language>
+
+<item>
+<title><![CDATA[Terceira edição do projeto Oficina de Cinema para Jovens forma estudantes de Bombinhas]]></title>
+<link>https://horadeportobelo.com.br/2025/12/16/terceira-edicao-do-projeto-oficina-de-cinema-para-jovens-forma-estudantes-de-bombinhas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Bombinhas]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Região]]></category>
+<category><![CDATA[Terceira]]></category>
+<category><![CDATA[Edição]]></category>
+<category><![CDATA[Projeto]]></category>
+<category><![CDATA[Oficina]]></category>
+<category><![CDATA[Cinema]]></category>
+<category><![CDATA[Jovens]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Tue, 16 Dec 2025 21:29:37 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20406</guid>
+<description><![CDATA[A terceira edição da Oficina de Cinema para Jovens, projeto realizado pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, sob coordenação do cineasta Santiago José Asef, formou estudantes do nono ano do CEIT Leonel de Moura Brizola, escola municipal de Bombinhas. Durante o ano letivo, aproximadamente cem alunos tiveram a oportunidade de participar do curso que aborda aspectos técnicos, noções de criatividade, direção, atuação e produção no mundo audiovisual.]]></description>
+<content:encoded><![CDATA[<strong>A terceira edição da Oficina de Cinema para Jovens, projeto realizado pela Tiqsi Filmes e Produções em parceria com a Tramela Produções, sob coordenação do cineasta Santiago José Asef, formou estudantes do nono ano do CEIT Leonel de Moura Brizola, escola municipal de Bombinhas. Durante o ano letivo, aproximadamente cem alunos tiveram a oportunidade de participar do curso que aborda aspectos técnicos, noções de criatividade, direção, atuação e produção no mundo audiovisual. A iniciativa visa proporcionar aos estudantes uma nova forma de expressão, estimular o trabalho coletivo e oferecer uma perspectiva no mercado de trabalho.</strong><br/><br/>A proposta da Oficina de Cinema para Jovens vai além do ensino da filmagem, conforme explica Santiago José Asef. O curso busca desenvolver o pensamento crítico dos jovens, fazendo-os refletir sobre sua própria visão de mundo e transformar isso em ideias e discurso. Asef enxerga Bombinhas como um potencial polo de ensino, especialmente na área audiovisual, e já iniciou ações, como a Residência Audiovisual do Mar (RAM) e o Laboratório de Criação Audiovisual, para fortalecer essa visão. Os alunos, ao longo das edições, produziram curtas-metragens que abordam temas relevantes para eles, como cyberbullying e solidão na escola, sendo reconhecidos em festivais internacionais. Os filmes podem ser assistidos no canal da Tiqsi Filmes no YouTube.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
+
+<item>
+<title><![CDATA[Cadeira anfíbia facilita acesso ao mar em praia de Santa Catarina]]></title>
+<link>https://visornoticias.com.br/cadeira-anfibia-torna-banho-de-mar-acessivel-e-realiza-sonhos-em-praia-de-santa-catarina/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:38:00 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317585</guid>
+<description><![CDATA[O Programa Praia Acessível oferece cadeiras anfíbias que permitem que pessoas com mobilidade reduzida entrem no mar com segurança.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Ação de Natal beneficia 200 crianças em Tubarão com brinquedos]]></title>
+<link>https://visornoticias.com.br/acao-natal-tubarao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:31:02 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317562</guid>
+<description><![CDATA[O Instituto Nossa Família realizou uma ação de Natal que atendeu 200 crianças em Tubarão, oferecendo brinquedos, lanches e atividades recreativas.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Tubarão avança na fase final das obras de drenagem da Rua Aldo Hülse]]></title>
+<link>https://visornoticias.com.br/obras-drenagem-tubarao-rua-aldo-hulse/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:30:57 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317563</guid>
+<description><![CDATA[As obras de drenagem na Rua Aldo Hülse, em Tubarão, estão na fase final e incluem a instalação de uma nova galeria para escoamento da água.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Procon de Tubarão analisa variação nos preços do chester]]></title>
+<link>https://visornoticias.com.br/preco-do-chester/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:30:52 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317567</guid>
+<description><![CDATA[Levantamento do Procon de Tubarão destaca a importância da pesquisa de preços do chester para a economia na ceia de Natal.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Réveillon Encantado é promovido pela Prefeitura de Brusque no Pavilhão da Fenarreco]]></title>
+<link>https://visornoticias.com.br/reveillon-em-brusque/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:30:48 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317573</guid>
+<description><![CDATA[A Prefeitura de Brusque organiza o Réveillon Encantado, um evento gratuito no Pavilhão da Fenarreco, com programação musical, queima de fogos silenciosos e medidas de segurança.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Homem é preso em Blumenau por suspeita de arrastar cão]]></title>
+<link>https://visornoticias.com.br/policia-civil-prende-em-flagrante-homem-suspeito-de-arrastar-cao-por-um-quilometro-em-blumenau/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:21:01 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317570</guid>
+<description><![CDATA[Um homem foi preso em flagrante pela Polícia Civil em Blumenau, suspeito de arrastar um cão por um quilômetro. O animal, que sofreu ferimentos graves, foi resgatado e está em tratamento sob os cuidados do município.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Homem condenado por homicídio na direção é preso em SC]]></title>
+<link>https://visornoticias.com.br/homem-condenado-por-homicidio-na-direcao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:18:20 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317559</guid>
+<description><![CDATA[Um homem foi preso em Santa Catarina após ser condenado por homicídio culposo na direção de veículo, relacionado a um acidente ocorrido em 2018.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Vereador do PSOL defende Secretária de Educação em SC após polêmica sobre cotas raciais]]></title>
+<link>https://jornalrazao.com/politica/vereador-do-psol-sai-em-defesa-da-secretaria-de-educacao-em-sc-pessoa-competente/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:10:37 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172745</guid>
+<description><![CDATA[Após a secretária de Educação de Santa Catarina, Luciane Ceretta, se posicionar contra o fim das cotas raciais nas universidades, ela recebeu apoio de lideranças do PSOL, incluindo o vereador Leonel Camasão, que a elogiou como 'pessoa competente'. A proposta que extingue as cotas foi aprovada pela Assembleia Legislativa e aguarda sanção do governador Jorginho Mello.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados]]></title>
+<link>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 16 Dec 2025 20:05:54 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317528</guid>
+<description><![CDATA[Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal
 O post Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados apareceu primeiro em Visor Notícias .]]></description>
-    <content:encoded><![CDATA[<p>Procon identificou o mesmo valor por quilo do peru temperado e apontou indícios de falta de concorrência na ceia de Natal</p><p>O post Quatro supermercados em Florianópolis são notificados por suspeita de preços combinados apareceu primeiro em Visor Notícias .</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/quatro-supermercados-em-florianopolis-sao-notificados-por-suspeita-de-precos-combinados/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Polícia Rodoviária apreende 333 garrafas de vinho argentino por descaminho na SC-114]]></title>
-    <link>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/</link>
-    <comments>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 16 Dec 2025 20:01:56 GMT</pubDate>
-    <category><![CDATA[Segurança]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317545</guid>
-    <description><![CDATA[A Polícia Rodoviária apreendeu 333 garrafas de vinho argentino na SC-114, devido à falta de documentação aduaneira.]]></description>
-    <content:encoded><![CDATA[<p>A Polícia Rodoviária apreendeu 333 garrafas de vinho argentino na rodovia SC-114. A mercadoria foi interceptada por estar sem a devida documentação aduaneira.</p><p>A ação ocorreu durante uma fiscalização de rotina, onde os agentes identificaram a irregularidade na documentação da carga. O vinho foi apreendido e as autoridades estão investigando as circunstâncias do descaminho.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/policia-rodoviaria-apreende-333-garrafas-de-vinho-argentino-por-descaminho-na-sc-114/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
