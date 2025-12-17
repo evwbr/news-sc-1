@@ -1,112 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 17 Dec 2025 09:21:06 GMT</lastBuildDate>
-<language>pt-BR</language>
-
-<item>
-<title><![CDATA[Cuidados no Primeiro Banho do Filhote]]></title>
-<link>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:10:08 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</guid>
-<description><![CDATA[O primeiro banho de um cachorro filhote é um momento importante que requer cuidados especiais. Garantir uma experiência segura e tranquila é essencial para a saúde e bem-estar do animal. Conheça os principais cuidados a serem tomados durante esse processo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Homem é preso por suspeita de homicídio e simulação de acidente]]></title>
-<link>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:03:17 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317675</guid>
-<description><![CDATA[Um homem foi detido sob a suspeita de ter assassinado sua namorada e simulado um acidente com um ônibus. A investigação revela que a vítima já estava morta ou inconsciente antes da colisão.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Benefícios do Kefir para a Saúde]]></title>
-<link>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:01:29 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</guid>
-<description><![CDATA[O kefir é uma bebida fermentada rica em probióticos, vitaminas e minerais. Seu consumo pode contribuir para a saúde do organismo e auxiliar na prevenção de diversas doenças.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Disruptores Endócrinos e Seus Efeitos na Saúde]]></title>
-<link>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:01:24 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</guid>
-<description><![CDATA[A exposição a disruptores endócrinos pode impactar a saúde hormonal de forma silenciosa. Este artigo aborda quais substâncias são consideradas disruptores e como elas podem afetar o equilíbrio hormonal do organismo.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Exercícios sem Equipamentos para Manter a Massa Muscular nas Férias]]></title>
-<link>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:01:13 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</guid>
-<description><![CDATA[Durante as férias, é possível manter a massa muscular e a força com exercícios simples que não requerem equipamentos. Essas atividades podem ser realizadas em qualquer lugar, ajudando a evitar a perda de condicionamento físico.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Dicas para um Natal mais leve e prazeroso]]></title>
-<link>https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:01:05 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</guid>
-<description><![CDATA[O Natal pode ser uma ocasião propícia para fortalecer laços familiares e cuidar da saúde mental. A seguir, apresentamos sugestões que podem ajudar a tornar essa celebração mais leve e agradável.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Hábitos de Férias e Saúde do Coração]]></title>
-<link>https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:01:00 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</guid>
-<description><![CDATA[Mudanças na rotina durante as férias podem impactar a saúde cardiovascular. É importante estar ciente dos hábitos que podem aumentar o risco de doenças cardíacas e como manter um estilo de vida saudável mesmo em períodos de descanso.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Previsões Astrológicas para 17 de Dezembro de 2025]]></title>
-<link>https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:00:40 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</guid>
-<description><![CDATA[As previsões astrológicas para o dia 17 de dezembro de 2025 trazem orientações para os 12 signos do zodíaco, oferecendo insights sobre o que os astros revelam para cada nativo nesta quarta-feira.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Capricórnio e os Relacionamentos com os 12 Signos]]></title>
-<link>https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 09:00:16 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</guid>
-<description><![CDATA[Os capricornianos se destacam em relacionamentos por sua lealdade, responsabilidade e constância. Eles costumam expressar seu afeto por meio de ações, priorizando atitudes em vez de palavras.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Preso encontrado morto em penitenciária de Itajaí]]></title>
-<link>https://visornoticias.com.br/preso-e-encontrado-morto-apos-desentendimento-em-penitenciaria-de-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 08:32:31 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=317672</guid>
-<description><![CDATA[Um detento foi encontrado sem vida em uma penitenciária de Itajaí após um desentendimento durante a rotina interna da unidade. O caso está sendo investigado pelas autoridades policiais.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Wed, 17 Dec 2025 10:10:44 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <item>
+    <title><![CDATA[Stranger Things: 5 fatos curiosos sobre a série que virou fenômeno]]></title>
+    <link>https://visornoticias.com.br/stranger-things-5-fatos-curiosos-sobre-a-serie-que-virou-fenomeno/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:40:30 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/stranger-things-5-fatos-curiosos-sobre-a-serie-que-virou-fenomeno/</guid>
+    <description><![CDATA[ENTRETERIMENTO Stranger Things: 5 fatos curiosos sobre a série que virou fenômeno Veja decisões que ajudaram a tornar a produção um ícone da cultura pop e sucesso mundial Edicase 17/12/2025 - 06h40 A inclusão da condição do ator Gaten Matarazzo na série trouxe visibilidade à displasia cleidocraniana e profundidade ao…]]></description>
+    <content:encoded><![CDATA[<p><strong>ENTRETERIMENTO</strong></p><p>Stranger Things: 5 fatos curiosos sobre a série que virou fenômeno</p><p>Veja decisões que ajudaram a tornar a produção um ícone da cultura pop e sucesso mundial</p><p>Edicase</p><p>17/12/2025 - 06h40</p><p>A inclusão da condição do ator Gaten Matarazzo na série trouxe visibilidade à displasia cleidocraniana e profundidade ao personagem (Imagem: lev radin | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>Lançada em 2016, a série “Stranger Things” é um sucesso mundial da Netflix. Com um enredo que mistura ficção científica e suspense, a trama tem liderado o ranking das mais assistidas da plataforma desde o lançamento da terceira temporada, quando o streaming passou a divulgar dados de audiência e classificações semanais.</p><p>Agora, na quinta temporada, o fenômeno continua, sobretudo com o desfecho da história, que desperta nostalgia e expectativa entre os fãs. Para relembrar por que essa narrativa conquistou tanta popularidade, confira alguns fatos marcantes sobre a série!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[5 filmes que chegam ao cinema nesta semana]]></title>
+    <link>https://visornoticias.com.br/5-filmes-que-chegam-ao-cinema-nesta-semana/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:40:15 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/5-filmes-que-chegam-ao-cinema-nesta-semana/</guid>
+    <description><![CDATA[ENTRETERIMENTO 5 filmes que chegam ao cinema nesta semana Além de Avatar, descubra os lançamentos imperdíveis desta quinta-feira Edicase 17/12/2025 - 06h40 “Avatar: Fogo e Cinzas” traz Jake Sully e Neytiri enfrentando o Povo das Cinzas em nova aventura na região vulcânica de Pandora (Imagem: Reprodução digital | Disne…]]></description>
+    <content:encoded><![CDATA[<p><strong>ENTRETERIMENTO</strong></p><p>5 filmes que chegam ao cinema nesta semana</p><p>Além de Avatar, descubra os lançamentos imperdíveis desta quinta-feira</p><p>Edicase</p><p>17/12/2025 - 06h40</p><p>“Avatar: Fogo e Cinzas” traz Jake Sully e Neytiri enfrentando o Povo das Cinzas em nova aventura na região vulcânica de Pandora (Imagem: Reprodução digital | Disney Pictures)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>Os cinemas brasileiros recebem nesta semana uma seleção eclética de estreias que vai agradar diferentes perfis de espectadores. Das produções hollywoodianas de grande orçamento às histórias nacionais intimistas, há opções tanto para quem busca espetáculo visual quanto para quem prefere narrativas mais reflexivas.</p><p>Se você está planejando sua ida ao cinema nesta semana, confira estes 5 lançamentos que chegam às telas!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Temperaturas despencam no Sul do Brasil após dias de calor e temporais]]></title>
+    <link>https://visornoticias.com.br/temperaturas-despencam-no-sul-do-brasil-apos-dias-de-calor-e-temporais/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:40:01 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317725</guid>
+    <description><![CDATA[TEMPO Temperaturas despencam no Sul do Brasil após dias de calor e temporais Nova massa de ar seco provoca madrugadas frias, com mínimas próximas de 5°C e risco de geada em áreas serranas Pedro Eduardo 17/12/2025 - 06h40 Temperaturas despencam no Sul do Brasil após dias de calor e temporais 📄 Resumo do artigo --> Dep…]]></description>
+    <content:encoded><![CDATA[<p><strong>TEMPO</strong></p><p>Temperaturas despencam no Sul do Brasil após dias de calor e temporais</p><p>Nova massa de ar seco provoca madrugadas frias, com mínimas próximas de 5°C e risco de geada em áreas serranas</p><p>Pedro Eduardo</p><p>17/12/2025 - 06h40</p><p>Temperaturas despencam no Sul do Brasil após dias de calor e temporais</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>Depois de dias com temperaturas próximas dos 40°C e a ocorrência de fortes tempestades e chuvas intensas em diferentes regiões, o Sul do Brasil passa por uma mudança significativa no tempo. Uma nova massa de ar seco e mais ameno atua sobre a região e provoca queda acentuada das temperaturas, especialmente durante as madrugadas.</p><p>Amplitude térmica chama atenção</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[6 receitas de assados para as ceias de fim de ano]]></title>
+    <link>https://visornoticias.com.br/6-receitas-de-assados-para-as-ceias-de-fim-de-ano/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:20:41 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/6-receitas-de-assados-para-as-ceias-de-fim-de-ano/</guid>
+    <description><![CDATA[CULINÁRIA 6 receitas de assados para as ceias de fim de ano Torne o Natal e o Ano-Novo mais saborosos com pratos especiais para celebrar com a família e os amigos Edicase 17/12/2025 - 06h20 Pernil caramelizado (Imagem: gkrphoto | Shutterstock) 📄 Resumo do artigo --> As ceias de Natal e Ano-Novo são momentos mágicos q…]]></description>
+    <content:encoded><![CDATA[<p><strong>CULINÁRIA</strong></p><p>6 receitas de assados para as ceias de fim de ano</p><p>Torne o Natal e o Ano-Novo mais saborosos com pratos especiais para celebrar com a família e os amigos</p><p>Edicase</p><p>17/12/2025 - 06h20</p><p>Pernil caramelizado (Imagem: gkrphoto | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>As ceias de Natal e Ano-Novo são momentos mágicos que levam as festas de fim de ano a um patamar especial. É nesta época que as mesas se enchem de pratos tradicionais, como os assados, que são protagonistas das celebrações, além de outros sabores irresistíveis que encantam paladares.</p><p>Para deixar essas comemorações ainda mais memoráveis, confira 6 receitas de assados deliciosos para você preparar em casa e surpreender a família!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Ceia de Natal: 3 receitas vegetarianas para fazer no forno]]></title>
+    <link>https://visornoticias.com.br/ceia-de-natal-3-receitas-vegetarianas-para-fazer-no-forno/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:20:09 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/ceia-de-natal-3-receitas-vegetarianas-para-fazer-no-forno/</guid>
+    <description><![CDATA[CULINÁRIA Ceia de Natal: 3 receitas vegetarianas para fazer no forno Veja como preparar pratos deliciosos e práticos para tornar o seu jantar mais especial Edicase 17/12/2025 - 06h20 Quiche vegetariana de legumes (Imagem: Lecker Studio | Shutterstock) 📄 Resumo do artigo --> As receitas de forno estão sempre presentes…]]></description>
+    <content:encoded><![CDATA[<p><strong>CULINÁRIA</strong></p><p>Ceia de Natal: 3 receitas vegetarianas para fazer no forno</p><p>Veja como preparar pratos deliciosos e práticos para tornar o seu jantar mais especial</p><p>Edicase</p><p>17/12/2025 - 06h20</p><p>Quiche vegetariana de legumes (Imagem: Lecker Studio | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>As receitas de forno estão sempre presentes na ceia de Natal, trazendo praticidade e aquele sabor caseiro que remete às tradições da data. Elas permitem reunir diferentes ingredientes em combinações reconfortantes, além de facilitarem o preparo. Inclusive, é totalmente possível apostar em opções vegetarianas, garantindo uma refeição completa para desfrutar com todos ao redor da mesa.</p><p>A seguir, confira 3 receitas vegetarianas para fazer no forno para a ceia de Natal!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[10 cuidados importantes no primeiro banho do cachorro filhote]]></title>
+    <link>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:10:08 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</guid>
+    <description><![CDATA[PETS 10 cuidados importantes no primeiro banho do cachorro filhote  Entenda como garantir uma experiência segura, tranquila e saudável para o animal Edicase 17/12/2025 - 06h10 O banho deve começar suavemente pelas patas e avançar gradualmente para o dorso (Imagem: Easy Morning | Shutterstock) 📄 Resumo do artigo --> O…]]></description>
+    <content:encoded><![CDATA[<p><strong>PETS</strong></p><p>10 cuidados importantes no primeiro banho do cachorro filhote</p><p>Entenda como garantir uma experiência segura, tranquila e saudável para o animal</p><p>Edicase</p><p>17/12/2025 - 06h10</p><p>O banho deve começar suavemente pelas patas e avançar gradualmente para o dorso (Imagem: Easy Morning | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>O banho é um dos cuidados essenciais com o cachorro, ajudando a prevenir doenças de pele, controlar odores e manter o bem-estar geral do animal. Para os filhotes, porém, essa etapa exige atenção redobrada. Isso porque, nos primeiros meses de vida, o organismo ainda está em desenvolvimento, o sistema imunológico é mais sensível e qualquer erro simples pode causar desconforto ou comprometer a saúde do animal.</p><p>Em geral, recomenda-se que o primeiro banho seja dado a partir dos 2 meses, quando o filhote já iniciou o protocolo de vacinação e apresenta maior resistência a mudanças externas. Antes disso, o ideal é limitar a higiene a limpezas rápidas com panos úmidos ou lenços específicos.</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Homem é preso suspeito de matar namorada e simular acidente]]></title>
+    <link>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:03:17 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/?p=317675</guid>
+    <description><![CDATA[SEGURANÇA Homem é preso suspeito de matar namorada e simular acidente Investigação aponta que vítima já estava morta ou desacordada antes do choque com ônibus Pedro Eduardo 17/12/2025 - 06h03 Homem é preso suspeito de matar namorada e simular acidente Foto: Reprodução 📄 Resumo do artigo --> Um homem foi preso suspeit…]]></description>
+    <content:encoded><![CDATA[<p><strong>SEGURANÇA</strong></p><p>Homem é preso suspeito de matar namorada e simular acidente</p><p>Investigação aponta que vítima já estava morta ou desacordada antes do choque com ônibus</p><p>Pedro Eduardo</p><p>17/12/2025 - 06h03</p><p>Homem é preso suspeito de matar namorada e simular acidente
+Foto: Reprodução</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>Um homem foi preso suspeito de matar a namorada e simular um acidente de trânsito na rodovia MG-050, nas proximidades de Itaúna, em Minas Gerais, para tentar encobertar o crime. A prisão ocorreu após a Polícia Civil de Minas Gerais reunir indícios de que a vítima, Henay Rosa Gonçalves Amorim, de 31 anos, já estaria morta ou desacordada antes da colisão registrada no domingo (14).</p><p>Acidente levantou suspeitas desde o início</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Kefir: 5 benefícios da bebida fermentada que favorece o equilíbrio do organismo]]></title>
+    <link>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:01:29 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</guid>
+    <description><![CDATA[SAÚDE Kefir: 5 benefícios da bebida fermentada que favorece o equilíbrio do organismo  Rico em probióticos, vitaminas e minerais, ele contribui para a saúde e ajuda na prevenção de doenças Edicase 17/12/2025 - 06h01 O kefir contém cálcio e vitaminas que contribuem para a saúde dos ossos e dos dentes (Imagem: Zigres |…]]></description>
+    <content:encoded><![CDATA[<p><strong>SAÚDE</strong></p><p>Kefir: 5 benefícios da bebida fermentada que favorece o equilíbrio do organismo</p><p>Rico em probióticos, vitaminas e minerais, ele contribui para a saúde e ajuda na prevenção de doenças</p><p>Edicase</p><p>17/12/2025 - 06h01</p><p>O kefir contém cálcio e vitaminas que contribuem para a saúde dos ossos e dos dentes (Imagem: Zigres | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>O kefir é uma bebida fermentada tradicionalmente feita a partir de leite ou de água, cujos grãos — compostos por uma comunidade de bactérias e leveduras — transformam o alimento em uma bebida levemente ácida, cremosa e rica em microrganismos vivos. Originário das montanhas do Cáucaso, sua história é antiga, e ao longo dos séculos ele foi incorporado a várias culinárias ao redor do mundo por seu sabor único, versatilidade e benefícios à saúde.</p><p>Por ser uma fonte natural de probióticos, vitaminas e minerais, o kefir tem ganhado cada vez mais espaço em dietas que valorizam alimentos funcionais e integrais. A seguir, confira 5 benefícios da bebida para a saúde!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[Disruptores endócrinos: saiba quais substâncias podem desequilibrar seus hormônios]]></title>
+    <link>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:01:24 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</guid>
+    <description><![CDATA[SAÚDE Disruptores endócrinos: saiba quais substâncias podem desequilibrar seus hormônios Entenda como a exposição constante a esses agentes pode afetar sua saúde de forma silenciosa Edicase 17/12/2025 - 06h01 Os disruptores endócrinos podem estar presentes em produtos de limpeza (Imagem: Alexander Raths | Shutterstock…]]></description>
+    <content:encoded><![CDATA[<p><strong>SAÚDE</strong></p><p>Disruptores endócrinos: saiba quais substâncias podem desequilibrar seus hormônios</p><p>Entenda como a exposição constante a esses agentes pode afetar sua saúde de forma silenciosa</p><p>Edicase</p><p>17/12/2025 - 06h01</p><p>Os disruptores endócrinos podem estar presentes em produtos de limpeza (Imagem: Alexander Raths | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>Eles estão no plástico da garrafa de água, na fragrância do perfume e até no revestimento da lata de alimentos. Os chamados disruptores endócrinos são substâncias químicas capazes de interferir no funcionamento do sistema hormonal humano e estão cada vez mais presentes no cotidiano.</p><p>O endocrinologista Lucas Habib, professor do curso de Medicina da Faculdade Pitágoras, explica que esses compostos “imitam ou bloqueiam a ação dos hormônios naturais, atrapalhando a comunicação entre as glândulas e os órgãos-alvo”.</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title><![CDATA[5 exercícios sem equipamentos para manter a massa muscular durante as férias]]></title>
+    <link>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 09:01:13 GMT</pubDate>
+    <guid isPermaLink="false">https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</guid>
+    <description><![CDATA[SAÚDE 5 exercícios sem equipamentos para manter a massa muscular durante as férias Mantenha o corpo ativo e evite a perda de força mesmo longe da academia com treinos fáceis de fazer Edicase 17/12/2025 - 06h01 O agachamento é um exercício completo para os membros inferiores (Imagem: Mix and Match Studio | Shutterstock…]]></description>
+    <content:encoded><![CDATA[<p><strong>SAÚDE</strong></p><p>5 exercícios sem equipamentos para manter a massa muscular durante as férias</p><p>Mantenha o corpo ativo e evite a perda de força mesmo longe da academia com treinos fáceis de fazer</p><p>Edicase</p><p>17/12/2025 - 06h01</p><p>O agachamento é um exercício completo para os membros inferiores (Imagem: Mix and Match Studio | Shutterstock)</p><p>📄 Resumo do artigo</p><p>--&gt;</p><p>A chegada das férias é sinônimo de descanso. Porém, para o corpo, pode significar um retrocesso no condicionamento físico. Enquanto o clima convida ao relaxamento, a interrupção abrupta dos treinos traz prejuízos concretos: semanas de inatividade são suficientes para reduzir drasticamente a força e a resistência muscular.</p><p>Para evitar esse prejuízo, o profissional de educação física e supervisor técnico da academia Corpo e Saúde, Breno Daniel, compartilha exercícios simples que não precisam de equipamentos e podem ser feitos em qualquer ambiente — do quarto do hotel à sala de casa. “O objetivo é manter o corpo ativo, preservar o tônus muscular e equilibrar o gasto calórico, mesmo em períodos de descanso”, explica. Confira abaixo!</p><p><em>Serviço:</em> acompanhe atualizações no link da matéria original e em comunicados oficiais relacionados ao tema.</p>]]></content:encoded>
+  </item>
 </channel>
 </rss>
