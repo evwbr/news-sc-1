@@ -1,166 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 17 Dec 2025 11:54:37 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Wed, 17 Dec 2025 12:01:03 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[PGC assume execução de integrante e PM intensifica cerco na Grande Florianópolis]]></title>
-    <link>https://jornalrazao.com/seguranca/pgc-assume-execucao-de-integrante-e-pm-intensifica-cerco-na-grande-florianopolis/</link>
-    <comments>https://jornalrazao.com/seguranca/pgc-assume-execucao-de-integrante-e-pm-intensifica-cerco-na-grande-florianopolis/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 11:48:41 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172773</guid>
-    <description><![CDATA[O Primeiro Grupo Catarinense (PGC) assumiu publicamente a execução de um de seus integrantes na Grande Florianópolis, levando a Polícia Militar de Santa Catarina a intensificar as ações contra a facção. O crime ocorreu em 29 de novembro de 2025, tendo como vítima Carlos Eduardo Sotéro, conhecido como "Professor". Após …]]></description>
-    <content:encoded><![CDATA[<p>O Primeiro Grupo Catarinense (PGC) assumiu publicamente a execução de um de seus integrantes na Grande Florianópolis, levando a Polícia Militar de Santa Catarina a intensificar as ações contra a facção. O crime ocorreu em 29 de novembro de 2025, tendo como vítima Carlos Eduardo Sotéro, conhecido como "Professor". Após a execução, o PGC divulgou um comunicado interno alegando que a vítima seria um informante da polícia. Em resposta, a PMSC realizou operações que resultaram na localização de armas, drogas e fardas ligadas ao homicídio em Palhoça. As investigações apontam para uma tentativa de ocultação dos materiais utilizados no assassinato, que foram encontrados enterrados em uma área de mata em São José, conforme informações da Agência de Inteligência da Polícia Militar. As ações integradas entre inteligência e operações especializadas continuam em andamento para identificar os envolvidos no crime e na ocultação do material apreendido, com novas operações planejadas para os próximos dias visando enfraquecer a atuação da facção criminosa na região.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/pgc-assume-execucao-de-integrante-e-pm-intensifica-cerco-na-grande-florianopolis/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[PGC assume execução de integrante e PM intensifica cerco na Grande Florianópolis]]></title>
+<link>https://jornalrazao.com/seguranca/pgc-assume-execucao-de-integrante-e-pm-intensifica-cerco-na-grande-florianopolis/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 11:48:41 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172773</guid>
+<description><![CDATA[O Primeiro Grupo Catarinense (PGC) assumiu publicamente a execução de um de seus integrantes na Grande Florianópolis, levando a Polícia Militar de Santa Catarina a intensificar as ações contra a facção. O crime ocorreu em 29 de novembro de 2025, tendo como vítima Carlos Eduardo Sotéro, conhecido como "Professor". Após …]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Chegada do Papai Noel e acender das luzes de Natal acontecem nesta quinta-feira (18) em Porto Belo]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/17/chegada-do-papai-noel-e-acender-das-luzes-de-natal-acontecem-nesta-quinta-feira-18-em-porto-belo/</link>
-    <comments>https://horadeportobelo.com.br/2025/12/17/chegada-do-papai-noel-e-acender-das-luzes-de-natal-acontecem-nesta-quinta-feira-18-em-porto-belo/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 11:45:37 +0000</pubDate>
-    <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false">https://horadeportobelo.com.br/?p=20411</guid>
-    <description><![CDATA[A chegada do Papai Noel e o acender das luzes de Natal em Porto Belo estão marcados para esta quinta-feira, dia 18. O evento, organizado pelo Governo Municipal por meio da Fundação da Cultura, promete encantar moradores e visitantes na Praça da Bandeira. Além da presença do Papai Noel distribuindo balas e presentes, ha…]]></description>
-    <content:encoded><![CDATA[<p>A chegada do Papai Noel e o acender das luzes de Natal em Porto Belo estão marcados para esta quinta-feira, dia 18. O evento, organizado pelo Governo Municipal por meio da Fundação da Cultura, promete encantar moradores e visitantes na Praça da Bandeira. Além da presença do Papai Noel distribuindo balas e presentes, haverá momentos para fotos e interação com o público. Destaque para a encenação de Natal preparada pela Paróquia Senhor Bom Jesus dos Aflitos, que trará mensagens de fé, esperança e união. A iniciativa marca o início das celebrações natalinas na cidade, iluminando o município e promovendo um ambiente acolhedor para as famílias, fortalecendo o espírito comunitário. A Praça da Bandeira fica localizada na Avenida Governador Celso Ramos, no Centro de Porto Belo.</p>]]></content:encoded>
-    <wfw:commentRss>https://horadeportobelo.com.br/2025/12/17/chegada-do-papai-noel-e-acender-das-luzes-de-natal-acontecem-nesta-quinta-feira-18-em-porto-belo/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Chegada do Papai Noel e acender das luzes de Natal acontecem nesta quinta]]></title>
+<link>https://horadeportobelo.com.br/2025/12/17/chegada-do-papai-noel-e-acender-das-luzes-de-natal-acontecem-nesta-quinta-feira-18-em-porto-belo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Região]]></category>
+<category><![CDATA[Chegada]]></category>
+<category><![CDATA[Papai]]></category>
+<category><![CDATA[Noel]]></category>
+<category><![CDATA[Acender]]></category>
+<category><![CDATA[Luzes]]></category>
+<category><![CDATA[Natal]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 11:45:37 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20411</guid>
+<description><![CDATA[A cidade de Porto Belo se prepara para receber a magia do Natal nesta quinta-feira, dia 18, com a tradicional chegada do Papai Noel e o acender das luzes natalinas. O evento, organizado pelo Governo Municipal através da Fundação da Cultura, acontecerá na Praça da Bandeira, localizada na Avenida Governador Celso Ramos, no Centro da cidade.]]></description>
+<content:encoded><![CDATA[<strong>A cidade de Porto Belo se prepara para receber a magia do Natal nesta quinta-feira, dia 18, com a tradicional chegada do Papai Noel e o acender das luzes natalinas. O evento, organizado pelo Governo Municipal através da Fundação da Cultura, acontecerá na Praça da Bandeira, localizada na Avenida Governador Celso Ramos, no Centro da cidade. A programação tem como objetivo encantar moradores e visitantes, promovendo um ambiente festivo e acolhedor para toda a comunidade.</strong><br/><br/>Durante a celebração, o Papai Noel estará presente para distribuir balas e presentes, além de proporcionar momentos especiais para fotos e interação com o público. Um dos destaques da noite será a emocionante encenação de Natal preparada pela Paróquia Senhor Bom Jesus dos Aflitos, que trará mensagens de fé, esperança e união, reforçando o verdadeiro significado da data. Com o acender das luzes natalinas, o evento marca oficialmente o início das festividades natalinas em Porto Belo, iluminando a cidade e promovendo o espírito comunitário neste período especial do ano. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Grave acidente entre carro e caminhão deixa homem preso às ferragens na BR-282 em SC]]></title>
-    <link>https://visornoticias.com.br/grave-acidente-entre-carro-e-caminhao-deixa-homem-preso-as-ferragens-na-br-282-em-sc/</link>
-    <comments>https://visornoticias.com.br/grave-acidente-entre-carro-e-caminhao-deixa-homem-preso-as-ferragens-na-br-282-em-sc/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 11:41:28 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317762</guid>
-    <description><![CDATA[Um grave acidente entre um carro e um caminhão na manhã desta quarta-feira (17) na BR-282, em Águas Mornas, na Grande Florianópolis, deixou um homem de 61 anos preso às ferragens. A colisão frontal ocorreu no km 37 da rodovia, interditando totalmente a via para o atendimento da ocorrência e trabalho das equipes de emer…]]></description>
-    <content:encoded><![CDATA[<p>Um grave acidente entre um carro e um caminhão na manhã desta quarta-feira (17) na BR-282, em Águas Mornas, na Grande Florianópolis, deixou um homem de 61 anos preso às ferragens. A colisão frontal ocorreu no km 37 da rodovia, interditando totalmente a via para o atendimento da ocorrência e trabalho das equipes de emergência. O Corpo de Bombeiros Militar de Santa Catarina está no local realizando o desencarceramento da vítima, com o apoio de guarnições de Santo Amaro da Imperatriz e Palhoça, além da aeronave Arcanjo-01 equipada com equipe médica. Ainda não há informações oficiais sobre as causas do acidente nem sobre o estado de saúde detalhado da vítima. Motoristas que transitam pela região devem buscar rotas alternativas e acompanhar as atualizações sobre a liberação da rodovia.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/grave-acidente-entre-carro-e-caminhao-deixa-homem-preso-as-ferragens-na-br-282-em-sc/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Grave acidente entre carro e caminhão deixa homem preso às ferragens na BR-282 em SC]]></title>
+<link>https://visornoticias.com.br/grave-acidente-entre-carro-e-caminhao-deixa-homem-preso-as-ferragens-na-br-282-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 11:41:28 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317762</guid>
+<description><![CDATA[Um grave acidente entre um carro e um caminhão na manhã desta quarta-feira (17) na BR-282, em Águas Mornas, na Grande Florianópolis, deixou um homem de 61 anos preso às ferragens. A colisão frontal ocorreu no km 37 da rodovia, interditando totalmente a via para o atendimento da ocorrência e trabalho das equipes de emer…]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Professor condenado por estupro é preso dentro de reserva indígena em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/professor-condenado-por-estupro-e-preso-dentro-de-reserva-indigena-em-santa-catarina/</link>
-    <comments>https://visornoticias.com.br/professor-condenado-por-estupro-e-preso-dentro-de-reserva-indigena-em-santa-catarina/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 11:20:57 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317751</guid>
-    <description><![CDATA[Um professor de 40 anos, condenado a 20 anos de prisão por estupro de vulnerável, foi preso na manhã de segunda-feira (16) dentro de uma reserva indígena em José Boiteux, Santa Catarina. A ação foi realizada pela Polícia Federal, com apoio das Polícias Militar e Civil do estado, em cumprimento a um mandado de prisão de…]]></description>
-    <content:encoded><![CDATA[<p>Um professor de 40 anos, condenado a 20 anos de prisão por estupro de vulnerável, foi preso na manhã de segunda-feira (16) dentro de uma reserva indígena em José Boiteux, Santa Catarina. A ação foi realizada pela Polícia Federal, com apoio das Polícias Militar e Civil do estado, em cumprimento a um mandado de prisão definitiva expedido pela Justiça. O condenado, que é indígena e morador da reserva, trabalhava em uma escola local no momento da prisão. Ele foi condenado pelo crime cometido contra sua ex-enteada no município de Chapecó, onde residia anteriormente. Após a prisão, o professor foi encaminhado ao Presídio Regional de Rio do Sul, onde aguarda o cumprimento da pena imposta.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/professor-condenado-por-estupro-e-preso-dentro-de-reserva-indigena-em-santa-catarina/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Professor condenado por estupro é preso dentro de reserva indígena em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/professor-condenado-por-estupro-e-preso-dentro-de-reserva-indigena-em-santa-catarina/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 11:20:57 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317751</guid>
+<description><![CDATA[Um professor de 40 anos, condenado a 20 anos de prisão por estupro de vulnerável, foi preso na manhã de segunda-feira (16) dentro de uma reserva indígena em José Boiteux, Santa Catarina. A ação foi realizada pela Polícia Federal, com apoio das Polícias Militar e Civil do estado, em cumprimento a um mandado de prisão de…]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Detento é morto com golpes de arma artesanal dentro da Penitenciária da Canhanduba, em Itajaí]]></title>
-    <link>https://portalmenina.com.br/detento-e-morto-com-golpes-de-arma-artesanal-dentro-da-penitenciaria-da-canhanduba-em-itajai/</link>
-    <comments>https://portalmenina.com.br/detento-e-morto-com-golpes-de-arma-artesanal-dentro-da-penitenciaria-da-canhanduba-em-itajai/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 11:08:29 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=130531</guid>
-    <description><![CDATA[Um detento de 21 anos foi encontrado morto na Penitenciária do Complexo da Canhanduba, em Itajaí, na última segunda-feira, 15, após ter sido atacado com golpes de uma arma artesanal semelhante a uma faca. O crime ocorreu durante o retorno dos presos às celas, quando o detento foi descoberto com ferimentos graves e já s…]]></description>
-    <content:encoded><![CDATA[<p>Um detento de 21 anos foi encontrado morto na Penitenciária do Complexo da Canhanduba, em Itajaí, na última segunda-feira, 15, após ter sido atacado com golpes de uma arma artesanal semelhante a uma faca. O crime ocorreu durante o retorno dos presos às celas, quando o detento foi descoberto com ferimentos graves e já sem vida. A Secretaria de Estado da Justiça e Reintegração Social (Sejuri) confirmou o ocorrido e acionou imediatamente os policiais penais de plantão para intervir na situação.</p><p>A área onde o crime ocorreu foi isolada e os demais detentos da galeria foram retirados para permitir a atuação da perícia com segurança. As polícias Civil e Científica foram chamadas para investigar o caso no local. Após os procedimentos iniciais, o corpo da vítima foi encaminhado ao Instituto Médico Legal (IML) de Balneário Camboriú. A Sejuri informou que está adotando todas as medidas administrativas previstas nos protocolos operacionais e legais, colaborando integralmente com as investigações para esclarecer as circunstâncias do crime.</p>]]></content:encoded>
-    <wfw:commentRss>https://portalmenina.com.br/detento-e-morto-com-golpes-de-arma-artesanal-dentro-da-penitenciaria-da-canhanduba-em-itajai/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Detento é morto com golpes de arma artesanal dentro da Penitenciária da Canhanduba, em Itajaí]]></title>
+<link>https://portalmenina.com.br/detento-e-morto-com-golpes-de-arma-artesanal-dentro-da-penitenciaria-da-canhanduba-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Comunidade]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[DESTAQUE 1]]></category>
+<category><![CDATA[Detento]]></category>
+<category><![CDATA[É]]></category>
+<category><![CDATA[Morto]]></category>
+<category><![CDATA[Golpes]]></category>
+<category><![CDATA[Arma]]></category>
+<category><![CDATA[Artesanal]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 11:08:29 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130531</guid>
+<description><![CDATA[Um detento de 21 anos foi encontrado morto na penitenciária do Complexo da Canhanduba, em Itajaí, na segunda-feira, 15. O jovem foi vítima de diversas estocadas desferidas por uma faca artesanal, sendo encontrado com ferimentos fatais no momento em que os presos retornavam às celas.]]></description>
+<content:encoded><![CDATA[<strong>Um detento de 21 anos foi encontrado morto na penitenciária do Complexo da Canhanduba, em Itajaí, na segunda-feira, 15. O jovem foi vítima de diversas estocadas desferidas por uma faca artesanal, sendo encontrado com ferimentos fatais no momento em que os presos retornavam às celas. A Secretaria de Estado da Justiça e Reintegração Social (Sejuri) confirmou o ocorrido e acionou imediatamente os policiais penais de plantão para lidar com a situação. A área do crime foi isolada e os demais detentos da galeria foram retirados para permitir a atuação da perícia com segurança. As polícias Civil e Científica foram chamadas para investigar o caso.</strong><br/><br/>Após os procedimentos iniciais, o corpo do detento foi encaminhado ao Instituto Médico Legal (IML) de Balneário Camboriú. A Sejuri informou que todas as medidas administrativas previstas nos protocolos operacionais e legais estão sendo adotadas, colaborando integralmente com as investigações para esclarecer as circunstâncias do crime. As autoridades seguem trabalhando no caso para identificar os responsáveis pelo homicídio e garantir a segurança na unidade prisional. <br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Vítima é salva com vida após ficar presa em incêndio em São José]]></title>
-    <link>https://jornalrazao.com/seguranca/vitima-e-salva-com-vida-apos-ficar-presa-em-incendio-em-sao-jose/</link>
-    <comments>https://jornalrazao.com/seguranca/vitima-e-salva-com-vida-apos-ficar-presa-em-incendio-em-sao-jose/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 10:58:50 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172771</guid>
-    <description><![CDATA[Um incêndio em uma residência no bairro Barreiros, em São José, mobilizou o Corpo de Bombeiros Militar na noite de terça-feira (16) e resultou no resgate de uma pessoa com vida do interior do imóvel. Os bombeiros precisaram arrombar a porta da casa, que estava tomada por fumaça densa e calor intenso, para acessar o loc…]]></description>
-    <content:encoded><![CDATA[<p>Um incêndio em uma residência no bairro Barreiros, em São José, mobilizou o Corpo de Bombeiros Militar na noite de terça-feira (16) e resultou no resgate de uma pessoa com vida do interior do imóvel. Os bombeiros precisaram arrombar a porta da casa, que estava tomada por fumaça densa e calor intenso, para acessar o local e iniciar a operação de resgate. Com o uso de uma câmera térmica para orientar a busca em meio à baixa visibilidade, a vítima foi encontrada desacordada, mas com sinais respiratórios. Após ser retirada do imóvel, a pessoa foi atendida no local e encaminhada ao hospital, apresentando sinais de lesões nas vias aéreas superiores devido à inalação de fumaça. A ação integrada das equipes de combate a incêndio e de resgate permitiu o salvamento em meio a um cenário crítico e de alto risco.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/vitima-e-salva-com-vida-apos-ficar-presa-em-incendio-em-sao-jose/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Vítima é salva com vida após ficar presa em incêndio em São José]]></title>
+<link>https://jornalrazao.com/seguranca/vitima-e-salva-com-vida-apos-ficar-presa-em-incendio-em-sao-jose/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 10:58:50 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172771</guid>
+<description><![CDATA[Um incêndio em uma residência no bairro Barreiros, em São José, mobilizou o Corpo de Bombeiros Militar na noite de terça-feira (16) e resultou no resgate de uma pessoa com vida do interior do imóvel. Os bombeiros precisaram arrombar a porta da casa, que estava tomada por fumaça densa e calor intenso, para acessar o loc…]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Incêndio de grandes proporções atinge casa durante a madrugada na Grande Florianópolis]]></title>
-    <link>https://visornoticias.com.br/incendio-de-grandes-proporcoes-atinge-casa-durante-a-madrugada-na-grande-florianopolis/</link>
-    <comments>https://visornoticias.com.br/incendio-de-grandes-proporcoes-atinge-casa-durante-a-madrugada-na-grande-florianopolis/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 10:53:19 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317746</guid>
-    <description><![CDATA[Um incêndio de grandes proporções atingiu uma casa durante a madrugada na Grande Florianópolis, mobilizando equipes do Corpo de Bombeiros Militar. A ocorrência ocorreu na noite de terça-feira (16) em São José, no bairro Barreiros. As guarnições encontraram o imóvel tomado por fumaça densa, calor intenso e chamas próxim…]]></description>
-    <content:encoded><![CDATA[<p>Um incêndio de grandes proporções atingiu uma casa durante a madrugada na Grande Florianópolis, mobilizando equipes do Corpo de Bombeiros Militar. A ocorrência ocorreu na noite de terça-feira (16) em São José, no bairro Barreiros. As guarnições encontraram o imóvel tomado por fumaça densa, calor intenso e chamas próximas ao teto. Diante da possibilidade de uma pessoa estar dentro da residência, os bombeiros arrombaram a porta e realizaram o resgate, encontrando a vítima desacordada, mas com sinais respiratórios. A pessoa foi retirada com segurança, recebeu atendimento no local e foi encaminhada ao hospital, apresentando sinais de lesões nas vias aéreas superiores devido à inalação de fumaça. Após o resgate, os bombeiros controlaram e extinguiram o incêndio, e uma investigação será iniciada para apurar as causas do fogo. A identidade da vítima não foi divulgada.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/incendio-de-grandes-proporcoes-atinge-casa-durante-a-madrugada-na-grande-florianopolis/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Incêndio de grandes proporções atinge casa durante a madrugada na Grande Florianópolis]]></title>
+<link>https://visornoticias.com.br/incendio-de-grandes-proporcoes-atinge-casa-durante-a-madrugada-na-grande-florianopolis/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 10:53:19 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317746</guid>
+<description><![CDATA[Um incêndio de grandes proporções atingiu uma casa durante a madrugada na Grande Florianópolis, mobilizando equipes do Corpo de Bombeiros Militar. A ocorrência ocorreu na noite de terça-feira (16) em São José, no bairro Barreiros. As guarnições encontraram o imóvel tomado por fumaça densa, calor intenso e chamas próxim…]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Incêndio atinge olaria após madeira com brasa cair sobre materiais na Avenida Itaipava, em Itajaí]]></title>
-    <link>https://portalmenina.com.br/incendio-atinge-olaria-apos-madeira-com-brasa-cair-sobre-materiais-na-avenida-itaipava-em-itajai/</link>
-    <comments>https://portalmenina.com.br/incendio-atinge-olaria-apos-madeira-com-brasa-cair-sobre-materiais-na-avenida-itaipava-em-itajai/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 10:27:13 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=130519</guid>
-    <description><![CDATA[Um incêndio de grandes proporções atingiu uma olaria na Avenida Itaipava, em Itajaí, na noite de terça-feira, 16 de dezembro. O fogo consumiu lenhas utilizadas para a queima do forno e parte do telhado da edificação, mobilizando o Corpo de Bombeiros Militar. Inicialmente, havia informações sobre uma possível vítima pre…]]></description>
-    <content:encoded><![CDATA[<p>Um incêndio de grandes proporções atingiu uma olaria na Avenida Itaipava, em Itajaí, na noite de terça-feira, 16 de dezembro. O fogo consumiu lenhas utilizadas para a queima do forno e parte do telhado da edificação, mobilizando o Corpo de Bombeiros Militar. Inicialmente, havia informações sobre uma possível vítima presa em uma máquina carregadeira, porém, ao chegarem ao local, os bombeiros confirmaram que não havia vítimas, permitindo o cancelamento dos apoios adicionais.</p><p>O incêndio teve como foco principal as lenhas armazenadas em frente ao forno mais externo da olaria, além do telhado atingido. Outros materiais afetados pelas chamas foram retirados do local com o auxílio de uma máquina para evitar a propagação do fogo. Após controlar as chamas, os bombeiros realizaram o rescaldo com o apoio de uma máquina fornecida pelo proprietário, utilizando cerca de 20 mil litros de água na extinção do incêndio e resfriamento da área.</p><p>A área diretamente atingida pelo incêndio foi de aproximadamente 90 m², porém os bombeiros conseguiram conter as chamas antes que se alastrassem por toda a olaria, que possui cerca de 4.200 metros quadrados, e edificações vizinhas. O calor intenso do incêndio afetou um poste de uma construção próxima, derretendo a fiação elétrica e causando curtos-circuitos, o que levou a Celesc a desligar a rede interna do imóvel afetado para garantir a segurança do local.</p><p>Segundo o proprietário da olaria, o incêndio teve início quando um funcionário, ao acender o forno, deixou cair uma lenha ainda em brasa no material armazenado em frente ao forno, iniciando as chamas. Apesar da magnitude do incêndio, a ocorrência foi finalizada sem registros de vítimas.</p>]]></content:encoded>
-    <wfw:commentRss>https://portalmenina.com.br/incendio-atinge-olaria-apos-madeira-com-brasa-cair-sobre-materiais-na-avenida-itaipava-em-itajai/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Bolsa de Empregos – 17/12/2025]]></title>
+<link>https://portalmenina.com.br/bolsa-de-empregos-17-12-2025/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Bolsa de empregos]]></category>
+<category><![CDATA[bolsa de empregos]]></category>
+<category><![CDATA[portal menina]]></category>
+<category><![CDATA[Bolsa]]></category>
+<category><![CDATA[Empregos]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 10:35:05 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130526</guid>
+<description><![CDATA[**Vagas de emprego disponíveis em Itapema e Balneário Camboriú** Diversas oportunidades de emprego estão disponíveis para diferentes funções em Itapema e Balneário Camboriú. Em Itapema, há vagas para auxiliar de serviços gerais para limpeza em condomínio, diarista, ajudante de operações, motorista de betoneira, mecânico, balanceiro para área de logística, estoquista para loja de elétrica e hidráulica, analista de departamento pessoal, assistente de recursos humanos, auxiliar de laboratório de concreto, atendente de café e operador de usina de concreto.]]></description>
+<content:encoded><![CDATA[<strong>**Vagas de emprego disponíveis em Itapema e Balneário Camboriú**</strong><br/><br/>Diversas oportunidades de emprego estão disponíveis para diferentes funções em Itapema e Balneário Camboriú. Em Itapema, há vagas para auxiliar de serviços gerais para limpeza em condomínio, diarista, ajudante de operações, motorista de betoneira, mecânico, balanceiro para área de logística, estoquista para loja de elétrica e hidráulica, analista de departamento pessoal, assistente de recursos humanos, auxiliar de laboratório de concreto, atendente de café e operador de usina de concreto. Já em Balneário Camboriú, há oportunidade para servente masculino maior de 18 anos.<br/><br/>Os interessados devem entrar em contato diretamente com os números fornecidos para cada vaga. As oportunidades abrangem diferentes áreas de atuação e exigem diferentes níveis de experiência e qualificação. Esta é uma oportunidade para quem busca recolocação no mercado de trabalho ou está em busca de novas oportunidades profissionais. A diversidade de vagas disponíveis reflete a demanda por mão de obra em setores variados na região.
 
-  <item>
-    <title><![CDATA[Confronto com a PM após roubo a ônibus termina com cinco mortos]]></title>
-    <link>https://visornoticias.com.br/confronto-com-a-pm-apos-roubo-a-onibus-termina-com-cinco-mortos/</link>
-    <comments>https://visornoticias.com.br/confronto-com-a-pm-apos-roubo-a-onibus-termina-com-cinco-mortos/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 10:11:27 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317735</guid>
-    <description><![CDATA[Cinco homens morreram após um confronto com a Polícia Militar na Rua Luísa Bete, em Londrina, no norte do Paraná. O incidente ocorreu durante uma operação policial que visava localizar suspeitos envolvidos em roubos a ônibus e cargas na região. Segundo informações da Polícia Militar, a ação foi desencadeada após o roub…]]></description>
-    <content:encoded><![CDATA[<p>Cinco homens morreram após um confronto com a Polícia Militar na Rua Luísa Bete, em Londrina, no norte do Paraná. O incidente ocorreu durante uma operação policial que visava localizar suspeitos envolvidos em roubos a ônibus e cargas na região. Segundo informações da Polícia Militar, a ação foi desencadeada após o roubo de um ônibus em Ibiporã, que transportava passageiros que retornavam de Foz do Iguaçu com compras realizadas no Paraguai. As equipes do Batalhão de Choque e da ROTAM foram acionadas para a abordagem devido à periculosidade dos envolvidos. Os suspeitos não acataram as ordens dadas pelos policiais, resultando em uma reação armada e no uso de força letal para conter a ameaça, culminando na morte dos cinco homens.</p><p>No local da ação, foram encontrados três veículos estacionados, além de uma placa utilizada para encobrir a identificação dos carros usados pelos suspeitos. Durante a operação, foram apreendidos aproximadamente 420 celulares e cinco armas de fogo, sendo duas submetralhadoras, duas pistolas e um revólver. Os homens mortos são suspeitos de participação em crimes conhecidos como "piratas do asfalto", envolvendo roubos a ônibus de turismo e cargas. Segundo a Polícia Militar, eles possuíam antecedentes criminais por roubo, porte ilegal de arma de fogo e tráfico de drogas. As investigações sobre o caso estão sob responsabilidade da Polícia Civil, que contou com o apoio da Polícia Científica e do Instituto Médico Legal (IML) para os procedimentos legais.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/confronto-com-a-pm-apos-roubo-a-onibus-termina-com-cinco-mortos/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+**<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Criminoso de Blumenau é assassinado ao ser colocado em cela com homicida em Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/criminoso-de-blumenau-e-assassinado-ao-ser-colocado-em-cela-com-homicida-em-itajai/</link>
-    <comments>https://jornalrazao.com/seguranca/criminoso-de-blumenau-e-assassinado-ao-ser-colocado-em-cela-com-homicida-em-itajai/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 01:04:56 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172768</guid>
-    <description><![CDATA[Um jovem com extensa ficha criminal, identificado como Thiago Zimmermann, de 21 anos e natural de Blumenau, foi assassinado dentro de uma cela no Complexo Penitenciário do Canhanduba, em Itajaí, Santa Catarina. O crime ocorreu na noite de segunda-feira (15) e teve como autor Bruno Silveira da Silva, detento com históri…]]></description>
-    <content:encoded><![CDATA[<p>Um jovem com extensa ficha criminal, identificado como Thiago Zimmermann, de 21 anos e natural de Blumenau, foi assassinado dentro de uma cela no Complexo Penitenciário do Canhanduba, em Itajaí, Santa Catarina. O crime ocorreu na noite de segunda-feira (15) e teve como autor Bruno Silveira da Silva, detento com histórico de homicídios. Thiago acumulava pelo menos 15 passagens policiais por tráfico de drogas, furtos e roubos, além de ter sido ex-integrante do Primeiro Grupo Catarinense (PGC). A Polícia Científica foi acionada para investigar o caso, que levanta suspeitas sobre a segurança na unidade prisional. O velório de Thiago está marcado para esta quarta-feira (17) no Crematório Neuhaus, em Blumenau.</p><p>O jovem Thiago Zimmermann foi brutalmente atacado dentro da cela A-15 do Complexo Penitenciário do Canhanduba, em Itajaí, com golpes de um objeto perfurante artesanal conhecido como 'estoque'. O homicídio foi confirmado por volta das 21h e o corpo foi encontrado horas depois, durante a madrugada. O autor do crime, Bruno Silveira da Silva, que dividia a cela com a vítima, possui histórico de pelo menos quatro homicídios, fugas de unidades prisionais e outros crimes graves. A suspeita de que a segurança da unidade tenha falhado ao não proteger Thiago, que estaria marcado para morrer na cadeia, está sendo investigada.</p><p>A Polícia Científica foi acionada para realizar a perícia no local do crime e recolher o corpo de Thiago Zimmermann. A dinâmica do crime, a motivação e as circunstâncias da morte ainda serão oficialmente esclarecidas. Entrevistas com o autor confesso e servidores plantonistas estão previstas para a manhã seguinte ao ocorrido, como parte do procedimento administrativo e investigativo. O velório do jovem está sendo realizado no Crematório Neuhaus, em Blumenau, com cerimônia de despedida marcada para a manhã desta quarta-feira (17).</p><p>O caso do assassinato de Thiago Zimmermann dentro do Complexo Penitenciário do Canhanduba, em Itajaí, levanta questionamentos sobre a segurança e a proteção dos detentos dentro das unidades prisionais. A suspeita de que informações sobre a vítima tenham sido vazadas, colocando sua vida em risco, reforça a necessidade de investigações rigorosas para esclarecer o ocorrido. A Polícia Científica e as autoridades competentes estão trabalhando para elucidar o crime e garantir que os responsáveis sejam devidamente responsabilizados.</p>]]></content:encoded>
-    <wfw:commentRss>https://jornalrazao.com/seguranca/criminoso-de-blumenau-e-assassinado-ao-ser-colocado-em-cela-com-homicida-em-itajai/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<item>
+<title><![CDATA[Incêndio atinge olaria após madeira com brasa cair sobre materiais na Avenida Itaipava, em Itajaí]]></title>
+<link>https://portalmenina.com.br/incendio-atinge-olaria-apos-madeira-com-brasa-cair-sobre-materiais-na-avenida-itaipava-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Comunidade]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Incêndio]]></category>
+<category><![CDATA[Atinge]]></category>
+<category><![CDATA[Olaria]]></category>
+<category><![CDATA[Após]]></category>
+<category><![CDATA[Madeira]]></category>
+<category><![CDATA[Brasa]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 10:27:13 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130519</guid>
+<description><![CDATA[Um incêndio de grandes proporções atingiu uma olaria localizada na Avenida Itaipava, em Itajaí, na noite de terça-feira, 16, por volta das 20h50. O fogo consumiu principalmente lenhas utilizadas para a queima do forno e parte do telhado da edificação, exigindo uma grande mobilização do Corpo de Bombeiros Militar.]]></description>
+<content:encoded><![CDATA[<strong>Um incêndio de grandes proporções atingiu uma olaria localizada na Avenida Itaipava, em Itajaí, na noite de terça-feira, 16, por volta das 20h50. O fogo consumiu principalmente lenhas utilizadas para a queima do forno e parte do telhado da edificação, exigindo uma grande mobilização do Corpo de Bombeiros Militar. Informações iniciais indicavam a possibilidade de uma vítima presa em uma máquina carregadeira, o que levou ao pedido de apoio para resgate. No entanto, ao chegarem ao local, os bombeiros confirmaram a ausência de vítimas, permitindo o cancelamento dos apoios adicionais.</strong><br/><br/>Após o controle do incêndio, os bombeiros realizaram o trabalho de rescaldo com o auxílio de uma máquina fornecida pelo proprietário da edificação, facilitando a retirada das lenhas e entulhos. Cerca de 20 mil litros de água foram utilizados na extinção do fogo e resfriamento da área, que teve aproximadamente 90 m² atingidos. Apesar da intensidade das chamas, os bombeiros conseguiram combater o incêndio antes que se alastrasse por toda a olaria, que possui cerca de 4.200 metros quadrados, e construções vizinhas. O calor intenso também afetou um poste de uma edificação próxima, causando danos na fiação elétrica e curtos-circuitos, sendo necessário o acionamento da Celesc para garantir a segurança do local. Segundo o proprietário da olaria, o incêndio teve início devido a uma lenha em brasa que caiu no material armazenado, provocando as chamas. A ocorrência foi finalizada sem registros de vítimas.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
+
+<item>
+<title><![CDATA[Confronto com a PM após roubo a ônibus termina com cinco mortos]]></title>
+<link>https://visornoticias.com.br/confronto-com-a-pm-apos-roubo-a-onibus-termina-com-cinco-mortos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 10:11:27 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317735</guid>
+<description><![CDATA[Cinco homens morreram após um confronto com a Polícia Militar na Rua Luísa Bete, em Londrina, no norte do Paraná. O incidente ocorreu durante uma operação policial que visava localizar suspeitos envolvidos em roubos a ônibus e cargas na região. Segundo informações da Polícia Militar, a ação foi desencadeada após o roub…]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
