@@ -1,157 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 17 Dec 2025 09:12:38 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
-  <item>
-    <title><![CDATA[Cuidados no Primeiro Banho do Filhote]]></title>
-    <link>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</link>
-    <comments>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:10:08 GMT</pubDate>
-    <category><![CDATA[Pets]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</guid>
-    <description><![CDATA[O primeiro banho de um cachorro filhote é um momento importante que requer cuidados especiais. Garantir uma experiência segura e tranquila é essencial para a saúde e bem-estar do animal. Conheça os principais cuidados a serem tomados durante esse processo.]]></description>
-    <content:encoded><![CDATA[<p>O primeiro banho de um cachorro filhote é uma etapa significativa na vida do animal, que pode influenciar seu comportamento em relação à higiene ao longo da vida.</p><p>É fundamental preparar o ambiente, utilizando água morna e produtos específicos para filhotes, evitando produtos que possam irritar a pele sensível do animal.</p><p>Durante o banho, é importante manter a calma e falar com o filhote de maneira suave, ajudando-o a se sentir seguro e confortável. O uso de um tapete antiderrapante pode prevenir escorregões.</p><p>Após o banho, é necessário secar bem o filhote, especialmente nas orelhas e entre os dedos, para evitar problemas de saúde relacionados à umidade.</p><p>Além disso, a experiência deve ser positiva, utilizando recompensas como petiscos para associar o banho a momentos agradáveis.</p><p>Por fim, é recomendável realizar o primeiro banho em um local tranquilo, longe de barulhos excessivos, para que o filhote não fique assustado.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Homem é preso por suspeita de homicídio e simulação de acidente]]></title>
-    <link>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/</link>
-    <comments>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:03:17 GMT</pubDate>
-    <category><![CDATA[Segurança]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317675</guid>
-    <description><![CDATA[Um homem foi detido sob a suspeita de ter assassinado sua namorada e simulado um acidente com um ônibus. A investigação revela que a vítima já estava morta ou inconsciente antes da colisão.]]></description>
-    <content:encoded><![CDATA[<p>Um homem foi preso em decorrência de uma investigação que apura a morte de sua namorada. O caso ganhou destaque após a simulação de um acidente com um ônibus.</p><p>De acordo com as autoridades, a análise das evidências indica que a vítima já estava morta ou desacordada antes do impacto com o veículo.</p><p>A polícia segue coletando informações e depoimentos para esclarecer os detalhes do ocorrido. A prisão do suspeito ocorreu após a conclusão das primeiras etapas da investigação.</p><p>O caso levanta questões sobre a segurança e a proteção das vítimas de violência doméstica, além de reforçar a importância de denúncias em situações de risco.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Benefícios do Kefir para a Saúde]]></title>
-    <link>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</link>
-    <comments>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:01:29 GMT</pubDate>
-    <category><![CDATA[Saúde]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</guid>
-    <description><![CDATA[O kefir é uma bebida fermentada rica em probióticos, vitaminas e minerais. Seu consumo pode contribuir para a saúde do organismo e auxiliar na prevenção de diversas doenças.]]></description>
-    <content:encoded><![CDATA[<p>O kefir é uma bebida fermentada que tem ganhado destaque por seus potenciais benefícios à saúde. Rico em probióticos, essa bebida é conhecida por promover o equilíbrio da flora intestinal.</p><p>Além de probióticos, o kefir contém diversas vitaminas e minerais que podem ser benéficos para o organismo. Esses nutrientes são essenciais para o funcionamento adequado do corpo humano.</p><p>Estudos sugerem que o consumo regular de kefir pode ajudar na prevenção de doenças, fortalecendo o sistema imunológico e melhorando a digestão. A presença de probióticos pode também auxiliar na redução de inflamações.</p><p>Com a popularização do kefir, muitas pessoas têm buscado incorporá-lo em suas dietas diárias. É possível encontrá-lo em lojas de produtos naturais e supermercados, além de ser fácil de preparar em casa.</p><p>Para aqueles que desejam experimentar, é importante lembrar que a introdução de novos alimentos deve ser feita de forma gradual, observando como o organismo reage. Consultar um profissional de saúde pode ser uma boa prática para garantir que o kefir seja uma adição saudável à dieta.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Disruptores Endócrinos e Seus Efeitos na Saúde]]></title>
-    <link>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</link>
-    <comments>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:01:24 GMT</pubDate>
-    <category><![CDATA[Saúde]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</guid>
-    <description><![CDATA[A exposição a disruptores endócrinos pode impactar a saúde hormonal de forma silenciosa. Este artigo aborda quais substâncias são consideradas disruptores e como elas podem afetar o equilíbrio hormonal do organismo.]]></description>
-    <content:encoded><![CDATA[<p>Os disruptores endócrinos são substâncias químicas que podem interferir no sistema hormonal do corpo humano. Essas substâncias estão presentes em diversos produtos do dia a dia, como plásticos, cosméticos e pesticidas.</p><p>A exposição contínua a esses agentes pode levar a desequilíbrios hormonais, resultando em problemas de saúde que muitas vezes não são imediatamente perceptíveis. Estudos indicam que esses compostos podem afetar desde a reprodução até o desenvolvimento metabólico.</p><p>Além disso, a presença de disruptores endócrinos no ambiente pode ter desdobramentos significativos, não apenas para a saúde individual, mas também para a saúde pública. A conscientização sobre esses riscos é fundamental para a prevenção de doenças.</p><p>Para minimizar a exposição a essas substâncias, recomenda-se optar por produtos livres de químicos nocivos, além de adotar práticas de consumo consciente. Informar-se sobre os ingredientes dos produtos utilizados é um passo importante para proteger a saúde hormonal.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Exercícios sem Equipamentos para Manter a Massa Muscular nas Férias]]></title>
-    <link>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</link>
-    <comments>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:01:13 GMT</pubDate>
-    <category><![CDATA[Saúde]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</guid>
-    <description><![CDATA[Durante as férias, é possível manter a massa muscular e a força com exercícios simples que não requerem equipamentos. Essas atividades podem ser realizadas em qualquer lugar, ajudando a evitar a perda de condicionamento físico.]]></description>
-    <content:encoded><![CDATA[<p>Manter a atividade física durante as férias é essencial para evitar a perda de força e massa muscular. Mesmo sem acesso a uma academia, é possível realizar treinos eficazes que podem ser feitos em casa ou ao ar livre.</p><p>Exercícios como flexões, agachamentos, pranchas e saltos são ótimas opções para trabalhar diferentes grupos musculares. Essas atividades podem ser adaptadas ao nível de condicionamento de cada pessoa, tornando-se acessíveis a todos.</p><p>Além de ajudar na manutenção da massa muscular, esses exercícios contribuem para a saúde cardiovascular e o bem-estar geral. A prática regular pode melhorar o humor e aumentar a energia, fatores importantes durante as férias.</p><p>Para quem está em viagem, é possível realizar esses treinos em parques ou até mesmo em quartos de hotel. A flexibilidade dos exercícios sem equipamentos permite que a rotina de exercícios seja mantida, independentemente da localização.</p><p>Portanto, incorporar esses exercícios simples na rotina de férias pode ser uma estratégia eficaz para preservar a forma física e garantir um retorno mais tranquilo às atividades regulares após o período de descanso.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Dicas para um Natal mais leve e prazeroso]]></title>
-    <link>https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</link>
-    <comments>https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:01:05 GMT</pubDate>
-    <category><![CDATA[Saúde]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</guid>
-    <description><![CDATA[O Natal pode ser uma ocasião propícia para fortalecer laços familiares e cuidar da saúde mental. A seguir, apresentamos sugestões que podem ajudar a tornar essa celebração mais leve e agradável.]]></description>
-    <content:encoded><![CDATA[<p>O Natal é um momento que pode ser aproveitado para reforçar as relações interpessoais e promover o bem-estar emocional.</p><p>Com a aproximação da data, muitas pessoas buscam maneiras de tornar a celebração mais leve e prazerosa.</p><p>Entre as sugestões, destaca-se a importância de planejar as atividades com antecedência, evitando a correria de última hora.</p><p>Outra dica é priorizar momentos de descontração e interação entre os familiares, promovendo um ambiente acolhedor.</p><p>Além disso, é fundamental cuidar da saúde mental, reservando um tempo para si mesmo durante as festividades.</p><p>Essas práticas podem contribuir para uma experiência natalina mais harmoniosa e significativa.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Hábitos de Férias e Saúde do Coração]]></title>
-    <link>https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</link>
-    <comments>https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:01:00 GMT</pubDate>
-    <category><![CDATA[Saúde]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</guid>
-    <description><![CDATA[Mudanças na rotina durante as férias podem impactar a saúde cardiovascular. É importante estar ciente dos hábitos que podem aumentar o risco de doenças cardíacas e como manter um estilo de vida saudável mesmo em períodos de descanso.]]></description>
-    <content:encoded><![CDATA[<p>Durante as férias, muitas pessoas alteram sua rotina diária, o que pode ter efeitos significativos na saúde do coração.</p><p>Essas mudanças incluem a alimentação, o nível de atividade física e os hábitos de sono, que podem contribuir para o aumento do risco de doenças cardiovasculares.</p><p>O consumo excessivo de alimentos ricos em gordura e açúcar, comum em períodos de festividades, pode elevar os níveis de colesterol e pressão arterial.</p><p>Além disso, a redução da atividade física, frequentemente observada durante as férias, pode levar ao ganho de peso e a um aumento do estresse no coração.</p><p>É fundamental que as pessoas busquem manter hábitos saudáveis, como uma alimentação equilibrada e a prática regular de exercícios, mesmo durante o período de descanso.</p><p>Estar atento a esses fatores pode ajudar a prevenir problemas cardíacos e garantir uma saúde melhor a longo prazo.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Previsões Astrológicas para 17 de Dezembro de 2025]]></title>
-    <link>https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</link>
-    <comments>https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:00:40 GMT</pubDate>
-    <category><![CDATA[Astrologia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</guid>
-    <description><![CDATA[As previsões astrológicas para o dia 17 de dezembro de 2025 trazem orientações para os 12 signos do zodíaco, oferecendo insights sobre o que os astros revelam para cada nativo nesta quarta-feira.]]></description>
-    <content:encoded><![CDATA[<p>No dia 17 de dezembro de 2025, as influências astrológicas podem impactar a vida de cada signo de maneira única.</p><p>Os astrólogos analisam a posição dos planetas e suas interações, oferecendo previsões que podem ajudar os nativos a se prepararem para o dia.</p><p>As orientações variam desde questões emocionais até oportunidades profissionais, refletindo as características de cada signo.</p><p>É importante que os interessados consultem suas previsões específicas para entender melhor como os astros podem influenciar suas decisões e ações.</p><p>Essas previsões são uma forma de autoconhecimento e podem servir como guia para o dia a dia.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Capricórnio e os Relacionamentos com os 12 Signos]]></title>
-    <link>https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</link>
-    <comments>https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 09:00:16 GMT</pubDate>
-    <category><![CDATA[Astrologia]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</guid>
-    <description><![CDATA[Os capricornianos se destacam em relacionamentos por sua lealdade, responsabilidade e constância. Eles costumam expressar seu afeto por meio de ações, priorizando atitudes em vez de palavras.]]></description>
-    <content:encoded><![CDATA[<p>Os capricornianos são conhecidos por sua abordagem séria e comprometida nos relacionamentos. Quando decidem amar, demonstram lealdade e responsabilidade, características que os tornam parceiros confiáveis.</p><p>A forma como os capricornianos se relacionam pode variar conforme o signo do parceiro. Cada combinação traz desafios e aprendizados únicos, refletindo a dinâmica de cada par.</p><p>Além disso, a maneira como expressam afeto é mais voltada para ações do que para palavras. Isso significa que eles tendem a mostrar seu carinho por meio de gestos concretos, como apoio e cuidado.</p><p>Entender como os capricornianos interagem com os diferentes signos pode ajudar a fortalecer os laços e promover uma convivência harmoniosa. Essa compreensão é essencial para quem busca um relacionamento duradouro e equilibrado.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
-  <item>
-    <title><![CDATA[Preso encontrado morto em penitenciária de Itajaí]]></title>
-    <link>https://visornoticias.com.br/preso-e-encontrado-morto-apos-desentendimento-em-penitenciaria-de-itajai/</link>
-    <comments>https://visornoticias.com.br/preso-e-encontrado-morto-apos-desentendimento-em-penitenciaria-de-itajai/#respond</comments>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 08:32:31 GMT</pubDate>
-    <category><![CDATA[Segurança]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317672</guid>
-    <description><![CDATA[Um detento foi encontrado sem vida em uma penitenciária de Itajaí após um desentendimento durante a rotina interna da unidade. O caso está sendo investigado pelas autoridades policiais.]]></description>
-    <content:encoded><![CDATA[<p>Um detento foi encontrado morto em uma penitenciária de Itajaí, em Santa Catarina, após um desentendimento ocorrido durante a rotina interna da unidade.</p><p>A situação gerou preocupação entre os familiares dos presos e a comunidade local, que aguardam esclarecimentos sobre as circunstâncias do incidente.</p><p>A Polícia Civil e a Polícia Militar estão conduzindo as investigações para apurar os detalhes do ocorrido e identificar as causas da morte do detento.</p><p>As autoridades informaram que medidas de segurança estão sendo revisadas na unidade para evitar novos incidentes e garantir a segurança dos internos e funcionários.</p><p>Mais informações sobre o caso devem ser divulgadas assim que as investigações avançarem.</p>]]></content:encoded>
-    <wfw:commentRss>https://visornoticias.com.br/preso-e-encontrado-morto-apos-desentendimento-em-penitenciaria-de-itajai/feed/</wfw:commentRss>
-    <slash:comments>0</slash:comments>
-  </item>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Wed, 17 Dec 2025 09:21:06 GMT</lastBuildDate>
+<language>pt-BR</language>
+
+<item>
+<title><![CDATA[Cuidados no Primeiro Banho do Filhote]]></title>
+<link>https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:10:08 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/10-cuidados-importantes-no-primeiro-banho-do-cachorro-filhote/</guid>
+<description><![CDATA[O primeiro banho de um cachorro filhote é um momento importante que requer cuidados especiais. Garantir uma experiência segura e tranquila é essencial para a saúde e bem-estar do animal. Conheça os principais cuidados a serem tomados durante esse processo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Homem é preso por suspeita de homicídio e simulação de acidente]]></title>
+<link>https://visornoticias.com.br/homem-e-preso-suspeito-de-matar-namorada-e-simular-acidente/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:03:17 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317675</guid>
+<description><![CDATA[Um homem foi detido sob a suspeita de ter assassinado sua namorada e simulado um acidente com um ônibus. A investigação revela que a vítima já estava morta ou inconsciente antes da colisão.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Benefícios do Kefir para a Saúde]]></title>
+<link>https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:01:29 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/kefir-5-beneficios-da-bebida-fermentada-que-favorece-o-equilibrio-do-organismo/</guid>
+<description><![CDATA[O kefir é uma bebida fermentada rica em probióticos, vitaminas e minerais. Seu consumo pode contribuir para a saúde do organismo e auxiliar na prevenção de diversas doenças.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Disruptores Endócrinos e Seus Efeitos na Saúde]]></title>
+<link>https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:01:24 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/disruptores-endocrinos-saiba-quais-substancias-podem-desequilibrar-seus-hormonios/</guid>
+<description><![CDATA[A exposição a disruptores endócrinos pode impactar a saúde hormonal de forma silenciosa. Este artigo aborda quais substâncias são consideradas disruptores e como elas podem afetar o equilíbrio hormonal do organismo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Exercícios sem Equipamentos para Manter a Massa Muscular nas Férias]]></title>
+<link>https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:01:13 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/5-exercicios-sem-equipamentos-para-manter-a-massa-muscular-durante-as-ferias/</guid>
+<description><![CDATA[Durante as férias, é possível manter a massa muscular e a força com exercícios simples que não requerem equipamentos. Essas atividades podem ser realizadas em qualquer lugar, ajudando a evitar a perda de condicionamento físico.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Dicas para um Natal mais leve e prazeroso]]></title>
+<link>https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:01:05 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/7-dicas-para-tornar-a-noite-de-natal-mais-leve-e-prazerosa/</guid>
+<description><![CDATA[O Natal pode ser uma ocasião propícia para fortalecer laços familiares e cuidar da saúde mental. A seguir, apresentamos sugestões que podem ajudar a tornar essa celebração mais leve e agradável.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Hábitos de Férias e Saúde do Coração]]></title>
+<link>https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:01:00 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/6-habitos-nas-ferias-que-impactam-a-saude-do-coracao/</guid>
+<description><![CDATA[Mudanças na rotina durante as férias podem impactar a saúde cardiovascular. É importante estar ciente dos hábitos que podem aumentar o risco de doenças cardíacas e como manter um estilo de vida saudável mesmo em períodos de descanso.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Previsões Astrológicas para 17 de Dezembro de 2025]]></title>
+<link>https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:00:40 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-17-12-2025/</guid>
+<description><![CDATA[As previsões astrológicas para o dia 17 de dezembro de 2025 trazem orientações para os 12 signos do zodíaco, oferecendo insights sobre o que os astros revelam para cada nativo nesta quarta-feira.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Capricórnio e os Relacionamentos com os 12 Signos]]></title>
+<link>https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 09:00:16 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/capricornio-no-amor-veja-como-o-capricorniano-se-relaciona-com-os-12-signos/</guid>
+<description><![CDATA[Os capricornianos se destacam em relacionamentos por sua lealdade, responsabilidade e constância. Eles costumam expressar seu afeto por meio de ações, priorizando atitudes em vez de palavras.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Preso encontrado morto em penitenciária de Itajaí]]></title>
+<link>https://visornoticias.com.br/preso-e-encontrado-morto-apos-desentendimento-em-penitenciaria-de-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 08:32:31 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317672</guid>
+<description><![CDATA[Um detento foi encontrado sem vida em uma penitenciária de Itajaí após um desentendimento durante a rotina interna da unidade. O caso está sendo investigado pelas autoridades policiais.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
