@@ -1,193 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 17 Dec 2025 15:41:26 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
-  <item>
-    <title><![CDATA[Caravana de Natal da Coca-Cola percorre cidades da Grande Florianópolis]]></title>
-    <link>https://jornalrazao.com/geral/caravana-de-natal-da-coca-cola-passa-por-cidades-da-grande-florianopolis/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 15:24:18 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172799]]></guid>
-    <description><![CDATA[A Caravana de Natal da Coca-Cola realiza desfiles noturnos em municípios da Grande Florianópolis com caminhões iluminados e atrações gratuitas. Os eventos ocorrem entre os dias 17 e 18 de dezembro, com trajetos definidos para cada cidade.]]></description>
-    <content:encoded><![CDATA[
-<p>Nesta semana, a Caravana de Natal da Coca-Cola passa por diversas cidades da Grande Florianópolis, oferecendo desfiles noturnos com caminhões iluminados, música e atrações abertas ao público. As apresentações são gratuitas e seguem horários e trajetos específicos para cada município.</p>
-<p>Em São José, o desfile está programado para a quarta-feira, dia 17, com início às 17h30. O percurso começa na Rua Cassol, próximo ao Fort Atacadista no bairro Kobrasol, e segue por várias vias da cidade, incluindo as ruas Caetano José Ferreira, José Firmino Novaes e Avenida Acioni Souza Filho, entre outras.</p>
-<p>Na mesma data, a caravana também passará por Florianópolis, com saída prevista para as 20h30. Os pontos de referência na capital incluem o Angeloni Capoeiras na Avenida Governador Ivo Silveira, o Parque da Luz e a Beira-Mar Norte.</p>
-<p>Na quinta-feira, dia 18, o desfile está agendado para Biguaçu, com início às 19h30, passando por locais como o CTG Sela de Prata, o Campo do Biguaçu e a Paróquia São João Evangelista. Também no dia 18, a caravana estará em Antônio Carlos, com início às 18h, passando pela Coca-Cola Femsa e Praça Anchieta.</p>
-<p>A organização informa que os trajetos contam com acompanhamento ao vivo para que o público possa acompanhar o deslocamento em tempo real. As rotas podem ser alteradas sem aviso prévio, e novos municípios podem ser incluídos na programação ao longo dos dias.</p>
-    ]]></content:encoded>
-  </item>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Wed, 17 Dec 2025 16:28:16 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[Santa Catarina destaca-se pela limpeza de suas praias no litoral]]></title>
-    <link>https://visornoticias.com.br/praias-mais-limpas-de-santa-catarina-descubra-o-litoral-cristalino-do-estado/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:59:01 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317323]]></guid>
-    <description><![CDATA[O litoral de Santa Catarina é reconhecido pela qualidade ambiental e pela limpeza de suas praias, resultado de ações de fiscalização e conscientização.]]></description>
-    <content:encoded><![CDATA[
-<p>Santa Catarina possui um litoral diversificado que alia beleza natural, infraestrutura turística e esforços de preservação ambiental.</p>
-<p>As praias do estado são consideradas referências no Brasil em termos de cuidado ambiental, com destaque para a participação da população local e dos turistas na manutenção da limpeza.</p>
-<p>O litoral catarinense oferece opções variadas para diferentes perfis de visitantes, incluindo famílias, casais e aventureiros.</p>
-<p>Entre as praias reconhecidas pela qualidade ambiental está a região de Bombinhas, que integra o conjunto de áreas preservadas no estado.</p>
-<p>O caso segue em apuração para mais detalhes sobre as ações específicas de fiscalização e os resultados obtidos.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[12º BPM CUMPRE MANDADO DE PRISÃO POR FURTO, HOMICÍDIO CULPOSO E CRIME DE TRÂNSITO EM CAMBORIÚ]]></title>
+<link>https://horadeportobelo.com.br/2025/12/17/12o-bpm-cumpre-mandado-de-prisao-por-furto-homicidio-culposo-e-crime-de-transito-em-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Camboriú]]></category>
+<category><![CDATA[Baln. Camboriú]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Policial]]></category>
+<category><![CDATA[Bpm]]></category>
+<category><![CDATA[Cumpre]]></category>
+<category><![CDATA[Mandado]]></category>
+<category><![CDATA[Prisão]]></category>
+<category><![CDATA[Furto]]></category>
+<category><![CDATA[Homicídio]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 15:58:06 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20419</guid>
+<description><![CDATA[O 12º Batalhão de Polícia Militar realizou a prisão de um indivíduo no município de Camboriú, no dia 17 de dezembro de 2025, pela manhã, no bairro Tabuleiro. A ação foi desencadeada após a corporação receber informações sobre a existência de um mandado de prisão em aberto contra um homem.]]></description>
+<content:encoded><![CDATA[<strong>O 12º Batalhão de Polícia Militar realizou a prisão de um indivíduo no município de Camboriú, no dia 17 de dezembro de 2025, pela manhã, no bairro Tabuleiro. A ação foi desencadeada após a corporação receber informações sobre a existência de um mandado de prisão em aberto contra um homem. As equipes se dirigiram a uma residência localizada na Rua Figueira, no bairro Tabuleiro, onde foram autorizadas a entrar por um familiar do suspeito. No interior da casa, o indivíduo foi encontrado e informado sobre a ordem judicial que estava sendo cumprida. O mandado de prisão foi emitido pela Vara Criminal de Camboriú e está relacionado a crimes de furto (Art. 155 do Código Penal), homicídio culposo no trânsito (Art. 302 do Código de Trânsito Brasileiro) e direção sem habilitação, colocando em risco a segurança (Art. 309 do Código de Trânsito Brasileiro).</strong><br/><br/>Após a prisão ser formalizada, o detido foi encaminhado ao Complexo Penitenciário do Vale do Itajaí, com a garantia da preservação de sua integridade física, para os procedimentos legais necessários. A ação realizada pelo 12º Batalhão de Polícia Militar de Camboriú foi em cumprimento ao mandado de prisão expedido pela Vara Criminal local, visando garantir a ordem e a segurança pública na região. A captura do indivíduo se deu de forma tranquila e sem incidentes, seguindo os trâmites legais estabelecidos pela justiça.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Santa Catarina apresenta índices baixos de criminalidade em rankings nacionais]]></title>
-    <link>https://visornoticias.com.br/santa-catarina-e-o-estado-mais-seguro-do-brasil-descubra-a-verdade/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:57:27 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317320]]></guid>
-    <description><![CDATA[Santa Catarina é destaque em pesquisas nacionais por apresentar baixos índices de crimes violentos. O estado é reconhecido por sua segurança, especialmente em cidades turísticas e regiões urbanas estruturadas.]]></description>
-    <content:encoded><![CDATA[
-<p>Diversos rankings nacionais indicam que Santa Catarina possui índices reduzidos de criminalidade em comparação a outras unidades federativas do Brasil.</p>
-<p>Pesquisas sobre qualidade de vida e segurança apontam que cidades turísticas e áreas urbanas bem organizadas no estado contribuem para esses resultados.</p>
-<p>Esse cenário atrai turistas, famílias e idosos que buscam locais tranquilos para viagens e moradia.</p>
-<p>Não houve atualização oficial recente sobre variações nos índices criminais, e o caso segue em apuração por órgãos competentes.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Caravana de Natal da Coca-Cola percorre cidades da Grande Florianópolis]]></title>
+<link>https://jornalrazao.com/geral/caravana-de-natal-da-coca-cola-passa-por-cidades-da-grande-florianopolis/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 15:24:18 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172799</guid>
+<description><![CDATA[A Caravana de Natal da Coca-Cola realiza desfiles noturnos em municípios da Grande Florianópolis com caminhões iluminados e atrações gratuitas. Os eventos ocorrem entre os dias 17 e 18 de dezembro, com trajetos definidos para cada cidade.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Itapoá (SC): guia para visitar a cidade litorânea]]></title>
-    <link>https://visornoticias.com.br/itapoa-sc-guia-completo-para-visitar-a-cidade-litoranea/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:55:29 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317850]]></guid>
-    <description><![CDATA[Itapoá é um destino do litoral norte de Santa Catarina conhecido por suas praias limpas e infraestrutura turística. A cidade oferece opções de lazer e contato com a natureza para diferentes perfis de visitantes.]]></description>
-    <content:encoded><![CDATA[
-<p>Localizada no litoral norte catarinense, Itapoá apresenta praias com boa qualidade ambiental e uma estrutura turística adequada para receber turistas.</p>
-<p>O município oferece atrações culturais e opções de lazer que atendem famílias, casais e visitantes em busca de tranquilidade e conforto.</p>
-<p>Itapoá destaca-se pela combinação entre beleza natural e serviços turísticos, contribuindo para o desenvolvimento local do setor.</p>
-<p>Informações detalhadas sobre a cidade e suas atrações podem ser encontradas no guia disponível no site Visor Notícias.</p>
-<p>Não houve atualização oficial recente sobre mudanças na infraestrutura turística ou eventos na cidade. O caso segue em apuração.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Acidente com jet ski no Caixa d’Aço termina com duas pessoas resgatadas]]></title>
+<link>https://horadeportobelo.com.br/2025/12/17/acidente-com-jet-ski-no-caixa-daco-termina-com-duas-pessoas-resgatadas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Policial]]></category>
+<category><![CDATA[Acidente]]></category>
+<category><![CDATA[Jet]]></category>
+<category><![CDATA[Ski]]></category>
+<category><![CDATA[Caixa]]></category>
+<category><![CDATA[Daço]]></category>
+<category><![CDATA[Termina]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 15:19:56 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20415</guid>
+<description><![CDATA[Uma ocorrência envolvendo uma moto aquática à deriva mobilizou o Corpo de Bombeiros Militar de Santa Catarina na tarde desta terça-feira, na praia do Caixa d’Aço, em Porto Belo. O incidente foi registrado por volta das 16h e não resultou em feridos.]]></description>
+<content:encoded><![CDATA[<strong>Uma ocorrência envolvendo uma moto aquática à deriva mobilizou o Corpo de Bombeiros Militar de Santa Catarina na tarde desta terça-feira, na praia do Caixa d’Aço, em Porto Belo. O incidente foi registrado por volta das 16h e não resultou em feridos. A equipe do Grupo de Busca e Salvamento de Porto Belo foi acionada após receber informações de que uma moto aquática estava à deriva no mar, com uma mulher a bordo e um homem na água. As ações de resgate foram realizadas com o auxílio de motos aquáticas dos bombeiros de Porto Belo e de Itapema.</strong><br/><br/>Durante a operação de resgate, os bombeiros localizaram a mulher sobre a moto aquática, sendo levada pela corrente marítima em direção ao norte, aproximadamente a uma milha da costa. Segundo relatos, o condutor da moto aquática, um homem, caiu na água após uma manobra e não conseguiu retornar à embarcação. Ele estava equipado com colete salva-vidas e a chave de segurança presa ao corpo, o que desligou o motor da moto aquática. Após ser rebocada, a moto aquática, juntamente com a mulher, foi resgatada em segurança. Os bombeiros iniciaram as buscas pelo homem e o encontraram consciente e sem ferimentos aparentes no costão da praia do Caixa d’Aço. Ambas as vítimas foram conduzidas em segurança até a praia, sem necessidade de atendimento médico. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Crescimento populacional das cidades de Santa Catarina: tendências e perspectivas]]></title>
-    <link>https://visornoticias.com.br/crescimento-populacional-das-cidades-de-santa-catarina-tendencias-e-perspectivas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:54:44 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317841]]></guid>
-    <description><![CDATA[O crescimento populacional em Santa Catarina tem sido observado em diversos municípios, refletindo fatores como emprego e qualidade de vida. Especialistas analisam as tendências e os desafios relacionados ao desenvolvimento urbano no estado.]]></description>
-    <content:encoded><![CDATA[
-<p>Santa Catarina apresenta cidades com crescimento populacional que ocorre de forma planejada, acompanhada por investimentos em infraestrutura e serviços públicos. Esse desenvolvimento está associado a oportunidades de trabalho, segurança e avanços econômicos.</p>
-<p>Municípios como Florianópolis, Joinville e Blumenau destacam-se nesse cenário, atraindo novos moradores devido à qualidade de vida e ao ambiente favorável para negócios.</p>
-<p>O caso segue em apuração para levantamento de dados mais detalhados sobre o impacto do crescimento populacional nas políticas públicas e no planejamento urbano das cidades catarinenses.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Santa Catarina destaca-se pela limpeza de suas praias no litoral]]></title>
+<link>https://visornoticias.com.br/praias-mais-limpas-de-santa-catarina-descubra-o-litoral-cristalino-do-estado/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:59:01 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317323</guid>
+<description><![CDATA[O litoral de Santa Catarina é reconhecido pela qualidade ambiental e pela limpeza de suas praias, resultado de ações de fiscalização e conscientização.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Incêndio atinge sobrado e deixa cinco pessoas intoxicadas em Camboriú]]></title>
-    <link>https://jornalrazao.com/seguranca/incendio-atinge-sobrado-e-deixa-cinco-pessoas-intoxicadas-em-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:46:37 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172796]]></guid>
-    <description><![CDATA[Um incêndio atingiu um sobrado no bairro São Francisco, em Camboriú, na tarde de terça-feira (16), deixando cinco pessoas intoxicadas por inalação de fumaça.]]></description>
-    <content:encoded><![CDATA[
-<p>O Corpo de Bombeiros Militar foi acionado por volta das 13h37 para atender a ocorrência na Rua São Marcos. O fogo atingiu um sobrado geminado de alvenaria com aproximadamente 70 metros quadrados, concentrando-se principalmente no pavimento superior do imóvel.</p>
-<p>As chamas causaram danos significativos a um quarto com suíte, comprometendo móveis, revestimentos e instalações elétricas. Para o combate ao incêndio, foram utilizados cerca de 1.500 litros de água.</p>
-<p>Após a extinção do fogo, os bombeiros realizaram o rescaldo e identificaram indícios de possível colapso estrutural na laje do pavimento superior. Por segurança, a edificação foi isolada e interditada.</p>
-<p>Cinco pessoas foram atendidas por equipes do Corpo de Bombeiros e do Serviço de Atendimento Móvel de Urgência (Samu) devido à inalação de fumaça. Todas estavam conscientes e foram encaminhadas ao Hospital Cirúrgico de Camboriú com sintomas de intoxicação.</p>
-<p>Animais de estimação da residência também foram resgatados pelas equipes. A causa do incêndio ainda não foi determinada e será investigada por perícia técnica.</p>
-<p>O local permanece sob os cuidados de vizinhos, que receberam orientações sobre os riscos na estrutura atingida.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Santa Catarina apresenta índices baixos de criminalidade em rankings nacionais]]></title>
+<link>https://visornoticias.com.br/santa-catarina-e-o-estado-mais-seguro-do-brasil-descubra-a-verdade/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:57:27 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317320</guid>
+<description><![CDATA[Santa Catarina é destaque em pesquisas nacionais por apresentar baixos índices de crimes violentos. O estado é reconhecido por sua segurança, especialmente em cidades turísticas e regiões urbanas estruturadas.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Acidente deixa três pessoas feridas na Rua Hercílio Fides Zimmermann, em Gaspar]]></title>
-    <link>https://portalmenina.com.br/acidente-deixa-tres-pessoas-feridas-na-rua-hercilio-fides-zimmermann-em-gaspar/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:44:29 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130569]]></guid>
-    <description><![CDATA[Três pessoas ficaram feridas em um acidente envolvendo dois veículos na Rua Hercílio Fides Zimmermann, em Gaspar, nesta quarta-feira (17). As vítimas foram encaminhadas ao Hospital de Gaspar.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente envolveu um Citroën C4 Cactus e um Volkswagen Gol. Segundo o Corpo de Bombeiros, a motorista do Citroën, de 46 anos, estava consciente e orientada, apresentando dores no tórax.</p>
-<p>No Volkswagen Gol, o motorista, de 62 anos, também estava consciente e orientado, com dores nos membros inferiores, no tórax e dificuldades para respirar.</p>
-<p>Uma passageira do Gol, de 55 anos, sofreu ferimento na região frontal da cabeça, dores na coluna e na pelve, além de suspeita de fratura no fêmur direito.</p>
-<p>Todas as vítimas foram atendidas pelo Corpo de Bombeiros e pelo Serviço de Atendimento Móvel de Urgência (Samu) e levadas ao Hospital de Gaspar.</p>
-<p>Equipes da Polícia Militar e da Polícia Rodoviária Federal estiveram no local para controlar o trânsito, coletar informações e realizar os procedimentos necessários.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Itapoá (SC): guia para visitar a cidade litorânea]]></title>
+<link>https://visornoticias.com.br/itapoa-sc-guia-completo-para-visitar-a-cidade-litoranea/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:55:29 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317850</guid>
+<description><![CDATA[Itapoá é um destino do litoral norte de Santa Catarina conhecido por suas praias limpas e infraestrutura turística. A cidade oferece opções de lazer e contato com a natureza para diferentes perfis de visitantes.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Homem em situação de rua morre após parada cardiorrespiratória em Itajaí]]></title>
-    <link>https://portalmenina.com.br/morador-de-rua-de-53-anos-morre-apos-parada-cardiorrespiratoria-em-frente-a-colegio-de-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:42:12 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130566]]></guid>
-    <description><![CDATA[Um homem de 53 anos, em situação de rua, faleceu na manhã desta quarta-feira em frente ao Colégio Gaspar da Costa Moraes, no bairro Fazenda, em Itajaí, após sofrer uma parada cardiorrespiratória.]]></description>
-    <content:encoded><![CDATA[
-<p>A ocorrência foi registrada por volta das 7h45 e atendida inicialmente por agentes de trânsito que encontraram uma mulher realizando compressões torácicas na vítima.</p>
-<p>Os agentes assumiram o atendimento e iniciaram manobras de ressuscitação, que foram continuadas pelo Corpo de Bombeiros e equipe avançada do SAMU com equipamentos especializados.</p>
-<p>Após mais de 45 minutos de tentativas, o óbito foi confirmado no local.</p>
-<p>Segundo informações preliminares, o homem vivia em situação de rua e fazia uso de entorpecentes, fatores que podem ter contribuído para o quadro de saúde.</p>
-<p>A Polícia Militar permaneceu no local até a chegada da Polícia Científica, que realizou o recolhimento do corpo.</p>
-<p>O caso segue em apuração pelas autoridades competentes.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Crescimento populacional das cidades de Santa Catarina: tendências e perspectivas]]></title>
+<link>https://visornoticias.com.br/crescimento-populacional-das-cidades-de-santa-catarina-tendencias-e-perspectivas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:54:44 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317841</guid>
+<description><![CDATA[O crescimento populacional em Santa Catarina tem sido observado em diversos municípios, refletindo fatores como emprego e qualidade de vida. Especialistas analisam as tendências e os desafios relacionados ao desenvolvimento urbano no estado.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Emasa detalha obras para melhorar balneabilidade da Praia Central em Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/praia-central-estara-100-limpa-neste-verao-emasa-detalha-obras-de-melhorias/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:40:26 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130567]]></guid>
-    <description><![CDATA[A Emasa iniciou obras para melhorar a qualidade da água da Praia Central de Balneário Camboriú, com expectativa de avanços na próxima temporada de verão.]]></description>
-    <content:encoded><![CDATA[
-<p>A balneabilidade da Praia Central de Balneário Camboriú tem sido uma preocupação recorrente, especialmente devido à importância turística do local e à qualidade variável da água para os banhistas.</p>
-<p>De acordo com Auri Pavoni, diretor-geral da Emasa, a qualidade da água na próxima temporada deve apresentar melhora em relação ao verão anterior, embora a infraestrutura atual de canalização ainda não permita a captação total do esgoto em dias de chuva.</p>
-<p>A Emasa iniciou obras na Avenida Brasil e na rua 3700, que fazem parte do Projeto Praia 100% Limpa, visando solucionar problemas na estação de tratamento de esgoto e ampliar a capacidade de saneamento.</p>
-<p>A prefeita Juliana Pavan afirmou que determinou à Emasa a busca por soluções para modernizar os serviços e alcançar a balneabilidade plena da praia nas próximas temporadas, alinhando-se ao compromisso de tornar a cidade mais limpa e ambientalmente respeitosa.</p>
-<p>Entre as intervenções estão obras de macrodrenagem, novas ligações de esgoto e ações para reduzir o despejo irregular de resíduos no mar, com prazo de conclusão estimado em dois anos.</p>
-<p>Em 2026, Balneário Camboriú pretende ser a primeira cidade da América do Sul a tratar também a água da chuva, o que contribuirá para a manutenção da balneabilidade da praia independentemente das condições climáticas.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Incêndio atinge sobrado e deixa cinco pessoas intoxicadas em Camboriú]]></title>
+<link>https://jornalrazao.com/seguranca/incendio-atinge-sobrado-e-deixa-cinco-pessoas-intoxicadas-em-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:46:37 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172796</guid>
+<description><![CDATA[Um incêndio atingiu um sobrado no bairro São Francisco, em Camboriú, na tarde de terça-feira (16), deixando cinco pessoas intoxicadas por inalação de fumaça.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Itapema convoca aprovados para vaga de Organizador de Postura em processo seletivo]]></title>
-    <link>https://visornoticias.com.br/itapema-convoca-aprovados-em-processo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 14:25:28 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317842]]></guid>
-    <description><![CDATA[A prefeitura de Itapema convocou os candidatos aprovados no processo seletivo para a vaga de Organizador de Postura. Os convocados devem apresentar a documentação exigida entre os dias 17 e 23 de dezembro.]]></description>
-    <content:encoded><![CDATA[
-<p>Os candidatos aprovados no processo seletivo para a função de Organizador de Postura em Itapema devem comparecer à sede da prefeitura para entrega de documentos.</p>
-<p>O prazo para apresentação da documentação vai de 17 a 23 de dezembro, conforme comunicado oficial da administração municipal.</p>
-<p>Até o momento, não houve atualização oficial sobre os próximos passos após a entrega dos documentos.</p>
-<p>O processo seletivo visa preencher a vaga disponível para Organizador de Postura, conforme edital divulgado anteriormente pela prefeitura.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Acidente deixa três pessoas feridas na Rua Hercílio Fides Zimmermann, em Gaspar]]></title>
+<link>https://portalmenina.com.br/acidente-deixa-tres-pessoas-feridas-na-rua-hercilio-fides-zimmermann-em-gaspar/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:44:29 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130569</guid>
+<description><![CDATA[Três pessoas ficaram feridas em um acidente envolvendo dois veículos na Rua Hercílio Fides Zimmermann, em Gaspar, nesta quarta-feira (17). As vítimas foram encaminhadas ao Hospital de Gaspar.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Homem em situação de rua morre após parada cardiorrespiratória em Itajaí]]></title>
+<link>https://portalmenina.com.br/morador-de-rua-de-53-anos-morre-apos-parada-cardiorrespiratoria-em-frente-a-colegio-de-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 14:42:12 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130566</guid>
+<description><![CDATA[Um homem de 53 anos, em situação de rua, faleceu na manhã desta quarta-feira em frente ao Colégio Gaspar da Costa Moraes, no bairro Fazenda, em Itajaí, após sofrer uma parada cardiorrespiratória.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
