@@ -1,124 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Wed, 17 Dec 2025 21:26:10 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Wed, 17 Dec 2025 21:48:53 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Caminhão frigorífico pega fogo na SC-157 e deixa motorista ferido]]></title>
+    <link>https://visornoticias.com.br/caminhao-frigorifico-pega-fogo-na-sc-157-e-deixa-motorista-ferido/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 21:31:56 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318256]]></guid>
+    <description><![CDATA[Um caminhão frigorífico que transportava carga de carne pegou fogo na SC-157, resultando em ferimentos no motorista.]]></description>
+    <content:encoded><![CDATA[
+<p>O foi completamente destruído pelas chamas durante o incidente na rodovia.</p>
+<p>O motorista recebeu atendimento no local e foi encaminhado a um hospital para cuidados médicos.</p>
+<p>As circunstâncias que levaram ao incêndio ainda não foram divulgadas pelas autoridades.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Balneário Camboriú pode acabar com permissão para naturismo na Praia do Pinho]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-pode-acabar-com-permissao-para-naturismo-na-praia-do-pinho/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Comunidade]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Pode]]></category>
-<category><![CDATA[Acabar]]></category>
-<category><![CDATA[Permissão]]></category>
-<category><![CDATA[Naturismo]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Wed, 17 Dec 2025 20:23:53 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130647</guid>
-<description><![CDATA[A Prefeitura de Balneário Camboriú apresentou, nesta quarta-feira, 17, uma minuta de decreto que proíbe a prática do naturismo ou atividades semelhantes em todas as praias do município. A proposta foi apresentada pela prefeita Juliana Pavan durante reunião no gabinete, com a presença de associações de moradores das praias agrestes, forças de segurança e representantes dos bairros Taquaras, Estaleiro e Estaleirinho.]]></description>
-<content:encoded><![CDATA[<strong>A Prefeitura de Balneário Camboriú apresentou, nesta quarta-feira, 17, uma minuta de decreto que proíbe a prática do naturismo ou atividades semelhantes em todas as praias do município. A proposta foi apresentada pela prefeita Juliana Pavan durante reunião no gabinete, com a presença de associações de moradores das praias agrestes, forças de segurança e representantes dos bairros Taquaras, Estaleiro e Estaleirinho. Atualmente, a Praia do Pinho é a única oficialmente reservada para esse tipo de prática. O decreto deverá ser publicado após a sanção da lei que institui o novo Plano Diretor, em fase de votação na Câmara de Vereadores.</strong><br/><br/>Segundo a prefeitura, a proposta atende a uma demanda antiga da comunidade local e órgãos de segurança, como a Guarda Municipal e a Polícia Militar. A avaliação apresentada durante a reunião aponta que a Praia do Pinho, ao longo dos anos, deixou de cumprir o propósito original do naturismo e passou a ser associada a ocorrências de atos ilícitos e crimes sexuais, impactando negativamente praias vizinhas. A decisão, construída a partir do diálogo com moradores e forças de segurança, visa garantir segurança, ordem e respeito aos moradores, visitantes e ao meio ambiente, conforme destacado pela prefeita Juliana Pavan. O vereador Anderson Santos, que protocolou um Projeto de Lei propondo a proibição do naturismo no município em 2022, também participou da reunião. Caso o novo Plano Diretor seja aprovado, o decreto entrará em vigor, encerrando oficialmente a permissão para a prática do naturismo nas praias de Balneário Camboriú.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Natal Encanto de Itajaí estreia Show das Águas nesta sexta-feira]]></title>
+    <link>https://visornoticias.com.br/natal-encanto-de-itajai-estreia-show-das-aguas-nesta-sexta-feira/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 21:13:06 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318245]]></guid>
+    <description><![CDATA[O espetáculo com águas dançantes, luzes e projeções será apresentado diariamente na Beira Rio até o dia 1º de janeiro.]]></description>
+    <content:encoded><![CDATA[
+<p>O evento Natal Encanto de Itajaí inicia nesta sexta-feira o Show das Águas, uma apresentação que combina águas dançantes, iluminação e projeções visuais.</p>
+<p>O espetáculo será realizado diariamente na Beira Rio, proporcionando uma atração para moradores e visitantes durante o período natalino.</p>
+<p>A programação segue até o dia 1º de janeiro, integrando as celebrações de fim de ano na cidade.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Neve em Balneário Camboriú: projeto de R$ 800 milhões, Ski Planet ganha aval da Câmara]]></title>
-<link>https://jornalrazao.com/destaques/projeto-do-ski-planet-ganha-aval-da-camara/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 19:50:29 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172826</guid>
-<description><![CDATA[A Câmara de Vereadores de Balneário Camboriú aprovou, na sessão de terça-feira, dia 16, o Projeto de Lei Ordinária nº 292/2025, que autoriza a Prefeitura a analisar o Ski Planet como empreendimento especial no município. O empreendimento, de responsabilidade do Swiss Group, está previsto para ser construído no Bairro Nova Esperança, na Região Sul da cidade.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Motociclista fica gravemente ferido após colisão com poste em Gaspar]]></title>
+    <link>https://portalmenina.com.br/motociclista-fica-gravemente-ferido-apos-bater-em-poste-no-bairro-belchior-alto-em-gaspar/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 21:10:58 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130651]]></guid>
+    <description><![CDATA[Um motociclista sofreu ferimentos graves após bater contra um poste na Rua Bonifácio Haendchen, no bairro Belchior Alto, em Gaspar.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu em um trecho de curva acentuada da via. O motociclista, de aproximadamente 50 anos, foi encontrado inconsciente às margens da rua com politraumatismo na cabeça, bacia e pernas.</p>
+<p>Ele foi intubado no local pela equipe médica e encaminhado em estado grave ao Hospital Santa Isabel por uma ambulância do Samu, com apoio da equipe aeromédica do Arcanjo 03.</p>
+<p>O passageiro da motocicleta, um jovem de 21 anos, foi encontrado consciente, porém desorientado, apresentando escoriações, contusão no braço esquerdo e sinais de traumatismo cranioencefálico.</p>
+<p>O passageiro foi socorrido pelos bombeiros e levado ao Hospital de Gaspar. Durante o atendimento, o Corpo de Bombeiros controlou o trânsito e protegeu o local para evitar novos acidentes.</p>
+<p>A Polícia Militar de Gaspar esteve presente e tomou as providências cabíveis.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Balneário Camboriú registra queda de quase 90% nos casos de dengue em 2025]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-registra-queda-de-quase-90-nos-casos-de-dengue-em-2025/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 18:31:55 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130638</guid>
-<description><![CDATA[**Balneário Camboriú registra redução significativa nos casos de dengue em 2025** A cidade de Balneário Camboriú, em Santa Catarina, apresentou uma redução expressiva nos casos de dengue neste ano. De acordo com a Secretaria Municipal de Saúde, foram confirmados 724 casos positivos da doença de janeiro até o momento, representando uma diminuição de 89,81% em relação ao mesmo período de 2024, quando foram registrados 7.105 casos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Suspeito de perseguir atriz por mais de 20 anos é preso em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/apos-duas-decadas-de-perseguicao-suspeito-e-preso-e-isis-valverde-agradece-acao-policial/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 21:07:58 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318246]]></guid>
+    <description><![CDATA[Um homem foi detido após confessar ter acompanhado a atriz Isis Valverde por mais de duas décadas, incluindo a contratação de um detetive para obter informações pessoais.]]></description>
+    <content:encoded><![CDATA[
+<p>O suspeito admitiu o acompanhamento constante da atriz ao longo de mais de 20 anos.</p>
+<p>Durante as investigações, foi constatado que ele contratou um detetive particular para coletar dados pessoais da vítima.</p>
+<p>A prisão ocorreu em Santa Catarina, onde as autoridades atuaram para garantir a segurança da atriz.</p>
+<p>Isis Valverde manifestou agradecimento à ação policial que resultou na detenção do suspeito.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Caminhão betoneira sai da pista e tomba na SC]]></title>
-<link>https://jornalrazao.com/seguranca/caminhao-betoneira-tomba-sc-410-tijucas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 18:20:35 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172824</guid>
-<description><![CDATA[A Polícia Militar e o Corpo de Bombeiros Militar de Canelinha foram acionados na tarde desta quarta-feira (17) para atender a um acidente de trânsito na SC-410, no bairro Nova Descoberta, em Tijucas. Um caminhão betoneira que seguia no sentido Canelinha–Tijucas saiu da pista e tombou às margens da rodovia, sem que as circunstâncias exatas do acidente tenham sido oficialmente detalhadas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Autor de sequência de assaltos em farmácias é identificado e estava preso]]></title>
+    <link>https://visornoticias.com.br/autor-de-sequencia-de-assaltos-em-farmacias-e-identificado-e-ja-estava-preso/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 20:37:42 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318242]]></guid>
+    <description><![CDATA[Um homem foi identificado como autor de uma série de assaltos a farmácias ocorridos entre setembro e outubro em diferentes bairros da cidade.]]></description>
+    <content:encoded><![CDATA[
+<p>Os crimes envolveram o uso de arma de fogo e ocorreram em estabelecimentos localizados em diversos bairros.</p>
+<p>O suspeito já estava detido no momento da identificação, não havendo registro de novas ocorrências atribuídas a ele após a prisão.</p>
+<p>As investigações continuam para esclarecer detalhes sobre a participação do indivíduo nos assaltos.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Motociclista morre após invadir contramão e bater em caminhão em rodovia de SC]]></title>
-<link>https://visornoticias.com.br/motociclista-morre-apos-invadir-contramao-e-bater-em-caminhao-em-rodovia-de-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:58:39 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318143</guid>
-<description><![CDATA[Um motociclista morreu após invadir a contramão e colidir com um caminhão em uma rodovia de Santa Catarina. O acidente causou o bloqueio total da pista por várias horas.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[PSG vence Flamengo nos pênaltis e conquista Copa Intercontinental 2025]]></title>
+    <link>https://visornoticias.com.br/flamengo-perde-nos-penaltis-para-o-psg/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 20:02:43 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318220]]></guid>
+    <description><![CDATA[O Paris Saint-Germain conquistou o título da Copa Intercontinental 2025 após empate em 1 a 1 no tempo normal contra o Flamengo e vitória na disputa por pênaltis.]]></description>
+    <content:encoded><![CDATA[
+<p>A partida terminou empatada em 1 a 1 no tempo regulamentar, levando a decisão para os pênaltis.</p>
+<p>O goleiro Safonov foi decisivo ao realizar quatro defesas durante a disputa por pênaltis.</p>
+<p>Com a vitória, o PSG conquistou seu primeiro título mundial na competição.</p>
+<p>O Flamengo ficou com o vice-campeonato após a derrota na decisão.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Academia divulga vídeos de policial expulso por mau uso de equipamentos em SC]]></title>
-<link>https://jornalrazao.com/seguranca/academia-divulga-videos-de-policial-expulso-por-mau-uso-de-equipamentos-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:55:42 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172819</guid>
-<description><![CDATA[Academia em Sombrio, Santa Catarina, divulgou vídeos para justificar a expulsão de um policial civil por suposto mau uso dos equipamentos. O policial nega ter sido advertido e contesta a decisão.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Precisão na fabricação de molas contribui para expansão do Pilates no Brasil]]></title>
+    <link>https://visornoticias.com.br/engenharia-de-precisao-sustenta-o-crescimento-de-277-do-pilates-segunda-atividade-mais-praticada-no-brasil/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 19:57:04 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318216]]></guid>
+    <description><![CDATA[A precisão milimétrica das molas utilizadas em equipamentos de Pilates tem sido fundamental para garantir a segurança e a eficácia da prática, que apresenta crescimento significativo no país.]]></description>
+    <content:encoded><![CDATA[
+<p>A empresa Molas Brusque destaca a importância da engenharia de precisão na produção das molas para equipamentos como Reformer e Cadillac.</p>
+<p>Essas molas são responsáveis pela calibração terapêutica necessária para a prática segura do Pilates.</p>
+<p>A qualidade das molas também contribui para a durabilidade dos equipamentos, atendendo a um mercado em expansão.</p>
+<p>O Pilates é atualmente a segunda atividade física mais praticada no Brasil, com crescimento expressivo nos últimos anos.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Ação conjunta apreende quase meia tonelada de maconha entre Santa Catarina e Paraná]]></title>
-<link>https://visornoticias.com.br/acao-conjunta-apreende-quase-meia-tonelada-de-maconha-entre-sc-e-pr/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:49:30 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318132</guid>
-<description><![CDATA[Uma abordagem na BR-116 resultou na apreensão de quase 500 kg de maconha e na prisão de um homem. A ação ocorreu entre os estados de Santa Catarina e Paraná.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Ônibus interestadual é apreendido em Camboriú com carga de produtos proibidos e medicamentos ilegais]]></title>
+    <link>https://visornoticias.com.br/onibus-com-carga-de-cigarros-eletronicos-e-canetas-emagrecedoras-e-apreendido-em-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 19:53:22 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318208]]></guid>
+    <description><![CDATA[Fiscalização em ônibus interestadual em Camboriú resultou na apreensão de cigarros eletrônicos e canetas emagrecedoras, além de medicamentos de origem ilegal transportados na bagagem de passageiros.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante uma fiscalização em um ônibus interestadual em Camboriú, foram identificados produtos proibidos no país, incluindo cigarros eletrônicos e canetas emagrecedoras.</p>
+<p>Além dos produtos proibidos, também foram encontrados medicamentos de origem ilegal na bagagem de passageiros.</p>
+<p>As autoridades responsáveis realizaram a apreensão dos itens durante a operação de fiscalização.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Operação mira facções criminosas com prisões e apreensões no Norte de SC]]></title>
-<link>https://visornoticias.com.br/operacao-arterias-mira-faccoes-criminosas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:44:16 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318131</guid>
-<description><![CDATA[GAECO e forças de segurança cumpriram mandados em cidades do Norte de Santa Catarina. A ação ocorreu em Joinville, Jaraguá do Sul, Schroeder e São Francisco do Sul.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Polícia Civil realiza operação contra lavagem de dinheiro em Itapema e outras cidades]]></title>
+    <link>https://visornoticias.com.br/itapema-entra-na-mira-da-policia-civil-em-operacao-contra-lavagem-de-dinheiro/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 19:43:33 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318205]]></guid>
+    <description><![CDATA[A Polícia Civil cumpriu 18 mandados em seis cidades, incluindo Itapema, em uma operação contra lavagem de dinheiro que resultou em prisão em flagrante por tráfico.]]></description>
+    <content:encoded><![CDATA[
+<p>A operação da Polícia Civil teve como objetivo combater crimes relacionados à lavagem de dinheiro em diversas localidades.</p>
+<p>Foram cumpridos 18 mandados de busca e apreensão em seis cidades, entre elas Itapema.</p>
+<p>Durante a ação, uma pessoa foi presa em flagrante por tráfico de drogas.</p>
+<p>As investigações continuam para identificar outros envolvidos e aprofundar o combate às práticas criminosas.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Força-tarefa remove mais de 150 toneladas de cabos irregulares dos postes em Santa Catarina]]></title>
-<link>https://visornoticias.com.br/forca-tarefa-remove-mais-de-150-toneladas-de-cabos-irregulares-dos-postes-em-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:43:47 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318130</guid>
-<description><![CDATA[Uma força-tarefa realizou a remoção de mais de 150 toneladas de cabos irregulares em 52 municípios de Santa Catarina em 2025. A ação integra um programa permanente de organização da rede elétrica e urbana.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Casal fica gravemente ferido em acidente na SC-477 em Timbó]]></title>
-<link>https://portalmenina.com.br/casal-fica-gravemente-ferido-em-acidente-na-sc-477-em-timbo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 17 Dec 2025 17:30:26 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130597</guid>
-<description><![CDATA[Um acidente envolvendo um Citroën C3 e uma motocicleta Honda Titan deixou duas pessoas gravemente feridas na SC-477, em Timbó.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <item>
+    <title><![CDATA[Farmacêutico de 57 anos morre em acidente na BR-282 entre Vargeão e Faxinal dos Guedes]]></title>
+    <link>https://jornalrazao.com/seguranca/farmaceutico-morre-acidente-br-282/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 17 Dec 2025 17:09:24 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172814]]></guid>
+    <description><![CDATA[Um homem de 57 anos morreu em uma colisão frontal entre um carro e uma carreta na BR-282, no Oeste de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na madrugada desta quarta-feira, por volta das 5h30, em um trecho reto da rodovia entre Vargeão e Faxinal dos Guedes.</p>
+<p>A vítima, identificada como Adelberto Vitor Wiltgen, conduzia um Hyundai i30 quando colidiu frontalmente com uma carreta de Mondaí.</p>
+<p>O impacto destruiu completamente o automóvel, e o motorista foi encontrado sem vida no local, com ferimentos incompatíveis com a sobrevivência.</p>
+<p>A carreta saiu da pista devido à força da batida, mas o condutor não se feriu, permaneceu fora do e recusou atendimento médico.</p>
+<p>A Polícia Rodoviária Federal atendeu a ocorrência, controlou o tráfego e realizou a limpeza da pista, que ficou coberta por destroços, óleo e combustível.</p>
+    ]]></content:encoded>
+  </item>
 </channel>
 </rss>
