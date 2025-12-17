@@ -1,171 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 17 Dec 2025 18:00:06 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <item>
-    <title><![CDATA[Motociclista morre após invadir contramão e bater em caminhão em rodovia de SC]]></title>
-    <link>https://visornoticias.com.br/motociclista-morre-apos-invadir-contramao-e-bater-em-caminhao-em-rodovia-de-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:58:39 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318143]]></guid>
-    <description><![CDATA[Um motociclista morreu após invadir a contramão e colidir com um caminhão em uma rodovia de Santa Catarina. O acidente causou o bloqueio total da pista por várias horas.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente mobilizou equipes de atendimento e sinalização no local. As autoridades não divulgaram detalhes sobre as circunstâncias do acidente ou a identidade das vítimas.</p>
-<p>O bloqueio da pista afetou o tráfego na rodovia por um período prolongado enquanto os trabalhos de atendimento e remoção dos veículos eram realizados.</p>
-<p>As causas do acidente ainda estão sendo investigadas pelas autoridades competentes.</p>
-    ]]></content:encoded>
-  </item>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Wed, 17 Dec 2025 18:26:09 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[Academia divulga vídeos de policial expulso por mau uso de equipamentos em SC]]></title>
-    <link>https://jornalrazao.com/seguranca/academia-divulga-videos-de-policial-expulso-por-mau-uso-de-equipamentos-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:55:42 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172819]]></guid>
-    <description><![CDATA[Academia em Sombrio, Santa Catarina, divulgou vídeos para justificar a expulsão de um policial civil por suposto mau uso dos equipamentos. O policial nega ter sido advertido e contesta a decisão.]]></description>
-    <content:encoded><![CDATA[
-<p>A academia publicou imagens que mostram treinos com cargas elevadas, com anilhas caindo e equipamentos sendo submetidos a forte impacto. Segundo a empresa, essa conduta pode comprometer a segurança das máquinas e dos frequentadores.</p>
-<p>A instituição afirma que o policial já havia recebido reclamações e advertências internas antes do cancelamento do contrato, enquanto o policial nega ter recebido qualquer tipo de alerta formal ou verbal.</p>
-<p>O policial alega que sempre treinou dentro dos limites das máquinas e que os vídeos não comprovam danos aos equipamentos. Ele considera o encerramento do contrato arbitrário e motivado por preconceito contra treinos de alta intensidade.</p>
-<p>O desligamento do plano foi confirmado a partir de 17 de dezembro de 2025, com previsão de reembolso integral do valor restante. O caso tem gerado debate nas redes sociais sobre critérios para mau uso de equipamentos e direitos do consumidor.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Caminhão betoneira sai da pista e tomba na SC]]></title>
+<link>https://jornalrazao.com/seguranca/caminhao-betoneira-tomba-sc-410-tijucas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Tijucas]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[caminhão betoneira]]></category>
+<category><![CDATA[Caminhão]]></category>
+<category><![CDATA[Betoneira]]></category>
+<category><![CDATA[Sai]]></category>
+<category><![CDATA[Pista]]></category>
+<category><![CDATA[Tomba]]></category>
+<category><![CDATA[Sc]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 18:20:35 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172824</guid>
+<description><![CDATA[A Polícia Militar e o Corpo de Bombeiros Militar de Canelinha foram acionados na tarde desta quarta-feira (17) para atender a um acidente de trânsito na SC-410, no bairro Nova Descoberta, em Tijucas. Um caminhão betoneira que seguia no sentido Canelinha–Tijucas saiu da pista e tombou às margens da rodovia, sem que as circunstâncias exatas do acidente tenham sido oficialmente detalhadas.]]></description>
+<content:encoded><![CDATA[<strong>A Polícia Militar e o Corpo de Bombeiros Militar de Canelinha foram acionados na tarde desta quarta-feira (17) para atender a um acidente de trânsito na SC-410, no bairro Nova Descoberta, em Tijucas. Um caminhão betoneira que seguia no sentido Canelinha–Tijucas saiu da pista e tombou às margens da rodovia, sem que as circunstâncias exatas do acidente tenham sido oficialmente detalhadas. Duas pessoas que estavam no veículo foram resgatadas pelas equipes de socorro e levadas ao Hospital de Canelinha para avaliação médica. Até o momento, não há informações atualizadas sobre o estado de saúde das vítimas.</strong><br/><br/>A Polícia Militar esteve presente no local para auxiliar no atendimento e na organização do tráfego, enquanto as autoridades competentes devem investigar as causas do acidente. O incidente gerou interrupções temporárias no fluxo de veículos na região, e a situação permanece em acompanhamento pelas autoridades locais. Mais detalhes sobre o ocorrido e possíveis desdobramentos serão divulgados à medida que as investigações avançarem. <br/><br/>Fonte: Jornal Razão]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Ação conjunta apreende quase meia tonelada de maconha entre Santa Catarina e Paraná]]></title>
-    <link>https://visornoticias.com.br/acao-conjunta-apreende-quase-meia-tonelada-de-maconha-entre-sc-e-pr/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:49:30 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318132]]></guid>
-    <description><![CDATA[Uma abordagem na BR-116 resultou na apreensão de quase 500 kg de maconha e na prisão de um homem. A ação ocorreu entre os estados de Santa Catarina e Paraná.]]></description>
-    <content:encoded><![CDATA[
-<p>Durante a operação, as autoridades interceptaram um Jeep Compass com placas adulteradas. O veículo estava transportando a droga apreendida.</p>
-<p>O homem detido foi preso no local da abordagem. As autoridades não divulgaram detalhes sobre a identidade do suspeito ou o andamento das investigações.</p>
-<p>A ação foi realizada em conjunto por forças policiais dos dois estados. As autoridades não informaram o local exato da abordagem nem outras informações sobre a operação.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Motociclista morre após invadir contramão e bater em caminhão em rodovia de SC]]></title>
+<link>https://visornoticias.com.br/motociclista-morre-apos-invadir-contramao-e-bater-em-caminhao-em-rodovia-de-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:58:39 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318143</guid>
+<description><![CDATA[Um motociclista morreu após invadir a contramão e colidir com um caminhão em uma rodovia de Santa Catarina. O acidente causou o bloqueio total da pista por várias horas.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Operação mira facções criminosas com prisões e apreensões no Norte de SC]]></title>
-    <link>https://visornoticias.com.br/operacao-arterias-mira-faccoes-criminosas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:44:16 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318131]]></guid>
-    <description><![CDATA[GAECO e forças de segurança cumpriram mandados em cidades do Norte de Santa Catarina. A ação ocorreu em Joinville, Jaraguá do Sul, Schroeder e São Francisco do Sul.]]></description>
-    <content:encoded><![CDATA[
-<p>Uma operação conjunta foi realizada para combater facções criminosas na região Norte de Santa Catarina.</p>
-<p>Forças de segurança e o Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) cumpriram mandados de prisão e de busca e apreensão.</p>
-<p>As autoridades não divulgaram detalhes sobre o número de presos ou os materiais apreendidos durante a ação.</p>
-<p>As cidades envolvidas na operação foram Joinville, Jaraguá do Sul, Schroeder e São Francisco do Sul.</p>
-<p>As investigações e ações fazem parte de esforços para reduzir a atuação de organizações criminosas na região.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Academia divulga vídeos de policial expulso por mau uso de equipamentos em SC]]></title>
+<link>https://jornalrazao.com/seguranca/academia-divulga-videos-de-policial-expulso-por-mau-uso-de-equipamentos-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:55:42 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172819</guid>
+<description><![CDATA[Academia em Sombrio, Santa Catarina, divulgou vídeos para justificar a expulsão de um policial civil por suposto mau uso dos equipamentos. O policial nega ter sido advertido e contesta a decisão.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Força-tarefa remove mais de 150 toneladas de cabos irregulares dos postes em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/forca-tarefa-remove-mais-de-150-toneladas-de-cabos-irregulares-dos-postes-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:43:47 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318130]]></guid>
-    <description><![CDATA[Uma força-tarefa realizou a remoção de mais de 150 toneladas de cabos irregulares em 52 municípios de Santa Catarina em 2025. A ação integra um programa permanente de organização da rede elétrica e urbana.]]></description>
-    <content:encoded><![CDATA[
-<p>As operações ocorreram ao longo do ano de 2025 em diversas cidades do estado, com o objetivo de melhorar a segurança e a organização das redes instaladas nos postes.</p>
-<p>O programa visa a manutenção e a regularização da infraestrutura elétrica e urbana, contribuindo para a redução de riscos associados a cabos soltos ou irregulares.</p>
-<p>As autoridades responsáveis não divulgaram detalhes específicos sobre os locais exatos das intervenções ou os responsáveis pela instalação dos cabos removidos.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Ação conjunta apreende quase meia tonelada de maconha entre Santa Catarina e Paraná]]></title>
+<link>https://visornoticias.com.br/acao-conjunta-apreende-quase-meia-tonelada-de-maconha-entre-sc-e-pr/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:49:30 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318132</guid>
+<description><![CDATA[Uma abordagem na BR-116 resultou na apreensão de quase 500 kg de maconha e na prisão de um homem. A ação ocorreu entre os estados de Santa Catarina e Paraná.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Casal fica gravemente ferido em acidente na SC-477 em Timbó]]></title>
-    <link>https://portalmenina.com.br/casal-fica-gravemente-ferido-em-acidente-na-sc-477-em-timbo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:30:26 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130597]]></guid>
-    <description><![CDATA[Um acidente envolvendo um Citroën C3 e uma motocicleta Honda Titan deixou duas pessoas gravemente feridas na SC-477, em Timbó.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu na Rua Doutor Blumenau, no bairro Araponguinhas, na quarta-feira (17).</p>
-<p>Segundo o Corpo de Bombeiros, o casal que estava na motocicleta sofreu fraturas expostas nos braços e pernas.</p>
-<p>O condutor da moto foi encaminhado ao Hospital Oase de Timbó pelo Samu, enquanto a passageira foi levada ao Hospital Beatriz Ramos, em Indaial.</p>
-<p>Os ocupantes do automóvel não se feriram e permaneceram no local após o atendimento dos bombeiros.</p>
-<p>Equipes da Polícia Militar, Corpo de Bombeiros Voluntários de Indaial e Demutran de Timbó atuaram na ocorrência.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Operação mira facções criminosas com prisões e apreensões no Norte de SC]]></title>
+<link>https://visornoticias.com.br/operacao-arterias-mira-faccoes-criminosas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:44:16 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318131</guid>
+<description><![CDATA[GAECO e forças de segurança cumpriram mandados em cidades do Norte de Santa Catarina. A ação ocorreu em Joinville, Jaraguá do Sul, Schroeder e São Francisco do Sul.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Câmara de Itajaí aprova projeto que consolida legislação ambiental]]></title>
-    <link>https://visornoticias.com.br/legislacao-ambiental-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:29:46 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317946]]></guid>
-    <description><![CDATA[A Câmara de Vereadores de Itajaí aprovou um Projeto de Lei Complementar que unifica a legislação ambiental do município.]]></description>
-    <content:encoded><![CDATA[
-<p>O projeto visa consolidar as normas ambientais vigentes em Itajaí em um único documento legal.</p>
-<p>A aprovação ocorreu durante sessão ordinária da Câmara de Vereadores, sem divulgação de detalhes adicionais pelas autoridades.</p>
-<p>A iniciativa busca facilitar a compreensão e a aplicação das regras ambientais no município.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Força-tarefa remove mais de 150 toneladas de cabos irregulares dos postes em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/forca-tarefa-remove-mais-de-150-toneladas-de-cabos-irregulares-dos-postes-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:43:47 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318130</guid>
+<description><![CDATA[Uma força-tarefa realizou a remoção de mais de 150 toneladas de cabos irregulares em 52 municípios de Santa Catarina em 2025. A ação integra um programa permanente de organização da rede elétrica e urbana.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Final do futsal feminino de Chapecó define campeã de 2025]]></title>
-    <link>https://visornoticias.com.br/futsal-feminino-chapeco-final-campeonato-2025/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:29:40 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317953]]></guid>
-    <description><![CDATA[O campeonato municipal de futsal feminino de Chapecó foi concluído com a definição da equipe campeã de 2025.]]></description>
-    <content:encoded><![CDATA[
-<p>A equipe Ágatas conquistou o título do campeonato de futsal feminino de Chapecó neste ano.</p>
-<p>A final marcou o encerramento da competição municipal que reuniu diversas equipes da cidade.</p>
-<p>As autoridades não divulgaram detalhes adicionais sobre a partida ou a competição.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Casal fica gravemente ferido em acidente na SC-477 em Timbó]]></title>
+<link>https://portalmenina.com.br/casal-fica-gravemente-ferido-em-acidente-na-sc-477-em-timbo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:30:26 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130597</guid>
+<description><![CDATA[Um acidente envolvendo um Citroën C3 e uma motocicleta Honda Titan deixou duas pessoas gravemente feridas na SC-477, em Timbó.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Movimento cobra solução para o Morro dos Cavalos em Palhoça]]></title>
-    <link>https://visornoticias.com.br/morro-cavalos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:29:22 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=317961]]></guid>
-    <description><![CDATA[Representantes da Facisc e associações empresariais do Sul e Extremo Sul de Santa Catarina se reuniram para discutir ações relacionadas ao Morro dos Cavalos.]]></description>
-    <content:encoded><![CDATA[
-<p>O encontro teve como objetivo alinhar as ações do movimento Morro dos Cavalos – Solução Já.</p>
-<p>O movimento busca soluções para questões relacionadas ao trecho da BR-101 no Morro dos Cavalos, em Palhoça.</p>
-<p>As autoridades não divulgaram detalhes adicionais sobre as propostas ou prazos para resolução.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Câmara de Itajaí aprova projeto que consolida legislação ambiental]]></title>
+<link>https://visornoticias.com.br/legislacao-ambiental-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:29:46 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317946</guid>
+<description><![CDATA[A Câmara de Vereadores de Itajaí aprovou um Projeto de Lei Complementar que unifica a legislação ambiental do município.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[IPVA 2026 em Santa Catarina mantém alíquotas e calendário de pagamento definido]]></title>
-    <link>https://portalmenina.com.br/ipva-2026-em-santa-catarina-mantem-aliquotas-e-ja-tem-calendario-de-pagamento-definido/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 17:16:35 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130601]]></guid>
-    <description><![CDATA[O calendário de pagamento do IPVA 2026 em Santa Catarina foi divulgado, mantendo as alíquotas atuais. O imposto não terá aumento e segue entre os mais baixos do país.]]></description>
-    <content:encoded><![CDATA[
-<p>As alíquotas do IPVA em Santa Catarina permanecem em 2% para carros e utilitários, e 1% para motocicletas, veículos de carga, passageiros e destinados à locação. O estado está entre os que aplicam as menores taxas no Brasil.</p>
-<p>A frota catarinense conta com cerca de 6,4 milhões de veículos, dos quais 4,2 milhões são tributáveis. A partir de 2026, veículos com 20 anos ou mais de fabricação estarão isentos do imposto, exceto ônibus, micro-ônibus e caminhões.</p>
-<p>O cálculo do IPVA considera o valor de mercado do veículo conforme a tabela Fipe. Os contribuintes podem optar pelo pagamento em cota única, parcelamento em três vezes sem juros ou parcelamento em até 12 vezes no cartão de crédito com juros.</p>
-<p>Desde agosto, o pagamento do IPVA pode ser realizado via PIX, utilizando o QR Code disponível no boleto. A isenção para motocicletas de até 200 cilindradas permanece, condicionada à ausência de infrações no ano anterior.</p>
-<p>Outros veículos isentos incluem os de pessoas com deficiência, táxis, entidades assistenciais, religiosas, educacionais, partidos políticos e corpos de bombeiros voluntários, conforme previsto em lei.</p>
-<p>A previsão é que a arrecadação do IPVA em Santa Catarina alcance cerca de R$ 4,7 bilhões em 2026, um aumento de 6% em relação a 2025. Do total arrecadado, 20% serão destinados ao Fundeb, e o restante dividido entre municípios e o governo estadual.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Final do futsal feminino de Chapecó define campeã de 2025]]></title>
+<link>https://visornoticias.com.br/futsal-feminino-chapeco-final-campeonato-2025/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:29:40 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317953</guid>
+<description><![CDATA[O campeonato municipal de futsal feminino de Chapecó foi concluído com a definição da equipe campeã de 2025.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Movimento cobra solução para o Morro dos Cavalos em Palhoça]]></title>
+<link>https://visornoticias.com.br/morro-cavalos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 17:29:22 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317961</guid>
+<description><![CDATA[Representantes da Facisc e associações empresariais do Sul e Extremo Sul de Santa Catarina se reuniram para discutir ações relacionadas ao Morro dos Cavalos.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
