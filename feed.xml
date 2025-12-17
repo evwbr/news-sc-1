@@ -1,136 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 17 Dec 2025 13:00:34 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Wed, 17 Dec 2025 13:01:13 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[TJSC torna mãe ré em caso de menino morto por tortura]]></title>
-    <link>https://visornoticias.com.br/tjsc-decide-tornar-re-mae-de-menino-morto-por-tortura-e-maus-tratos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:54:00 +0000</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317798</guid>
-    <description><![CDATA[Tribunal de Justiça de Santa Catarina acolheu recurso do Ministério Público, considerando que há indícios suficientes para a abertura da ação penal.]]></description>
-    <content:encoded><![CDATA[<p>O Tribunal de Justiça de Santa Catarina (TJSC) decidiu tornar ré a mãe de um menino que morreu em decorrência de tortura e maus-tratos. A decisão foi tomada após o acolhimento de um recurso apresentado pelo Ministério Público. O tribunal avaliou que existem indícios suficientes para a abertura da ação penal contra a mãe da criança.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[TJSC torna mãe ré em caso de menino morto por tortura]]></title>
+<link>https://visornoticias.com.br/tjsc-decide-tornar-re-mae-de-menino-morto-por-tortura-e-maus-tratos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:54:00 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317798</guid>
+<description><![CDATA[Tribunal de Justiça de Santa Catarina acolheu recurso do Ministério Público, considerando que há indícios suficientes para a abertura da ação penal.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Vigilante escolar salva criança de dois anos engasgada em creche de SC]]></title>
-    <link>https://jornalrazao.com/seguranca/vigilante-escolar-age-rapido-e-salva-crianca-de-2-anos-engasgada-em-escola-de-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:46:11 +0000</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172787</guid>
-    <description><![CDATA[Uma criança de dois anos foi resgatada após engasgar durante a refeição em uma creche de Caçador, Santa Catarina.]]></description>
-    <content:encoded><![CDATA[<p>Na manhã de quinta-feira, 11, uma criança de dois anos engasgou enquanto se alimentava no Centro Municipal de Educação Infantil (CMEI) Marcelino Champagnat, em Caçador, Santa Catarina. O incidente foi registrado por câmeras de videomonitoramento da instituição. O vigilante escolar agiu rapidamente para realizar o procedimento de desengasgo, conseguindo salvar a criança. O caso destaca a importância da presença de profissionais treinados em situações de emergência em ambientes escolares. Para mais informações sobre segurança em instituições de ensino, os responsáveis podem entrar em contato com a administração da creche.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Vigilante escolar salva criança de dois anos engasgada em creche de SC]]></title>
+<link>https://jornalrazao.com/seguranca/vigilante-escolar-age-rapido-e-salva-crianca-de-2-anos-engasgada-em-escola-de-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:46:11 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172787</guid>
+<description><![CDATA[Uma criança de dois anos foi resgatada após engasgar durante a refeição em uma creche de Caçador, Santa Catarina.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[IPVA 2026: Alíquotas Mantidas e Nova Isenção em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/ipva-2026-aliquotas-mantidas-e-nova-isencao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:38:10 +0000</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317791</guid>
-    <description><![CDATA[Santa Catarina mantém as alíquotas do IPVA e amplia a isenção para veículos com 20 anos a partir de 2026.]]></description>
-    <content:encoded><![CDATA[<p>O governo de Santa Catarina anunciou que as alíquotas do Imposto sobre a Propriedade de Veículos Automotores (IPVA) permanecerão inalteradas para o ano de 2026. Além disso, foi divulgada uma nova isenção para veículos com 20 anos de fabricação, que poderão ser isentos do pagamento do imposto. Essa medida visa beneficiar os proprietários de veículos mais antigos no estado.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[IPVA 2026: Alíquotas Mantidas e Nova Isenção em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/ipva-2026-aliquotas-mantidas-e-nova-isencao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:38:10 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317791</guid>
+<description><![CDATA[Santa Catarina mantém as alíquotas do IPVA e amplia a isenção para veículos com 20 anos a partir de 2026.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Apostador ganha R$ 4,7 milhões na Quina]]></title>
-    <link>https://visornoticias.com.br/apostador-crava-numeros-da-quina-e-leva-r-47-milhoes-pra-casa/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:35:43 +0000</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317792</guid>
-    <description><![CDATA[Uma aposta simples foi a única vencedora do concurso 6904 da Quina, realizado na terça-feira (16).]]></description>
-    <content:encoded><![CDATA[<p>Um apostador acertou os números do concurso 6904 da Quina e ganhou R$ 4,7 milhões. A aposta foi a única vencedora do sorteio realizado na terça-feira (16). O prêmio será pago ao ganhador conforme as regras da loteria.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Apostador ganha R$ 4,7 milhões na Quina]]></title>
+<link>https://visornoticias.com.br/apostador-crava-numeros-da-quina-e-leva-r-47-milhoes-pra-casa/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:35:43 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317792</guid>
+<description><![CDATA[Uma aposta simples foi a única vencedora do concurso 6904 da Quina, realizado na terça-feira (16).]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Pagamento de indenizações a trabalhadores da Sulfabril é iniciado após 35 anos]]></title>
-    <link>https://portalmenina.com.br/trabalhadores-da-sulfabril-comecam-a-receber-valores-de-acao-de-insalubridade-e-periculosidade-apos-35-anos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:35:33 +0000</pubDate>
-    <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=130517</guid>
-    <description><![CDATA[Indenizações referentes a ação coletiva de insalubridade e periculosidade contra a Sulfabril começaram a ser pagas.]]></description>
-    <content:encoded><![CDATA[<p>O pagamento das indenizações referentes a uma ação coletiva de insalubridade e periculosidade movida contra a empresa Sulfabril teve início nesta segunda-feira (15). O processo foi ajuizado em 1990 e beneficia aproximadamente 1.900 trabalhadores. Os valores a serem recebidos são resultado de uma decisão judicial que reconheceu os direitos dos funcionários em relação às condições de trabalho na empresa.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Pagamento de indenizações a trabalhadores da Sulfabril é iniciado após 35 anos]]></title>
+<link>https://portalmenina.com.br/trabalhadores-da-sulfabril-comecam-a-receber-valores-de-acao-de-insalubridade-e-periculosidade-apos-35-anos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:35:33 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130517</guid>
+<description><![CDATA[Indenizações referentes a ação coletiva de insalubridade e periculosidade contra a Sulfabril começaram a ser pagas.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Casal é preso em Itajaí por golpe do Pix falso]]></title>
-    <link>https://portalmenina.com.br/casal-e-preso-em-itajai-por-aplicar-golpe-do-pix-falso-e-policia-apreende-mais-de-80-pecas-de-roupas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:25:16 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://portalmenina.com.br/?p=130543</guid>
-    <description><![CDATA[Um casal foi detido em Itajaí por suspeita de aplicar o golpe do Pix falso, resultando na apreensão de mais de 80 peças de roupas.]]></description>
-    <content:encoded><![CDATA[<p>Na tarde de terça-feira, 16, a Polícia Militar prendeu um casal em Itajaí, suspeito de realizar o golpe conhecido como &quot;Pix falso&quot;. Durante a operação, foram apreendidas mais de 80 peças de roupas que teriam sido adquiridas de forma fraudulenta. O prejuízo inicial estimado para um comerciante é superior a R$1,1 mil. A polícia segue investigando o caso para identificar possíveis outros envolvidos.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Casal é preso em Itajaí por aplicar golpe do “Pix falso” e polícia apreende mais de 80 peças de roupas]]></title>
+<link>https://portalmenina.com.br/casal-e-preso-em-itajai-por-aplicar-golpe-do-pix-falso-e-policia-apreende-mais-de-80-pecas-de-roupas/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Comunidade]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Itajaí]]></category>
+<category><![CDATA[Casal]]></category>
+<category><![CDATA[É]]></category>
+<category><![CDATA[Preso]]></category>
+<category><![CDATA[Aplicar]]></category>
+<category><![CDATA[Golpe]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Wed, 17 Dec 2025 12:25:16 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130543</guid>
+<description><![CDATA[Um casal foi preso na tarde de terça-feira, 16, em Itajaí, suspeito de aplicar o chamado “golpe do Pix falso”. A ação da Polícia Militar resultou na apreensão de dezenas de peças de roupas obtidas de forma fraudulenta.]]></description>
+<content:encoded><![CDATA[<strong>Um casal foi preso na tarde de terça-feira, 16, em Itajaí, suspeito de aplicar o chamado “golpe do Pix falso”. A ação da Polícia Militar resultou na apreensão de dezenas de peças de roupas obtidas de forma fraudulenta. O prejuízo inicial causado a um comerciante ultrapassa R$1,1 mil. A ocorrência teve início quando um lojista de Ilhota relatou ter vendido um lote de roupas e recebido um comprovante de pagamento via Pix, que posteriormente se revelou falso, levando-o a acionar a polícia.</strong><br/><br/>Com base nas informações fornecidas, duas guarnições do 1º Batalhão da Polícia Militar localizaram e abordaram o veículo de aplicativo na Rodovia Jorge Lacerda, em Itajaí. O motorista informou que apenas realizava a entrega e indicou o endereço de destino, no bairro Cordeiros, onde uma mulher se apresentou para receber a encomenda em nome do marido. Durante a diligência no imóvel, os policiais encontraram o homem apontado como responsável pela compra fraudulenta, que confessou o crime e revelou revender os produtos a terceiros. Foram apreendidas 88 peças de vestuário relacionadas ao golpe, além de outras roupas com etiquetas de origem não comprovada. A polícia constatou que o casal agia em conjunto, utilizando celulares e serviços de transporte por aplicativo para retirar mercadorias sem efetuar o pagamento real. Uma criança, filha do casal, que estava presente no imóvel, ficou sob os cuidados de uma vizinha.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Pedestre morre após sofrer parada cardíaca em rua de Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/homem-morre-parada-cardiaca-bairro-fazenda-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:25:08 +0000</pubDate>
-    <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172783</guid>
-    <description><![CDATA[Um homem faleceu após sofrer uma parada cardíaca enquanto caminhava em uma rua de Itajaí. As equipes de emergência tentaram reanimá-lo por cerca de 40 minutos.]]></description>
-    <content:encoded><![CDATA[<p>Um pedestre morreu em Itajaí após sofrer uma parada cardíaca. O incidente ocorreu enquanto ele caminhava em uma rua da cidade. Equipes da Codetran e dos bombeiros foram acionadas e realizaram tentativas de reanimação por aproximadamente 40 minutos, mas não obtiveram sucesso. O caso destaca a importância de ações rápidas em situações de emergência. A população é orientada a conhecer os procedimentos de primeiros socorros e a importância de acionar os serviços de emergência em casos semelhantes.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Pedestre morre após sofrer parada cardíaca em rua de Itajaí]]></title>
+<link>https://jornalrazao.com/seguranca/homem-morre-parada-cardiaca-bairro-fazenda-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:25:08 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172783</guid>
+<description><![CDATA[Um homem faleceu após sofrer uma parada cardíaca enquanto caminhava em uma rua de Itajaí. As equipes de emergência tentaram reanimá-lo por cerca de 40 minutos.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Coleta de lixo tem horários reforçados durante temporada em Itapema]]></title>
-    <link>https://visornoticias.com.br/coleta-de-lixo-tem-horarios-reforcados/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:21:26 +0000</pubDate>
-    <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317785</guid>
-    <description><![CDATA[Serviço é ampliado para atender aumento de população no verão e evitar acúmulo de lixo.]]></description>
-    <content:encoded><![CDATA[<p>A coleta de lixo em Itapema terá horários reforçados durante a temporada de verão. A medida visa atender ao aumento da população na cidade nesse período. O objetivo é evitar o acúmulo de resíduos e manter a limpeza urbana.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Coleta de lixo tem horários reforçados durante temporada em Itapema]]></title>
+<link>https://visornoticias.com.br/coleta-de-lixo-tem-horarios-reforcados/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:21:26 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317785</guid>
+<description><![CDATA[Serviço é ampliado para atender aumento de população no verão e evitar acúmulo de lixo.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Colisão entre caminhão e carro resulta em morte na BR-282 em SC]]></title>
-    <link>https://visornoticias.com.br/acidente-com-caminhao-destroi-carro-e-mata-motorista-na-br-282-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:16:05 +0000</pubDate>
-    <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false">https://visornoticias.com.br/?p=317776</guid>
-    <description><![CDATA[Um acidente envolvendo um caminhão e um automóvel ocorreu na BR-282, resultando na morte do motorista do carro.]]></description>
-    <content:encoded><![CDATA[<p>Na manhã desta quarta-feira (17), uma colisão entre um automóvel e uma carreta foi registrada na BR-282, em Santa Catarina. O impacto foi tão severo que o carro ficou completamente destruído. O motorista do automóvel não sobreviveu ao acidente e foi declarado morto no local. As autoridades estão investigando as circunstâncias do acidente e orientam os motoristas a redobrarem a atenção ao trafegar pela região.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Colisão entre caminhão e carro resulta em morte na BR-282 em SC]]></title>
+<link>https://visornoticias.com.br/acidente-com-caminhao-destroi-carro-e-mata-motorista-na-br-282-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:16:05 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=317776</guid>
+<description><![CDATA[Um acidente envolvendo um caminhão e um automóvel ocorreu na BR-282, resultando na morte do motorista do carro.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Frio fora de época provoca geada na Serra Catarinense]]></title>
-    <link>https://jornalrazao.com/meioambiente/frio-fora-de-epoca-provoca-geada-e-surpreende-moradores-da-serra-catarinense/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 17 Dec 2025 12:13:32 +0000</pubDate>
-    <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false">https://jornalrazao.com/?p=172780</guid>
-    <description><![CDATA[Fenômeno climático foi observado em São Joaquim e Urupema, com temperaturas mínimas de 1,4°C.]]></description>
-    <content:encoded><![CDATA[<p>Na Serra Catarinense, um fenômeno de frio fora de época resultou em geada, surpreendendo os moradores da região. As cidades de São Joaquim e Urupema registraram temperaturas mínimas de 1,4°C. Este evento climático pode impactar a agricultura local e a rotina dos habitantes.</p>]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Frio fora de época provoca geada na Serra Catarinense]]></title>
+<link>https://jornalrazao.com/meioambiente/frio-fora-de-epoca-provoca-geada-e-surpreende-moradores-da-serra-catarinense/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 17 Dec 2025 12:13:32 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172780</guid>
+<description><![CDATA[Fenômeno climático foi observado em São Joaquim e Urupema, com temperaturas mínimas de 1,4°C.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
