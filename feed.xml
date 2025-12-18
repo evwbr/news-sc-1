@@ -1,74 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 18 Dec 2025 12:25:54 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Thu, 18 Dec 2025 13:20:33 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Homem com mandado por tráfico é preso em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/homem-com-mandado-por-trafico-e-preso-em-bc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:06:55 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318610]]></guid>
+    <description><![CDATA[Um homem com mandado de prisão por tráfico de drogas foi detido em Balneário Camboriú.]]></description>
+    <content:encoded><![CDATA[
+<p>A prisão ocorreu na região da Vila Real, em Balneário Camboriú.</p>
+<p>A Guarda Municipal realizou a detenção após identificar o indivíduo com o mandado em aberto.</p>
+<p>O homem foi encaminhado às autoridades competentes para os procedimentos legais.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Motorista do BC Bus é flagrado falando ao telefone e sem cinto de segurança enquanto transporta passageiros em Balneário Camboriú]]></title>
-<link>https://portalmenina.com.br/motorista-do-bc-bus-e-flagrado-falando-ao-telefone-e-sem-cinto-de-seguranca-enquanto-transporta-passageiros-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Comunidade]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Motorista]]></category>
-<category><![CDATA[Bc]]></category>
-<category><![CDATA[Bus]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Flagrado]]></category>
-<category><![CDATA[Falando]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 11:20:20 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130679</guid>
-<description><![CDATA[Um flagrante registrado por uma passageira do BC Bus, transporte coletivo de Balneário Camboriú, chamou a atenção na manhã de terça-feira, 16. O incidente ocorreu por volta das 9h30, na linha Barra/Nova Esperança, quando a passageira presenciou o motorista da empresa dirigindo sem cinto de segurança, falando ao telefone e realizando uma conversão em uma das vias da cidade.]]></description>
-<content:encoded><![CDATA[<strong>Um flagrante registrado por uma passageira do BC Bus, transporte coletivo de Balneário Camboriú, chamou a atenção na manhã de terça-feira, 16. O incidente ocorreu por volta das 9h30, na linha Barra/Nova Esperança, quando a passageira presenciou o motorista da empresa dirigindo sem cinto de segurança, falando ao telefone e realizando uma conversão em uma das vias da cidade. A situação foi registrada em vídeo e compartilhada com a Rádio Menina. A passageira, que utiliza diariamente o transporte coletivo gratuito, afirmou que a maioria dos motoristas age de forma responsável, mas se mostrou preocupada com a conduta observada na ocasião.</strong><br/><br/>Diante das imagens divulgadas, a moradora questionou a segurança da combinação de dirigir falando ao celular e sem cinto de segurança, considerando-a bastante perigosa. O caso foi encaminhado à assessoria da Auto Viação Suzano, responsável pelo serviço de transporte coletivo em Balneário Camboriú. A empresa informou que o vídeo será analisado pela gestão para as devidas providências. A situação levanta discussões sobre a importância do cumprimento das normas de segurança no trânsito e a responsabilidade dos condutores em garantir a proteção dos passageiros.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Deputado estadual e equipe permanecem retidos durante abordagem no Morro dos Cavalos]]></title>
+    <link>https://visornoticias.com.br/deputado-estadual-fica-impedido-de-sair-apos-abordagem-de-indigenas-no-morro-dos-cavalos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:05:06 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318606]]></guid>
+    <description><![CDATA[Parlamentar e sua equipe ficaram cerca de duas horas retidos durante gravação sobre o túnel na BR-101 no Morro dos Cavalos.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante uma gravação relacionada ao túnel na BR-101, um deputado estadual e sua equipe foram abordados por indígenas no Morro dos Cavalos.</p>
+<p>O grupo permaneceu retido no local por aproximadamente duas horas antes de ser liberado.</p>
+<p>A abordagem ocorreu enquanto o parlamentar realizava atividades relacionadas ao projeto do túnel.</p>
+<p>Não houve registro de incidentes violentos durante o período em que o deputado e sua equipe estiveram retidos.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[BOMBINHAS HASTEIA BANDEIRAS AZUIS E DÁ INÍCIO OFICIAL À TEMPORADA 2025/2026]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/bombinhas-hasteia-bandeiras-azuis-e-da-inicio-oficial-a-temporada-2025-2026/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 10:49:35 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20437</guid>
-<description><![CDATA[Bombinhas inicia oficialmente a temporada 2025/2026 do Programa Bandeira Azul nesta segunda-feira, 15 de dezembro. Durante a manhã, as cinco praias premiadas do município foram palco do hasteamento das bandeiras que representam a excelência em qualidade ambiental e gestão sustentável.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Homem é preso por maus-tratos após arrastar cão em caminhão em Blumenau]]></title>
+    <link>https://jornalrazao.com/seguranca/homem-e-preso-apos-arrastar-cao-por-cerca-de-1-km-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:45:05 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172889]]></guid>
+    <description><![CDATA[Um homem foi preso em flagrante por maus-tratos a animal após arrastar um cão amarrado na parte traseira de um caminhão por cerca de um quilômetro em Blumenau.]]></description>
+    <content:encoded><![CDATA[
+<p>O caso ocorreu no dia 29 de novembro e foi registrado por câmeras de monitoramento, que auxiliaram nas diligências das autoridades.</p>
+<p>Durante o trajeto, testemunhas alertaram o motorista sobre o animal preso ao , momento em que ele parou e colocou o cão dentro da cabine, seguindo depois para sua residência sem encaminhar o animal para atendimento veterinário imediato.</p>
+<p>A Polícia Civil localizou o motorista e o cão em sua casa, efetuando a prisão em flagrante pelo crime de maus-tratos.</p>
+<p>O animal foi encaminhado para atendimento veterinário, onde foi constatado sofrimento e necessidade de tratamento profissional urgente.</p>
+<p>Após os primeiros cuidados, o cão foi transferido para o Centro de Proteção e Recuperação de Animais Domésticos (Cepread) da Prefeitura de Blumenau, onde permanece em tratamento e será destinado à adoção responsável após a recuperação.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Motorista bêbado é preso após morte de motociclista na SC]]></title>
-<link>https://jornalrazao.com/seguranca/motorista-bebado-e-preso-apos-morte-de-motociclista-na-sc-410-no-vale-do-rio-tijucas/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 10:40:28 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172875</guid>
-<description><![CDATA[Uma mulher identificada como Maristela da Silva, de 43 anos, morreu em decorrência de um grave acidente de trânsito ocorrido na noite de quarta-feira (17) na SC-410, no bairro Índia, em Canelinha, divisa com São João Batista, no Vale do Rio Tijucas. O acidente envolveu um Renault Kwid branco e uma motocicleta Yamaha YBR 125.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Homem é preso em Blumenau por importunação sexual na Velha Central]]></title>
+    <link>https://portalmenina.com.br/homem-e-preso-na-velha-central-apos-mostrar-partes-intimas-para-vizinhas-da-sacada-do-apartamento/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:41:13 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130684]]></guid>
+    <description><![CDATA[Um homem de 30 anos foi detido após ser denunciado por exibir partes íntimas da sacada de seu apartamento no bairro Velha Central, em Blumenau.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Militar atendeu a uma ocorrência relacionada a importunação sexual após receber denúncias de moradores de um condomínio na Velha Central.</p>
+<p>Vizinhas relataram que o homem exibia sua genitália da sacada do apartamento, com relatos de que o comportamento ocorria com frequência e envolvia outras pessoas, incluindo uma criança.</p>
+<p>Ao chegar ao local, os policiais confirmaram as denúncias e deram voz de prisão ao suspeito, que foi conduzido à Central de Plantão da Polícia Civil.</p>
+<p>O caso foi registrado como crime de importunação sexual e segue sob responsabilidade das autoridades competentes.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Balneário Camboriú aprova projeto que proíbe naturismo na primeira praia do Brasil dedicada à prática]]></title>
-<link>https://portalmenina.com.br/balneario-camboriu-aprova-projeto-que-proibe-naturismo-na-primeira-praia-do-brasil-dedicada-a-pratica/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 10:40:27 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130675</guid>
-<description><![CDATA[A Câmara de Vereadores de Balneário Camboriú aprovou, na noite de quinta-feira, 15, o projeto de lei que proíbe o naturismo na Praia do Pinho, pioneira no Brasil a adotar essa prática. A proposta recebeu o apoio unânime dos 15 vereadores presentes na sessão e foi validada pela administração municipal, que planeja habilitar a praia para receber o selo internacional Bandeira Azul.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Motociclista morre após acidente na SC-410; motorista é investigado por dirigir embriagado]]></title>
+    <link>https://visornoticias.com.br/motociclista-morre-apos-acidente-na-sc-410-e-motorista-e-investigado-por-dirigir-bebado/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:39:44 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318599]]></guid>
+    <description><![CDATA[Uma mulher de 43 anos morreu após um acidente na SC-410 envolvendo uma motocicleta e um automóvel. O motorista do está sendo investigado por suspeita de dirigir sob efeito de álcool.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu quando o automóvel realizou uma manobra que cortou a frente da motocicleta conduzida pela vítima.</p>
+<p>A mulher não resistiu aos ferimentos e faleceu no local.</p>
+<p>O condutor do automóvel foi submetido a testes para detecção de álcool e está sob investigação.</p>
+<p>As autoridades seguem apurando as circunstâncias do acidente na SC-410.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Feira de adoção de cães e gatos acontece neste sábado em Itajaí]]></title>
-<link>https://portalmenina.com.br/feira-de-adocao-de-caes-e-gatos-acontece-neste-sabado-em-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 08:44:19 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130658</guid>
-<description><![CDATA[No próximo sábado (20), famílias de Itajaí e região terão uma nova oportunidade de adotar um animal de estimação. A Unidade de Acolhimento Provisório de Animais (UAPA) promoverá mais uma Feira de Adoção Responsável, das 11h às 17h, no estacionamento do Komprão, situado no bairro Ressacada.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[cai em ribanceira de 15 metros e motorista é hospitalizado em Blumenau]]></title>
+    <link>https://portalmenina.com.br/veiculo-cai-em-ribanceira-de-15-metros-e-motorista-e-hospitalizado-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:39:15 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130705]]></guid>
+    <description><![CDATA[Um motorista foi hospitalizado após o que conduzia cair em uma ribanceira de aproximadamente 15 metros em Blumenau.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na Rua Willi Henkels, na ligação entre os bairros Velha e Garcia, durante a tarde de quarta-feira.</p>
+<p>O motorista, de 36 anos, perdeu o controle do Renault Clio e saiu da pista, resultando na queda do .</p>
+<p>No momento da chegada das equipes de resgate, o condutor já estava fora do carro, assistido por um agente da Guarda Municipal de Trânsito.</p>
+<p>Ele apresentava suspeita de fratura em um membro inferior e foi resgatado com o uso de maca e técnicas de salvamento em altura.</p>
+<p>Após o atendimento inicial, o homem foi encaminhado ao Hospital Santa Isabel para receber cuidados médicos.</p>
+    ]]></content:encoded>
+  </item>
 
+  <item>
+    <title><![CDATA[MPSC questiona criação de cargos comissionados em Itapoá]]></title>
+    <link>https://visornoticias.com.br/mpsc-questiona-cargos-comissionados-em-itapoa/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:32:43 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318571]]></guid>
+    <description><![CDATA[A criação de 31 cargos comissionados em Itapoá está sendo questionada por irregularidades legais.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma lei municipal instituiu 31 cargos comissionados na administração de Itapoá.</p>
+<p>A medida está sendo alvo de uma ação que aponta irregularidades na criação desses cargos.</p>
+<p>O impacto financeiro mensal decorrente da manutenção desses cargos é estimado em R$ 130 mil.</p>
+<p>A ação busca a declaração de inconstitucionalidade da lei que criou os cargos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Obra de ponte de concreto avança em São Martinho]]></title>
+    <link>https://visornoticias.com.br/ponte-concreto-sao-martinho/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:28:54 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318393]]></guid>
+    <description><![CDATA[A prefeitura de São Martinho iniciou a construção de uma ponte de concreto que substituirá antigas pontes de madeira na região.]]></description>
+    <content:encoded><![CDATA[
+<p>A nova estrutura visa atender a uma demanda da comunidade por uma travessia mais segura e durável.</p>
+<p>A substituição das pontes de madeira por uma de concreto representa um investimento em infraestrutura local.</p>
+<p>A obra está em andamento e deve proporcionar melhorias no tráfego e na segurança dos moradores.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Natal Solidário em Tubarão distribui alimentos para 200 famílias]]></title>
+    <link>https://visornoticias.com.br/natal-solidario-tubarao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:28:37 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318399]]></guid>
+    <description><![CDATA[Ação em Tubarão arrecadou cerca de quatro toneladas de alimentos para beneficiar famílias cadastradas nos CRAS.]]></description>
+    <content:encoded><![CDATA[
+<p>A campanha Natal Solidário em Tubarão arrecadou aproximadamente quatro toneladas de alimentos.</p>
+<p>Os alimentos foram distribuídos a 200 famílias cadastradas nos Centros de Referência de Assistência Social (CRAS).</p>
+<p>A iniciativa visa apoiar famílias em situação de vulnerabilidade durante o período natalino.</p>
+<p>A distribuição dos alimentos ocorreu em diferentes pontos da cidade, alcançando as famílias previamente cadastradas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Fenômeno de bioluminescência é registrado na Praia da Solidão, em Florianópolis]]></title>
+    <link>https://jornalrazao.com/meioambiente/to-incredula-jovem-se-emociona-com-fenomeno-raro-em-praia-de-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 12:06:51 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172882]]></guid>
+    <description><![CDATA[Um fenômeno raro de bioluminescência foi observado na Praia da Solidão, no Sul da Ilha de Florianópolis, durante a noite desta semana, atraindo a atenção de moradores e visitantes.]]></description>
+    <content:encoded><![CDATA[
+<p>O mar apresentou um brilho azul intenso visível a cada movimento das ondas, criando um efeito luminoso que chamou a atenção de quem estava na praia.</p>
+<p>A bioluminescência ocorre quando organismos marinhos microscópicos presentes na água emitem luz ao serem agitados, como pelo impacto das ondas ou movimentos na areia.</p>
+<p>Esse fenômeno é um mecanismo de defesa desses organismos e depende de condições específicas, como temperatura da água, baixa luminosidade e alta concentração desses micro-organismos.</p>
+<p>Em Florianópolis, a bioluminescência já foi registrada em outras ocasiões, especialmente em praias com menor interferência urbana e maior preservação ambiental.</p>
+<p>O brilho no mar durou poucos minutos, mas foi suficiente para surpreender e encantar quem acompanhou o fenômeno ao vivo na Praia da Solidão.</p>
+    ]]></content:encoded>
+  </item>
 </channel>
 </rss>
