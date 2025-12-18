@@ -1,149 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 18 Dec 2025 21:26:02 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Thu, 18 Dec 2025 21:43:47 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Padre é indiciado por importunação sexual em Brusque, SC]]></title>
+    <link>https://jornalrazao.com/seguranca/padre-indiciado-importunacao-sexual-video-brusque-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:03:27 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172963]]></guid>
+    <description><![CDATA[Um padre foi indiciado por importunação sexual após investigação da Polícia Civil em Brusque, Santa Catarina, envolvendo um vídeo de câmeras de segurança e o relato de um atendente.]]></description>
+    <content:encoded><![CDATA[
+<p>O indiciamento do padre Vicente de Paula Neto ocorreu após análise de um vídeo de aproximadamente dez minutos gravado em um estabelecimento comercial no bairro Santa Rita, em Brusque. As imagens mostram o religioso circulando pela loja e realizando gestos na região íntima por cima da roupa.</p>
+<p>A investigação considerou o comportamento registrado nas câmeras, o depoimento da vítima e outros elementos documentais como indícios suficientes para o indiciamento por importunação sexual. O padre negou a intenção de cunho sexual, alegando que os movimentos foram causados por coceira ou incômodo dermatológico.</p>
+<p>O denunciante, um jovem de 19 anos que trabalhava como atendente no local,</p>
+<p>Após a saída do religioso, o jovem demorou algumas horas para registrar o boletim de ocorrência.</p>
+<p>O caso foi encaminhado para a Polícia Civil, que concluiu pelo indiciamento do padre. A pena prevista para o crime de importunação sexual pode chegar a cinco anos de prisão.</p>
+<p>O denunciante</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Roda FG promove nova edição do “Noel Radical” nesta quinta]]></title>
-<link>https://portalmenina.com.br/roda-fg-promove-nova-edicao-do-noel-radical-nesta-quinta-feira-em-balneario-camboriu/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Entretenimento]]></category>
-<category><![CDATA[Roda]]></category>
-<category><![CDATA[Fg]]></category>
-<category><![CDATA[Promove]]></category>
-<category><![CDATA[Nova]]></category>
-<category><![CDATA[Edição]]></category>
-<category><![CDATA[Noel]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 20:41:14 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130802</guid>
-<description><![CDATA[A Roda FG, localizada no Pontal Norte de Balneário Camboriú, realizará nesta quinta-feira, 18, mais uma edição do evento natalino "Noel Radical". A atração está agendada para às 20h e terá como destaque a descida de rapel do Papai Noel a partir do eixo central da roda-gigante, a uma altura de aproximadamente 37,5 metros.]]></description>
-<content:encoded><![CDATA[<strong>A Roda FG, localizada no Pontal Norte de Balneário Camboriú, realizará nesta quinta-feira, 18, mais uma edição do evento natalino "Noel Radical". A atração está agendada para às 20h e terá como destaque a descida de rapel do Papai Noel a partir do eixo central da roda-gigante, a uma altura de aproximadamente 37,5 metros. Esta será a quinta edição consecutiva do evento, que ocorre desde 2021, e contará com manobras aéreas do personagem durante cerca de 15 minutos, utilizando técnicas de rapel ao longo da estrutura. A Roda FG terá iluminação temática especial no aro da roda-gigante para a apresentação, que já se tornou uma tradição no calendário da cidade, conforme destacou o gerente de marketing do equipamento turístico, Paulo Ricardo Soriano.</strong><br/><br/>O público poderá assistir gratuitamente à apresentação do Noel Radical da orla e do molhe do Pontal Norte. Já os visitantes que estiverem nas cabines da roda-gigante durante o espetáculo terão uma visão privilegiada da performance, com diferentes ângulos da descida e da orla iluminada. Para ter acesso a essa visão exclusiva, é necessário adquirir ingresso na bilheteria do complexo ou pelo site oficial da Roda FG. Após a apresentação, o Papai Noel permanecerá no local para interagir com as crianças, distribuir balas e receber pedidos, contando também com a presença da mascote Wili para fotos com o público. (<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Cantata de Natal será realizada no Bairro da Barra em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/cantata-de-natal-balneario-camboriu-barra/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:03:07 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318772]]></guid>
+    <description><![CDATA[O Bairro da Barra, em Balneário Camboriú, receberá uma Cantata de Natal na Praça do Pescador neste sábado.]]></description>
+    <content:encoded><![CDATA[
+<p>O evento é gratuito e tem como objetivo celebrar o espírito natalino junto à comunidade local.</p>
+<p>A Cantata de Natal contará com apresentações musicais na Praça do Pescador.</p>
+<p>Moradores e visitantes poderão participar das atividades programadas para a ocasião.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Senado aprova empréstimo de US$ 90 milhões para obras do Promobis na região da Amfri; túnel Itajaí–Navegantes está entre os projetos]]></title>
-<link>https://portalmenina.com.br/senado-aprova-emprestimo-de-us-90-milhoes-para-obras-do-promobis-na-regiao-da-amfri-tunel-itajai-navegantes-esta-entre-os-projetos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Cidades]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Geral]]></category>
-<category><![CDATA[Senado]]></category>
-<category><![CDATA[Aprova]]></category>
-<category><![CDATA[Empréstimo]]></category>
-<category><![CDATA[Us]]></category>
-<category><![CDATA[Milhões]]></category>
-<category><![CDATA[Obras]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 20:10:41 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130792</guid>
-<description><![CDATA[O Senado Federal aprovou, em sessão plenária realizada na quarta-feira, 17, a autorização para a contratação de um empréstimo externo no valor de US$ 90 milhões destinado ao financiamento das obras do Programa de Mobilidade Integrada Sustentável da Região da Foz do Rio Itajaí (Promobis). Os recursos serão aplicados em projetos como o túnel imerso entre Itajaí e Navegantes, a implantação de um sistema regional de transporte integrado e melhorias de mobilidade urbana em Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[<strong>O Senado Federal aprovou, em sessão plenária realizada na quarta-feira, 17, a autorização para a contratação de um empréstimo externo no valor de US$ 90 milhões destinado ao financiamento das obras do Programa de Mobilidade Integrada Sustentável da Região da Foz do Rio Itajaí (Promobis). Os recursos serão aplicados em projetos como o túnel imerso entre Itajaí e Navegantes, a implantação de um sistema regional de transporte integrado e melhorias de mobilidade urbana em Balneário Camboriú. A aprovação ocorreu por meio de relatório apresentado pelo senador catarinense Esperidião Amin (PP) e o financiamento será contratado junto ao Banco Internacional para Reconstrução e Desenvolvimento (BIRD), com garantia da União e prazo de 22 anos para pagamento.</strong><br/><br/>O plano contempla os municípios de Itajaí, Balneário Camboriú e Navegantes, com contrapartidas financeiras das prefeituras envolvidas, do Consórcio Intermunicipal Multifinalitário da Região da Amfri (CIM-Amfri) e do governo do Estado. A autorização do empréstimo foi desmembrada em três projetos de resolução do Senado, cada um correspondente à parcela assumida por um dos municípios. Durante a votação em plenário, o senador Esperidião Amin destacou a importância das obras para a região, ressaltando que o projeto representa um marco no Legislativo brasileiro ao autorizar uma operação de crédito internacional envolvendo um consórcio público, com garantias da União fracionadas entre os municípios participantes. A expectativa é que o contrato com o banco seja assinado no início de 2026, conforme declarou o prefeito de Itajaí e presidente do CIM-Amfri, Robison Coelho (PL). <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Itapema sediará 4ª Copa de Beach Tênis em janeiro]]></title>
+    <link>https://visornoticias.com.br/itapema-recebe-a-4a-copa-de-beach-tenis-em-janeiro/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:03:05 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318795]]></guid>
+    <description><![CDATA[A 4ª Copa de Beach Tênis será realizada em Itapema entre os dias 2 e 4 de janeiro, reunindo atletas de diversas categorias.]]></description>
+    <content:encoded><![CDATA[
+<p>O evento esportivo acontecerá ao longo de três dias, com competidores de diferentes níveis participando das disputas.</p>
+<p>A competição visa promover o esporte e incentivar a participação de atletas locais e de outras regiões.</p>
+<p>A organização espera atrair público e movimentar a economia local durante o período da realização da copa.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[“Muita gente que fazia corpo mole, agora não pode mais fazer”, diz governador sobre nova gestão do Hospital Ruth Cardoso]]></title>
-<link>https://portalmenina.com.br/muita-gente-que-fazia-corpo-mole-agora-nao-pode-mais-fazer-diz-governador-sobre-nova-gestao-do-hospital-ruth-cardoso/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[DESTAQUE 1]]></category>
-<category><![CDATA[Muita]]></category>
-<category><![CDATA[Gente]]></category>
-<category><![CDATA[Que]]></category>
-<category><![CDATA[Fazia]]></category>
-<category><![CDATA[Corpo]]></category>
-<category><![CDATA[Mole]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 20:07:26 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130790</guid>
-<description><![CDATA[O senador Jorginho Mello (PL) defendeu a nova gestão do Hospital Regional Ruth Cardoso, realizada pela Organização Social Viva Rio, durante coletiva de imprensa realizada na quinta-feira, 18, no lançamento da Estação Verão Santa Catarina, em Itajaí. Mello rebateu críticas sobre a qualidade do atendimento e a redução na equipe, afirmando que a unidade hospitalar está passando por melhorias para oferecer um serviço de qualidade à sociedade catarinense, não apenas em Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[<strong>O senador Jorginho Mello (PL) defendeu a nova gestão do Hospital Regional Ruth Cardoso, realizada pela Organização Social Viva Rio, durante coletiva de imprensa realizada na quinta-feira, 18, no lançamento da Estação Verão Santa Catarina, em Itajaí. Mello rebateu críticas sobre a qualidade do atendimento e a redução na equipe, afirmando que a unidade hospitalar está passando por melhorias para oferecer um serviço de qualidade à sociedade catarinense, não apenas em Balneário Camboriú. O governador também anunciou investimentos de R$ 500 milhões em obras e melhorias na unidade, destacando que a gestão anterior deixou o hospital em condições precárias.</strong><br/><br/>Segundo o governador, o Hospital Ruth Cardoso estava em estado precário durante a gestão municipal, sendo necessário investir recursos significativos para sua reestruturação. Ele afirmou que já estão sendo aplicados R$ 62 milhões para melhorias imediatas e que ao longo dos próximos 60 meses serão investidos R$ 500 milhões na unidade. O objetivo é garantir que o hospital funcione adequadamente e ofereça um atendimento de qualidade à população. A secretária-adjunta de Estado da Saúde, dra. Cristina Pires Pauluci, está acompanhando de perto o processo de estadualização para assegurar que os serviços sejam mantidos de forma eficiente. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Emasa reforça abastecimento de água em Balneário Camboriú para o verão]]></title>
+    <link>https://visornoticias.com.br/abastecimento-agua-balneario-camboriu-verao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:03:03 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318775]]></guid>
+    <description><![CDATA[A Emasa implementou medidas para garantir o abastecimento de água durante a temporada de verão em Balneário Camboriú.]]></description>
+    <content:encoded><![CDATA[
+<p>A empresa reforçou as equipes de trabalho para atender à demanda crescente de moradores e turistas na cidade.</p>
+<p>Obras que poderiam comprometer o fornecimento de água foram suspensas temporariamente durante o período.</p>
+<p>O atendimento ao público foi ampliado para facilitar o acesso a serviços relacionados ao abastecimento.</p>
+<p>As ações visam assegurar a continuidade e a qualidade do fornecimento de água ao longo da temporada.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Rombo em Tijucas: TCE reprova contas e escancara escândalo milionário na gestão Eloi]]></title>
-<link>https://jornalrazao.com/politica/rombo-em-tijucas-tce-reprova-contas-e-escancara-rombo-milionario-na-gestao-eloi/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 18:48:20 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172945</guid>
-<description><![CDATA[O Tribunal de Contas de Santa Catarina rejeitou, por unanimidade, as contas da Prefeitura de Tijucas referentes ao exercício de 2024, último ano da gestão do ex-prefeito Eloi Mariano Rocha. A decisão foi tomada em sessão do Pleno e evidenciou uma série de falhas consideradas graves, envolvendo atrasos, desequilíbrio financeiro, descumprimento de obrigações legais e problemas na condução das finanças do município.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Balneário Camboriú apresenta relatório sobre cumprimento do Plano de Educação]]></title>
+    <link>https://visornoticias.com.br/plano-de-educacao-balneario-camboriu-2/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:02:55 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318780]]></guid>
+    <description><![CDATA[Relatório final indica que nenhuma das metas do Plano de Educação 2015-2025 foi integralmente alcançada em Balneário Camboriú.]]></description>
+    <content:encoded><![CDATA[
+<p>O documento avalia o cumprimento das 20 metas estabelecidas para o decênio 2015-2025 no município.</p>
+<p>Nenhuma das metas previstas no plano foi totalmente cumprida até o momento.</p>
+<p>O relatório será utilizado como base para a elaboração do novo Plano de Educação para o período 2026-2036.</p>
+<p>A análise busca orientar as ações futuras para aprimorar a educação no município.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Finais do Campeonato Municipal de Futsal consagram campeões nas categorias Feminino e Veteranos]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/finais-do-campeonato-municipal-de-futsal-consagram-campeoes-nas-categorias-feminino-e-veteranos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 18:36:23 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20454</guid>
-<description><![CDATA[O Campeonato Municipal de Futsal de Porto Belo teve uma noite de intensas emoções com a realização das finais das categorias Feminino e Veteranos, ocorrida na última quarta-feira (17). As partidas reuniram atletas, torcedores e amantes do esporte, encerrando a competição com grandes jogos e momentos decisivos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Procon investiga variação de preços da ceia de Natal em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/pesquisa-precos-ceia-natal-balneario-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:02:49 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318779]]></guid>
+    <description><![CDATA[O Procon realizou um levantamento sobre os preços dos itens da ceia de Natal em supermercados de Balneário Camboriú, identificando grande variação nos valores praticados.]]></description>
+    <content:encoded><![CDATA[
+<p>O estudo</p>
+<p>Diante dessa variação, o órgão recomenda que os consumidores realizem pesquisa de preços antes de efetuar suas compras.</p>
+<p>A iniciativa visa garantir maior transparência e auxiliar na escolha dos melhores preços durante o período festivo.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Venezuelana de 21 anos tenta realizar aborto no Hospital Ruth Cardoso e PM é acionada]]></title>
-<link>https://portalmenina.com.br/venezuelana-de-21-anos-tenta-realizar-aborto-no-hospital-ruth-cardoso-e-pm-e-acionada/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 18:17:17 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130770</guid>
-<description><![CDATA[Uma gestante venezuelana, de 21 anos, mobilizou a Polícia Militar na madrugada desta quinta-feira, 18, em Balneário Camboriú. A jovem, grávida de 36 semanas em decorrência de um estupro, manifestou o desejo de realizar um aborto.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Balneário Camboriú recebe selo estadual de inovação]]></title>
+    <link>https://visornoticias.com.br/balneario-camboriu-inovacao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:02:42 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318786]]></guid>
+    <description><![CDATA[Balneário Camboriú foi reconhecida com o Selo Município Inovador Catarinense, destacando avanços na área de inovação.]]></description>
+    <content:encoded><![CDATA[
+<p>O selo estadual de inovação foi entregue a Balneário Camboriú em cerimônia oficial.</p>
+<p>O reconhecimento destaca iniciativas e projetos que promovem o desenvolvimento tecnológico e a inovação no município.</p>
+<p>A premiação reforça o compromisso da cidade com a modernização e a melhoria dos serviços públicos.</p>
+<p>O diretor Murilo Sodré representou Balneário Camboriú durante a entrega do selo.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Câmara de Itajaí aprova aumento de vereadores e entidades questionam impacto financeiro]]></title>
-<link>https://portalmenina.com.br/camara-de-itajai-aprova-aumento-de-vereadores-e-entidades-questionam-impacto-financeiro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 18:10:00 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130771</guid>
-<description><![CDATA[A Câmara de Vereadores de Itajaí aprovou, por unanimidade, o aumento no número de parlamentares a partir da legislatura de 2029. Com a mudança, o Legislativo municipal passará de 17 para 21 cadeiras, ampliando em quatro o total de vereadores eleitos no município.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Santa Catarina implementa novo modelo para emergências com produtos perigosos]]></title>
+    <link>https://visornoticias.com.br/produtos-perigosos-santa-catarina-novo-modelo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 21:02:12 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318804]]></guid>
+    <description><![CDATA[Santa Catarina desenvolveu um novo modelo de resposta para emergências envolvendo produtos perigosos, visando aprimorar a gestão e a segurança nessas situações.]]></description>
+    <content:encoded><![CDATA[
+<p>O modelo foi acelerado após um acidente grave no Morro dos Cavalos, que causou bloqueio na rodovia por várias horas.</p>
+<p>A iniciativa busca organizar e padronizar as ações de resposta em casos de acidentes com materiais perigosos no estado.</p>
+<p>O novo protocolo pretende minimizar riscos e agilizar o atendimento em emergências desse tipo.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Tribunal de Contas suspende licitação de Camboriú para material elétrico]]></title>
-<link>https://portalmenina.com.br/tribunal-de-contas-suspende-licitacao-de-camboriu-para-material-eletrico/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 17:53:25 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130762</guid>
-<description><![CDATA[A licitação aberta pela Prefeitura de Camboriú para aquisição de materiais elétricos destinados à manutenção da iluminação pública foi suspensa pelo Tribunal de Contas de Santa Catarina (TCE-SC). A interrupção do pregão eletrônico ocorreu de forma cautelar após o TCE-SC identificar inconsistências na pesquisa de preços que embasou o orçamento do edital.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Duas mulheres ficam feridas após briga em boate de Timbó]]></title>
+    <link>https://jornalrazao.com/seguranca/cliente-afunda-cranio-gerente-boate-marteladas-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 18:35:52 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172938]]></guid>
+    <description><![CDATA[Uma briga entre clientes em uma boate de Timbó resultou em duas mulheres feridas, uma delas em estado grave.]]></description>
+    <content:encoded><![CDATA[
+<p>O incidente ocorreu em um estabelecimento localizado no Vale do Itajaí, envolvendo clientes do local.</p>
+<p>A gerente do estacionamento foi agredida com golpes de martelo na cabeça, sofrendo traumatismo craniano grave.</p>
+<p>Ela foi socorrida e encaminhada ao hospital para atendimento médico especializado.</p>
+<p>Outra funcionária da boate também ficou ferida, apresentando lesões leves e recebendo atendimento médico.</p>
+<p>O autor das agressões foi identificado, mas não há confirmação sobre sua prisão até o momento.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Colisão entre caminhões deixa motorista ferido na BR]]></title>
-<link>https://portalmenina.com.br/colisao-entre-caminhoes-deixa-motorista-ferido-na-br-101-em-barra-velha/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 17:19:34 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130755</guid>
-<description><![CDATA[Um acidente de trânsito envolvendo dois caminhões foi registrado na manhã desta quinta-feira, 18, na BR-101, no bairro Tabuleiro, em Barra Velha, sentido Sul. A ocorrência mobilizou equipes do Corpo de Bombeiros e da concessionária Autopista Litoral Sul.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Governo do Estado lança Estação Verão 25/26 em Itajaí]]></title>
-<link>https://portalmenina.com.br/governo-do-estado-lanca-estacao-verao-25-26-em-itajai/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 17:05:13 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130746</guid>
-<description><![CDATA[O Governo de Santa Catarina lançou oficialmente, nesta quinta-feira, 18 de novembro, em Itajaí, a edição 2025/2026 da Estação Verão. O evento ocorreu na Praia Brava e marca o início da maior operação integrada de segurança, turismo e serviços do Estado durante o período de alta movimentação turística.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <item>
+    <title><![CDATA[Bebedouros inteligentes são instalados em áreas de lazer de Blumenau]]></title>
+    <link>https://portalmenina.com.br/entenda-o-funcionamento-dos-bebedouros-inteligentes-instalados-em-areas-de-lazer-de-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 18:26:44 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130780]]></guid>
+    <description><![CDATA[Bebedouros públicos inteligentes começaram a ser instalados em Blumenau para ampliar o acesso à água potável em locais de lazer e prática esportiva.]]></description>
+    <content:encoded><![CDATA[
+<p>Os equipamentos oferecem água gelada, possuem espaço para hidratação de animais e contam com sistema de telemetria para monitoramento remoto e manutenção.</p>
+<p>Quatro bebedouros já estão em operação em diferentes bairros da cidade, incluindo Vila Nova, Ponta Aguda, Velha e Progresso.</p>
+<p>O projeto prevê a instalação de 25 unidades, com as demais sendo implantadas em 2026 em praças, terminais de ônibus, pontos turísticos e áreas próximas a espaços de lazer e esporte.</p>
+<p>A previsão é que todos os equipamentos estejam em funcionamento até o fim de fevereiro do próximo ano.</p>
+<p>O investimento total é de R$ 441,7 mil, com recursos do Fundo Municipal de Saneamento Básico, formado por valores arrecadados com multas aplicadas pela autarquia.</p>
+    ]]></content:encoded>
+  </item>
 </channel>
 </rss>
