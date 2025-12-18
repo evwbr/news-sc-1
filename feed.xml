@@ -1,148 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 18 Dec 2025 14:26:02 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Thu, 18 Dec 2025 16:12:07 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Caminhão explode e é destruído por incêndio em Dionísio Cerqueira, SC]]></title>
+    <link>https://jornalrazao.com/seguranca/caminhao-explode-e-motorista-ve-seu-ganha-pao-ser-destruido-em-sc-acabei-de-comprar/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 15:03:20 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172916]]></guid>
+    <description><![CDATA[Um caminhão foi consumido por um incêndio na Serra da Maria Preta, em Dionísio Cerqueira, no Extremo Oeste de Santa Catarina, na tarde de quarta-feira.]]></description>
+    <content:encoded><![CDATA[
+<p>O , com placas do Rio Grande do Sul, seguia pela BR-163 quando foi tomado pelas chamas. O motorista conseguiu sair a tempo e não houve feridos.</p>
+<p>Moradores e motoristas que passavam pelo local tentaram conter o fogo antes da chegada do Corpo de Bombeiros, que controlou as chamas e realizou o rescaldo.</p>
+<p>A parte frontal do caminhão foi completamente destruída, enquanto a carreta não foi atingida pelo incêndio. As causas do fogo ainda estão sendo investigadas.</p>
+<p>O incidente ocorreu em uma região de serra íngreme no fim da tarde, momento em que o motorista retornava para casa. O calor intenso e as explosões dificultaram o combate inicial ao fogo.</p>
+<p>O episódio evidencia os riscos enfrentados por caminhoneiros que circulam pelas rodovias do país diariamente.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Governo de Porto Belo participa de reunião para organização náutica no verão]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/governo-de-porto-belo-participa-de-reuniao-para-organizacao-nautica-no-verao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Região]]></category>
-<category><![CDATA[Governo]]></category>
-<category><![CDATA[Porto]]></category>
-<category><![CDATA[Belo]]></category>
-<category><![CDATA[Participa]]></category>
-<category><![CDATA[Reunião]]></category>
-<category><![CDATA[Organização]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 13:27:58 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20447</guid>
-<description><![CDATA[O Governo de Porto Belo participou, na manhã desta quinta-feira (18), de uma reunião na Delegacia da Capitania dos Portos, em Itajaí, juntamente com representantes da Secretaria de Segurança Pública, Fundação Municipal do Meio Ambiente, Fundação de Turismo, Polícia Militar, Polícia Militar Ambiental e Marinha do Brasil. O encontro teve como objetivo alinhar ações integradas para a organização, segurança e ordenamento das áreas náuticas do município, com destaque para a retirada de poitas irregulares, que representam riscos à navegação e ao meio ambiente, além do ordenamento do amadrinhamento de embarcações nas regiões do Caixa d’Aço e da Enseada Encantada.]]></description>
-<content:encoded><![CDATA[<strong>O Governo de Porto Belo participou, na manhã desta quinta-feira (18), de uma reunião na Delegacia da Capitania dos Portos, em Itajaí, juntamente com representantes da Secretaria de Segurança Pública, Fundação Municipal do Meio Ambiente, Fundação de Turismo, Polícia Militar, Polícia Militar Ambiental e Marinha do Brasil. O encontro teve como objetivo alinhar ações integradas para a organização, segurança e ordenamento das áreas náuticas do município, com destaque para a retirada de poitas irregulares, que representam riscos à navegação e ao meio ambiente, além do ordenamento do amadrinhamento de embarcações nas regiões do Caixa d’Aço e da Enseada Encantada. Estratégias de organização e fiscalização para a temporada de verão também foram discutidas, visando garantir a segurança dos usuários, a preservação ambiental e o uso responsável dos espaços marítimos.</strong><br/><br/>A reunião teve como foco principal a preparação para a temporada de verão, período em que há um aumento significativo da circulação de embarcações e visitantes nas áreas náuticas de Porto Belo. As medidas discutidas buscam assegurar a segurança dos usuários, a preservação do meio ambiente e a utilização responsável dos espaços marítimos, promovendo uma convivência harmoniosa entre turismo, lazer e proteção dos recursos naturais. A participação de diversos órgãos e entidades na reunião evidencia a importância da cooperação para garantir a eficácia das ações planejadas e o cumprimento das normas vigentes. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Cooperativa de crédito é assaltada em Doutor Pedrinho; criminosos fogem após incendiar]]></title>
+    <link>https://portalmenina.com.br/criminosos-assaltam-cooperativa-de-credito-em-doutor-pedrinho-e-fogem-apos-incendiar-veiculo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 14:51:42 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130740]]></guid>
+    <description><![CDATA[Uma cooperativa de crédito em Doutor Pedrinho foi alvo de um assalto na manhã desta quinta-feira, com criminosos rendendo funcionários e fugindo após incendiar o usado na ação.]]></description>
+    <content:encoded><![CDATA[
+<p>Pelo menos três funcionários da agência foram rendidos durante o assalto ocorrido na manhã desta quinta-feira em Doutor Pedrinho, na região do Médio Vale do Itajaí.</p>
+<p>A quantia em dinheiro levada pelos assaltantes ainda não foi divulgada, e não há registro de feridos na ocorrência.</p>
+<p>O utilizado pelos criminosos foi encontrado incendiado após a fuga.</p>
+<p>As forças de segurança foram acionadas e realizam buscas na região para localizar e prender os responsáveis pelo crime.</p>
+<p>O caso está sob investigação pelas autoridades locais.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Gestão do Hospital Ruth Cardoso é tema de reunião entre prefeitura e governo do Estado]]></title>
-<link>https://portalmenina.com.br/gestao-do-hospital-ruth-cardoso-e-tema-de-reuniao-entre-prefeitura-e-governo-do-estado/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Cidades]]></category>
-<category><![CDATA[DESTAQUE]]></category>
-<category><![CDATA[Gestão]]></category>
-<category><![CDATA[Hospital]]></category>
-<category><![CDATA[Ruth]]></category>
-<category><![CDATA[Cardoso]]></category>
-<category><![CDATA[É]]></category>
-<category><![CDATA[Tema]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 13:18:24 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130721</guid>
-<description><![CDATA[Após diversas queixas relacionadas à Organização Social Viva Rio, responsável pela administração do Hospital Regional Ruth Cardoso (HRRC), a administração municipal e a Secretaria de Estado da Saúde se reuniram na unidade para alinhar informações e compreender o funcionamento do hospital. O encontro ocorreu na tarde de terça-feira, 16, e teve como foco principal a situação do quadro de profissionais e do setor de Recursos Humanos da unidade, com destaque para pendências no sistema eSocial que impactam parte dos trabalhadores.]]></description>
-<content:encoded><![CDATA[<strong>Após diversas queixas relacionadas à Organização Social Viva Rio, responsável pela administração do Hospital Regional Ruth Cardoso (HRRC), a administração municipal e a Secretaria de Estado da Saúde se reuniram na unidade para alinhar informações e compreender o funcionamento do hospital. O encontro ocorreu na tarde de terça-feira, 16, e teve como foco principal a situação do quadro de profissionais e do setor de Recursos Humanos da unidade, com destaque para pendências no sistema eSocial que impactam parte dos trabalhadores. A empresa informou que a contratação de profissionais para áreas críticas está em fase finalização, e também foi discutida a preparação do hospital para a alta temporada de verão, visando atender à demanda crescente por serviços de saúde.</strong><br/><br/>Durante a reunião, a prefeitura solicitou mais agilidade nos diagnósticos dos pacientes para reduzir a demora nos atendimentos e as filas de espera no HRRC. A Secretaria de Estado da Saúde (SES) ressaltou que o hospital está passando por ajustes internos, com um levantamento detalhado das especialidades e dimensionamento das equipes para garantir o atendimento de média complexidade. A SES também está trabalhando na implementação de um novo modelo de gestão para a região, focando na reorganização administrativa e otimização do atendimento conforme as especialidades mapeadas. Participaram do encontro autoridades como a prefeita Juliana Pavan e representantes da SES e da administração municipal, além de membros da Viva Rio, que assumiu a gestão do HRRC em 8 de dezembro, com um investimento previsto de mais de R$ 533 milhões ao longo de 60 meses, incluindo recursos para adequações e custeio operacional. <br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FWhatsApp-Image-2025-12-18-at-06.33.55-1-320x240.jpeg" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Criminosos assaltam agência bancária e queimam em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/roubo-banco-doutor-pedrinho/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 14:51:23 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318630]]></guid>
+    <description><![CDATA[Uma agência do Sicoob foi alvo de um assalto realizado por criminosos armados, que fugiram após incendiar um carro.]]></description>
+    <content:encoded><![CDATA[
+<p>Criminosos armados invadiram uma agência do Sicoob em Santa Catarina e realizaram um assalto.</p>
+<p>Após o crime, os suspeitos incendiaram um utilizado na fuga.</p>
+<p>As autoridades foram acionadas para atender a ocorrência e iniciar as investigações.</p>
+<p>Até o momento, não há informações sobre prisões relacionadas ao caso.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Praias de Balneário Camboriú passam a contar com 70 novos fiscais durante a alta temporada]]></title>
-<link>https://portalmenina.com.br/praias-de-balneario-camboriu-passam-a-contar-com-70-novos-fiscais-durante-a-alta-temporada/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Balneário Camboriú]]></category>
-<category><![CDATA[Cidades]]></category>
-<category><![CDATA[Comunidade]]></category>
-<category><![CDATA[Praias]]></category>
-<category><![CDATA[Balneário]]></category>
-<category><![CDATA[Camboriú]]></category>
-<category><![CDATA[Passam]]></category>
-<category><![CDATA[Contar]]></category>
-<category><![CDATA[Novos]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 13:14:28 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130719</guid>
-<description><![CDATA[Novos fiscais de posturas começam a atuar nas praias de Balneário Camboriú a partir desta quinta-feira, 18, com o objetivo de intensificar a fiscalização ao longo da Praia Central e das praias agrestes durante a temporada de verão. A ação é realizada com a contratação temporária de 70 profissionais, que se juntam aos cerca de 20 fiscais efetivos já em atividade no município.]]></description>
-<content:encoded><![CDATA[<strong>Novos fiscais de posturas começam a atuar nas praias de Balneário Camboriú a partir desta quinta-feira, 18, com o objetivo de intensificar a fiscalização ao longo da Praia Central e das praias agrestes durante a temporada de verão. A ação é realizada com a contratação temporária de 70 profissionais, que se juntam aos cerca de 20 fiscais efetivos já em atividade no município. Os fiscais terão como foco a fiscalização do comércio, verificação de alvarás, ocupações irregulares na faixa de areia e prestação de serviços, além de prestar apoio às ações de abordagem social.</strong><br/><br/>Os novos fiscais foram selecionados por meio de processo seletivo público e passaram por capacitação antes de iniciar suas atividades. Durante a temporada de verão, a fiscalização também será estendida para as ruas da cidade, aumentando a presença do poder público em áreas de maior circulação de moradores e turistas. A coordenação das equipes será integrada à central de monitoramento da Guarda Municipal, permitindo o acompanhamento conjunto das ocorrências e o uso das câmeras de vigilância já existentes. Essa medida se faz necessária devido ao aumento do fluxo de visitantes no verão, período em que a cidade costuma experimentar uma maior demanda por fiscalização e ordenamento dos espaços públicos.<br/><br/>Fonte: Portal Menina]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Engavetamento entre carreta e caminhão deixa vítima grave na BR-101 em Barra Velha]]></title>
+    <link>https://jornalrazao.com/seguranca/caos-na-br-101-engavetamento-com-carreta-deixa-vitima-grave-em-barra-velha/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 14:28:03 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172904]]></guid>
+    <description><![CDATA[Um acidente envolvendo uma carreta e um caminhão causou ferimentos graves a uma pessoa na BR-101, em Barra Velha, no Litoral Norte de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O engavetamento ocorreu na manhã desta quinta-feira, por volta das 9h32, no km 89 da rodovia, no sentido Sul.</p>
+<p>Equipes de atendimento foram acionadas para prestar socorro à vítima, que foi encaminhada ao Pronto Atendimento de Barra Velha em estado grave.</p>
+<p>A pista precisou ser totalmente bloqueada no sentido Sul durante o atendimento, o que gerou um congestionamento de aproximadamente três quilômetros no local.</p>
+<p>As causas do acidente ainda não foram divulgadas.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Homem com mandado por tráfico é preso em Balneário Camboriú]]></title>
-<link>https://visornoticias.com.br/homem-com-mandado-por-trafico-e-preso-em-bc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 13:06:55 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318610</guid>
-<description><![CDATA[Um homem com mandado de prisão por tráfico de drogas foi detido em Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Conasa anuncia investimento de R$ 43 milhões em saneamento em Itapema para 2025]]></title>
+    <link>https://visornoticias.com.br/conasa-investe-r-43-milhoes-em-saneamento/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 14:13:19 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318625]]></guid>
+    <description><![CDATA[A Conasa planeja aplicar R$ 43 milhões em melhorias no sistema de água e esgoto de Itapema no ano de 2025.]]></description>
+    <content:encoded><![CDATA[
+<p>O investimento visa aprimorar a infraestrutura de saneamento básico na cidade.</p>
+<p>As ações incluem melhorias no abastecimento de água e no tratamento de esgoto.</p>
+<p>Além disso, estão previstas medidas específicas para atender à demanda durante a temporada de verão.</p>
+<p>O objetivo é garantir maior eficiência e qualidade nos serviços prestados à população.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Deputado estadual e equipe permanecem retidos durante abordagem no Morro dos Cavalos]]></title>
-<link>https://visornoticias.com.br/deputado-estadual-fica-impedido-de-sair-apos-abordagem-de-indigenas-no-morro-dos-cavalos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 13:05:06 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318606</guid>
-<description><![CDATA[Parlamentar e sua equipe ficaram cerca de duas horas retidos durante gravação sobre o túnel na BR-101 no Morro dos Cavalos.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Assalto a cooperativa de crédito mobiliza operação policial em Doutor Pedrinho]]></title>
+    <link>https://jornalrazao.com/seguranca/urgente-assalto-a-banco-em-sc-mobiliza-as-forcas-deseguranca/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 14:12:43 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172901]]></guid>
+    <description><![CDATA[Dois homens armados invadiram uma agência da Cresol em Doutor Pedrinho, renderam funcionários e fugiram com dinheiro, desencadeando uma ampla ação das forças de segurança na região.]]></description>
+    <content:encoded><![CDATA[
+<p>O ataque ocorreu na manhã desta quinta-feira, quando os criminosos acessaram o prédio após quebrar uma janela lateral com uma marreta. No interior da agência, ameaçaram os trabalhadores e recolheram o dinheiro disponível.</p>
+<p>A ação durou poucos minutos, causando pânico entre os presentes. Após o roubo, os suspeitos fugiram em um Volkswagen Golf, que foi abandonado e incendiado em uma estrada da região.</p>
+<p>O incêndio do reforçou a suspeita de que os assaltantes tenham trocado de carro ou contado com apoio externo para continuar a fuga. Cerca de R$ 90 mil teriam sido levados na ação.</p>
+<p>Nenhum ferido foi registrado até o momento. A resposta policial envolveu guarnições da Polícia Militar, Polícia Civil e Batalhão de Operações Policiais Especiais, que montaram barreiras em rodovias e estradas secundárias.</p>
+<p>As buscas continuam em áreas estratégicas para identificar os envolvidos, reconstruir a rota de fuga e efetuar prisões. A investigação está sob responsabilidade da Polícia Civil, com apoio operacional da Polícia Militar.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Homem é preso por maus-tratos após arrastar cão em caminhão em Blumenau]]></title>
-<link>https://jornalrazao.com/seguranca/homem-e-preso-apos-arrastar-cao-por-cerca-de-1-km-em-blumenau/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 12:45:05 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172889</guid>
-<description><![CDATA[Um homem foi preso em flagrante por maus-tratos a animal após arrastar um cão amarrado na parte traseira de um caminhão por cerca de um quilômetro em Blumenau.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Carro cai em ribanceira de 15 metros após sair da pista em Blumenau]]></title>
+    <link>https://visornoticias.com.br/carro-despenca-em-ribanceira-de-15-metros/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:45:31 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318619]]></guid>
+    <description><![CDATA[despencou em uma ribanceira após o motorista perder o controle na pista em Blumenau.]]></description>
+    <content:encoded><![CDATA[
+<p>Um carro caiu em uma ribanceira de aproximadamente 15 metros após sair da pista em Blumenau.</p>
+<p>O motorista perdeu o controle do durante o incidente.</p>
+<p>Ele foi resgatado com suspeita de fratura.</p>
+<p>As circunstâncias que levaram ao acidente ainda não foram detalhadas.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Homem é preso em Blumenau por importunação sexual na Velha Central]]></title>
-<link>https://portalmenina.com.br/homem-e-preso-na-velha-central-apos-mostrar-partes-intimas-para-vizinhas-da-sacada-do-apartamento/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 12:41:13 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130684</guid>
-<description><![CDATA[Um homem de 30 anos foi detido após ser denunciado por exibir partes íntimas da sacada de seu apartamento no bairro Velha Central, em Blumenau.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Motociclista morre após colisão contra árvore em Chapecó]]></title>
+    <link>https://jornalrazao.com/seguranca/tragedia-na-madrugada-jovem-motociclista-morre-apos-bater-contra-arvore-em-chapeco/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:42:10 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172898]]></guid>
+    <description><![CDATA[Um jovem de 28 anos morreu após um acidente de trânsito na madrugada em Chapecó, Oeste de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu por volta das 2h50 na Avenida Fernando Machado, região central da cidade.</p>
+<p>O motociclista colidiu contra uma árvore e foi encontrado inconsciente pelas equipes de resgate.</p>
+<p>Foi constatado que ele não apresentava sinais vitais e apresentava fratura no rosto e sangramento intenso.</p>
+<p>O atendimento médico foi realizado no local, mas o óbito foi confirmado ainda na via devido à gravidade dos ferimentos.</p>
+<p>O corpo está sendo velado na Capela Funerária Wolff, com sepultamento previsto para a manhã desta sexta-feira no cemitério da Linha Boa Vista.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Motociclista morre após acidente na SC-410; motorista é investigado por dirigir embriagado]]></title>
-<link>https://visornoticias.com.br/motociclista-morre-apos-acidente-na-sc-410-e-motorista-e-investigado-por-dirigir-bebado/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 12:39:44 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318599</guid>
-<description><![CDATA[Uma mulher de 43 anos morreu após um acidente na SC-410 envolvendo uma motocicleta e um automóvel. O motorista do está sendo investigado por suspeita de dirigir sob efeito de álcool.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Homem é preso em Blumenau após furto em e uso fraudulento de cartão]]></title>
+    <link>https://portalmenina.com.br/ladrao-arromba-carro-em-blumenau-e-acaba-preso-enquanto-fazia-compras-com-o-cartao-da-vitima/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:41:41 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130686]]></guid>
+    <description><![CDATA[Um homem foi detido no bairro Salto, em Blumenau, após furtar uma carteira de um carro e realizar compras com os cartões da vítima.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Militar foi acionada para atender uma ocorrência de furto em na Rua Gustavo Salinger.</p>
+<p>O suspeito teria arrombado o automóvel e levado uma carteira com documentos pessoais e cartões de crédito.</p>
+<p>O sistema de segurança bancário identificou o uso dos cartões em estabelecimentos comerciais da região.</p>
+<p>Com base nas informações das transações, a polícia localizou o homem de 41 anos nas proximidades.</p>
+<p>Ele foi abordado e, diante da posse dos itens furtados, recebeu voz de prisão e foi encaminhado à Central de Plantão da Polícia Civil.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[cai em ribanceira de 15 metros e motorista é hospitalizado em Blumenau]]></title>
-<link>https://portalmenina.com.br/veiculo-cai-em-ribanceira-de-15-metros-e-motorista-e-hospitalizado-em-blumenau/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 12:39:15 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130705</guid>
-<description><![CDATA[Um motorista foi hospitalizado após o que conduzia cair em uma ribanceira de aproximadamente 15 metros em Blumenau.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Acidente entre motocicleta e autopropelido paralisa desfile de Natal na Avenida Atlântica]]></title>
-<link>https://portalmenina.com.br/acidente-entre-motocicleta-e-autopropelido-paralisa-desfile-de-natal-na-avenida-atlantica/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 12:37:25 GMT</pubDate>
-<guid isPermaLink="false">https://portalmenina.com.br/?p=130706</guid>
-<description><![CDATA[O desfile do Viva o Natal BC foi interrompido por aproximadamente cinco minutos na noite de quarta-feira, 17, devido a um acidente envolvendo uma motocicleta e um equipamento autopropelido, ocorrido na Avenida Atlântica, em Balneário Camboriú. O incidente ocorreu durante a escolta do desfile, quando a organização do evento comunicou a ocorrência à guarnição dos Agentes de Trânsito, próximo à Praça Almirante Tamandaré.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <item>
+    <title><![CDATA[Desfile de Natal em Itapema terá apresentações do Tropeiros do Litoral neste fim de semana]]></title>
+    <link>https://visornoticias.com.br/tropeiros-do-litoral-movimentam-desfile/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 18 Dec 2025 13:21:13 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318616]]></guid>
+    <description><![CDATA[O Desfile de Natal em Itapema contará com duas apresentações do espetáculo Tropeiros do Litoral, atraindo moradores e turistas.]]></description>
+    <content:encoded><![CDATA[
+<p>O evento natalino será realizado em Itapema durante o fim de semana.</p>
+<p>O espetáculo Tropeiros do Litoral fará duas apresentações no local.</p>
+<p>A iniciativa visa proporcionar entretenimento para a comunidade local e visitantes.</p>
+    ]]></content:encoded>
+  </item>
 </channel>
 </rss>
