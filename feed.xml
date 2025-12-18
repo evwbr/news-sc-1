@@ -1,187 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 18 Dec 2025 16:12:07 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
-  <item>
-    <title><![CDATA[Caminhão explode e é destruído por incêndio em Dionísio Cerqueira, SC]]></title>
-    <link>https://jornalrazao.com/seguranca/caminhao-explode-e-motorista-ve-seu-ganha-pao-ser-destruido-em-sc-acabei-de-comprar/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 15:03:20 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172916]]></guid>
-    <description><![CDATA[Um caminhão foi consumido por um incêndio na Serra da Maria Preta, em Dionísio Cerqueira, no Extremo Oeste de Santa Catarina, na tarde de quarta-feira.]]></description>
-    <content:encoded><![CDATA[
-<p>O , com placas do Rio Grande do Sul, seguia pela BR-163 quando foi tomado pelas chamas. O motorista conseguiu sair a tempo e não houve feridos.</p>
-<p>Moradores e motoristas que passavam pelo local tentaram conter o fogo antes da chegada do Corpo de Bombeiros, que controlou as chamas e realizou o rescaldo.</p>
-<p>A parte frontal do caminhão foi completamente destruída, enquanto a carreta não foi atingida pelo incêndio. As causas do fogo ainda estão sendo investigadas.</p>
-<p>O incidente ocorreu em uma região de serra íngreme no fim da tarde, momento em que o motorista retornava para casa. O calor intenso e as explosões dificultaram o combate inicial ao fogo.</p>
-<p>O episódio evidencia os riscos enfrentados por caminhoneiros que circulam pelas rodovias do país diariamente.</p>
-    ]]></content:encoded>
-  </item>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Thu, 18 Dec 2025 17:25:49 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[Cooperativa de crédito é assaltada em Doutor Pedrinho; criminosos fogem após incendiar]]></title>
-    <link>https://portalmenina.com.br/criminosos-assaltam-cooperativa-de-credito-em-doutor-pedrinho-e-fogem-apos-incendiar-veiculo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 14:51:42 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130740]]></guid>
-    <description><![CDATA[Uma cooperativa de crédito em Doutor Pedrinho foi alvo de um assalto na manhã desta quinta-feira, com criminosos rendendo funcionários e fugindo após incendiar o usado na ação.]]></description>
-    <content:encoded><![CDATA[
-<p>Pelo menos três funcionários da agência foram rendidos durante o assalto ocorrido na manhã desta quinta-feira em Doutor Pedrinho, na região do Médio Vale do Itajaí.</p>
-<p>A quantia em dinheiro levada pelos assaltantes ainda não foi divulgada, e não há registro de feridos na ocorrência.</p>
-<p>O utilizado pelos criminosos foi encontrado incendiado após a fuga.</p>
-<p>As forças de segurança foram acionadas e realizam buscas na região para localizar e prender os responsáveis pelo crime.</p>
-<p>O caso está sob investigação pelas autoridades locais.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[PM apreende cigarros eletrônicos, medicamentos ilegais e bebidas em ônibus interestadual em Camboriú]]></title>
+<link>https://portalmenina.com.br/pm-apreende-cigarros-eletronicos-medicamentos-ilegais-e-bebidas-em-onibus-interestadual-em-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Balneário Camboriú]]></category>
+<category><![CDATA[Camboriú]]></category>
+<category><![CDATA[DESTAQUE]]></category>
+<category><![CDATA[Segurança]]></category>
+<category><![CDATA[Pm]]></category>
+<category><![CDATA[Apreende]]></category>
+<category><![CDATA[Cigarros]]></category>
+<category><![CDATA[Eletrônicos]]></category>
+<category><![CDATA[Medicamentos]]></category>
+<category><![CDATA[Ilegais]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Thu, 18 Dec 2025 16:40:03 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130748</guid>
+<description><![CDATA[Uma ação realizada pelo 12º Batalhão de Polícia Militar resultou na apreensão de produtos de origem ilegal durante a abordagem a um ônibus interestadual na Marginal Oeste, em Camboriú, na tarde de quarta-feira, 17. Um homem de 30 anos foi preso em flagrante.]]></description>
+<content:encoded><![CDATA[<strong>Uma ação realizada pelo 12º Batalhão de Polícia Militar resultou na apreensão de produtos de origem ilegal durante a abordagem a um ônibus interestadual na Marginal Oeste, em Camboriú, na tarde de quarta-feira, 17. Um homem de 30 anos foi preso em flagrante. Segundo informações da Polícia Militar, a abordagem foi realizada após denúncias indicarem que o ônibus, com destino à região, estaria sendo utilizado para o transporte de mercadorias ilícitas, incluindo cigarros eletrônicos, produto proibido no Brasil.</strong><br/><br/>Durante a fiscalização no compartimento de bagagens, os policiais encontraram uma mala contendo grande quantidade de cigarros eletrônicos. Em seguida, ao identificar os passageiros, um homem apresentou comportamento suspeito, levando à verificação de sua bagagem, onde foram encontrados medicamentos e produtos terapêuticos de origem ilegal, caracterizando crimes de contrabando e falsificação. Além disso, foram localizados outros itens sem comprovação de desembaraço aduaneiro, como garrafas de whisky, perfumes e celulares, configurando também o crime de descaminho. O homem foi preso em flagrante e encaminhado à Polícia Federal juntamente com o material apreendido para os procedimentos legais.<br/><br/>Fonte: Portal Menina]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fportalmenina.com.br%2Fwp-content%2Fuploads%2F2022%2F07%2Flogo.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Criminosos assaltam agência bancária e queimam em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/roubo-banco-doutor-pedrinho/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 14:51:23 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318630]]></guid>
-    <description><![CDATA[Uma agência do Sicoob foi alvo de um assalto realizado por criminosos armados, que fugiram após incendiar um carro.]]></description>
-    <content:encoded><![CDATA[
-<p>Criminosos armados invadiram uma agência do Sicoob em Santa Catarina e realizaram um assalto.</p>
-<p>Após o crime, os suspeitos incendiaram um utilizado na fuga.</p>
-<p>As autoridades foram acionadas para atender a ocorrência e iniciar as investigações.</p>
-<p>Até o momento, não há informações sobre prisões relacionadas ao caso.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Caminhão explode e é destruído por incêndio em Dionísio Cerqueira, SC]]></title>
+<link>https://jornalrazao.com/seguranca/caminhao-explode-e-motorista-ve-seu-ganha-pao-ser-destruido-em-sc-acabei-de-comprar/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 15:03:20 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172916</guid>
+<description><![CDATA[Um caminhão foi consumido por um incêndio na Serra da Maria Preta, em Dionísio Cerqueira, no Extremo Oeste de Santa Catarina, na tarde de quarta-feira.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Engavetamento entre carreta e caminhão deixa vítima grave na BR-101 em Barra Velha]]></title>
-    <link>https://jornalrazao.com/seguranca/caos-na-br-101-engavetamento-com-carreta-deixa-vitima-grave-em-barra-velha/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 14:28:03 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172904]]></guid>
-    <description><![CDATA[Um acidente envolvendo uma carreta e um caminhão causou ferimentos graves a uma pessoa na BR-101, em Barra Velha, no Litoral Norte de Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>O engavetamento ocorreu na manhã desta quinta-feira, por volta das 9h32, no km 89 da rodovia, no sentido Sul.</p>
-<p>Equipes de atendimento foram acionadas para prestar socorro à vítima, que foi encaminhada ao Pronto Atendimento de Barra Velha em estado grave.</p>
-<p>A pista precisou ser totalmente bloqueada no sentido Sul durante o atendimento, o que gerou um congestionamento de aproximadamente três quilômetros no local.</p>
-<p>As causas do acidente ainda não foram divulgadas.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Cooperativa de crédito é assaltada em Doutor Pedrinho; criminosos fogem após incendiar]]></title>
+<link>https://portalmenina.com.br/criminosos-assaltam-cooperativa-de-credito-em-doutor-pedrinho-e-fogem-apos-incendiar-veiculo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 14:51:42 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130740</guid>
+<description><![CDATA[Uma cooperativa de crédito em Doutor Pedrinho foi alvo de um assalto na manhã desta quinta-feira, com criminosos rendendo funcionários e fugindo após incendiar o usado na ação.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Conasa anuncia investimento de R$ 43 milhões em saneamento em Itapema para 2025]]></title>
-    <link>https://visornoticias.com.br/conasa-investe-r-43-milhoes-em-saneamento/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 14:13:19 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318625]]></guid>
-    <description><![CDATA[A Conasa planeja aplicar R$ 43 milhões em melhorias no sistema de água e esgoto de Itapema no ano de 2025.]]></description>
-    <content:encoded><![CDATA[
-<p>O investimento visa aprimorar a infraestrutura de saneamento básico na cidade.</p>
-<p>As ações incluem melhorias no abastecimento de água e no tratamento de esgoto.</p>
-<p>Além disso, estão previstas medidas específicas para atender à demanda durante a temporada de verão.</p>
-<p>O objetivo é garantir maior eficiência e qualidade nos serviços prestados à população.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Criminosos assaltam agência bancária e queimam em Santa Catarina]]></title>
+<link>https://visornoticias.com.br/roubo-banco-doutor-pedrinho/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 14:51:23 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318630</guid>
+<description><![CDATA[Uma agência do Sicoob foi alvo de um assalto realizado por criminosos armados, que fugiram após incendiar um carro.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Assalto a cooperativa de crédito mobiliza operação policial em Doutor Pedrinho]]></title>
-    <link>https://jornalrazao.com/seguranca/urgente-assalto-a-banco-em-sc-mobiliza-as-forcas-deseguranca/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 14:12:43 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172901]]></guid>
-    <description><![CDATA[Dois homens armados invadiram uma agência da Cresol em Doutor Pedrinho, renderam funcionários e fugiram com dinheiro, desencadeando uma ampla ação das forças de segurança na região.]]></description>
-    <content:encoded><![CDATA[
-<p>O ataque ocorreu na manhã desta quinta-feira, quando os criminosos acessaram o prédio após quebrar uma janela lateral com uma marreta. No interior da agência, ameaçaram os trabalhadores e recolheram o dinheiro disponível.</p>
-<p>A ação durou poucos minutos, causando pânico entre os presentes. Após o roubo, os suspeitos fugiram em um Volkswagen Golf, que foi abandonado e incendiado em uma estrada da região.</p>
-<p>O incêndio do reforçou a suspeita de que os assaltantes tenham trocado de carro ou contado com apoio externo para continuar a fuga. Cerca de R$ 90 mil teriam sido levados na ação.</p>
-<p>Nenhum ferido foi registrado até o momento. A resposta policial envolveu guarnições da Polícia Militar, Polícia Civil e Batalhão de Operações Policiais Especiais, que montaram barreiras em rodovias e estradas secundárias.</p>
-<p>As buscas continuam em áreas estratégicas para identificar os envolvidos, reconstruir a rota de fuga e efetuar prisões. A investigação está sob responsabilidade da Polícia Civil, com apoio operacional da Polícia Militar.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Engavetamento entre carreta e caminhão deixa vítima grave na BR-101 em Barra Velha]]></title>
+<link>https://jornalrazao.com/seguranca/caos-na-br-101-engavetamento-com-carreta-deixa-vitima-grave-em-barra-velha/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 14:28:03 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172904</guid>
+<description><![CDATA[Um acidente envolvendo uma carreta e um caminhão causou ferimentos graves a uma pessoa na BR-101, em Barra Velha, no Litoral Norte de Santa Catarina.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Carro cai em ribanceira de 15 metros após sair da pista em Blumenau]]></title>
-    <link>https://visornoticias.com.br/carro-despenca-em-ribanceira-de-15-metros/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 13:45:31 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318619]]></guid>
-    <description><![CDATA[despencou em uma ribanceira após o motorista perder o controle na pista em Blumenau.]]></description>
-    <content:encoded><![CDATA[
-<p>Um carro caiu em uma ribanceira de aproximadamente 15 metros após sair da pista em Blumenau.</p>
-<p>O motorista perdeu o controle do durante o incidente.</p>
-<p>Ele foi resgatado com suspeita de fratura.</p>
-<p>As circunstâncias que levaram ao acidente ainda não foram detalhadas.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Conasa anuncia investimento de R$ 43 milhões em saneamento em Itapema para 2025]]></title>
+<link>https://visornoticias.com.br/conasa-investe-r-43-milhoes-em-saneamento/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 14:13:19 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318625</guid>
+<description><![CDATA[A Conasa planeja aplicar R$ 43 milhões em melhorias no sistema de água e esgoto de Itapema no ano de 2025.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Motociclista morre após colisão contra árvore em Chapecó]]></title>
-    <link>https://jornalrazao.com/seguranca/tragedia-na-madrugada-jovem-motociclista-morre-apos-bater-contra-arvore-em-chapeco/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 13:42:10 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172898]]></guid>
-    <description><![CDATA[Um jovem de 28 anos morreu após um acidente de trânsito na madrugada em Chapecó, Oeste de Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu por volta das 2h50 na Avenida Fernando Machado, região central da cidade.</p>
-<p>O motociclista colidiu contra uma árvore e foi encontrado inconsciente pelas equipes de resgate.</p>
-<p>Foi constatado que ele não apresentava sinais vitais e apresentava fratura no rosto e sangramento intenso.</p>
-<p>O atendimento médico foi realizado no local, mas o óbito foi confirmado ainda na via devido à gravidade dos ferimentos.</p>
-<p>O corpo está sendo velado na Capela Funerária Wolff, com sepultamento previsto para a manhã desta sexta-feira no cemitério da Linha Boa Vista.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Assalto a cooperativa de crédito mobiliza operação policial em Doutor Pedrinho]]></title>
+<link>https://jornalrazao.com/seguranca/urgente-assalto-a-banco-em-sc-mobiliza-as-forcas-deseguranca/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 14:12:43 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172901</guid>
+<description><![CDATA[Dois homens armados invadiram uma agência da Cresol em Doutor Pedrinho, renderam funcionários e fugiram com dinheiro, desencadeando uma ampla ação das forças de segurança na região.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Homem é preso em Blumenau após furto em e uso fraudulento de cartão]]></title>
-    <link>https://portalmenina.com.br/ladrao-arromba-carro-em-blumenau-e-acaba-preso-enquanto-fazia-compras-com-o-cartao-da-vitima/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 13:41:41 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130686]]></guid>
-    <description><![CDATA[Um homem foi detido no bairro Salto, em Blumenau, após furtar uma carteira de um carro e realizar compras com os cartões da vítima.]]></description>
-    <content:encoded><![CDATA[
-<p>A Polícia Militar foi acionada para atender uma ocorrência de furto em na Rua Gustavo Salinger.</p>
-<p>O suspeito teria arrombado o automóvel e levado uma carteira com documentos pessoais e cartões de crédito.</p>
-<p>O sistema de segurança bancário identificou o uso dos cartões em estabelecimentos comerciais da região.</p>
-<p>Com base nas informações das transações, a polícia localizou o homem de 41 anos nas proximidades.</p>
-<p>Ele foi abordado e, diante da posse dos itens furtados, recebeu voz de prisão e foi encaminhado à Central de Plantão da Polícia Civil.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Carro cai em ribanceira de 15 metros após sair da pista em Blumenau]]></title>
+<link>https://visornoticias.com.br/carro-despenca-em-ribanceira-de-15-metros/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 13:45:31 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318619</guid>
+<description><![CDATA[despencou em uma ribanceira após o motorista perder o controle na pista em Blumenau.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Desfile de Natal em Itapema terá apresentações do Tropeiros do Litoral neste fim de semana]]></title>
-    <link>https://visornoticias.com.br/tropeiros-do-litoral-movimentam-desfile/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 13:21:13 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318616]]></guid>
-    <description><![CDATA[O Desfile de Natal em Itapema contará com duas apresentações do espetáculo Tropeiros do Litoral, atraindo moradores e turistas.]]></description>
-    <content:encoded><![CDATA[
-<p>O evento natalino será realizado em Itapema durante o fim de semana.</p>
-<p>O espetáculo Tropeiros do Litoral fará duas apresentações no local.</p>
-<p>A iniciativa visa proporcionar entretenimento para a comunidade local e visitantes.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Motociclista morre após colisão contra árvore em Chapecó]]></title>
+<link>https://jornalrazao.com/seguranca/tragedia-na-madrugada-jovem-motociclista-morre-apos-bater-contra-arvore-em-chapeco/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 13:42:10 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172898</guid>
+<description><![CDATA[Um jovem de 28 anos morreu após um acidente de trânsito na madrugada em Chapecó, Oeste de Santa Catarina.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Homem é preso em Blumenau após furto em e uso fraudulento de cartão]]></title>
+<link>https://portalmenina.com.br/ladrao-arromba-carro-em-blumenau-e-acaba-preso-enquanto-fazia-compras-com-o-cartao-da-vitima/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 13:41:41 GMT</pubDate>
+<guid isPermaLink="false">https://portalmenina.com.br/?p=130686</guid>
+<description><![CDATA[Um homem foi detido no bairro Salto, em Blumenau, após furtar uma carteira de um carro e realizar compras com os cartões da vítima.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
