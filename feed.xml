@@ -1,183 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Evo Web News</title>
-  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
-  <link>https://evwbr.github.io/news-sc-1/</link>
-  <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 18 Dec 2025 21:43:47 GMT</lastBuildDate>
-  <language>pt-BR</language>
-  <sy:updatePeriod>hourly</sy:updatePeriod>
-  <sy:updateFrequency>1</sy:updateFrequency>
-  <image>
-    <url>https://evoweb.app.br/favicon-32x32.png</url>
-    <title>Evo Web News</title>
-    <link>https://evwbr.github.io/news-sc-1/</link>
-    <width>32</width>
-    <height>32</height>
-  </image>
-  <item>
-    <title><![CDATA[Padre é indiciado por importunação sexual em Brusque, SC]]></title>
-    <link>https://jornalrazao.com/seguranca/padre-indiciado-importunacao-sexual-video-brusque-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:03:27 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172963]]></guid>
-    <description><![CDATA[Um padre foi indiciado por importunação sexual após investigação da Polícia Civil em Brusque, Santa Catarina, envolvendo um vídeo de câmeras de segurança e o relato de um atendente.]]></description>
-    <content:encoded><![CDATA[
-<p>O indiciamento do padre Vicente de Paula Neto ocorreu após análise de um vídeo de aproximadamente dez minutos gravado em um estabelecimento comercial no bairro Santa Rita, em Brusque. As imagens mostram o religioso circulando pela loja e realizando gestos na região íntima por cima da roupa.</p>
-<p>A investigação considerou o comportamento registrado nas câmeras, o depoimento da vítima e outros elementos documentais como indícios suficientes para o indiciamento por importunação sexual. O padre negou a intenção de cunho sexual, alegando que os movimentos foram causados por coceira ou incômodo dermatológico.</p>
-<p>O denunciante, um jovem de 19 anos que trabalhava como atendente no local,</p>
-<p>Após a saída do religioso, o jovem demorou algumas horas para registrar o boletim de ocorrência.</p>
-<p>O caso foi encaminhado para a Polícia Civil, que concluiu pelo indiciamento do padre. A pena prevista para o crime de importunação sexual pode chegar a cinco anos de prisão.</p>
-<p>O denunciante</p>
-    ]]></content:encoded>
-  </item>
+<title>Evo Web News</title>
+<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/news-sc-1/</link>
+<description>Notícias locais reescritas com IA - Evo Web News</description>
+<lastBuildDate>Thu, 18 Dec 2025 22:25:52 GMT</lastBuildDate>
+<language>pt-BR</language>
 
-  <item>
-    <title><![CDATA[Cantata de Natal será realizada no Bairro da Barra em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/cantata-de-natal-balneario-camboriu-barra/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:03:07 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318772]]></guid>
-    <description><![CDATA[O Bairro da Barra, em Balneário Camboriú, receberá uma Cantata de Natal na Praça do Pescador neste sábado.]]></description>
-    <content:encoded><![CDATA[
-<p>O evento é gratuito e tem como objetivo celebrar o espírito natalino junto à comunidade local.</p>
-<p>A Cantata de Natal contará com apresentações musicais na Praça do Pescador.</p>
-<p>Moradores e visitantes poderão participar das atividades programadas para a ocasião.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[PM PRENDE DUPLA POR ESTELIONATO DO “GOLPE DO BILHETE PREMIADO”]]></title>
+<link>https://horadeportobelo.com.br/2025/12/18/pm-prende-dupla-por-estelionato-do-golpe-do-bilhete-premiado/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Itapema]]></category>
+<category><![CDATA[Policial]]></category>
+<category><![CDATA[Pm]]></category>
+<category><![CDATA[Prende]]></category>
+<category><![CDATA[Dupla]]></category>
+<category><![CDATA[Estelionato]]></category>
+<category><![CDATA[Golpe]]></category>
+<category><![CDATA[Bilhete]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Thu, 18 Dec 2025 22:18:59 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20461</guid>
+<description><![CDATA[Na manhã desta quinta-feira (18), por volta das 11h50, a Polícia Militar de Itapema efetuou a prisão de dois homens, um de 20 anos, natural de Itapema, e outro de 25 anos, natural de Tijucas, envolvidos em um golpe de estelionato conhecido como “bilhete premiado”, além de posse de drogas para uso pessoal. A ação ocorreu na agência de um banco, localizada na Avenida Nereu Ramos, após a PM receber informações sobre um dos suspeitos tentando sacar valores provenientes do golpe.]]></description>
+<content:encoded><![CDATA[<strong>Na manhã desta quinta-feira (18), por volta das 11h50, a Polícia Militar de Itapema efetuou a prisão de dois homens, um de 20 anos, natural de Itapema, e outro de 25 anos, natural de Tijucas, envolvidos em um golpe de estelionato conhecido como “bilhete premiado”, além de posse de drogas para uso pessoal. A ação ocorreu na agência de um banco, localizada na Avenida Nereu Ramos, após a PM receber informações sobre um dos suspeitos tentando sacar valores provenientes do golpe. Os indivíduos foram abordados em um veículo após saírem da agência, onde foram encontrados diversos objetos relacionados ao crime.</strong><br/><br/>Segundo as investigações, os criminosos convenceram uma idosa de 87 anos, residente em Curitiba, a transferir R$ 300.000,00 para a conta de um dos envolvidos, sob a promessa de receber uma quantia milionária em retorno, utilizando a artimanha do bilhete premiado. A gerente da agência relatou que o suspeito já havia tentado movimentar a conta anteriormente, o que levou o banco a bloquear a transação por suspeita de fraude. Diante da recusa ao sacar o valor, o suspeito ofereceu outras contas bancárias para transferência, resultando no acionamento da Polícia Militar. Os dois homens foram detidos e conduzidos à Delegacia de Polícia Civil de Itapema, juntamente com o veículo e os materiais apreendidos.<br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Itapema sediará 4ª Copa de Beach Tênis em janeiro]]></title>
-    <link>https://visornoticias.com.br/itapema-recebe-a-4a-copa-de-beach-tenis-em-janeiro/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:03:05 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318795]]></guid>
-    <description><![CDATA[A 4ª Copa de Beach Tênis será realizada em Itapema entre os dias 2 e 4 de janeiro, reunindo atletas de diversas categorias.]]></description>
-    <content:encoded><![CDATA[
-<p>O evento esportivo acontecerá ao longo de três dias, com competidores de diferentes níveis participando das disputas.</p>
-<p>A competição visa promover o esporte e incentivar a participação de atletas locais e de outras regiões.</p>
-<p>A organização espera atrair público e movimentar a economia local durante o período da realização da copa.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Campanha de Natal do Porto Belo Outlet Premium presenteia clientes com chocotones exclusivos]]></title>
+<link>https://horadeportobelo.com.br/2025/12/18/campanha-de-natal-do-porto-belo-outlet-premium-presenteia-clientes-com-chocotones-exclusivos/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<category><![CDATA[Porto Belo]]></category>
+<category><![CDATA[Destaques]]></category>
+<category><![CDATA[Região]]></category>
+<category><![CDATA[Campanha]]></category>
+<category><![CDATA[Natal]]></category>
+<category><![CDATA[Porto]]></category>
+<category><![CDATA[Belo]]></category>
+<category><![CDATA[Outlet]]></category>
+<category><![CDATA[Premium]]></category>
+<category><![CDATA[Evowebnews]]></category>
+<category><![CDATA[Evowebrádio]]></category>
+<pubDate>Thu, 18 Dec 2025 22:04:18 GMT</pubDate>
+<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20458</guid>
+<description><![CDATA[O Porto Belo Outlet Premium está promovendo uma campanha especial de Natal em 2025, presenteando os clientes com chocotones exclusivos. A ação, que faz parte das comemorações da data festiva, consiste em um compre e ganhe para os consumidores que realizarem compras nas lojas participantes do empreendimento.]]></description>
+<content:encoded><![CDATA[<strong>O Porto Belo Outlet Premium está promovendo uma campanha especial de Natal em 2025, presenteando os clientes com chocotones exclusivos. A ação, que faz parte das comemorações da data festiva, consiste em um compre e ganhe para os consumidores que realizarem compras nas lojas participantes do empreendimento. Para participar, é necessário acumular R$ 800 em compras e apresentar as notas fiscais no Serviço de Atendimento ao Cliente (SAC) do outlet. Cada CPF tem direito a um brinde, que estará disponível até o dia 24 de dezembro ou enquanto durarem os estoques. O chocotone, produzido especialmente para a campanha, possui uma embalagem personalizada com a identidade visual do Porto Belo Outlet Premium.</strong><br/><br/>Segundo a gerente de marketing do outlet, Alini Righi, a iniciativa tem como objetivo reconhecer a fidelidade dos consumidores durante o período de aumento do fluxo de visitantes, tradicionalmente observado no período natalino. O empreendimento, que completa oito anos de atividades em 2025, é reconhecido como referência em compras e destino de lazer no litoral de Santa Catarina. Com marcas nacionais e internacionais dos segmentos de moda, esportes, calçados, casa, acessórios e utilidades, o Porto Belo Outlet Premium oferece uma estrutura de aproximadamente 30 mil metros quadrados, com opções gastronômicas e serviços, atraindo consumidores de diversas regiões do país e consolidando-se como um polo regional de compras e entretenimento.<br/><br/>Como parte da divulgação da campanha de Natal, o outlet está preparando novos materiais visuais, destacando a embalagem personalizada do chocotone, que será utilizada nos canais de comunicação do empreendimento. A ação visa fortalecer o relacionamento com os clientes e proporcionar uma experiência especial durante as festividades de fim de ano. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
+</item>
 
-  <item>
-    <title><![CDATA[Emasa reforça abastecimento de água em Balneário Camboriú para o verão]]></title>
-    <link>https://visornoticias.com.br/abastecimento-agua-balneario-camboriu-verao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:03:03 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318775]]></guid>
-    <description><![CDATA[A Emasa implementou medidas para garantir o abastecimento de água durante a temporada de verão em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>A empresa reforçou as equipes de trabalho para atender à demanda crescente de moradores e turistas na cidade.</p>
-<p>Obras que poderiam comprometer o fornecimento de água foram suspensas temporariamente durante o período.</p>
-<p>O atendimento ao público foi ampliado para facilitar o acesso a serviços relacionados ao abastecimento.</p>
-<p>As ações visam assegurar a continuidade e a qualidade do fornecimento de água ao longo da temporada.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Padre é indiciado por importunação sexual em Brusque, SC]]></title>
+<link>https://jornalrazao.com/seguranca/padre-indiciado-importunacao-sexual-video-brusque-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:03:27 GMT</pubDate>
+<guid isPermaLink="false">https://jornalrazao.com/?p=172963</guid>
+<description><![CDATA[Um padre foi indiciado por importunação sexual após investigação da Polícia Civil em Brusque, Santa Catarina, envolvendo um vídeo de câmeras de segurança e o relato de um atendente.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Balneário Camboriú apresenta relatório sobre cumprimento do Plano de Educação]]></title>
-    <link>https://visornoticias.com.br/plano-de-educacao-balneario-camboriu-2/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:02:55 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318780]]></guid>
-    <description><![CDATA[Relatório final indica que nenhuma das metas do Plano de Educação 2015-2025 foi integralmente alcançada em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>O documento avalia o cumprimento das 20 metas estabelecidas para o decênio 2015-2025 no município.</p>
-<p>Nenhuma das metas previstas no plano foi totalmente cumprida até o momento.</p>
-<p>O relatório será utilizado como base para a elaboração do novo Plano de Educação para o período 2026-2036.</p>
-<p>A análise busca orientar as ações futuras para aprimorar a educação no município.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Cantata de Natal será realizada no Bairro da Barra em Balneário Camboriú]]></title>
+<link>https://visornoticias.com.br/cantata-de-natal-balneario-camboriu-barra/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:03:07 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318772</guid>
+<description><![CDATA[O Bairro da Barra, em Balneário Camboriú, receberá uma Cantata de Natal na Praça do Pescador neste sábado.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Procon investiga variação de preços da ceia de Natal em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/pesquisa-precos-ceia-natal-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:02:49 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318779]]></guid>
-    <description><![CDATA[O Procon realizou um levantamento sobre os preços dos itens da ceia de Natal em supermercados de Balneário Camboriú, identificando grande variação nos valores praticados.]]></description>
-    <content:encoded><![CDATA[
-<p>O estudo</p>
-<p>Diante dessa variação, o órgão recomenda que os consumidores realizem pesquisa de preços antes de efetuar suas compras.</p>
-<p>A iniciativa visa garantir maior transparência e auxiliar na escolha dos melhores preços durante o período festivo.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Itapema sediará 4ª Copa de Beach Tênis em janeiro]]></title>
+<link>https://visornoticias.com.br/itapema-recebe-a-4a-copa-de-beach-tenis-em-janeiro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:03:05 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318795</guid>
+<description><![CDATA[A 4ª Copa de Beach Tênis será realizada em Itapema entre os dias 2 e 4 de janeiro, reunindo atletas de diversas categorias.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Balneário Camboriú recebe selo estadual de inovação]]></title>
-    <link>https://visornoticias.com.br/balneario-camboriu-inovacao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:02:42 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318786]]></guid>
-    <description><![CDATA[Balneário Camboriú foi reconhecida com o Selo Município Inovador Catarinense, destacando avanços na área de inovação.]]></description>
-    <content:encoded><![CDATA[
-<p>O selo estadual de inovação foi entregue a Balneário Camboriú em cerimônia oficial.</p>
-<p>O reconhecimento destaca iniciativas e projetos que promovem o desenvolvimento tecnológico e a inovação no município.</p>
-<p>A premiação reforça o compromisso da cidade com a modernização e a melhoria dos serviços públicos.</p>
-<p>O diretor Murilo Sodré representou Balneário Camboriú durante a entrega do selo.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Emasa reforça abastecimento de água em Balneário Camboriú para o verão]]></title>
+<link>https://visornoticias.com.br/abastecimento-agua-balneario-camboriu-verao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:03:03 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318775</guid>
+<description><![CDATA[A Emasa implementou medidas para garantir o abastecimento de água durante a temporada de verão em Balneário Camboriú.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Santa Catarina implementa novo modelo para emergências com produtos perigosos]]></title>
-    <link>https://visornoticias.com.br/produtos-perigosos-santa-catarina-novo-modelo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 21:02:12 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=318804]]></guid>
-    <description><![CDATA[Santa Catarina desenvolveu um novo modelo de resposta para emergências envolvendo produtos perigosos, visando aprimorar a gestão e a segurança nessas situações.]]></description>
-    <content:encoded><![CDATA[
-<p>O modelo foi acelerado após um acidente grave no Morro dos Cavalos, que causou bloqueio na rodovia por várias horas.</p>
-<p>A iniciativa busca organizar e padronizar as ações de resposta em casos de acidentes com materiais perigosos no estado.</p>
-<p>O novo protocolo pretende minimizar riscos e agilizar o atendimento em emergências desse tipo.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Balneário Camboriú apresenta relatório sobre cumprimento do Plano de Educação]]></title>
+<link>https://visornoticias.com.br/plano-de-educacao-balneario-camboriu-2/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:02:55 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318780</guid>
+<description><![CDATA[Relatório final indica que nenhuma das metas do Plano de Educação 2015-2025 foi integralmente alcançada em Balneário Camboriú.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Duas mulheres ficam feridas após briga em boate de Timbó]]></title>
-    <link>https://jornalrazao.com/seguranca/cliente-afunda-cranio-gerente-boate-marteladas-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 18:35:52 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172938]]></guid>
-    <description><![CDATA[Uma briga entre clientes em uma boate de Timbó resultou em duas mulheres feridas, uma delas em estado grave.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu em um estabelecimento localizado no Vale do Itajaí, envolvendo clientes do local.</p>
-<p>A gerente do estacionamento foi agredida com golpes de martelo na cabeça, sofrendo traumatismo craniano grave.</p>
-<p>Ela foi socorrida e encaminhada ao hospital para atendimento médico especializado.</p>
-<p>Outra funcionária da boate também ficou ferida, apresentando lesões leves e recebendo atendimento médico.</p>
-<p>O autor das agressões foi identificado, mas não há confirmação sobre sua prisão até o momento.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Procon investiga variação de preços da ceia de Natal em Balneário Camboriú]]></title>
+<link>https://visornoticias.com.br/pesquisa-precos-ceia-natal-balneario-camboriu/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:02:49 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318779</guid>
+<description><![CDATA[O Procon realizou um levantamento sobre os preços dos itens da ceia de Natal em supermercados de Balneário Camboriú, identificando grande variação nos valores praticados.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
 
-  <item>
-    <title><![CDATA[Bebedouros inteligentes são instalados em áreas de lazer de Blumenau]]></title>
-    <link>https://portalmenina.com.br/entenda-o-funcionamento-dos-bebedouros-inteligentes-instalados-em-areas-de-lazer-de-blumenau/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 18 Dec 2025 18:26:44 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130780]]></guid>
-    <description><![CDATA[Bebedouros públicos inteligentes começaram a ser instalados em Blumenau para ampliar o acesso à água potável em locais de lazer e prática esportiva.]]></description>
-    <content:encoded><![CDATA[
-<p>Os equipamentos oferecem água gelada, possuem espaço para hidratação de animais e contam com sistema de telemetria para monitoramento remoto e manutenção.</p>
-<p>Quatro bebedouros já estão em operação em diferentes bairros da cidade, incluindo Vila Nova, Ponta Aguda, Velha e Progresso.</p>
-<p>O projeto prevê a instalação de 25 unidades, com as demais sendo implantadas em 2026 em praças, terminais de ônibus, pontos turísticos e áreas próximas a espaços de lazer e esporte.</p>
-<p>A previsão é que todos os equipamentos estejam em funcionamento até o fim de fevereiro do próximo ano.</p>
-<p>O investimento total é de R$ 441,7 mil, com recursos do Fundo Municipal de Saneamento Básico, formado por valores arrecadados com multas aplicadas pela autarquia.</p>
-    ]]></content:encoded>
-  </item>
+<item>
+<title><![CDATA[Balneário Camboriú recebe selo estadual de inovação]]></title>
+<link>https://visornoticias.com.br/balneario-camboriu-inovacao/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:02:42 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318786</guid>
+<description><![CDATA[Balneário Camboriú foi reconhecida com o Selo Município Inovador Catarinense, destacando avanços na área de inovação.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
+<item>
+<title><![CDATA[Santa Catarina implementa novo modelo para emergências com produtos perigosos]]></title>
+<link>https://visornoticias.com.br/produtos-perigosos-santa-catarina-novo-modelo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 18 Dec 2025 21:02:12 GMT</pubDate>
+<guid isPermaLink="false">https://visornoticias.com.br/?p=318804</guid>
+<description><![CDATA[Santa Catarina desenvolveu um novo modelo de resposta para emergências envolvendo produtos perigosos, visando aprimorar a gestão e a segurança nessas situações.]]></description>
+<content:encoded><![CDATA[]]></content:encoded>
+</item>
+
 </channel>
 </rss>
