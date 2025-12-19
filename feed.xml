@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 19 Dec 2025 17:38:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 18:38:32 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,97 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Polícia Civil investiga golpe do falso consórcio contemplado na Grande Florianópolis]]></title>
-    <link>https://visornoticias.com.br/policia-civil-investiga-golpe-do-falso-consorcio-contemplado-na-grande-florianopolis/</link>
+    <title><![CDATA[Reforma e ampliação da UPA das Nações em Balneário Camboriú atingem 75% de conclusão]]></title>
+    <link>https://visornoticias.com.br/reforma-upa-das-nacoes-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 19 Dec 2025 17:04:42 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319216]]></guid>
-    <description><![CDATA[Um casal é investigado por suspeita de aplicar um golpe envolvendo um falso consórcio contemplado na região da Grande Florianópolis.]]></description>
+    <pubDate>Fri, 19 Dec 2025 18:27:17 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319198]]></guid>
+    <description><![CDATA[As obras de reforma e ampliação da Unidade de Pronto Atendimento (UPA) das Nações em Balneário Camboriú avançam e estão 75% concluídas.]]></description>
     <content:encoded><![CDATA[
-<p>O golpe teria atingido pelo menos oito vítimas em um curto período de tempo.</p>
-<p>As investigações estão em andamento para apurar os detalhes e identificar os envolvidos.</p>
-<p>As autoridades alertam para a necessidade de cautela ao participar de consórcios e transações financeiras.</p>
-<p>A Polícia Civil reforça o combate a fraudes e golpes na região.</p>
+<p>A intervenção na UPA das Nações visa melhorar a infraestrutura e ampliar a capacidade de atendimento da unidade.</p>
+<p>Os trabalhos incluem reformas estruturais e a expansão de espaços para acomodar mais pacientes.</p>
+<p>A conclusão das obras deve contribuir para a melhoria dos serviços de saúde oferecidos à população local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura amplia efetivo para reforço no trânsito em Balneário Camboriú durante o verão]]></title>
+    <link>https://visornoticias.com.br/transito-balneario-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 18:27:09 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319197]]></guid>
+    <description><![CDATA[O município de Balneário Camboriú aumentou o número de agentes de trânsito para melhorar a organização viária durante a temporada de verão.]]></description>
+    <content:encoded><![CDATA[
+<p>Com o início do verão, a prefeitura intensificou as ações de controle e fiscalização no trânsito da cidade.</p>
+<p>O aumento do efetivo visa garantir maior fluidez e segurança nas vias, especialmente em áreas com maior fluxo de veículos e pedestres.</p>
+<p>A medida busca atender à demanda crescente de turistas e moradores durante o período de alta temporada.</p>
+<p>Agentes adicionais foram distribuídos em pontos estratégicos para otimizar o gerenciamento do tráfego.</p>
+<p>A iniciativa faz parte do planejamento municipal para minimizar congestionamentos e melhorar a mobilidade urbana.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura conclui revitalização de parquinho infantil em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/parquinho-infantil-revitalizado-balneario-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 18:27:00 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319193]]></guid>
+    <description><![CDATA[A revitalização do parquinho infantil no Bairro dos Estados, em Balneário Camboriú, foi concluída recentemente.]]></description>
+    <content:encoded><![CDATA[
+<p>O parquinho infantil localizado no Bairro dos Estados passou por obras de revitalização.</p>
+<p>As intervenções incluíram melhorias na estrutura e na segurança do espaço.</p>
+<p>O local está disponível para uso da comunidade após a conclusão dos trabalhos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Presidente da Câmara adia urgência em debate sobre aumento do IPTU em São José]]></title>
+    <link>https://visornoticias.com.br/presidente-da-camara-evita-aumento-iptu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 18:20:52 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319254]]></guid>
+    <description><![CDATA[O presidente da Câmara de São José optou por não conceder urgência ao debate que poderia levar ao aumento do IPTU no município.]]></description>
+    <content:encoded><![CDATA[
+<p>A decisão ocorreu após solicitações de vereadores e lideranças da sociedade local.</p>
+<p>O adiamento visa proporcionar mais tempo para análise e discussão do tema entre os parlamentares.</p>
+<p>O tema do IPTU tem gerado atenção devido ao impacto potencial nas finanças dos contribuintes.</p>
+<p>Ainda não há previsão para a retomada do debate sobre o reajuste do imposto.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é preso em Florianópolis suspeito de estupro e roubo]]></title>
+    <link>https://visornoticias.com.br/homem-suspeito-de-estupro-e-roubo-e-preso-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 18:14:05 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319249]]></guid>
+    <description><![CDATA[Um homem foi preso em Florianópolis suspeito de envolvimento em crimes de estupro e roubo ocorridos no dia 9 de dezembro.]]></description>
+    <content:encoded><![CDATA[
+<p>A prisão foi realizada após investigação conduzida pela Delegacia de Proteção à Criança, Adolescente, Mulher e Idoso (DPCAMI) da Capital.</p>
+<p>Os crimes investigados ocorreram no início do mês de dezembro.</p>
+<p>A medida judicial foi cumprida em cumprimento a um mandado de prisão preventiva.</p>
+<p>As autoridades continuam com as diligências relacionadas ao caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem grávida morre após passar mal e família questiona atendimento do SAMU em São José]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-19-anos-morre-sao-jose-demora-samu-gravidez/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 17:58:20 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173031]]></guid>
+    <description><![CDATA[Uma jovem de 19 anos morreu após passar mal no trabalho em São José. Familiares relatam demora no atendimento de emergência e apontam falhas no socorro.]]></description>
+    <content:encoded><![CDATA[
+<p>A jovem passou mal no local de trabalho e, A família relata que a ambulância só foi enviada após a condição dela se agravar.</p>
+<p>Diante da demora, familiares decidiram levá-la de carro para atendimento. Após o deslocamento, a jovem foi encaminhada para uma Unidade de Pronto Atendimento (UPA), onde realizou exames e entrou em parada cardíaca.</p>
+<p>Ela foi transferida para um hospital, onde recebeu atendimento médico, mas não resistiu. A família</p>
+<p>O episódio gerou comoção entre amigos e parentes e levantou questionamentos sobre o tempo de resposta do serviço de emergência. Não há informações sobre investigações oficiais relacionadas ao caso.</p>
     ]]></content:encoded>
   </item>
 </channel>
