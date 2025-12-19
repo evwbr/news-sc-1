@@ -1,148 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<title>Evo Web News</title>
-<atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://evwbr.github.io/news-sc-1/</link>
-<description>Notícias locais reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 18 Dec 2025 23:26:08 GMT</lastBuildDate>
-<language>pt-BR</language>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Fri, 19 Dec 2025 10:53:22 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Acidente na BR-470 deixa três mortos em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/acidente-na-br-470-mata-tres-pessoas-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 10:31:31 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319056]]></guid>
+    <description><![CDATA[Três pessoas morreram em um acidente envolvendo um caminhão e dois carros na BR-470, em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu no km 94 da rodovia, na região do posto fiscal.</p>
+<p>O choque entre os veículos causou lentidão no trânsito do Vale do Itajaí.</p>
+<p>Equipes de emergência foram acionadas para atender a ocorrência.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[OPERAÇÃO ESTAÇÃO VERÃO 2026 COMEÇA COM REFORÇO PARA ITAPEMA]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/operacao-estacao-verao-2026-comeca-com-reforco-para-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Porto Belo]]></category>
-<category><![CDATA[Destaques]]></category>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Policial]]></category>
-<category><![CDATA[Operação]]></category>
-<category><![CDATA[Estação]]></category>
-<category><![CDATA[Verão]]></category>
-<category><![CDATA[Começa]]></category>
-<category><![CDATA[Reforço]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 22:51:38 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20465</guid>
-<description><![CDATA[A Operação Estação Verão 2026 teve início nesta quinta-feira (18) e representa o reforço das ações de segurança pública em todo o litoral catarinense. O município de Itapema foi o ponto de partida, recebendo o apoio de oito policiais civis que passarão a atuar na cidade durante a alta temporada.]]></description>
-<content:encoded><![CDATA[<strong>A Operação Estação Verão 2026 teve início nesta quinta-feira (18) e representa o reforço das ações de segurança pública em todo o litoral catarinense. O município de Itapema foi o ponto de partida, recebendo o apoio de oito policiais civis que passarão a atuar na cidade durante a alta temporada. O objetivo é fortalecer o trabalho da Polícia Civil em Itapema, considerando o aumento da população nesse período, com foco na prevenção de crimes, intensificação das investigações, atendimento à população e resposta rápida às ocorrências. A abertura oficial da operação ocorreu em Itajaí, durante cerimônia que contou com a presença do governador Jorginho Mello e autoridades estaduais, marcando um dos maiores planejamentos integrados de segurança pública em Santa Catarina.</strong><br/><br/>Durante a primeira etapa da Operação Estação Verão 2026, que se estende até 12 de janeiro, o reforço de policiais civis permanecerá em Itapema. Para o restante da temporada de verão, está prevista a manutenção do mesmo efetivo no município. Ao todo, aproximadamente 1.580 policiais das forças de segurança atuarão de forma integrada em todo o estado, garantindo reforço contínuo e maior segurança para moradores e turistas até 20 de fevereiro. A Polícia Civil de Itapema reafirma seu compromisso com a segurança pública e a tranquilidade da população. <br/><br/>Fonte: Hora de Porto Belo]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fhoradeportobelo.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2FLogo-Site-300dpis-2.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Acidente na BR-470 em Apiúna resulta em três mortes]]></title>
+    <link>https://jornalrazao.com/seguranca/grave-acidente-br-470-apiuna-tres-mortos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 10:25:41 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172986]]></guid>
+    <description><![CDATA[Um acidente envolvendo três veículos de passeio e um caminhão causou a morte de três pessoas na BR-470, em Apiúna, no Vale do Itajaí.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na manhã de sexta-feira e envolveu três carros de passeio e um caminhão.</p>
+<p>Duas vítimas fatais estavam em uma Chevrolet Montana e morreram no local antes da chegada do socorro.</p>
+<p>A terceira morte foi registrada em um Ford Ka, também envolvido na colisão.</p>
+<p>O condutor do caminhão e o caroneiro tiveram ferimentos leves, assim como a condutora do terceiro , que recebeu atendimento no local.</p>
+<p>Equipes de resgate foram acionadas por volta das 5h30 e constataram os óbitos, realizando o resgate, a sinalização da via e o apoio às autoridades.</p>
+<p>A Polícia Rodoviária Federal esteve presente para os procedimentos legais, enquanto as causas do acidente seguem sob investigação.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Golpe de R$ 300 mil: jovens de Tijucas e Itapema são presos após enganarem idosa]]></title>
-<link>https://jornalrazao.com/seguranca/prisao-golpe-bilhete-premiado-itapema/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Itapema]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[estelionato]]></category>
-<category><![CDATA[golpe do bilhete premiado]]></category>
-<category><![CDATA[Golpe]]></category>
-<category><![CDATA[R]]></category>
-<category><![CDATA[Mil]]></category>
-<category><![CDATA[Jovens]]></category>
-<category><![CDATA[Tijucas]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 22:42:07 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172976</guid>
-<description><![CDATA[Dois homens foram presos na manhã desta quinta-feira (18) em Itapema, suspeitos de aplicar o golpe do bilhete premiado. A ação ocorreu por volta das 11h50, na Avenida Nereu Ramos, bairro Meia Praia, após monitoramento e troca de informações entre o setor de inteligência e uma agência bancária.]]></description>
-<content:encoded><![CDATA[<strong>Dois homens foram presos na manhã desta quinta-feira (18) em Itapema, suspeitos de aplicar o golpe do bilhete premiado. A ação ocorreu por volta das 11h50, na Avenida Nereu Ramos, bairro Meia Praia, após monitoramento e troca de informações entre o setor de inteligência e uma agência bancária. Os suspeitos foram identificados como Pablo Gilmar Batista e Cauan Amaral Laurindo, detidos no local.</strong><br/><br/>Segundo informações apuradas, a polícia recebeu alerta de que um dos suspeitos estaria dentro de uma agência do banco Itaú tentando movimentar valores elevados, possivelmente oriundos de um golpe. As investigações apontam que no dia anterior uma idosa teria sido vítima do golpe do bilhete premiado, transferindo R$ 300 mil para uma conta vinculada a Pablo Gilmar Batista. Durante a abordagem, os policiais encontraram comprovantes bancários, cartões de crédito e débito, celulares, dinheiro e uma pequena quantidade de substância semelhante à maconha, que Cauan Amaral Laurindo afirmou ser de sua posse. Os suspeitos e o material apreendido foram encaminhados à Delegacia da Polícia Civil de Itapema, onde o caso segue sob investigação.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Fenômeno natural de mar azul neon é registrado em Florianópolis]]></title>
+    <link>https://visornoticias.com.br/mar-azul-neon-chama-atencao-e-revela-fenomeno-raro-em-florianopolis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 10:11:47 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319052]]></guid>
+    <description><![CDATA[Durante a madrugada, um fenômeno natural com o mar apresentando coloração azul neon foi observado em Florianópolis.]]></description>
+    <content:encoded><![CDATA[
+<p>O fenômeno chamou a atenção de moradores e visitantes devido à intensidade da cor azul nas águas do mar.</p>
+<p>Imagens do evento foram compartilhadas amplamente nas redes sociais, destacando a raridade do fenômeno.</p>
+<p>Especialistas indicam que esse tipo de coloração pode estar relacionada à bioluminescência causada por organismos marinhos.</p>
+<p>O fenômeno ocorreu em condições específicas que permitiram a visualização do mar com a tonalidade incomum.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Caminhoneiro de Tijucas se tranca para escapar de ataque após acidente em SC: “ele ia invadir!”]]></title>
-<link>https://jornalrazao.com/seguranca/caminhoneiro-de-tijucas-de-tranca-para-escapar/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<category><![CDATA[Tijucas]]></category>
-<category><![CDATA[Segurança]]></category>
-<category><![CDATA[agressão no trânsito]]></category>
-<category><![CDATA[Araquari]]></category>
-<category><![CDATA[Caminhoneiro]]></category>
-<category><![CDATA[Se]]></category>
-<category><![CDATA[Tranca]]></category>
-<category><![CDATA[Escapar]]></category>
-<category><![CDATA[Ataque]]></category>
-<category><![CDATA[Evowebnews]]></category>
-<category><![CDATA[Evowebrádio]]></category>
-<pubDate>Thu, 18 Dec 2025 22:27:13 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172970</guid>
-<description><![CDATA[Um caminhoneiro da transportadora MSul, de Tijucas, viveu momentos de terror após um acidente de trânsito na BR 280, em Araquari, no Norte de Santa Catarina, na sexta-feira, 12 de dezembro. O motorista, identificado como Edilso Ferreira Braga, se viu trancado dentro da cabine de seu caminhão após um automóvel tentar acessar a rodovia de forma repentina, resultando em uma colisão e posterior agressão violenta por parte do condutor do carro.]]></description>
-<content:encoded><![CDATA[<strong>Um caminhoneiro da transportadora MSul, de Tijucas, viveu momentos de terror após um acidente de trânsito na BR 280, em Araquari, no Norte de Santa Catarina, na sexta-feira, 12 de dezembro. O motorista, identificado como Edilso Ferreira Braga, se viu trancado dentro da cabine de seu caminhão após um automóvel tentar acessar a rodovia de forma repentina, resultando em uma colisão e posterior agressão violenta por parte do condutor do carro. O episódio ocorreu em uma área conhecida como ponto cego, com o agressor danificando o caminhão com um macaco automotivo e ameaçando fisicamente o caminhoneiro.</strong><br/><br/>Edilso relatou que, mesmo tentando dialogar e explicar a situação ao agressor, este se mostrou agressivo desde os primeiros instantes, proferindo xingamentos, ameaças e causando danos severos ao veículo. Mesmo trancado dentro da cabine, o caminhoneiro foi alvo das investidas do agressor, que só cessaram após alguns minutos, quando o suspeito deixou o local. O prejuízo causado à transportadora ultrapassa R$ 40 mil, comprometendo itens essenciais do caminhão e exigindo reparos imediatos para que o veículo volte a operar. O caso foi registrado pelas autoridades e deve ser investigado com base no boletim de ocorrência e nas informações fornecidas pelo motorista, destacando a preocupação com episódios de fúria no trânsito e o risco enfrentado por profissionais que atuam nas rodovias catarinenses.<br/><br/>Fonte: Jornal Razão]]></content:encoded>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/c_fill,w_1200,h_628,q_auto:best,e_sharpen:40,r_10,f_jpg/https%3A%2F%2Fjornalrazao.com%2Fwp-content%2Fuploads%2F2024%2F12%2FJR-LOGOTIPO-Branco-2-e1733171017846-720x142.png" type="image/jpeg"/>
-</item>
+  <item>
+    <title><![CDATA[Incêndio destrói galpão em área rural de Santa Catarina durante a madrugada]]></title>
+    <link>https://visornoticias.com.br/incendio-atinge-galpao-em-area-rural-de-santa-catarina-durante-a-madrugada/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 09:42:02 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319037]]></guid>
+    <description><![CDATA[Um incêndio atingiu um galpão localizado às margens da SC-416 durante a madrugada, consumindo a estrutura.]]></description>
+    <content:encoded><![CDATA[
+<p>O Corpo de Bombeiros atuou no combate às chamas, utilizando cerca de 5 mil litros de água.</p>
+<p>O fogo consumiu completamente o galpão, localizado em uma área rural do estado.</p>
+<p>As causas do incêndio ainda não foram esclarecidas.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[PM PRENDE DUPLA POR ESTELIONATO DO “GOLPE DO BILHETE PREMIADO”]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/pm-prende-dupla-por-estelionato-do-golpe-do-bilhete-premiado/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 22:18:59 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20461</guid>
-<description><![CDATA[Na manhã desta quinta-feira (18), por volta das 11h50, a Polícia Militar de Itapema efetuou a prisão de dois homens, um de 20 anos, natural de Itapema, e outro de 25 anos, natural de Tijucas, envolvidos em um golpe de estelionato conhecido como “bilhete premiado”, além de posse de drogas para uso pessoal. A ação ocorreu na agência de um banco, localizada na Avenida Nereu Ramos, após a PM receber informações sobre um dos suspeitos tentando sacar valores provenientes do golpe.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Orientações para organizar a ceia de Natal de forma prática e sustentável]]></title>
+    <link>https://visornoticias.com.br/5-passos-simples-para-organizar-a-ceia-de-natal/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 09:20:44 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/5-passos-simples-para-organizar-a-ceia-de-natal/]]></guid>
+    <description><![CDATA[Dicas para planejar uma celebração natalina organizada, agradável e com redução do desperdício de alimentos.]]></description>
+    <content:encoded><![CDATA[
+<p>Organizar a ceia de Natal requer planejamento para garantir que a celebração seja eficiente e prazerosa para todos os participantes.</p>
+<p>É importante definir o cardápio com antecedência, considerando a quantidade de convidados para evitar excessos e desperdícios.</p>
+<p>A escolha dos ingredientes deve priorizar produtos frescos e de qualidade, contribuindo para a saúde e o sabor das refeições.</p>
+<p>A preparação dos alimentos pode ser distribuída entre os participantes, facilitando a organização e promovendo a colaboração.</p>
+<p>Por fim, o armazenamento adequado dos alimentos que sobrarem ajuda a evitar o desperdício e permite o aproveitamento em outras refeições.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Campanha de Natal do Porto Belo Outlet Premium presenteia clientes com chocotones exclusivos]]></title>
-<link>https://horadeportobelo.com.br/2025/12/18/campanha-de-natal-do-porto-belo-outlet-premium-presenteia-clientes-com-chocotones-exclusivos/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 22:04:18 GMT</pubDate>
-<guid isPermaLink="false">https://horadeportobelo.com.br/?p=20458</guid>
-<description><![CDATA[O Porto Belo Outlet Premium está promovendo uma campanha especial de Natal em 2025, presenteando os clientes com chocotones exclusivos. A ação, que faz parte das comemorações da data festiva, consiste em um compre e ganhe para os consumidores que realizarem compras nas lojas participantes do empreendimento.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Receitas de doces veganos tradicionais para o Natal]]></title>
+    <link>https://visornoticias.com.br/5-doces-veganos-tradicionais-para-o-natal/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 09:20:38 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/5-doces-veganos-tradicionais-para-o-natal/]]></guid>
+    <description><![CDATA[Sugestões de sobremesas veganas para complementar a ceia natalina.]]></description>
+    <content:encoded><![CDATA[
+<p>As opções de doces veganos têm ganhado espaço nas celebrações de Natal.</p>
+<p>Receitas tradicionais podem ser adaptadas para versões sem ingredientes de origem animal.</p>
+<p>Essas sobremesas oferecem alternativas para quem segue dietas veganas ou busca variar o cardápio.</p>
+<p>Preparar doces veganos pode tornar a ceia mais inclusiva e diversificada.</p>
+<p>A escolha de ingredientes naturais contribui para sabores diferenciados nas receitas.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Padre é indiciado por importunação sexual em Brusque, SC]]></title>
-<link>https://jornalrazao.com/seguranca/padre-indiciado-importunacao-sexual-video-brusque-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 21:03:27 GMT</pubDate>
-<guid isPermaLink="false">https://jornalrazao.com/?p=172963</guid>
-<description><![CDATA[Um padre foi indiciado por importunação sexual após investigação da Polícia Civil em Brusque, Santa Catarina, envolvendo um vídeo de câmeras de segurança e o relato de um atendente.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Calor aumenta em Santa Catarina com temperaturas podendo atingir 36°C na semana de Natal]]></title>
+    <link>https://visornoticias.com.br/calor-se-intensifica-em-santa-catarina-e-pode-chegar-a-36c-na-semana-de-natal/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 09:15:47 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319015]]></guid>
+    <description><![CDATA[Santa Catarina deve registrar aumento nas temperaturas durante a semana de Natal, com máximas próximas a 36°C.]]></description>
+    <content:encoded><![CDATA[
+<p>A alta pressão atmosférica que atuava sobre a região está se afastando, o que contribui para a mudança nas condições do tempo.</p>
+<p>A circulação marítima tem provocado chuvas isoladas em algumas áreas do estado.</p>
+<p>Uma frente fria deve chegar no início da próxima semana, aumentando a instabilidade climática em Santa Catarina.</p>
+<p>As temperaturas elevadas devem persistir até a chegada dessa frente fria, mantendo o calor intenso na região.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Cantata de Natal será realizada no Bairro da Barra em Balneário Camboriú]]></title>
-<link>https://visornoticias.com.br/cantata-de-natal-balneario-camboriu-barra/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 21:03:07 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318772</guid>
-<description><![CDATA[O Bairro da Barra, em Balneário Camboriú, receberá uma Cantata de Natal na Praça do Pescador neste sábado.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Lince: características e comportamentos do felino]]></title>
+    <link>https://visornoticias.com.br/lince-conheca-esse-felino-com-comportamentos-surpreendentes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 09:10:27 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/lince-conheca-esse-felino-com-comportamentos-surpreendentes/]]></guid>
+    <description><![CDATA[O lince é um felino conhecido por suas características físicas marcantes e habilidades específicas.]]></description>
+    <content:encoded><![CDATA[
+<p>O animal apresenta tufos de pelos nas orelhas e patas largas, que contribuem para sua adaptação ao ambiente.</p>
+<p>Essas características físicas auxiliam o lince em suas atividades de caça e locomoção.</p>
+<p>O comportamento do felino inclui estratégias de caça que demonstram sua habilidade e agilidade.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Itapema sediará 4ª Copa de Beach Tênis em janeiro]]></title>
-<link>https://visornoticias.com.br/itapema-recebe-a-4a-copa-de-beach-tenis-em-janeiro/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 21:03:05 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318795</guid>
-<description><![CDATA[A 4ª Copa de Beach Tênis será realizada em Itapema entre os dias 2 e 4 de janeiro, reunindo atletas de diversas categorias.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
+  <item>
+    <title><![CDATA[Corpo de Bombeiros de Santa Catarina abre 630 vagas em processo seletivo temporário]]></title>
+    <link>https://jornalrazao.com/geral/bombeiros-sc-abrem-630-vagas-servico-militar-temporario/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 02:05:59 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172984]]></guid>
+    <description><![CDATA[O Corpo de Bombeiros Militar de Santa Catarina lançou processo seletivo para contratação temporária de 630 profissionais com ensino superior completo.]]></description>
+    <content:encoded><![CDATA[
+<p>O processo seletivo simplificado do Serviço Militar Estadual Temporário (SEMET) visa preencher 630 vagas distribuídas em diversas regiões do estado.</p>
+<p>Os candidatos selecionados atuarão em funções operacionais e administrativas, permitindo que bombeiros de carreira se concentrem no atendimento direto à população.</p>
+<p>A seleção inclui oito etapas, entre elas prova objetiva, avaliação de títulos, teste de aptidão física, exames médicos e investigação social.</p>
+<p>A prova objetiva está marcada para o dia 1º de março, com vagas disponíveis em batalhões localizados em cidades como Blumenau, Chapecó, Itajaí e Jaraguá do Sul.</p>
+<p>O edital completo com regras e cronograma está disponível nos canais oficiais do Corpo de Bombeiros Militar de Santa Catarina.</p>
+    ]]></content:encoded>
+  </item>
 
-<item>
-<title><![CDATA[Emasa reforça abastecimento de água em Balneário Camboriú para o verão]]></title>
-<link>https://visornoticias.com.br/abastecimento-agua-balneario-camboriu-verao/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 21:03:03 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318775</guid>
-<description><![CDATA[A Emasa implementou medidas para garantir o abastecimento de água durante a temporada de verão em Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-<title><![CDATA[Balneário Camboriú apresenta relatório sobre cumprimento do Plano de Educação]]></title>
-<link>https://visornoticias.com.br/plano-de-educacao-balneario-camboriu-2/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 18 Dec 2025 21:02:55 GMT</pubDate>
-<guid isPermaLink="false">https://visornoticias.com.br/?p=318780</guid>
-<description><![CDATA[Relatório final indica que nenhuma das metas do Plano de Educação 2015-2025 foi integralmente alcançada em Balneário Camboriú.]]></description>
-<content:encoded><![CDATA[]]></content:encoded>
-</item>
-
+  <item>
+    <title><![CDATA[Pai de adolescente desaparecida em SC é preso no Mato Grosso do Sul]]></title>
+    <link>https://jornalrazao.com/seguranca/desaparecimento-isabela-miranda-borck-pai-preso-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 19 Dec 2025 00:03:39 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=172980]]></guid>
+    <description><![CDATA[O pai de uma adolescente desaparecida em Santa Catarina foi preso no Mato Grosso do Sul,]]></description>
+    <content:encoded><![CDATA[
+<p>Isabela Miranda Borck, de 17 anos, está desaparecida desde a madrugada do dia 29 de novembro, em Itajaí, no Litoral Norte de Santa Catarina.</p>
+<p>O pai da jovem foi detido no município de Maracaju, no interior do Mato Grosso do Sul, e deve ser transferido para Santa Catarina para prosseguir com os procedimentos legais.</p>
+<p>A investigação passou a considerar um cenário mais grave do que o desaparecimento voluntário, com indícios de que Isabela pode ter sido vítima de abusos sexuais.</p>
+<p>A adolescente, estudante do terceiro ano do ensino médio, foi vista pela última vez no bairro Fazenda, após sair de casa sem celular ou documentos.</p>
+<p>No momento do desaparecimento, ela vestia calça xadrez e camiseta, e estava sob os cuidados do irmão mais velho, que não percebeu sua saída.</p>
+<p>As forças de segurança continuam realizando buscas e diligências para localizar Isabela e esclarecer os fatos, com o inquérito ainda em andamento.</p>
+    ]]></content:encoded>
+  </item>
 </channel>
 </rss>
