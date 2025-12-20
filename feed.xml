@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 20 Dec 2025 18:38:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 19:38:14 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,68 +21,34 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Verão em Santa Catarina deve registrar calor acima da média e temporais]]></title>
-    <link>https://jornalrazao.com/meioambiente/verao-santa-catarina-previsao-calor-temporais/</link>
+    <title><![CDATA[Capotamento na BR-470 deixa duas pessoas feridas em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/capotamento-na-br-470-deixa-duas-pessoas-feridas-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 18:19:26 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173134]]></guid>
-    <description><![CDATA[Modelos meteorológicos indicam que o verão em Santa Catarina terá períodos de calor intenso intercalados com temporais, especialmente no Oeste do estado.]]></description>
+    <pubDate>Sat, 20 Dec 2025 19:11:53 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319770]]></guid>
+    <description><![CDATA[Um saiu da pista no km 18 da BR-470, resultando em ferimentos para duas pessoas.]]></description>
     <content:encoded><![CDATA[
-<p>O verão começa oficialmente neste domingo, com projeções apontando para temperaturas acima da média em diversas regiões de Santa Catarina.</p>
-<p>O mês de dezembro deve apresentar influência de frentes frias, com alternância entre sol, aumento de nuvens e episódios de chuva volumosa, além de risco de temporais em determinados períodos.</p>
-<p>Janeiro deve manter o padrão tradicionalmente chuvoso, com volumes acima da média no litoral norte e Grande Florianópolis, e menores no Oeste e interior do estado, acompanhados de temporais intensos.</p>
-<p>Para fevereiro e março, a previsão indica chuvas dentro da normalidade ou ligeiramente abaixo da média, com temperaturas próximas do esperado para o verão, mas com possibilidade de calor acima do comum no Oeste.</p>
-<p>O fenômeno La Niña, caracterizado pelo resfriamento das águas do Pacífico, ainda não está oficialmente configurado, mas pode influenciar o clima com intensidade fraca e curta duração até fevereiro de 2026.</p>
+<p>O acidente ocorreu no km 18 da rodovia BR-470, em Santa Catarina.</p>
+<p>Duas pessoas ficaram feridas após o capotar.</p>
+<p>As vítimas recusaram encaminhamento ao hospital após o atendimento no local.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Acusado de dupla tentativa de feminicídio é encontrado morto em presídio em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/acusado-de-dupla-tentativa-de-feminicidio-e-encontrado-morto-em-presidio-em-santa-catarina/</link>
+    <title><![CDATA[Dupla é condenada por desvio de merenda escolar em creches públicas]]></title>
+    <link>https://visornoticias.com.br/dupla-e-condenada-por-desvio-de-merenda-escolar-com-prejuizo-de-r-145-mil/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 18:11:58 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 18:33:48 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319764]]></guid>
-    <description><![CDATA[Um homem acusado de tentativa de feminicídio contra duas mulheres foi encontrado morto em um presídio de Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319767]]></guid>
+    <description><![CDATA[Duas pessoas foram condenadas por envolvimento em esquema de desvio de alimentos destinados a creches públicas, resultando em prejuízo de R$ 145 mil.]]></description>
     <content:encoded><![CDATA[
-<p>O homem havia sido preso após um ataque com martelo contra duas mulheres em uma boate.</p>
-<p>Ele estava detido no presídio quando foi encontrado morto.</p>
-<p>As circunstâncias da morte ainda não foram divulgadas pelas autoridades.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Atleta morre após infarto não diagnosticado devido a falhas na avaliação clínica]]></title>
-    <link>https://visornoticias.com.br/atleta-morre-de-infarto-apos-dor-no-peito-ser-confundida-com-indigestao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 17:46:24 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319761]]></guid>
-    <description><![CDATA[Inquérito aponta que erros na avaliação impediram o diagnóstico correto de doença cardíaca em atleta que apresentou dor no peito.]]></description>
-    <content:encoded><![CDATA[
-<p>Um atleta faleceu em decorrência de um infarto após sintomas iniciais serem interpretados como indigestão.</p>
-<p>O inquérito realizado identificou falhas na avaliação clínica que impediram o diagnóstico adequado da doença cardíaca.</p>
-<p>A investigação</p>
-<p>O caso evidencia a importância de uma avaliação médica detalhada diante de sintomas que podem indicar condições graves.</p>
-<p>Medidas para aprimorar os protocolos de atendimento clínico foram sugeridas para evitar ocorrências semelhantes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem acusado de tentativa de feminicídio em boate de SC é encontrado morto em presídio]]></title>
-    <link>https://jornalrazao.com/seguranca/acusado-de-ataque-em-boate-de-sc-acaba-de-ser-encontrado-morto/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 17:36:51 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173129]]></guid>
-    <description><![CDATA[Um homem apontado como autor de uma dupla tentativa de feminicídio em uma boate de Timbó foi encontrado morto em uma cela do Presídio Regional de Blumenau.]]></description>
-    <content:encoded><![CDATA[
-<p>O homem foi preso após um ataque ocorrido na madrugada em uma boate localizada na rua Edmundo Bell, onde duas mulheres foram agredidas com golpes de martelo, principalmente na região do rosto e da cabeça.</p>
-<p>As vítimas receberam atendimento imediato e foram encaminhadas ao hospital. Uma delas precisou ser transferida para Blumenau e passou por cirurgia, enquanto a outra permanece internada em Unidade de Terapia Intensiva em Timbó.</p>
-<p>O ataque teve início após uma discussão envolvendo uma cobrança de R$ 100, valor que chegou a ser pago durante a confusão inicial. O agressor retornou ao local armado com um martelo e atacou a dona da boate e uma funcionária.</p>
-<p>Após o ataque, o suspeito fugiu em um Chevrolet Onix. A Polícia Militar localizou o carro na BR 470, em Ascurra, e apreendeu dois martelos com vestígios de sangue. O homem foi conduzido à delegacia e encaminhado ao sistema prisional.</p>
-<p>Na manhã do sábado, o detento foi encontrado morto na cela do presídio. As circunstâncias da morte ainda são objeto de investigação pelas autoridades competentes.</p>
+<p>O esquema envolveu o desvio de merenda escolar destinada a creches públicas, comprometendo a alimentação das crianças atendidas.</p>
+<p>A investigação identificou que os alimentos foram desviados durante o processo de distribuição, causando prejuízo financeiro significativo.</p>
+<p>A condenação da dupla foi resultado da apuração dos fatos relacionados ao desvio dos recursos públicos destinados à merenda escolar.</p>
+<p>O valor total do prejuízo causado pelo esquema foi estimado em R$ 145 mil.</p>
+<p>As medidas judiciais aplicadas visam responsabilizar os envolvidos e prevenir novos casos de desvio de recursos públicos.</p>
     ]]></content:encoded>
   </item>
 </channel>
