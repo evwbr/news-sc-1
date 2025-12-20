@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 20 Dec 2025 10:38:11 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 11:38:16 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Seleção de livros para empreendedores em 2026]]></title>
-    <link>https://visornoticias.com.br/11-livros-para-inspirar-empreendedores-em-2026/</link>
+    <title><![CDATA[Circulação marítima provoca nuvens e chuva fraca no litoral de Santa Catarina neste sábado]]></title>
+    <link>https://visornoticias.com.br/circulacao-maritima-provoca-nuvens-e-chuva-fraca-no-litoral-de-sc-neste-sabado/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 09:40:15 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/11-livros-para-inspirar-empreendedores-em-2026/]]></guid>
-    <description><![CDATA[Uma lista de obras foi elaborada para apoiar empreendedores que buscam crescimento consistente.]]></description>
+    <pubDate>Sat, 20 Dec 2025 11:21:17 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319546]]></guid>
+    <description><![CDATA[Instabilidades atingem a Grande Florianópolis, Vale do Itajaí e Litoral Norte, enquanto o Oeste registra temperaturas elevadas.]]></description>
     <content:encoded><![CDATA[
-<p>A seleção reúne títulos voltados para o desenvolvimento de habilidades e estratégias no empreendedorismo.</p>
-<p>Os livros abordam temas como gestão, inovação e liderança, essenciais para o sucesso empresarial.</p>
-<p>A iniciativa visa oferecer recursos para quem deseja aprimorar seus conhecimentos e expandir seus negócios.</p>
-<p>As obras contemplam diferentes aspectos do empreendedorismo, desde o planejamento até a execução de projetos.</p>
-<p>A leitura desses livros pode contribuir para a formação de uma base sólida para o crescimento sustentável das empresas.</p>
+<p>A circulação marítima influencia o clima no litoral de Santa Catarina neste sábado, resultando em nuvens e chuva fraca em algumas regiões.</p>
+<p>As áreas da Grande Florianópolis, Vale do Itajaí e Litoral Norte apresentam instabilidades atmosféricas ao longo do dia.</p>
+<p>No Oeste do estado, as temperaturas alcançam até 35°C, indicando um clima mais quente em comparação com o litoral.</p>
+<p>As condições meteorológicas refletem a interação entre o ar marítimo e as massas de ar quente que atuam sobre o estado.</p>
+<p>A presença de nuvens e chuvas isoladas no litoral não impede a manutenção do calor em outras regiões catarinenses.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Câmara de Joinville devolve mais de R$ 30 milhões à Prefeitura em 2025]]></title>
+    <link>https://jornalrazao.com/politica/camara-de-joinville-devolve-mais-de-r-30-milhoes-a-prefeitura-em-2025/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 11:05:30 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173091]]></guid>
+    <description><![CDATA[A Câmara de Vereadores de Joinville devolveu mais de R$ 30 milhões à Prefeitura neste ano, valor recorde em relação aos anos anteriores.]]></description>
+    <content:encoded><![CDATA[
+<p>A devolução dos recursos reflete a economia obtida pela Câmara durante a execução orçamentária de 2025.</p>
+<p>O montante devolvido representa a diferença entre o orçamento previsto e os gastos efetivamente realizados pelo Legislativo.</p>
+<p>A decisão sobre a aplicação dos valores devolvidos cabe à Prefeitura de Joinville.</p>
+<p>A Câmara</p>
     ]]></content:encoded>
   </item>
 </channel>
