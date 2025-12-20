@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 20 Dec 2025 19:38:14 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 20:38:19 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,34 +21,53 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Capotamento na BR-470 deixa duas pessoas feridas em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/capotamento-na-br-470-deixa-duas-pessoas-feridas-em-santa-catarina/</link>
+    <title><![CDATA[Escuna naufraga na costa de Laguna e cinco pessoas são resgatadas]]></title>
+    <link>https://jornalrazao.com/seguranca/embarcacao-sofre-avaria-na-proa-naufraga-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 19:11:53 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319770]]></guid>
-    <description><![CDATA[Um saiu da pista no km 18 da BR-470, resultando em ferimentos para duas pessoas.]]></description>
+    <pubDate>Sat, 20 Dec 2025 20:24:34 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173142]]></guid>
+    <description><![CDATA[Uma escuna com cinco ocupantes naufragou na costa de Laguna após apresentar uma avaria na proa, resultando no resgate dos passageiros com vida.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu no km 18 da rodovia BR-470, em Santa Catarina.</p>
-<p>Duas pessoas ficaram feridas após o capotar.</p>
-<p>As vítimas recusaram encaminhamento ao hospital após o atendimento no local.</p>
+<p>A embarcação apresentou uma falha estrutural na região da proa enquanto navegava pela área do Ypõa, o que causou a entrada de água e o início do processo de afundamento.</p>
+<p>O Corpo de Bombeiros Militar foi acionado e conseguiu estabilizar temporariamente a situação com o uso de uma motobomba para esgotar a água da escuna.</p>
+<p>Durante o deslocamento para uma área considerada mais segura, a avaria na proa se agravou, aumentando a entrada de água e levando ao naufrágio da embarcação.</p>
+<p>As cinco pessoas a bordo abandonaram a escuna e foram resgatadas pelas equipes de socorro, apresentando sinais de hipotermia e náuseas devido à exposição à água.</p>
+<p>Após o resgate, o grupo recebeu atendimento inicial no Iate Clube de Laguna, e duas vítimas foram encaminhadas ao hospital para avaliação médica. Não há registro de ferimentos graves.</p>
+<p>A Capitania dos Portos acompanhou a ocorrência e registrou oficialmente o naufrágio. As causas da avaria na embarcação ainda estão sendo investigadas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Dupla é condenada por desvio de merenda escolar em creches públicas]]></title>
-    <link>https://visornoticias.com.br/dupla-e-condenada-por-desvio-de-merenda-escolar-com-prejuizo-de-r-145-mil/</link>
+    <title><![CDATA[Incêndio atinge Centro de Idosos e Secretaria de Cultura em Otacílio Costa]]></title>
+    <link>https://jornalrazao.com/seguranca/incendio-centro-idosos-secretaria-cultura-otacilio-costa/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 18:33:48 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319767]]></guid>
-    <description><![CDATA[Duas pessoas foram condenadas por envolvimento em esquema de desvio de alimentos destinados a creches públicas, resultando em prejuízo de R$ 145 mil.]]></description>
+    <pubDate>Sat, 20 Dec 2025 20:23:20 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173136]]></guid>
+    <description><![CDATA[Um incêndio atingiu o Centro de Idosos e a Secretaria de Cultura em Otacílio Costa, causando danos materiais, sem feridos.]]></description>
     <content:encoded><![CDATA[
-<p>O esquema envolveu o desvio de merenda escolar destinada a creches públicas, comprometendo a alimentação das crianças atendidas.</p>
-<p>A investigação identificou que os alimentos foram desviados durante o processo de distribuição, causando prejuízo financeiro significativo.</p>
-<p>A condenação da dupla foi resultado da apuração dos fatos relacionados ao desvio dos recursos públicos destinados à merenda escolar.</p>
-<p>O valor total do prejuízo causado pelo esquema foi estimado em R$ 145 mil.</p>
-<p>As medidas judiciais aplicadas visam responsabilizar os envolvidos e prevenir novos casos de desvio de recursos públicos.</p>
+<p>O incêndio ocorreu na tarde de sábado, afetando duas importantes unidades do município.</p>
+<p>O Corpo de Bombeiros atuou rapidamente para controlar as chamas e evitar maiores danos.</p>
+<p>Não houve registro de feridos durante o incidente.</p>
+<p>As causas do incêndio e a extensão dos prejuízos ainda estão sendo investigadas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Escuna naufraga próximo à Praia da Tereza em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/escuna-naufraga-em-santa-catarina-e-cinco-pessoas-sao-resgatadas-pelo-corpo-de-bombeiros/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 19:41:24 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319778]]></guid>
+    <description><![CDATA[Cinco pessoas foram resgatadas após naufrágio de escuna nas proximidades da Praia da Tereza.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma escuna naufragou nas proximidades da Praia da Tereza, em Santa Catarina.</p>
+<p>Cinco pessoas que estavam a bordo foram resgatadas pelo Corpo de Bombeiros.</p>
+<p>As vítimas apresentaram sinais de hipotermia após o incidente.</p>
+<p>O resgate foi realizado com rapidez para garantir a segurança dos ocupantes.</p>
+<p>As circunstâncias que levaram ao naufrágio ainda não foram detalhadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
