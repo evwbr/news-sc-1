@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 20 Dec 2025 14:38:25 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 16:38:32 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,84 +21,99 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Alerta de ventos intensos é emitido para o litoral de Santa Catarina e Rio Grande do Sul]]></title>
-    <link>https://visornoticias.com.br/inmet-emite-alerta-para-ventos-intensos-no-litoral-de-sc-e-rs/</link>
+    <title><![CDATA[Barreira de fiscalização é montada na Marginal Oeste em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/acao-integrada-monta-barreira-de-fiscalizacao-na-marginal-oeste-em-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 14:32:59 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 16:23:43 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319741]]></guid>
+    <description><![CDATA[Uma operação integrada realizada na Marginal Oeste em Balneário Camboriú resultou em diversas infrações e remoções de veículos.]]></description>
+    <content:encoded><![CDATA[
+<p>A ação contou com a participação da Guarda Municipal, BC Trânsito e Polícia Rodoviária Federal.</p>
+<p>Durante a fiscalização, foram registradas 19 infrações de trânsito.</p>
+<p>Cinco veículos foram removidos durante a operação na Marginal Oeste.</p>
+<p>A iniciativa visa aumentar a segurança e o cumprimento das normas de trânsito na região.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motociclista de 23 anos morre em acidente de trânsito em Itajaí]]></title>
+    <link>https://visornoticias.com.br/acidente-de-transito-mata-motociclista-de-23-anos-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 16:22:17 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319736]]></guid>
+    <description><![CDATA[Um motociclista de 23 anos morreu em um acidente ocorrido em um trecho de grande fluxo em Itajaí.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente envolveu uma motocicleta e ocorreu em uma área com intenso tráfego de veículos.</p>
+<p>A vítima não resistiu aos ferimentos e faleceu no local do acidente.</p>
+<p>Equipes de emergência foram acionadas para atender a ocorrência.</p>
+<p>O trânsito no local foi afetado devido ao acidente.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Suspeito de estupros contra adolescentes é preso em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/policia-civil-prende-suspeito-de-estupros-contra-adolescentes-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 16:17:54 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319737]]></guid>
+    <description><![CDATA[Um homem com prisão preventiva decretada foi detido no Litoral Sul do estado após ação conjunta das forças de segurança.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Civil realizou a prisão de um suspeito investigado por estupros contra adolescentes em Santa Catarina.</p>
+<p>A detenção ocorreu no Litoral Sul, em uma operação integrada entre a Polícia Civil e a Polícia Militar.</p>
+<p>O suspeito estava com prisão preventiva decretada e foi localizado durante a ação das autoridades.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é ferido por flechada durante conflito no Centro de Florianópolis]]></title>
+    <link>https://jornalrazao.com/seguranca/indigena-da-flechada-na-cabeca-de-homem-em-florianopolis-quase-arrancou-orelha/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 16:10:36 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319733]]></guid>
-    <description><![CDATA[Aviso de perigo indica rajadas de vento de até 50 km/h em ao menos 74 municípios do litoral dos dois estados, válido até domingo.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173122]]></guid>
+    <description><![CDATA[Um homem foi atingido por uma flecha durante uma confusão envolvendo um grupo indígena e um artesão na região da Alfândega, em Florianópolis.]]></description>
     <content:encoded><![CDATA[
-<p>O Instituto Nacional de Meteorologia emitiu um alerta para ventos intensos no litoral de Santa Catarina e Rio Grande do Sul.</p>
-<p>O aviso classificado como de perigo abrange ao menos 74 municípios nas regiões costeiras dos dois estados.</p>
-<p>As rajadas de vento podem atingir velocidades de até 50 km/h durante o período de vigência do alerta.</p>
-<p>O alerta tem validade até o domingo, indicando a necessidade de atenção para possíveis impactos causados pelos ventos.</p>
-<p>As condições meteorológicas podem afetar atividades ao ar livre e a navegação na região litorânea.</p>
+<p>O incidente ocorreu na manhã de sábado em uma área turística de grande circulação no Centro da cidade.</p>
+<p>O conflito teve início quando um indígena solicitou a retirada de uma barraca montada por um artesão, alegando que o espaço seria de uso exclusivo do grupo indígena.</p>
+<p>Após a recusa do artesão, o indígena retornou acompanhado de cerca de 15 pessoas, o que resultou em uma discussão mais acirrada.</p>
+<p>Durante o confronto, o filho do artesão foi atingido na cabeça por uma flecha, sofrendo um ferimento próximo à orelha.</p>
+<p>O Serviço de Atendimento Móvel de Urgência prestou os primeiros socorros no local e encaminhou a vítima ao hospital, onde permanece internada para avaliação.</p>
+<p>A Guarda Municipal foi acionada para controlar a situação, enquanto o agressor e o artesão foram levados à delegacia para registro da ocorrência e procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Santa Catarina proíbe importação de tilápia do Vietnã para proteger produção local]]></title>
-    <link>https://visornoticias.com.br/sc-proibe-entrada-de-tilapia-do-vietna-para-proteger-producao-estadual/</link>
+    <title><![CDATA[Recém-nascido de 18 dias é salvo após engasgamento em Capivari de Baixo]]></title>
+    <link>https://jornalrazao.com/seguranca/bebe-de-apenas-18-dias-e-salvo-apos-se-engasgar-com-leite-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 14:19:44 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319728]]></guid>
-    <description><![CDATA[Estado de Santa Catarina publicou portaria que impede a entrada de tilápia importada do Vietnã devido a riscos sanitários.]]></description>
-    <content:encoded><![CDATA[
-<p>A medida visa prevenir a introdução do vírus TiLV, que pode afetar a produção de tilápia na região.</p>
-<p>A portaria tem como objetivo proteger a aquicultura catarinense tanto do ponto de vista sanitário quanto econômico.</p>
-<p>Santa Catarina é um dos principais produtores de tilápia no país, e a ação busca garantir a segurança do setor.</p>
-<p>A restrição à importação da tilápia do Vietnã foi estabelecida para evitar possíveis impactos negativos na cadeia produtiva local.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[capota e cai em rio após acidente na SC-110 em Petrolândia]]></title>
-    <link>https://jornalrazao.com/seguranca/veiculo-capota-e-despenca-em-rio-apos-acidente-na-sc-110/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 14:16:43 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173110]]></guid>
-    <description><![CDATA[Um homem de 32 anos ficou ferido após capotamento de na rodovia SC-110, em Petrolândia, no Alto Vale do Itajaí.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu na noite de sexta-feira, envolvendo uma Mitsubishi Pajero prata, que capotou e caiu em um rio às margens da rodovia.</p>
-<p>O motorista, único ocupante do , estava fora do automóvel quando as equipes de resgate chegaram, consciente e orientado.</p>
-<p>Ele apresentava ferimento corto-contuso na mão direita, escoriação no rosto e queixava-se de dor no ombro esquerdo, sem outras lesões aparentes.</p>
-<p>Após atendimento pré-hospitalar, o homem foi encaminhado ao Hospital Bom Jesus, em Petrolândia.</p>
-<p>As circunstâncias que causaram o capotamento não foram divulgadas, e o local do acidente ficou sob responsabilidade de um familiar do condutor.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Carro capota e cai em rio na SC-110, motorista fica ferido]]></title>
-    <link>https://visornoticias.com.br/carro-capota-cai-em-rio-e-motorista-fica-ferido-na-sc-110/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 13:46:49 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319721]]></guid>
-    <description><![CDATA[Um acidente envolvendo um carro que capotou e caiu em um rio deixou o motorista ferido na SC-110.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu na noite de sexta-feira, quando o perdeu o controle e caiu em um rio às margens da rodovia SC-110.</p>
-<p>O motorista sofreu ferimentos e foi atendido no local.</p>
-<p>As circunstâncias que levaram ao capotamento ainda não foram detalhadas.</p>
-<p>Equipes de emergência estiveram no local para prestar socorro e controlar a situação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Cinco pessoas são denunciadas por tortura e cárcere privado em clínica terapêutica no Norte de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/grupo-e-denunciado-por-tortura-e-carcere-privado-em-clinica-terapeutica-de-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 13:38:38 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 16:04:21 GMT</pubDate>
   <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319717]]></guid>
-    <description><![CDATA[Denúncia aponta que pelo menos 30 pacientes foram mantidos contra a vontade em unidade terapêutica na região Norte do estado.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173118]]></guid>
+    <description><![CDATA[Um bebê de 18 dias foi atendido em situação de emergência após engasgar com leite materno em Capivari de Baixo, Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>Cinco pessoas foram denunciadas por práticas de tortura e cárcere privado em uma clínica terapêutica localizada no Norte de Santa Catarina.</p>
-<p>A denúncia envolve a manutenção de pelo menos 30 pacientes contra a vontade dentro da unidade.</p>
-<p>As investigações apontam irregularidades no tratamento e na internação dos pacientes na clínica.</p>
-<p>As autoridades responsáveis pelo caso seguem com as medidas legais cabíveis para apurar os fatos.</p>
+<p>A criança foi levada ao quartel do Corpo de Bombeiros por familiares em particular devido à obstrução das vias aéreas causada pelo engasgamento.</p>
+<p>A equipe de plantão realizou manobra de desobstrução pediátrica imediatamente após a chegada da família, restabelecendo a respiração do recém-nascido.</p>
+<p>No momento do atendimento, a ambulância estava ocupada em outra ocorrência, e os bombeiros permaneceram no local prestando suporte até a chegada do Serviço de Atendimento Móvel de Urgência.</p>
+<p>Após a estabilização, o bebê foi encaminhado ao hospital para avaliação médica, sem registro de óbito relacionado ao caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é detido por tráfico de drogas em Porto Belo]]></title>
+    <link>https://horadeportobelo.com.br/2025/12/20/guarda-municipal-prende-homem-por-trafico-de-drogas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 20 Dec 2025 15:47:05 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20470]]></guid>
+    <description><![CDATA[Durante patrulhamento no bairro Vila Nova, a Guarda Municipal prendeu um homem por tráfico de drogas após uma fuga e abordagem no Centro.]]></description>
+    <content:encoded><![CDATA[
+<p>A Guarda Municipal identificou uma motocicleta com suspeita de envolvimento em tráfico de entorpecentes durante patrulhamento no bairro Vila Nova.</p>
+<p>Ao receber ordem de parada, o condutor desobedeceu e fugiu, iniciando um acompanhamento com apoio de outra guarnição.</p>
+<p>A abordagem foi realizada com sucesso no bairro Centro, onde foi encontrada uma mochila descartada contendo porções de substância semelhante à maconha.</p>
+<p>O homem foi detido e encaminhado à Delegacia de Polícia para os procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 </channel>
