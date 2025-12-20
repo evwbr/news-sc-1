@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 20 Dec 2025 09:38:16 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 10:38:11 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,35 +21,19 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Diferenças entre Spitz Alemão e Volpino Italiano]]></title>
-    <link>https://visornoticias.com.br/spitz-alemao-e-volpino-italiano-7-diferencas-entre-as-racas/</link>
+    <title><![CDATA[Seleção de livros para empreendedores em 2026]]></title>
+    <link>https://visornoticias.com.br/11-livros-para-inspirar-empreendedores-em-2026/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 09:10:14 GMT</pubDate>
+    <pubDate>Sat, 20 Dec 2025 09:40:15 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/spitz-alemao-e-volpino-italiano-7-diferencas-entre-as-racas/]]></guid>
-    <description><![CDATA[O Spitz Alemão e o Volpino Italiano são cães pequenos e peludos, mas apresentam características distintas entre si.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/11-livros-para-inspirar-empreendedores-em-2026/]]></guid>
+    <description><![CDATA[Uma lista de obras foi elaborada para apoiar empreendedores que buscam crescimento consistente.]]></description>
     <content:encoded><![CDATA[
-<p>O Spitz Alemão é conhecido por sua pelagem densa e aparência robusta, enquanto o Volpino Italiano possui um porte mais delicado e pelagem fina.</p>
-<p>Ambas as raças são consideradas cães de companhia, mas apresentam diferenças no temperamento e nos níveis de atividade.</p>
-<p>O Spitz Alemão tende a ser mais ativo e alerta, enquanto o Volpino Italiano é geralmente mais reservado e tranquilo.</p>
-<p>As características físicas, como o formato das orelhas e a cauda, também diferenciam as duas raças.</p>
-<p>Essas distinções influenciam os cuidados necessários e o ambiente ideal para cada raça.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Estratégias para evitar a ressaca nas celebrações de fim de ano]]></title>
-    <link>https://visornoticias.com.br/ressaca-no-fim-do-ano-4-passos-simples-para-evita-la/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 20 Dec 2025 09:01:11 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/ressaca-no-fim-do-ano-4-passos-simples-para-evita-la/]]></guid>
-    <description><![CDATA[Medidas simples relacionadas à alimentação e hidratação podem contribuir para reduzir os efeitos da ressaca durante as festividades de fim de ano.]]></description>
-    <content:encoded><![CDATA[
-<p>A combinação adequada de nutrição e hidratação é fundamental para minimizar os sintomas da ressaca.</p>
-<p>Consumir alimentos nutritivos antes e durante o consumo de bebidas alcoólicas ajuda a proteger o organismo.</p>
-<p>Manter-se hidratado ao longo das celebrações contribui para o equilíbrio do corpo e a prevenção de desconfortos.</p>
-<p>Adotar essas práticas permite aproveitar os eventos sem comprometer o bem-estar no dia seguinte.</p>
+<p>A seleção reúne títulos voltados para o desenvolvimento de habilidades e estratégias no empreendedorismo.</p>
+<p>Os livros abordam temas como gestão, inovação e liderança, essenciais para o sucesso empresarial.</p>
+<p>A iniciativa visa oferecer recursos para quem deseja aprimorar seus conhecimentos e expandir seus negócios.</p>
+<p>As obras contemplam diferentes aspectos do empreendedorismo, desde o planejamento até a execução de projetos.</p>
+<p>A leitura desses livros pode contribuir para a formação de uma base sólida para o crescimento sustentável das empresas.</p>
     ]]></content:encoded>
   </item>
 </channel>
