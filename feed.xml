@@ -1,86 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-  <title>Evo Web News ? Hard News</title>
-  <link>https://github.com</link>
-  <description>Not?cias atualizadas</description>
-    <item>
-      <title>Motorista Foge Ap?S Acidente Envolvendo Crian?A E Beb? Em Sc</title>
-      <link>https://visornoticias.com.br/motorista-foge-apos-acidente-com-bebe/</link>
-      <guid isPermaLink="false">https://visornoticias.com.br/?p=319864_1766318243000</guid>
-      <pubDate>Sun, 21 Dec 2025 11:57:23 GMT</pubDate>
-      <description><![CDATA[Quatro pessoas sa?ram ilesas de um acidente envolvendo dois ve?culos, ocorrido em Santa Catarina. O motorista de um dos carros, um Fiat Strada, deixou o local logo ap?s a colis?o.]]></description>
-      <content:encoded><p>O acidente chamou aten??o por envolver crian?as, incluindo um beb?, que estavam nos ve?culos no momento da colis?o. Apesar do susto, ningu?m ficou ferido.</p><p>As autoridades foram acionadas para registrar a ocorr?ncia e investigar as circunst?ncias da fuga do condutor do Fiat Strada. O caso est? sob an?lise para apurar poss?veis responsabilidades.</p></content:encoded>
-    </item>
-    <item>
-      <title>Previs?O Do Tempo Em Santa Catarina Alerta Para Calor De At? 38?C E Temporais No Natal</title>
-      <link>https://visornoticias.com.br/previsao-do-tempo-alerta-para-calor-de-ate-38/</link>
-      <guid isPermaLink="false">https://visornoticias.com.br/?p=319856_1766315974000</guid>
-      <pubDate>Sun, 21 Dec 2025 11:19:34 GMT</pubDate>
-      <description><![CDATA[O estado de Santa Catarina deve registrar um aumento nas instabilidades meteorol?gicas a partir da tarde desta sexta-feira, influenciando as condi??es do Natal. As temperaturas podem alcan?ar at? 38?C durante o dia, seguidas de tempestades isoladas no per?odo vespertino e noturno.]]></description>
-      <content:encoded><p>Especialistas indicam que o clima quente e a umidade elevada favorecem o desenvolvimento de temporais localizados, com possibilidade de raios, rajadas de vento e pancadas de chuva de intensidade moderada a forte. A popula??o ? orientada a se manter atenta ?s mudan?as repentinas nas condi??es do tempo.</p><p>As instabilidades devem permanecer ao longo do final de semana, especialmente no litoral e regi?o oeste, impactando as celebra??es natalinas em algumas ?reas do estado. Autoridades recomendam precau??o nas atividades ao ar livre e aten??o ?s orienta??es dos ?rg?os de defesa civil.</p></content:encoded>
-    </item>
-    <item>
-      <title>Bombeiro Volunt?Rio Morre Em Grave Acidente De Moto Na Sc-135</title>
-      <link>https://jornalrazao.com/seguranca/bombeiro-voluntario-morre-acidente-moto-sc-135-pinheiro-preto/</link>
-      <guid isPermaLink="false">https://jornalrazao.com/?p=173175_1766315502000</guid>
-      <pubDate>Sun, 21 Dec 2025 11:11:42 GMT</pubDate>
-      <description><![CDATA[Um bombeiro volunt?rio morreu em um grave acidente de moto na SC-135. Ele havia iniciado neste ano o curso de Medicina, mostrando o compromisso com a miss?o de ajudar o pr?ximo e fazer a diferen?a na vida das pessoas.]]></description>
-      <content:encoded><p>A corpora??o destacou que esse era um prop?sito que sempre guiou a trajet?ria do jovem, que conciliava o trabalho volunt?rio com os estudos. O acidente que levou ? sua morte aconteceu durante um deslocamento pela rodovia, cujas circunst?ncias ainda est?o sendo investigadas.</p><p>O falecimento causou como??o entre colegas e familiares, que lembram o bombeiro pela dedica??o ao servi?o comunit?rio e pelo empenho em ampliar seus conhecimentos para contribuir ainda mais com a sociedade.</p></content:encoded>
-    </item>
-    <item>
-      <title>Ver?O Come?A Com Calor?O E Temperaturas Perto Dos 35?C Em Santa Catarina</title>
-      <link>https://jornalrazao.com/meioambiente/verao-comeca-com-calorao-e-temperaturas-perto-dos-35c-em-santa-catarina/</link>
-      <guid isPermaLink="false">https://jornalrazao.com/?p=173166_1766310500000</guid>
-      <pubDate>Sun, 21 Dec 2025 09:48:20 GMT</pubDate>
-      <description><![CDATA[O ver?o em Santa Catarina come?a com temperaturas elevadas, podendo alcan?ar os 35?C em algumas regi?es do estado. Al?m do calor intenso, h? previs?o de temporais isolados que podem ocorrer em determinados locais.]]></description>
-      <content:encoded><p>O aumento das temperaturas acompanha a chegada da esta??o, trazendo dias mais quentes e um clima prop?cio para atividades ao ar livre. Entretanto, a possibilidade de pancadas de chuva em pontos espec?ficos alerta para cuidados redobrados para evitar transtornos.</p><p>As condi??es clim?ticas variam de regi?o para regi?o, o que exige aten??o da popula??o e dos ?rg?os respons?veis pela meteorologia e seguran?a p?blica. Recomenda-se acompanhamento constante das atualiza??es sobre o tempo para se preparar adequadamente diante das mudan?as previstas.</p></content:encoded>
-    </item>
-    <item>
-      <title>Servidor P?Blico ? Investigado Por Desviar Mais De R$ 1 Milh?O Em Prefeitura De Sc</title>
-      <link>https://jornalrazao.com/seguranca/servidor-investigado-desvio-dinheiro-prefeitura-joacaba/</link>
-      <guid isPermaLink="false">https://jornalrazao.com/?p=173160_1766309517000</guid>
-      <pubDate>Sun, 21 Dec 2025 09:31:57 GMT</pubDate>
-      <description><![CDATA[Um servidor p?blico est? sendo investigado por suspeita de desvio de mais de R$ 1 milh?o em uma prefeitura de Santa Catarina. A investiga??o ? conduzida pela Pol?cia Civil, que aponta um preju?zo estimado superior a R$ 1 milh?o no per?odo entre 2024 e 2025.]]></description>
-      <content:encoded><p>A prefeitura afetada ainda n?o divulgou oficialmente detalhes sobre o caso ou medidas adotadas para conter as irregularidades. As investiga??es dever?o definir responsabilidades e poss?veis desdobramentos judiciais nos pr?ximos meses.</p></content:encoded>
-    </item>
-    <item>
-      <title>Acidente Na Sc-159 Mata Jovem De 29 Anos No Oeste De Santa Catarina</title>
-      <link>https://visornoticias.com.br/acidente-na-sc-159-mata-jovem-de-29-anos-no-oeste-de-santa-catarina/</link>
-      <guid isPermaLink="false">https://visornoticias.com.br/?p=319809_1766269995000</guid>
-      <pubDate>Sat, 20 Dec 2025 22:33:15 GMT</pubDate>
-      <description><![CDATA[Um acidente envolvendo um carro e um caminh?o resultou na morte de um jovem de 29 anos na SC-159, no Oeste de Santa Catarina. Equipes de resgate, incluindo bombeiros, Samu e servi?o aerom?dico, foram acionadas para atender a ocorr?ncia.]]></description>
-      <content:encoded><p>O impacto entre os ve?culos foi registrado em um trecho da rodovia estadual, mobilizando rapidamente as equipes de emerg?ncia. Apesar do r?pido atendimento, o jovem n?o resistiu aos ferimentos e morreu no local do acidente.</p><p>As causas da colis?o ainda est?o sendo apuradas pelas autoridades respons?veis. A ocorr?ncia gerou aten??o e deixou o tr?nsito parcialmente interrompido enquanto os procedimentos de socorro e remo??o dos ve?culos eram realizados.</p></content:encoded>
-    </item>
-    <item>
-      <title>Grave Acidente Entre Carreta E Ve?Culos Mata Duas Pessoas Na Br-282</title>
-      <link>https://jornalrazao.com/seguranca/colisao-carreta-tres-veiculos-duas-mortes-br-282-xaxim/</link>
-      <guid isPermaLink="false">https://jornalrazao.com/?p=173149_1766269360000</guid>
-      <pubDate>Sat, 20 Dec 2025 22:22:40 GMT</pubDate>
-      <description><![CDATA[Uma colis?o envolvendo uma carreta e tr?s ve?culos aconteceu por volta das 18h na BR-282, resultando em duas pessoas fatais.]]></description>
-      <content:encoded><p>O acidente ocorreu em um trecho da rodovia movimentada, e equipes de emerg?ncia foram acionadas para atender ?s v?timas e controlar o tr?nsito no local.</p><p>As circunst?ncias que levaram ? batida ainda est?o sendo investigadas pelas autoridades respons?veis, que trabalham para esclarecer os detalhes do ocorrido.</p></content:encoded>
-    </item>
-    <item>
-      <title>Deputado Federal E Vereador Sobrevivem ? Queda De Avi?O</title>
-      <link>https://visornoticias.com.br/deputado-federal-e-vereador-sobrevivem-a-queda-de-aviao/</link>
-      <guid isPermaLink="false">https://visornoticias.com.br/?p=319798_1766267998000</guid>
-      <pubDate>Sat, 20 Dec 2025 21:59:58 GMT</pubDate>
-      <description><![CDATA[Um avi?o sofreu um inc?ndio logo ap?s o pouso, mas os ocupantes sa?ram ilesos do incidente. As causas do fogo ainda ser?o investigadas pelas autoridades competentes.]]></description>
-      <content:encoded><p>Entre as pessoas a bordo estavam um deputado federal e um vereador, que n?o sofreram ferimentos graves ou complica??es. O piloto conseguiu controlar a situa??o e evacuar a aeronave rapidamente ap?s o acidente.</p><p>As equipes de emerg?ncia foram acionadas imediatamente e realizaram o atendimento no local. Agora, ?rg?os respons?veis conduzir?o a apura??o para determinar as circunst?ncias que ocasionaram o inc?ndio ap?s o toque do avi?o no solo.</p></content:encoded>
-    </item>
-    <item>
-      <title>Elevado Do Trevo Da Ant?Nio Heil Com A Br-101 ? Inaugurado Em Itaja?; Obra Deve Melhorar Fluidez No Tr?Nsito</title>
-      <link>https://portalmenina.com.br/elevado-do-trevo-da-antonio-heil-com-a-br-101-e-inaugurado-em-itajai-obra-deve-melhorar-fluidez-no-transito/</link>
-      <guid isPermaLink="false">https://portalmenina.com.br/?p=130908_1766254067000</guid>
-      <pubDate>Sat, 20 Dec 2025 18:07:47 GMT</pubDate>
-      <description><![CDATA[Foi inaugurado na manh? deste s?bado, 20, o]]></description>
-      <content:encoded><p>A entrega do elevado representa o t?rmino das obras planejadas para o trevo, que ? um ponto estrat?gico para o tr?nsito na regi?o. A interven??o busca facilitar o acesso e aumentar a seguran?a dos motoristas que transitam pelo local.</p><p>Durante a cerim?nia de inaugura??o, estiveram presentes autoridades pol?ticas, incluindo o governador do estado, que acompanharam a finaliza??o do projeto vi?rio. A expectativa ? que a obra contribua para a mobilidade urbana e o desenvolvimento da cidade.</p></content:encoded>
-    </item>
-    <item>
-      <title>Prefeitura De Balne?Rio Cambori? Sanciona Novo Plano Diretor; Lei Entra Em Vigor Em 90 Dias</title>
-      <link>https://portalmenina.com.br/prefeitura-sanciona-novo-plano-diretor-lei-entra-em-vigor-em-90-dias/</link>
-      <guid isPermaLink="false">https://portalmenina.com.br/?p=130893_1766242117000</guid>
-      <pubDate>Sat, 20 Dec 2025 14:48:37 GMT</pubDate>
-      <description><![CDATA[Balne?rio Cambori? ter? um novo Plano Diretor, que entrar? em vigor em 90 dias ap?s a san??o da prefeita na ?ltima sexta-feira, dia 19. O novo instrumento de planejamento urbano visa direcionar o desenvolvimento da cidade nos pr?ximos anos.]]></description>
-      <content:encoded><p>O Plano Diretor estabelece normas e diretrizes para o uso do solo, o zoneamento e o crescimento sustent?vel, buscando equilibrar o crescimento econ?mico com a preserva??o ambiental e a qualidade de vida dos moradores. A atualiza??o do plano era aguardada para adequar a cidade ?s demandas atuais e futuras.</p><p>Com a nova legisla??o, espera-se uma reorganiza??o do espa?o urbano que contemple melhorias na infraestrutura, no transporte e na habita??o, al?m da promo??o de espa?os p?blicos e ?reas de lazer. A medida tamb?m pretende garantir maior transpar?ncia e participa??o da popula??o nos processos de planejamento.</p></content:encoded>
-    </item></channel></rss>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+<channel>
+  <title>Evo Web News</title>
+  <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://evwbr.github.io/news-sc-1/</link>
+  <description>Notícias locais reescritas com IA - Evo Web News</description>
+  <lastBuildDate>Sun, 21 Dec 2025 12:38:15 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <image>
+    <url>https://evoweb.app.br/favicon-32x32.png</url>
+    <title>Evo Web News</title>
+    <link>https://evwbr.github.io/news-sc-1/</link>
+    <width>32</width>
+    <height>32</height>
+  </image>
+  <item>
+    <title><![CDATA[Acidente envolvendo caminhão e veículos deixa duas mortes na BR-282 em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/motorista-e-carona-morrem-em-acidente-grave/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 21 Dec 2025 12:19:47 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319869]]></guid>
+    <description><![CDATA[Uma colisão entre um caminhão e três carros resultou em duas mortes na BR-282, em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na rodovia BR-282 e envolveu um caminhão e três veículos de passeio.</p>
+<p>Duas pessoas, motorista e passageiro de um dos carros, morreram em decorrência da colisão.</p>
+<p>Equipes de resgate foram acionadas para atender a ocorrência e prestar socorro às vítimas.</p>
+<p>A rodovia teve o tráfego afetado durante o atendimento da ocorrência.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista deixa local após acidente envolvendo criança e bebê em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/motorista-foge-apos-acidente-com-bebe/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 21 Dec 2025 11:57:23 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319864]]></guid>
+    <description><![CDATA[Um acidente envolvendo dois veículos ocorreu em Santa Catarina, com quatro pessoas ilesas. O motorista de um dos carros deixou o local sem prestar atendimento.]]></description>
+    <content:encoded><![CDATA[
+<p>A colisão envolveu um Fiat Strada e outro . Quatro pessoas que estavam nos carros não sofreram ferimentos.</p>
+<p>O motorista do Fiat Strada deixou o local do acidente antes da chegada das autoridades. Não há informações sobre a motivação da fuga.</p>
+<p>Equipes de emergência foram acionadas para atender a ocorrência. A situação foi registrada para investigação posterior.</p>
+    ]]></content:encoded>
+  </item>
+</channel>
+</rss>
