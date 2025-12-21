@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 21 Dec 2025 00:38:13 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 21 Dec 2025 09:38:15 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,36 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Concurso 313 da +Milionária sorteia prêmio de R$ 13,5 milhões]]></title>
-    <link>https://visornoticias.com.br/confira-os-numeros-sorteados-na-milionaria-de-r-135-milhoes-2/</link>
+    <title><![CDATA[Servidor público é investigado por desvio de mais de R$ 1 milhão em prefeitura de SC]]></title>
+    <link>https://jornalrazao.com/seguranca/servidor-investigado-desvio-dinheiro-prefeitura-joacaba/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 21 Dec 2025 00:21:10 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319806]]></guid>
-    <description><![CDATA[O concurso 313 da loteria +Milionária realizou o sorteio de um prêmio no valor de R$ 13,5 milhões.]]></description>
+    <pubDate>Sun, 21 Dec 2025 09:31:57 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173160]]></guid>
+    <description><![CDATA[Um servidor público municipal de Joaçaba, Santa Catarina, está sendo investigado por suspeita de desvio de recursos públicos enquanto atuava na tesouraria da prefeitura.]]></description>
     <content:encoded><![CDATA[
-<p>O sorteio ocorreu</p>
-<p>Os números sorteados foram divulgados após a realização do concurso.</p>
-<p>O prêmio acumulado atingiu o valor de R$ 13,5 milhões nesta edição.</p>
+<p>A investigação, conduzida pela Polícia Civil e pelo Ministério Público, teve avanço com a deflagração da Operação “Não Se Mexe”.</p>
+<p>O servidor, de 62 anos e residente em Herval d’Oeste, era responsável por autorizar e movimentar contas bancárias do município no período investigado.</p>
+<p>As suspeitas indicam que ele teria transferido valores públicos para uma conta pessoal, utilizando-se do cargo que ocupava para disfarçar as movimentações financeiras entre diferentes fontes municipais.</p>
+<p>O prejuízo estimado até o momento ultrapassa R$ 1 milhão, com valores desviados principalmente da cota-parte do ICMS repassada ao município.</p>
+<p>Medidas cautelares foram impostas, incluindo o uso de tornozeleira eletrônica e restrições de circulação, enquanto o telefone celular do investigado foi apreendido para perícia.</p>
+<p>As investigações continuam para apurar a extensão dos desvios e a possível participação de outras pessoas no esquema.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Família em Camboriú utiliza arroizal para banho devido à falta de água]]></title>
+    <link>https://jornalrazao.com/geral/familia-improvisa-banho-arroizal-falta-agua-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 21 Dec 2025 09:17:54 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173157]]></guid>
+    <description><![CDATA[Moradores do bairro Conde Vila Verde, em Camboriú, recorreram a um arroizal no bairro Rio do Meio para realizar a higiene pessoal diante da ausência de abastecimento de água em suas residências.]]></description>
+    <content:encoded><![CDATA[
+<p>Na última sexta-feira, uma família enfrentou dificuldades para realizar a higiene básica em casa por conta da falta de água na região onde residem.</p>
+<p>Para contornar o problema, os moradores se deslocaram até um arroizal próximo, onde tomaram banho como alternativa temporária.</p>
+<p>Apesar da situação adversa, os familiares mantiveram uma postura positiva durante o episódio, que também foi marcado por momentos de descontração.</p>
+<p>O caso destaca os impactos da irregularidade no fornecimento de água e a necessidade de soluções para garantir o acesso contínuo ao serviço essencial.</p>
     ]]></content:encoded>
   </item>
 </channel>
