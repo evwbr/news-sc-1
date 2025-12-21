@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 21 Dec 2025 12:38:15 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 21 Dec 2025 13:38:11 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Acidente envolvendo caminhão e veículos deixa duas mortes na BR-282 em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/motorista-e-carona-morrem-em-acidente-grave/</link>
+    <title><![CDATA[Motorista perde controle e atinge prédio na BR-470 em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/motorista-sai-da-pista-e-atinge-predio-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 21 Dec 2025 12:19:47 GMT</pubDate>
+    <pubDate>Sun, 21 Dec 2025 13:10:12 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319869]]></guid>
-    <description><![CDATA[Uma colisão entre um caminhão e três carros resultou em duas mortes na BR-282, em Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319878]]></guid>
+    <description><![CDATA[saiu da pista e colidiu contra um prédio às margens da BR-470. A condutora recusou atendimento hospitalar após avaliação no local.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu na rodovia BR-282 e envolveu um caminhão e três veículos de passeio.</p>
-<p>Duas pessoas, motorista e passageiro de um dos carros, morreram em decorrência da colisão.</p>
-<p>Equipes de resgate foram acionadas para atender a ocorrência e prestar socorro às vítimas.</p>
-<p>A rodovia teve o tráfego afetado durante o atendimento da ocorrência.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Motorista deixa local após acidente envolvendo criança e bebê em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/motorista-foge-apos-acidente-com-bebe/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 21 Dec 2025 11:57:23 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319864]]></guid>
-    <description><![CDATA[Um acidente envolvendo dois veículos ocorreu em Santa Catarina, com quatro pessoas ilesas. O motorista de um dos carros deixou o local sem prestar atendimento.]]></description>
-    <content:encoded><![CDATA[
-<p>A colisão envolveu um Fiat Strada e outro . Quatro pessoas que estavam nos carros não sofreram ferimentos.</p>
-<p>O motorista do Fiat Strada deixou o local do acidente antes da chegada das autoridades. Não há informações sobre a motivação da fuga.</p>
-<p>Equipes de emergência foram acionadas para atender a ocorrência. A situação foi registrada para investigação posterior.</p>
+<p>Um acidente envolvendo um foi registrado na BR-470, em Santa Catarina.</p>
+<p>O motorista perdeu o controle do carro, que saiu da pista e atingiu um prédio próximo à rodovia.</p>
+<p>A condutora foi avaliada no local, mas recusou atendimento hospitalar.</p>
+<p>Não houve informações sobre feridos graves ou danos estruturais significativos no prédio.</p>
     ]]></content:encoded>
   </item>
 </channel>
