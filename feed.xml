@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 00:38:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 08:38:12 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,35 +21,17 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem de 68 anos condenado por estupro de vulnerável é preso em Gaspar]]></title>
-    <link>https://portalmenina.com.br/idoso-de-68-anos-condenado-a-14-anos-de-prisao-por-estupro-de-vulneravel-e-preso-em-gaspar/</link>
+    <title><![CDATA[Homem é esfaqueado dentro de bar em Itajaí]]></title>
+    <link>https://visornoticias.com.br/homem-e-esfaqueado-pelo-cunhado-dentro-de-bar-em-itajai/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130980]]></guid>
-    <description><![CDATA[Um homem de 68 anos foi preso em Gaspar após ser localizado pela Polícia Militar em cumprimento a um mandado de prisão.]]></description>
+    <pubDate>Mon, 22 Dec 2025 08:29:38 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319942]]></guid>
+    <description><![CDATA[Um homem foi esfaqueado dentro de um bar em Itajaí. O suspeito não foi localizado até o momento.]]></description>
     <content:encoded><![CDATA[
-<p>A prisão ocorreu em um imóvel no bairro Alto Gasparinho, onde a Polícia Militar encontrou o homem que estava foragido da Justiça.</p>
-<p>O mandado de prisão em aberto foi expedido em razão de uma condenação de 14 anos de reclusão pelo crime previsto no artigo 217 do Código Penal.</p>
-<p>Após a confirmação da identidade, o homem recebeu voz de prisão e foi conduzido ao Presídio Regional de Blumenau para o início do cumprimento da pena.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem em situação de rua é morto a facadas no Centro de Brusque]]></title>
-    <link>https://jornalrazao.com/seguranca/esfaqueado-em-praca-morador-de-rua-busca-abrigo-em-loja/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 21 Dec 2025 23:39:00 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173206]]></guid>
-    <description><![CDATA[Um homem em situação de rua foi assassinado a facadas na Praça Barão de Schneeburg, no Centro de Brusque, durante a tarde de domingo.]]></description>
-    <content:encoded><![CDATA[
-<p>A vítima, conhecida como Anderson, era morador de rua e costumava circular pela praça com um carrinho de supermercado e um ursinho de pelúcia preso ao peito.</p>
-<p>Testemunhas relataram que Anderson se envolveu em uma discussão com outro homem em situação de rua na manhã do mesmo dia, que evoluiu para agressões físicas.</p>
-<p>O agressor teria deixado o local, mas retornou à tarde e atacou Anderson com uma faca na praça movimentada por atividades natalinas.</p>
-<p>Após ser ferido, Anderson buscou abrigo em uma loja próxima, onde caiu e não resistiu aos ferimentos, morrendo antes de receber atendimento hospitalar.</p>
-<p>A Polícia Militar isolou a área e iniciou as buscas pelo suspeito. O Serviço de Atendimento Móvel de Urgência confirmou o óbito no local.</p>
-<p>A Polícia Científica realizou a perícia e o corpo foi recolhido para os procedimentos legais.</p>
+<p>A agressão ocorreu dentro de um estabelecimento comercial na cidade de Itajaí.</p>
+<p>Câmeras de segurança registraram o momento do ataque.</p>
+<p>As autoridades realizam buscas para localizar o suspeito envolvido no incidente.</p>
     ]]></content:encoded>
   </item>
 </channel>
