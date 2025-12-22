@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 13:38:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 14:38:29 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,147 +21,86 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Acidente entre dois veículos deixa feridos e interdita rua em Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/condutor-invade-pista-contraria-causa-acidente-e-deixa-feridos-em-balneario-camboriu/</link>
+    <title><![CDATA[Novo Píer em Itapema terá restaurantes, cafés e serviços]]></title>
+    <link>https://visornoticias.com.br/o-que-vai-ter-no-pier-de-itapema-veja-restaurantes-e-atracoes-confirmadas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 13:17:58 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131039]]></guid>
-    <description><![CDATA[Uma colisão frontal entre dois carros resultou em feridos e bloqueio parcial da rua Emanoel Rebelo dos Santos, no bairro da Barra, em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu nas proximidades do viaduto da BR-101 na noite de sexta-feira, envolvendo um Hyundai Tucson e um Ford Fiesta.</p>
-<p>O condutor do Tucson teria invadido a pista contrária, causando a colisão frontal com o Fiesta.</p>
-<p>Três pessoas ficaram feridas no acidente, sendo uma delas encaminhada ao Hospital Ruth Cardoso e as outras duas à UPA das Nações.</p>
-<p>O atendimento às vítimas foi realizado pela Polícia Militar, enquanto a remoção dos veículos ficou sob responsabilidade da concessionária Autopista Arteris.</p>
-<p>A BC Trânsito esteve presente no local para auxiliar na organização do trânsito durante a interdição.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem agride socorristas e foge com ambulância no Alto Vale do Itajaí]]></title>
-    <link>https://visornoticias.com.br/homem-agride-socorristas-foge-com-ambulancia-e-e-preso-no-alto-vale-do-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 13:06:12 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320096]]></guid>
-    <description><![CDATA[Um homem agrediu socorristas e fugiu com uma ambulância na região do Alto Vale do Itajaí, comprometendo temporariamente o atendimento do SAMU.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente envolveu a agressão de profissionais de saúde durante uma ocorrência de atendimento emergencial.</p>
-<p>Após a agressão, o homem fugiu conduzindo uma ambulância da região.</p>
-<p>A ação resultou em interrupção temporária dos serviços do SAMU no local.</p>
-<p>O homem foi localizado e detido posteriormente pelas autoridades.</p>
-<p>A ambulância foi recuperada e o atendimento emergencial retomado.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Último desfile natalino de Blumenau ocorre nesta segunda-feira]]></title>
-    <link>https://portalmenina.com.br/ultimo-desfile-natalino-de-blumenau-acontece-nesta-segunda-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:54:20 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131025]]></guid>
-    <description><![CDATA[Blumenau realiza a última apresentação dos desfiles natalinos nesta segunda-feira, com início previsto para as 20h30 na Rua Alberto Stein, em frente à Vila Germânica.]]></description>
-    <content:encoded><![CDATA[
-<p>O evento encerra a programação deste ano, que contou com sete desfiles, cerca de 250 figurantes, seis carros alegóricos e sete tripés, sob o tema “O Reino Mágico dos Guardiões do Natal”.</p>
-<p>Em caso de chuva, o desfile será cancelado até uma hora antes do início previsto.</p>
-<p>O tráfego na região da Vila Germânica terá alterações a partir das 18h30, com recomendações para atenção à sinalização e uso de rotas alternativas.</p>
-<p>O espaço destinado a pessoas com deficiência, com serviços de Libras e audiodescrição, estará localizado embaixo do do Parque Vila Germânica, visando garantir acessibilidade durante o evento.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Coleta de lixo é intensificada em Balneário Camboriú durante o verão]]></title>
-    <link>https://visornoticias.com.br/coleta-lixo-balneario-camboriu-verao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:52:32 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320016]]></guid>
-    <description><![CDATA[A coleta de lixo em Balneário Camboriú foi ampliada na temporada de verão para atender ao aumento da demanda.]]></description>
-    <content:encoded><![CDATA[
-<p>A intensificação da coleta de lixo em Balneário Camboriú ocorre com a ampliação do número de equipamentos e equipes.</p>
-<p>A medida visa manter a limpeza da cidade durante o período de maior movimentação turística.</p>
-<p>O reforço na coleta busca garantir a conservação dos espaços públicos e a qualidade ambiental no município.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Feira de Verão em Balneário Camboriú amplia dias de funcionamento]]></title>
-    <link>https://visornoticias.com.br/feira-de-verao-amplia-dias-em-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:52:29 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320015]]></guid>
-    <description><![CDATA[A Feira de Verão em Balneário Camboriú terá um calendário especial durante os meses de dezembro e janeiro.]]></description>
-    <content:encoded><![CDATA[
-<p>O evento será realizado na Praça da Bíblia, local tradicional para a feira na cidade.</p>
-<p>A ampliação dos dias de funcionamento visa atender ao aumento do público durante o verão.</p>
-<p>A iniciativa busca oferecer mais opções de lazer e comércio para moradores e turistas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Desfile de Natal em Balneário Camboriú envolve equipe de produção]]></title>
-    <link>https://visornoticias.com.br/desfile-natal-2/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:52:27 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320006]]></guid>
-    <description><![CDATA[O desfile de Natal em Balneário Camboriú mobiliza uma equipe dedicada para garantir a realização do evento.]]></description>
-    <content:encoded><![CDATA[
-<p>Mais de 20 profissionais trabalham na produção do desfile de Natal em Balneário Camboriú.</p>
-<p>A equipe é responsável por diversas áreas, incluindo logística, manutenção e segurança.</p>
-<p>O trabalho conjunto visa assegurar a organização e o bom andamento do evento.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Policial fica ferido em ataque com fogos e duas pessoas são presas]]></title>
-    <link>https://visornoticias.com.br/ataque-com-fogos-contra-policiais-em-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:49:03 GMT</pubDate>
+    <pubDate>Mon, 22 Dec 2025 14:30:25 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320083]]></guid>
-    <description><![CDATA[Um policial militar foi ferido no ouvido durante um ataque com fogos, que pode ser investigado como tentativa de homicídio.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320116]]></guid>
+    <description><![CDATA[O novo píer na Meia Praia, em Itapema, contará com diversas opções comerciais e de lazer, fortalecendo o turismo na região do Litoral Norte.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente envolveu o lançamento de fogos contra policiais militares durante uma ação.</p>
-<p>Um dos policiais sofreu ferimentos no ouvido em decorrência do ataque.</p>
-<p>Duas pessoas foram detidas em relação ao ocorrido.</p>
-<p>As circunstâncias do ataque estão sendo apuradas pelas autoridades competentes.</p>
+<p>O píer de Itapema será equipado com restaurantes, cafés e lojas, oferecendo variedade para visitantes e moradores.</p>
+<p>Além das opções gastronômicas, o local contará com uma academia e serviços diversos, ampliando as possibilidades de uso do espaço.</p>
+<p>A iniciativa visa consolidar o píer como um polo turístico importante para o Litoral Norte de Santa Catarina.</p>
+<p>A infraestrutura planejada busca atender tanto o público local quanto os turistas que frequentam a Meia Praia.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Homem rouba ambulância do SAMU, foge pela rodovia e colide contra árvore]]></title>
-    <link>https://jornalrazao.com/seguranca/acidente/homem-rouba-ambulancia-do-samu-foge-pela-rodovia-e-bate-em-arvore/</link>
+    <title><![CDATA[Incêndio destrói residência desocupada em Porto Belo]]></title>
+    <link>https://jornalrazao.com/seguranca/incendio-de-grandes-proporcoes-destroi-casa-inteira-em-portobelo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:39:10 GMT</pubDate>
+    <pubDate>Mon, 22 Dec 2025 14:29:30 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173249]]></guid>
+    <description><![CDATA[Um incêndio de grandes proporções destruiu completamente uma casa no bairro Perequê, em Porto Belo, no Litoral Norte de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O incêndio ocorreu na manhã de segunda-feira em uma residência unifamiliar localizada na Rua Gaudêncio Campos.</p>
+<p>Equipes do Corpo de Bombeiros Militar foram acionadas por volta das 7h38 e encontraram as chamas já consumindo toda a edificação, que possuía cerca de 110 metros quadrados e era construída em alvenaria e madeira.</p>
+<p>Foi realizada uma operação de combate direto ao fogo com duas linhas de ataque, utilizando aproximadamente 5.500 litros de água para extinguir as chamas.</p>
+<p>Após o controle do incêndio, os bombeiros realizaram o rescaldo e verificaram a ausência de focos residuais ou reignição no local.</p>
+<p>A casa sofreu danos estruturais significativos e ficou praticamente destruída, porém não houve vítimas, pois o imóvel estava desocupado no momento do incêndio.</p>
+<p>A causa do incêndio não foi identificada durante o atendimento, sendo recomendada a realização de perícia técnica para apuração da origem do fogo.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Incêndio destrói residência no bairro Perequê, em Porto Belo]]></title>
+    <link>https://horadeportobelo.com.br/2025/12/22/incendio-destroi-residencia-no-bairro-pereque-em-porto-belo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 14:28:02 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20477]]></guid>
+    <description><![CDATA[Um incêndio atingiu uma residência no bairro Perequê, em Porto Belo, na manhã desta segunda-feira.]]></description>
+    <content:encoded><![CDATA[
+<p>O fogo começou por volta das 7h38 em uma casa localizada na Rua Gaudêncio Campos, nº 520.</p>
+<p>A edificação residencial unifamiliar, construída em alvenaria e madeira, tem aproximadamente 110 metros quadrados.</p>
+<p>No momento da chegada dos bombeiros, as chamas já estavam em fase de desenvolvimento completo, com grande acúmulo de gases quentes.</p>
+<p>O combate ao incêndio utilizou cerca de 5.500 litros de água e duas linhas de ataque para a extinção total do fogo.</p>
+<p>A residência sofreu danos significativos em toda a sua estrutura, mas não houve vítimas, pois o imóvel estava desocupado.</p>
+<p>A causa do incêndio não foi determinada no local, sendo recomendada perícia técnica para apuração da origem do sinistro.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem morre após queda de skate em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/jovem-morre-apos-cair-de-skate-e-bater-a-cabeca-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 14:04:45 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320111]]></guid>
+    <description><![CDATA[Um jovem faleceu após sofrer uma queda enquanto praticava skate em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>A vítima sofreu uma queda e bateu a cabeça durante a prática do esporte.</p>
+<p>Equipes de socorro foram acionadas e realizaram manobras de reanimação no local.</p>
+<p>Apesar dos esforços, o jovem não resistiu aos ferimentos e morreu no local do acidente.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Acidente na BR-153 resulta em duas mortes após colisão e incêndio em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/acidente-na-br-153-mata-duas-pessoas-apos-choque-lateral-e-incendio-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 13:54:01 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173230]]></guid>
-    <description><![CDATA[Um homem de 22 anos roubou uma viatura do Serviço de Atendimento Móvel de Urgência (SAMU) e provocou um acidente durante a fuga em uma rodovia federal na madrugada desta segunda-feira.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320107]]></guid>
+    <description><![CDATA[Uma colisão lateral entre um carro e uma carreta na BR-153 causou um incêndio de grandes proporções, resultando na morte de duas pessoas.]]></description>
     <content:encoded><![CDATA[
-<p>A Polícia Militar foi acionada após a informação do roubo da ambulância nas proximidades de uma empresa da região. Durante a fuga, o condutor perdeu o controle do , saiu da pista e colidiu contra uma árvore às margens da rodovia, causando danos significativos à viatura.</p>
-<p>No local do acidente, a ambulância estava vazia. Policiais realizaram um cerco e localizaram o suspeito em via pública próxima. Ele apresentava comportamento agitado e agressivo, sendo necessário o uso de agente químico e força moderada para contê-lo e algemá-lo.</p>
-<p>Um socorrista do SAMU Durante o atendimento, o paciente agrediu uma técnica de enfermagem e o socorrista, conseguindo se soltar da maca e iniciar a fuga na ambulância.</p>
-<p>A técnica de enfermagem sofreu agressões com cotoveladas e joelhadas, conseguindo sair do ao abrir a porta lateral. A Polícia Rodoviária Federal registrou o boletim de ocorrência do acidente de trânsito.</p>
-<p>Após a detenção, o homem foi encaminhado ao Instituto Geral de Perícias e posteriormente à Delegacia de Polícia Civil para os procedimentos legais. Durante o deslocamento, ele ainda causou danos à viatura da Polícia Militar ao chutar o .</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Primeira semana do verão em Blumenau tem calor e pancadas isoladas de chuva]]></title>
-    <link>https://portalmenina.com.br/primeira-semana-de-verao-comeca-com-calor-e-pancadas-isoladas-de-chuva-em-blumenau/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 12:34:24 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131019]]></guid>
-    <description><![CDATA[Blumenau inicia a primeira semana do verão com temperaturas elevadas, sol entre nuvens e possibilidade de pancadas isoladas de chuva com trovoadas principalmente no período da tarde e noite.]]></description>
-    <content:encoded><![CDATA[
-<p>O tempo na cidade deve seguir típico da estação, com calor e variação de nebulosidade nos próximos dias.</p>
-<p>As temperaturas máximas previstas para os primeiros dias da semana variam entre 31°C e 38°C, com mínimas entre 22°C e 25°C.</p>
-<p>A combinação de calor, alta umidade e a atuação de um sistema atmosférico favorece a ocorrência de pancadas rápidas e isoladas de chuva, acompanhadas de trovoadas.</p>
-<p>Há possibilidade de temporais isolados entre a tarde e a noite, especialmente nos dias de terça a quinta-feira.</p>
-<p>O padrão climático deve se manter até o final da semana, com sol, variação de nuvens e chuvas pontuais no período vespertino e noturno.</p>
+<p>O acidente ocorreu na BR-153, envolvendo um de passeio e uma carreta.</p>
+<p>A batida provocou um incêndio que atingiu ambos os veículos.</p>
+<p>As vítimas ficaram presas às ferragens durante o incêndio.</p>
+<p>Equipes de resgate foram acionadas para atender a ocorrência.</p>
+<p>As circunstâncias que levaram à colisão ainda estão sendo apuradas.</p>
     ]]></content:encoded>
   </item>
 </channel>
