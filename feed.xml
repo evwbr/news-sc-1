@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 08:38:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 09:38:17 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,47 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é esfaqueado dentro de bar em Itajaí]]></title>
-    <link>https://visornoticias.com.br/homem-e-esfaqueado-pelo-cunhado-dentro-de-bar-em-itajai/</link>
+    <title><![CDATA[Desfiles de Natal em Itapema reúnem aproximadamente 10 mil pessoas]]></title>
+    <link>https://visornoticias.com.br/desfiles-de-natal-de-itapema-reunem-cerca-de-10-mil-pessoas-no-fim-de-semana/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 08:29:38 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319942]]></guid>
-    <description><![CDATA[Um homem foi esfaqueado dentro de um bar em Itajaí. O suspeito não foi localizado até o momento.]]></description>
+    <pubDate>Mon, 22 Dec 2025 09:35:55 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319983]]></guid>
+    <description><![CDATA[Os desfiles de Natal realizados em Itapema atraíram cerca de 10 mil participantes durante o fim de semana.]]></description>
     <content:encoded><![CDATA[
-<p>A agressão ocorreu dentro de um estabelecimento comercial na cidade de Itajaí.</p>
-<p>Câmeras de segurança registraram o momento do ataque.</p>
-<p>As autoridades realizam buscas para localizar o suspeito envolvido no incidente.</p>
+<p>As apresentações ocorreram nas regiões da Meia Praia e do Centro da cidade.</p>
+<p>Milhares de moradores e visitantes acompanharam os eventos na Avenida Nereu Ramos.</p>
+<p>Os desfiles fizeram parte das comemorações natalinas locais, promovendo atividades culturais e de lazer.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Operação fiscaliza embarcações e prende suspeito por tráfico de drogas em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/operacao-fiscaliza-embarcacoes-e-prende-suspeito-por-trafico-de-drogas-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 09:10:30 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319946]]></guid>
+    <description><![CDATA[Um servidor foi preso em flagrante durante uma operação que fiscalizou embarcações em Santa Catarina. A investigação identificou o uso da função do suspeito para introduzir drogas em um presídio.]]></description>
+    <content:encoded><![CDATA[
+<p>A ação ocorreu em Santa Catarina e teve como objetivo fiscalizar embarcações na região.</p>
+<p>Durante a operação, um servidor foi detido por envolvimento com tráfico de drogas.</p>
+<p>O suspeito utilizava sua posição para facilitar a entrada de entorpecentes em um presídio local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem morre afogado em Santa Catarina e corpo é resgatado pelos bombeiros]]></title>
+    <link>https://visornoticias.com.br/homem-morre-afogado-e-corpo-e-resgatado-pelos-bombeiros-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 08:50:07 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=319944]]></guid>
+    <description><![CDATA[Um homem morreu afogado em Santa Catarina, e o corpo foi resgatado pelos bombeiros para os procedimentos legais.]]></description>
+    <content:encoded><![CDATA[
+<p>O corpo da vítima foi conduzido até a margem por equipes de bombeiros.</p>
+<p>Os procedimentos legais foram iniciados após o resgate.</p>
+<p>As circunstâncias do afogamento não foram detalhadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
