@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 16:38:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 17:38:20 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,51 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Guarda Municipal de Itapema aprimora treinamento com armamento pesado em ação regional]]></title>
-    <link>https://visornoticias.com.br/guarda-municipal-intensifica-preparo/</link>
+    <title><![CDATA[Operação no Caixa D’Aço intensifica fiscalização para garantir segurança na praia]]></title>
+    <link>https://jornalrazao.com/seguranca/operacao-no-caixa-daco-visa-devolver-praia-catarinense-as-familias/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 16:24:36 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320150]]></guid>
-    <description><![CDATA[Agentes da Guarda Municipal de Itapema participam de treinamento para uso de fuzis e carabinas, fortalecendo a integração regional.]]></description>
+    <pubDate>Mon, 22 Dec 2025 17:14:06 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173269]]></guid>
+    <description><![CDATA[Uma operação integrada realizou fiscalização no Caixa D’Aço, em Porto Belo, com o objetivo de coibir irregularidades durante a temporada de verão.]]></description>
     <content:encoded><![CDATA[
-<p>A Guarda Municipal de Itapema intensificou o preparo de seus agentes com instruções específicas no uso de armamento pesado.</p>
-<p>O treinamento inclui o manuseio de fuzis e carabinas, visando aprimorar a capacidade operacional da corporação.</p>
-<p>A ação faz parte de uma iniciativa regional para fortalecer a cooperação entre as forças de segurança locais.</p>
-<p>O objetivo é garantir maior eficiência e segurança nas operações conjuntas realizadas na região.</p>
+<p>A ação ocorreu no penúltimo fim de semana de janeiro de 2025 e envolveu diversas forças de segurança e órgãos municipais.</p>
+<p>Durante a operação, foram fiscalizadas 56 embarcações, entre lanchas e motos aquáticas, resultando na apreensão de uma lancha e na lavratura de sete autos de infração pela Marinha do Brasil.</p>
+<p>Mais de 100 pessoas foram abordadas, e a Polícia Militar registrou seis autos de infração por porte de entorpecentes, além de uma prisão em flagrante por tráfico de drogas.</p>
+<p>A operação utilizou quatro barcos, duas motos aquáticas e apoio aéreo do helicóptero Águia para ampliar o alcance da fiscalização na baía do Caixa D’Aço.</p>
+<p>O objetivo da ação foi prevenir festas irregulares, consumo de álcool e drogas, e o excesso de som em embarcações, buscando garantir a segurança e o bem-estar de famílias e visitantes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Guarda Municipal de Itapema incorpora fuzis e carabinas ao seu armamento]]></title>
+    <link>https://jornalrazao.com/seguranca/gm-de-itapema-passa-a-usar-fuzis-e-carabinas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 17:00:57 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173265]]></guid>
+    <description><![CDATA[A Guarda Municipal de Itapema passou a utilizar oficialmente armamento de maior calibre após a conclusão de treinamento específico para o uso de fuzis e carabinas.]]></description>
+    <content:encoded><![CDATA[
+<p>A corporação concluiu a capacitação para o uso do fuzil Taurus T4 MLOK, calibre 5,56×45 mm NATO, e da carabina Taurus T9, calibre 9×19 mm, em um curso realizado na Guarda Municipal de Balneário Camboriú.</p>
+<p>O treinamento teve foco no emprego técnico, responsável e proporcional dos equipamentos, preparando os agentes para atuar em situações que exigem maior capacidade de resposta operacional.</p>
+<p>Com a habilitação, a Guarda Municipal de Itapema está apta a atuar em ocorrências de alta complexidade, como assaltos a banco e confrontos com criminosos armados.</p>
+<p>O armamento de grosso calibre amplia a capacidade de coibir crimes antes que evoluam para situações de maior risco à população, reforçando a segurança local.</p>
+<p>A iniciativa também fortalece a integração entre guardas municipais da região e representa um investimento em qualificação profissional da corporação.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Incêndio destrói residência desocupada em Porto Belo]]></title>
+    <link>https://visornoticias.com.br/incendio-destroi-residencia-desocupada-em-pb/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 16:59:00 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320214]]></guid>
+    <description><![CDATA[Uma casa desocupada foi totalmente destruída por um incêndio na manhã desta segunda-feira em Porto Belo.]]></description>
+    <content:encoded><![CDATA[
+<p>O fogo consumiu a residência localizada no bairro Perequê.</p>
+<p>O Corpo de Bombeiros foi acionado para controlar as chamas.</p>
+<p>Não houve registro de feridos durante o incidente.</p>
     ]]></content:encoded>
   </item>
 </channel>
