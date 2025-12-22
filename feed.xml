@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 17:38:20 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 18:38:25 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,51 +21,66 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Operação no Caixa D’Aço intensifica fiscalização para garantir segurança na praia]]></title>
-    <link>https://jornalrazao.com/seguranca/operacao-no-caixa-daco-visa-devolver-praia-catarinense-as-familias/</link>
+    <title><![CDATA[Posto de combustíveis é assaltado por criminosos armados em Tijucas]]></title>
+    <link>https://jornalrazao.com/seguranca/bandidos-armados-assaltam-posto-em-tijucas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 17:14:06 GMT</pubDate>
+    <pubDate>Mon, 22 Dec 2025 18:20:50 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173280]]></guid>
+    <description><![CDATA[Um posto de combustíveis no bairro da Praça, em Tijucas, foi alvo de um assalto na noite de domingo, envolvendo criminosos armados que fugiram em uma motocicleta vermelha.]]></description>
+    <content:encoded><![CDATA[
+<p>O crime ocorreu por volta das 22h40 no Posto Beira Rio, localizado em frente a um casarão histórico da cidade.</p>
+<p>Durante a ação, os assaltantes levaram uma quantia em dinheiro que estava guardada no cofre do estabelecimento, cujo valor não foi divulgado.</p>
+<p>Funcionários informaram que algumas câmeras de segurança não estavam funcionando no momento do assalto, apesar de solicitações anteriores para a correção do sistema.</p>
+<p>A Polícia Militar iniciou diligências na região para localizar e identificar os autores do crime, que seguem em investigação.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem mata irmão a tiros após discussão no bairro Vila Áurea]]></title>
+    <link>https://visornoticias.com.br/homem-mata-irmao-a-tiros-apos-discussao-sobre-consumo-de-agua/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 18:05:59 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320233]]></guid>
+    <description><![CDATA[Um homem foi morto a tiros após uma discussão relacionada ao consumo de água no bairro Vila Áurea.]]></description>
+    <content:encoded><![CDATA[
+<p>O crime ocorreu no bairro Vila Áurea, envolvendo dois irmãos.</p>
+<p>Após a discussão, um dos irmãos atirou contra o outro, que não resistiu aos ferimentos.</p>
+<p>O suspeito fugiu do local e não havia sido localizado até o momento.</p>
+<p>As autoridades seguem investigando o caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Polícia Científica de SC abre concurso com 60 vagas para perito e salário de R$ 27,7 mil]]></title>
+    <link>https://portalmenina.com.br/policia-cientifica-de-sc-abre-concurso-com-60-vagas-para-perito-e-salario-de-r-277-mil/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 18:04:24 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131073]]></guid>
+    <description><![CDATA[O Governo de Santa Catarina lançou concurso público para o cargo de perito oficial criminal da Polícia Científica, com 60 vagas disponíveis para profissionais de nível superior.]]></description>
+    <content:encoded><![CDATA[
+<p>As oportunidades abrangem diversas áreas, incluindo ambiental, áudio e imagem, ciências aeronáuticas, ciências biológicas, ciências sociais aplicadas, engenharia civil, geologia e minas, informática, engenharias mecânica, mecatrônica e de materiais, medicina legal, medicina legal com especialização em psiquiatria, medicina veterinária, odontologia e química.</p>
+<p>A remuneração inicial prevista no edital é de R$ 27,7 mil. Os peritos oficiais criminais são responsáveis pela coordenação de equipes periciais, realização de perícias em locais de crime, necropsias, exames forenses e elaboração de laudos técnicos.</p>
+<p>As inscrições para o concurso estão abertas até 19 de janeiro de 2026 e devem ser realizadas exclusivamente pelo da banca organizadora. A prova objetiva está marcada para 22 de fevereiro de 2026.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Santa Catarina enfrenta calor intenso e risco de temporais na semana de Natal]]></title>
+    <link>https://visornoticias.com.br/calor-intenso-em-sc-e-risco-de-temporais/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 22 Dec 2025 17:34:33 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173269]]></guid>
-    <description><![CDATA[Uma operação integrada realizou fiscalização no Caixa D’Aço, em Porto Belo, com o objetivo de coibir irregularidades durante a temporada de verão.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320229]]></guid>
+    <description><![CDATA[O estado de Santa Catarina registra temperaturas superiores a 35 °C e possibilidade de pancadas de chuva com granizo entre os dias 23 e 25 de dezembro.]]></description>
     <content:encoded><![CDATA[
-<p>A ação ocorreu no penúltimo fim de semana de janeiro de 2025 e envolveu diversas forças de segurança e órgãos municipais.</p>
-<p>Durante a operação, foram fiscalizadas 56 embarcações, entre lanchas e motos aquáticas, resultando na apreensão de uma lancha e na lavratura de sete autos de infração pela Marinha do Brasil.</p>
-<p>Mais de 100 pessoas foram abordadas, e a Polícia Militar registrou seis autos de infração por porte de entorpecentes, além de uma prisão em flagrante por tráfico de drogas.</p>
-<p>A operação utilizou quatro barcos, duas motos aquáticas e apoio aéreo do helicóptero Águia para ampliar o alcance da fiscalização na baía do Caixa D’Aço.</p>
-<p>O objetivo da ação foi prevenir festas irregulares, consumo de álcool e drogas, e o excesso de som em embarcações, buscando garantir a segurança e o bem-estar de famílias e visitantes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Guarda Municipal de Itapema incorpora fuzis e carabinas ao seu armamento]]></title>
-    <link>https://jornalrazao.com/seguranca/gm-de-itapema-passa-a-usar-fuzis-e-carabinas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 17:00:57 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173265]]></guid>
-    <description><![CDATA[A Guarda Municipal de Itapema passou a utilizar oficialmente armamento de maior calibre após a conclusão de treinamento específico para o uso de fuzis e carabinas.]]></description>
-    <content:encoded><![CDATA[
-<p>A corporação concluiu a capacitação para o uso do fuzil Taurus T4 MLOK, calibre 5,56×45 mm NATO, e da carabina Taurus T9, calibre 9×19 mm, em um curso realizado na Guarda Municipal de Balneário Camboriú.</p>
-<p>O treinamento teve foco no emprego técnico, responsável e proporcional dos equipamentos, preparando os agentes para atuar em situações que exigem maior capacidade de resposta operacional.</p>
-<p>Com a habilitação, a Guarda Municipal de Itapema está apta a atuar em ocorrências de alta complexidade, como assaltos a banco e confrontos com criminosos armados.</p>
-<p>O armamento de grosso calibre amplia a capacidade de coibir crimes antes que evoluam para situações de maior risco à população, reforçando a segurança local.</p>
-<p>A iniciativa também fortalece a integração entre guardas municipais da região e representa um investimento em qualificação profissional da corporação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Incêndio destrói residência desocupada em Porto Belo]]></title>
-    <link>https://visornoticias.com.br/incendio-destroi-residencia-desocupada-em-pb/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 16:59:00 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320214]]></guid>
-    <description><![CDATA[Uma casa desocupada foi totalmente destruída por um incêndio na manhã desta segunda-feira em Porto Belo.]]></description>
-    <content:encoded><![CDATA[
-<p>O fogo consumiu a residência localizada no bairro Perequê.</p>
-<p>O Corpo de Bombeiros foi acionado para controlar as chamas.</p>
-<p>Não houve registro de feridos durante o incidente.</p>
+<p>As temperaturas elevadas têm sido observadas em diversas regiões de Santa Catarina, com máximas ultrapassando os 35 °C.</p>
+<p>Além do calor, há previsão de pancadas de chuva acompanhadas de granizo durante o período entre os dias 23 e 25 de dezembro.</p>
+<p>As condições climáticas indicam a possibilidade de temporais localizados, exigindo atenção da população.</p>
+<p>O fenômeno climático combina o calor intenso com instabilidades atmosféricas típicas da estação.</p>
+<p>As autoridades recomendam precaução diante das condições meteorológicas previstas para a semana de Natal.</p>
     ]]></content:encoded>
   </item>
 </channel>
