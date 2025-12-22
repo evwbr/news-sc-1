@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 21 Dec 2025 23:38:13 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 00:38:21 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Cão farejador auxilia na apreensão de drogas após fuga de suspeitos em Blumenau]]></title>
-    <link>https://portalmenina.com.br/cao-farejador-localiza-esconderijo-de-drogas-apos-fuga-de-suspeitos-no-passo-manso/</link>
+    <title><![CDATA[Homem de 68 anos condenado por estupro de vulnerável é preso em Gaspar]]></title>
+    <link>https://portalmenina.com.br/idoso-de-68-anos-condenado-a-14-anos-de-prisao-por-estupro-de-vulneravel-e-preso-em-gaspar/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 21 Dec 2025 23:17:32 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130979]]></guid>
-    <description><![CDATA[Durante patrulhamento no bairro Passo Manso, em Blumenau, a Polícia Militar apreendeu entorpecentes com o auxílio de um cão farejador após a fuga de um grupo suspeito.]]></description>
+    <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=130980]]></guid>
+    <description><![CDATA[Um homem de 68 anos foi preso em Gaspar após ser localizado pela Polícia Militar em cumprimento a um mandado de prisão.]]></description>
     <content:encoded><![CDATA[
-<p>A ação ocorreu na manhã de sábado durante uma ronda de rotina da Polícia Militar. Ao avistar um grupo em atitude suspeita, os policiais se aproximaram, mas os indivíduos fugiram para uma área de mata próxima.</p>
-<p>O cão farejador foi acionado para realizar buscas no local onde o grupo estava reunido. O animal indicou a presença de drogas escondidas nas proximidades.</p>
-<p>Foram apreendidos 28,4 gramas de maconha, 5,4 gramas de crack e 3,9 gramas de cocaína. Apesar das buscas realizadas na região, nenhum suspeito foi localizado.</p>
-<p>O material apreendido foi recolhido e encaminhado para registro da ocorrência.</p>
+<p>A prisão ocorreu em um imóvel no bairro Alto Gasparinho, onde a Polícia Militar encontrou o homem que estava foragido da Justiça.</p>
+<p>O mandado de prisão em aberto foi expedido em razão de uma condenação de 14 anos de reclusão pelo crime previsto no artigo 217 do Código Penal.</p>
+<p>Após a confirmação da identidade, o homem recebeu voz de prisão e foi conduzido ao Presídio Regional de Blumenau para o início do cumprimento da pena.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem em situação de rua é morto a facadas no Centro de Brusque]]></title>
+    <link>https://jornalrazao.com/seguranca/esfaqueado-em-praca-morador-de-rua-busca-abrigo-em-loja/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 21 Dec 2025 23:39:00 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173206]]></guid>
+    <description><![CDATA[Um homem em situação de rua foi assassinado a facadas na Praça Barão de Schneeburg, no Centro de Brusque, durante a tarde de domingo.]]></description>
+    <content:encoded><![CDATA[
+<p>A vítima, conhecida como Anderson, era morador de rua e costumava circular pela praça com um carrinho de supermercado e um ursinho de pelúcia preso ao peito.</p>
+<p>Testemunhas relataram que Anderson se envolveu em uma discussão com outro homem em situação de rua na manhã do mesmo dia, que evoluiu para agressões físicas.</p>
+<p>O agressor teria deixado o local, mas retornou à tarde e atacou Anderson com uma faca na praça movimentada por atividades natalinas.</p>
+<p>Após ser ferido, Anderson buscou abrigo em uma loja próxima, onde caiu e não resistiu aos ferimentos, morrendo antes de receber atendimento hospitalar.</p>
+<p>A Polícia Militar isolou a área e iniciou as buscas pelo suspeito. O Serviço de Atendimento Móvel de Urgência confirmou o óbito no local.</p>
+<p>A Polícia Científica realizou a perícia e o corpo foi recolhido para os procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 </channel>
