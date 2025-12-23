@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 23 Dec 2025 20:38:31 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 21:38:26 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,117 +21,97 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Drones registram infrações de trânsito em rodovias federais de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/drones-da-prf-flagram-uso-de-celular-e-falta-de-cinto-em-rodovias-federais-de-sc/</link>
+    <title><![CDATA[Operação é realizada na Praia do Pinho em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/praia-pinho/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 20:24:44 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320916]]></guid>
-    <description><![CDATA[Drones equipados com câmeras de alta definição têm sido utilizados para fiscalizar o uso de celular e o não uso do cinto de segurança em rodovias federais de Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>A fiscalização aérea permite registrar infrações sem a necessidade de interromper o fluxo de veículos nas estradas.</p>
-<p>Os equipamentos capturam imagens que auxiliam na identificação de condutores que desrespeitam as normas de trânsito.</p>
-<p>Essa tecnologia contribui para o monitoramento contínuo e eficiente das rodovias federais no estado.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Idoso de 82 anos é esfaqueado dentro de casa pelo filho em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/pai-de-82-anos-e-esfaqueado-dentro-de-casa-pelo-filho/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 20:14:14 GMT</pubDate>
+    <pubDate>Tue, 23 Dec 2025 21:20:00 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320925]]></guid>
-    <description><![CDATA[Um homem de 82 anos foi esfaqueado dentro de sua residência pelo próprio filho, que foi preso em flagrante pela Polícia Militar.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320932]]></guid>
+    <description><![CDATA[Autoridades realizaram uma operação na Praia do Pinho, em Balneário Camboriú.]]></description>
     <content:encoded><![CDATA[
-<p>O idoso foi socorrido e encaminhado a um hospital, onde permanece internado.</p>
-<p>A Polícia Militar realizou a prisão do agressor no local do crime.</p>
-<p>As circunstâncias que motivaram a agressão ainda não foram divulgadas.</p>
-<p>O caso está sob investigação pelas autoridades competentes.</p>
+<p>A operação contou com a participação da Prefeitura de Balneário Camboriú e da Polícia Militar.</p>
+<p>A ação teve como objetivo a fiscalização e manutenção da ordem na região.</p>
+<p>Detalhes sobre os resultados da operação não foram divulgados.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Relatório aponta que maioria das praias de Santa Catarina está própria para banho]]></title>
-    <link>https://visornoticias.com.br/relatorio-do-ima-indica-que-maioria-das-praias-de-sc-esta-propria-para-banho/</link>
+    <title><![CDATA[Prefeitura de Itajaí abre edital com 43 vagas para ambulantes]]></title>
+    <link>https://visornoticias.com.br/edital-ambulantes-itajai-2/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 19:56:23 GMT</pubDate>
+    <pubDate>Tue, 23 Dec 2025 21:19:49 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320938]]></guid>
+    <description><![CDATA[A Prefeitura de Itajaí lançou um edital com 43 vagas para comerciantes de rua e food trucks em pontos estratégicos da cidade.]]></description>
+    <content:encoded><![CDATA[
+<p>O edital disponibiliza oportunidades para ambulantes atuarem em locais definidos pela administração municipal.</p>
+<p>As inscrições para participar do processo seletivo estão abertas até o ano de 2026.</p>
+<p>O objetivo é organizar e regulamentar a atividade dos comerciantes ambulantes na cidade.</p>
+<p>Os interessados devem acompanhar os procedimentos estabelecidos no edital para garantir a participação.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura intensifica fiscalização nas praias de Itajaí]]></title>
+    <link>https://visornoticias.com.br/praias-de-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 23 Dec 2025 21:19:49 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320939]]></guid>
+    <description><![CDATA[A prefeitura de Itajaí intensificou as fiscalizações nas praias da cidade com o objetivo de garantir a ordem e o cumprimento das normas locais.]]></description>
+    <content:encoded><![CDATA[
+<p>Agentes e monitores realizam fiscalizações diárias nas praias de Itajaí.</p>
+<p>As ações visam manter a segurança e o bem-estar dos frequentadores das áreas litorâneas.</p>
+<p>A presença constante dos fiscais busca coibir irregularidades e promover o uso adequado dos espaços públicos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[PRF inicia uso de drones para fiscalização em rodovias federais de Santa Catarina]]></title>
+    <link>https://jornalrazao.com/seguranca/passa-nada-prf-usa-drones-para-multar-motoristas-nas-rodovias-de-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 23 Dec 2025 21:15:18 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320914]]></guid>
-    <description><![CDATA[Análise realizada entre 22 e 26 de dezembro identificou 196 pontos adequados para banho no litoral catarinense.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173354]]></guid>
+    <description><![CDATA[A Polícia Rodoviária Federal começou a utilizar drones para monitorar o trânsito nas rodovias federais de Santa Catarina, com o objetivo de identificar infrações durante o feriado de Natal.]]></description>
     <content:encoded><![CDATA[
-<p>O relatório de balneabilidade avaliou diversos pontos ao longo do litoral de Santa Catarina.</p>
-<p>Foram identificados 196 locais considerados próprios para banho durante o período analisado.</p>
-<p>A avaliação contribui para o monitoramento da qualidade da água nas praias do estado.</p>
-<p>Os dados refletem as condições ambientais observadas na semana de 22 a 26 de dezembro.</p>
+<p>Os drones foram empregados em operações na Via Expressa da BR-282, em Florianópolis, permitindo a fiscalização aérea sem que os motoristas percebam a presença da fiscalização no momento da infração.</p>
+<p>Equipados com câmeras de alta resolução e zoom de até 56 vezes, os equipamentos operam a até 50 metros de altura, possibilitando o registro de infrações como uso de celular ao volante, ausência do cinto de segurança e circulação irregular de veículos pesados na faixa da esquerda.</p>
+<p>Cada operação envolve dois agentes, um responsável pela condução do drone e outro pelo monitoramento e registro das imagens, que são utilizadas como prova para autuações posteriores, sem necessidade de abordagem imediata.</p>
+<p>Os drones são cadastrados na Agência Nacional de Aviação Civil e operados por profissionais certificados, seguindo planos de voo autorizados e planejamento prévio.</p>
+<p>A fiscalização aérea será intensificada na BR-101 nos próximos meses, com previsão de expansão do uso de drones em outras rodovias federais de Santa Catarina e capacitação de novos operadores para 2026.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Motorista morre em acidente entre carro e caminhão na SC-355]]></title>
-    <link>https://jornalrazao.com/seguranca/acidente-sc-355-fraiburgo-vitima-fatal/</link>
+    <title><![CDATA[Incêndio destrói residência em Florianópolis]]></title>
+    <link>https://visornoticias.com.br/casa-e-totalmente-destruida-por-incendio-na-em-florianopolis/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 19:53:25 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173351]]></guid>
-    <description><![CDATA[Um acidente envolvendo um automóvel e um caminhão resultou na morte de um motorista na rodovia SC-355, em Fraiburgo, no Meio-Oeste de Santa Catarina.]]></description>
+    <pubDate>Tue, 23 Dec 2025 20:58:25 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320930]]></guid>
+    <description><![CDATA[Uma casa foi completamente destruída por um incêndio em Florianópolis, sem registro de vítimas.]]></description>
     <content:encoded><![CDATA[
-<p>A colisão frontal ocorreu por volta das 3h40 na localidade de Papuã, envolvendo um VW Gol e um caminhão trator Volvo com semi-reboque.</p>
-<p>O motorista do automóvel, que tinha placas de Iomerê, não resistiu aos ferimentos e morreu no local do acidente.</p>
-<p>O Corpo de Bombeiros realizou o desencarceramento da vítima, que ficou presa às ferragens após a colisão.</p>
-<p>O condutor do caminhão, de 28 anos e residente em Joaçaba, não sofreu ferimentos e permaneceu no local para prestar esclarecimentos.</p>
-<p>Equipes da Polícia Militar Rodoviária, Polícia Científica, Instituto Médico Legal e Polícia Civil estiveram no local para os procedimentos de investigação e perícia.</p>
+<p>O Corpo de Bombeiros Militar atuou no combate ao fogo com equipes de dois quartéis.</p>
+<p>O incêndio consumiu totalmente a estrutura da residência.</p>
+<p>Não houve feridos durante o incidente.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Caminhão com placas de Santa Catarina é apreendido com seis toneladas de maconha]]></title>
-    <link>https://visornoticias.com.br/caminhao-usado-para-transporte-de-leite-e-apreendido-com-seis-toneladas-de-maconha/</link>
+    <title><![CDATA[Tráfego na ponte da Rua Santa Maria, em Nova Rússia, é restrito a veículos de até duas toneladas]]></title>
+    <link>https://portalmenina.com.br/prefeitura-restringe-trafego-em-ponte-da-rua-santa-maria-na-nova-russia/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 19:51:01 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320915]]></guid>
-    <description><![CDATA[Um caminhão utilizado para transporte de leite foi apreendido com seis toneladas de maconha após ser abandonado pelo motorista durante fiscalização.]]></description>
+    <pubDate>Tue, 23 Dec 2025 19:39:39 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131219]]></guid>
+    <description><![CDATA[A ponte de madeira da Rua Santa Maria, em Nova Rússia, passou a permitir o tráfego apenas de veículos com até duas toneladas devido a problemas estruturais.]]></description>
     <content:encoded><![CDATA[
-<p>O , registrado em Santa Catarina, foi encontrado durante uma operação de fiscalização.</p>
-<p>O motorista abandonou o caminhão no local antes da abordagem das autoridades.</p>
-<p>A carga apreendida totalizou seis toneladas de maconha.</p>
-<p>As circunstâncias que levaram ao abandono do ainda são investigadas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Emasa amplia produção diária em 10 milhões de litros para temporada de verão]]></title>
-    <link>https://portalmenina.com.br/emasa-aumenta-producao-em-10-milhoes-de-litros-por-dia-para-enfrentar-temporada-de-verao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 19:31:30 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131220]]></guid>
-    <description><![CDATA[A Empresa Municipal de Água e Saneamento (Emasa) aumentou a capacidade de produção de água em Balneário Camboriú para atender à demanda da alta temporada de verão.]]></description>
-    <content:encoded><![CDATA[
-<p>A ampliação da produção diária de água foi possível por meio de investimentos em equipamentos e melhorias nos sistemas de captação, tratamento e bombeamento.</p>
-<p>A capacidade operacional foi reforçada com a instalação de três filtros adicionais e a substituição das bombas da Estação de Recalque de Água Bruta (ERAB) por equipamentos mais potentes.</p>
-<p>Além do aumento da produção, foram realizadas manutenções preventivas e interligações estratégicas nas redes de abastecimento para reduzir riscos operacionais durante o período de maior consumo.</p>
-<p>O Rio Camboriú, principal de captação, conta com previsão de chuvas pontuais que contribuem para a segurança hídrica da cidade.</p>
-<p>A produção diária estimada supera 120 milhões de litros, cerca de 20% acima do verão anterior, mas o consumo consciente continua sendo fundamental para evitar sobrecarga no sistema.</p>
-<p>O monitoramento do consumo é realizado diariamente, e orientações são feitas para que moradores, turistas e administradores adotem práticas que minimizem o desperdício de água.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem é detido por ato obsceno e resistência na Praia do Pinho, em Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/homem-e-detido-por-ato-obsceno-e-resistencia-apos-ser-flagrado-nu-na-praia-do-pinho-em-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 19:30:32 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131218]]></guid>
-    <description><![CDATA[Um homem foi detido por ato obsceno, desobediência e resistência durante abordagem policial na Praia do Pinho, em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>Durante rondas na Praia do Pinho, a Polícia Militar flagrou um homem em nudez total na área externa de um camping, visível a outras pessoas.</p>
-<p>A legislação local proíbe a prática de nudismo naquela região, o que motivou a abordagem policial.</p>
-<p>O homem recebeu ordem para se vestir, mas não acatou a determinação e apresentou comportamento exaltado, recusando-se a cumprir as ordens.</p>
-<p>Foi necessária a contenção do indivíduo, que foi algemado para garantir a segurança dos agentes e de terceiros.</p>
-<p>A conduta em locais de uso comum ou acessíveis ao público pode configurar ato obsceno, mesmo em áreas privadas, quando considerada inadequada e exposta à coletividade.</p>
+<p>A restrição no tráfego da ponte da Rua Santa Maria foi implementada após avaliação da Secretaria de Serviços Urbanos que identificou problemas na estrutura da ponte.</p>
+<p>A ponte está localizada nas proximidades do Recanto Silvestre e a medida visa garantir a segurança dos usuários.</p>
+<p>Veículos de maior porte estão proibidos de circular pela ponte enquanto a restrição estiver em vigor.</p>
+<p>Como consequência da limitação, a linha de ônibus 404 – Nova Rússia teve seu trajeto alterado e passou a retornar na ETA 3.</p>
+<p>A mudança no itinerário da linha de ônibus entrou em vigor na terça-feira e vale para todos os horários.</p>
     ]]></content:encoded>
   </item>
 </channel>
