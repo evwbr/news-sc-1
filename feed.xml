@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 23 Dec 2025 15:38:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 16:38:15 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,20 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Decreto de indulto natalino de 2025 exclui condenados por atos de 8 de janeiro]]></title>
-    <link>https://jornalrazao.com/politica/lula-deixa-bolsonaro-fora-do-indulto-de-natal/</link>
+    <title><![CDATA[Jovem de 24 anos morre após mal súbito enquanto andava de skate em São José]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-de-24-anos-morre-apos-sofrer-mal-subito/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 14:49:55 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173340]]></guid>
-    <description><![CDATA[O decreto presidencial que concede o indulto natalino em 2025 não abrange pessoas condenadas por envolvimento nos eventos de 8 de janeiro de 2023, incluindo o ex-presidente Jair Bolsonaro.]]></description>
+    <pubDate>Tue, 23 Dec 2025 16:25:49 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173344]]></guid>
+    <description><![CDATA[Um jovem de 24 anos faleceu após sofrer um mal súbito enquanto praticava skate no bairro Kobrasol, em São José, na Grande Florianópolis.]]></description>
     <content:encoded><![CDATA[
-<p>O indulto natalino é uma medida prevista no Código Penal que permite a extinção da pena para condenados que atendam a critérios estabelecidos em decreto presidencial.</p>
-<p>O decreto publicado em 2025 estabelece restrições específicas para crimes considerados incompatíveis com o benefício, entre eles as condenações relacionadas aos acontecimentos de 8 de janeiro de 2023 em Brasília.</p>
-<p>Além dessas exclusões, o indulto não se aplica a condenados por crimes hediondos, tortura, terrorismo, racismo, violência contra a mulher, tráfico de drogas, organização criminosa e crimes cometidos por lideranças de facções.</p>
-<p>O também define condições para a concessão do indulto, como o cumprimento mínimo de parte da pena até 25 de dezembro de 2025, com regras diferenciadas para reincidentes e não reincidentes.</p>
-<p>Grupos específicos, como pessoas com mais de 60 anos, mulheres com filhos pequenos e pessoas com doenças graves, têm regras mais favoráveis para a concessão do benefício.</p>
-<p>O decreto prevê ainda a possibilidade de perdão de multas de baixo valor e comutação de pena, que reduz o tempo restante da condenação.</p>
+<p>O incidente ocorreu na Avenida Lédio João Martins, uma das vias mais movimentadas da região, durante a tarde de domingo.</p>
+<p>O jovem caiu repentinamente durante a prática do esporte, sem apresentar sinais de impacto na cabeça ou lesões externas.</p>
+<p>Equipes do Corpo de Bombeiros Militar e do SAMU foram acionadas e prestaram atendimento, mas ele não resistiu.</p>
+<p>O corpo foi encaminhado à Polícia Científica de Florianópolis para os procedimentos legais.</p>
+<p>Familiares estão em São José para providenciar o traslado para Sergipe, onde será realizado o sepultamento.</p>
+<p>Amigos e colegas organizam uma homenagem em memória do jovem, que era conhecido na comunidade local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Serviços públicos de Itapema terão alterações durante o Natal e Réveillon]]></title>
+    <link>https://visornoticias.com.br/servicos-publicos-de-itapema-terao-mudancas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 23 Dec 2025 16:18:37 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320779]]></guid>
+    <description><![CDATA[A Prefeitura de Itapema anunciou mudanças no funcionamento dos serviços municipais durante as festas de fim de ano.]]></description>
+    <content:encoded><![CDATA[
+<p>Os serviços públicos municipais terão horários diferenciados durante o período do Natal e Réveillon.</p>
+<p>As alterações visam atender à demanda e garantir o funcionamento adequado durante as festividades.</p>
+<p>Detalhes específicos sobre quais serviços estarão disponíveis e seus horários foram divulgados pela administração municipal.</p>
     ]]></content:encoded>
   </item>
 </channel>
