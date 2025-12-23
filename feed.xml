@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 22 Dec 2025 23:38:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 00:38:18 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,34 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Temporal provoca destelhamento de casas e alagamentos em Lages]]></title>
-    <link>https://visornoticias.com.br/temporal-atinge-lages-e-deixa-casas-destelhadas-e-ruas-alagadas/</link>
+    <title><![CDATA[Ieda Maria Vargas, primeira brasileira a vencer o Miss Universo, morre aos 80 anos]]></title>
+    <link>https://visornoticias.com.br/morre-iedaa-maria-vargas-primeira-brasileira-a-vencer-o-miss-universo-aos-80-anos/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 23:29:32 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320422]]></guid>
-    <description><![CDATA[Ventos fortes causaram danos em Lages, com quedas de árvores, destelhamento de imóveis e alagamentos em diversas áreas da cidade.]]></description>
+    <pubDate>Mon, 22 Dec 2025 23:57:44 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320429]]></guid>
+    <description><![CDATA[Ieda Maria Vargas, que foi a primeira brasileira a conquistar o título de Miss Universo, faleceu aos 80 anos.]]></description>
     <content:encoded><![CDATA[
-<p>O temporal que atingiu Lages resultou em prejuízos materiais devido à intensidade dos ventos.</p>
-<p>Árvores foram derrubadas em diferentes pontos, afetando a circulação e a infraestrutura local.</p>
-<p>Casas tiveram seus telhados danificados, comprometendo a estrutura dos imóveis.</p>
-<p>Ruas ficaram alagadas, dificultando o tráfego e o acesso em algumas regiões da cidade.</p>
+<p>Ieda Maria Vargas estava internada na Unidade de Terapia Intensiva de um hospital no Rio Grande do Sul.</p>
+<p>A causa da morte não foi divulgada.</p>
+<p>Ieda Maria Vargas marcou a história ao ser a primeira brasileira a vencer o concurso Miss Universo.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Fiscalização identifica irregularidades em marcas de café em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/fiscalizacao-encontra-irregularidades-em-marcas-de-cafes-em-sc/</link>
+    <title><![CDATA[Fiscalização identifica marcas de café com impurezas à venda em Santa Catarina]]></title>
+    <link>https://jornalrazao.com/geral/cafe-impurezas-fiscalizacao-mapa-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 22 Dec 2025 23:08:11 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320399]]></guid>
-    <description><![CDATA[Análises laboratoriais apontaram a presença de impurezas acima dos limites permitidos em lotes de café no estado.]]></description>
+    <pubDate>Mon, 22 Dec 2025 23:45:19 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173297]]></guid>
+    <description><![CDATA[Uma operação de fiscalização encontrou 14 marcas de café com impurezas acima do permitido em estabelecimentos comerciais de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>Lotes de café foram desclassificados após a constatação de irregularidades em análises laboratoriais.</p>
-<p>Os produtos com impurezas acima do permitido foram recolhidos do mercado para garantir a segurança dos consumidores.</p>
-<p>A ação de fiscalização visa assegurar a qualidade dos alimentos comercializados em Santa Catarina.</p>
+<p>A fiscalização realizada pelo Ministério da Agricultura e Pecuária identificou a presença de matérias estranhas em amostras de café comercializadas no estado.</p>
+<p>Os produtos foram coletados em supermercados e outros pontos de venda, e passaram por análises técnicas que confirmaram a não conformidade dos lotes.</p>
+<p>As marcas envolvidas, com sedes em três estados brasileiros, foram desclassificadas e tiveram o recolhimento imediato dos produtos determinado.</p>
+<p>Entre as marcas citadas estão Terra da Gente, Terra da Gente Tradicional e Terra da Gente Extra Forte, todas apresentando impurezas acima dos limites legais.</p>
+<p>Consumidores que adquiriram os produtos irregulares foram orientados a interromper o consumo e procurar os estabelecimentos para solicitar a substituição.</p>
     ]]></content:encoded>
   </item>
 </channel>
