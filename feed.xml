@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 24 Dec 2025 20:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 21:35:58 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,50 +21,67 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Shelf cloud avança e escurece o céu em Tijucas]]></title>
-    <link>https://jornalrazao.com/meioambiente/shelf-cloud-temporais-alerta-tijucas-natal/</link>
+    <title><![CDATA[Jovem é morto a facadas em Itapema após tentativa de fuga]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-tentou-fugir-em-itapema-mas-foi-morto/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 20:24:00 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173437]]></guid>
-    <description><![CDATA[Uma shelf cloud avançou sobre Tijucas, no Litoral de Santa Catarina, provocando mudança brusca no tempo na véspera de Natal.]]></description>
-    <content:encoded><![CDATA[
-<p>Após um dia de calor intenso, a formação da shelf cloud chamou a atenção pelo formato marcante no céu da cidade.</p>
-<p>Esse tipo de nuvem está associada à chegada de temporais, indicando instabilidade com possibilidade de ventos fortes e chuva.</p>
-<p>O cenário para a quinta-feira permanece com tempo abafado e risco de novas pancadas típicas do verão na região.</p>
-<p>Há alerta para temporais com rajadas de vento, alagamentos, queda de granizo, descargas elétricas e risco de enxurradas em municípios do Litoral de Santa Catarina.</p>
-<p>Em caso de ocorrências, as autoridades recomendam acionar a Defesa Civil ou o Corpo de Bombeiros.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Criança de 9 anos morre após choque elétrico em praça com decoração natalina]]></title>
-    <link>https://visornoticias.com.br/menino-de-9-anos-morre-apos-descarga-eletrica-em-praca-com-decoracao-de-natal/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 20:16:58 GMT</pubDate>
+    <pubDate>Wed, 24 Dec 2025 21:29:01 GMT</pubDate>
   <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321191]]></guid>
-    <description><![CDATA[Um menino de 9 anos faleceu após sofrer uma descarga elétrica em uma praça decorada para o Natal.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173440]]></guid>
+    <description><![CDATA[Um homem de 23 anos foi assassinado a facadas no bairro Morretes, em Itapema, no Litoral Norte de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu em uma área onde havia uma réplica de trem como parte da decoração natalina.</p>
-<p>A criança foi vítima de um choque elétrico enquanto estava na praça.</p>
-<p>A Polícia Civil está conduzindo uma investigação para apurar as circunstâncias do acidente.</p>
+<p>O crime ocorreu em um terreno baldio próximo à Rua 430 B, onde a vítima tentou fugir a pé, já ferida, mas acabou caindo no local.</p>
+<p>Mesmo com a vítima caída e sem condições de defesa, o agressor continuou desferindo golpes de faca, resultando na morte imediata do jovem.</p>
+<p>Equipes do Instituto Médico Legal realizaram o recolhimento do corpo no final da tarde, enquanto a área permaneceu isolada para os procedimentos das forças de segurança.</p>
+<p>O autor do homicídio foi identificado e preso pouco depois por agentes da Guarda Municipal de Itapema, com apoio de testemunhas presentes no momento do crime.</p>
+<p>O suspeito possui registros policiais anteriores na cidade, incluindo ocorrências relacionadas a tráfico de drogas, desacato e maus-tratos contra animais.</p>
+<p>A Polícia Civil investiga as circunstâncias e a motivação do homicídio.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Defesa Civil emite alerta de temporais para cidades do Sul de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/defesa-civil-emite-alerta-de-temporais-para-cidades-de-santa-catarina-nesta-quarta-feira/</link>
+    <title><![CDATA[Santa Catarina enfrenta calor intenso e risco de temporais no Natal]]></title>
+    <link>https://visornoticias.com.br/natal-sera-de-calor-intenso-e-risco-de-temporais-por-toda-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 19:59:10 GMT</pubDate>
+    <pubDate>Wed, 24 Dec 2025 21:12:27 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321186]]></guid>
-    <description><![CDATA[Alerta indica possibilidade de alagamentos, ventos fortes, granizo e enxurradas em várias regiões do Sul do estado nesta quarta-feira.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321222]]></guid>
+    <description><![CDATA[A Defesa Civil emitiu alerta para altas temperaturas, chuvas fortes e ventos em Santa Catarina nesta quinta-feira.]]></description>
     <content:encoded><![CDATA[
-<p>A Defesa Civil emitiu um alerta para temporais que podem afetar cidades do Sul de Santa Catarina durante esta quarta-feira.</p>
-<p>O aviso destaca o risco de alagamentos, ventos intensos, queda de granizo e enxurradas em áreas específicas da região.</p>
-<p>Além do Sul do estado, a cidade de Natal também pode registrar instabilidades climáticas ao longo do dia.</p>
-<p>As condições meteorológicas exigem atenção redobrada da população e das autoridades locais para minimizar possíveis impactos.</p>
+<p>O estado de Santa Catarina deve registrar calor intenso durante o feriado de Natal.</p>
+<p>Há previsão de temporais com chuva forte e ventos em diversas regiões do estado.</p>
+<p>A Defesa Civil recomendou atenção redobrada devido às condições climáticas adversas.</p>
+<p>As autoridades monitoram a situação para orientar a população e minimizar riscos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é resgatado em estado grave após afogamento em lagoa de Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/banhista-e-resgatado-em-estado-grave-apos-afogamento-em-lagoa-de-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 21:02:56 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321219]]></guid>
+    <description><![CDATA[Um homem de 42 anos foi resgatado em estado grave após se afogar em uma lagoa no estado de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>Equipes do Arcanjo e do Samu prestaram atendimento ao homem no local do afogamento.</p>
+<p>Após o resgate, ele foi encaminhado a um hospital em Florianópolis para receber cuidados médicos.</p>
+<p>As circunstâncias do afogamento não foram detalhadas pelas autoridades.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem é encontrado morto a facadas em Itapema]]></title>
+    <link>https://visornoticias.com.br/identificado-jovem-morto-a-facadas-em-plena-luz-do-dia-em-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 20:52:08 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321195]]></guid>
+    <description><![CDATA[Um homem foi encontrado morto no bairro Morretes, em Itapema. O suspeito pelo crime foi detido horas após o ocorrido.]]></description>
+    <content:encoded><![CDATA[
+<p>O corpo do jovem foi localizado durante o dia no bairro Morretes.</p>
+<p>A vítima apresentava ferimentos causados por arma branca.</p>
+<p>A polícia realizou a prisão do suspeito poucas horas depois do crime.</p>
+<p>As circunstâncias que levaram ao homicídio estão sendo investigadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
