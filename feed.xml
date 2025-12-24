@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 24 Dec 2025 01:38:18 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 04:38:12 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,36 +21,19 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é esfaqueado após invasão domiciliar em Florianópolis]]></title>
-    <link>https://jornalrazao.com/seguranca/homem-invade-casa-e-da-facada-nas-costas-de-morador-em-florianopolis/</link>
+    <title><![CDATA[Ocean Place recebe concerto natalino gratuito para encerramento da temporada de Natal em Balneário Camboriú]]></title>
+    <link>https://portalmenina.com.br/ocean-place-recebe-concerto-natalino-gratuito-que-marca-encerramento-da-temporada-de-natal-em-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 01:11:01 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173377]]></guid>
-    <description><![CDATA[Um homem foi esfaqueado nas costas durante uma invasão em sua residência no bairro Rio Tavares, em Florianópolis.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu na noite de terça-feira, quando a vítima foi atendida após dar entrada ferida no estacionamento de um supermercado às margens da Rodovia Francisco Magno Vieira.</p>
-<p>A vítima estava consciente e orientada no momento do atendimento inicial pelo Corpo de Bombeiros Militar, sendo posteriormente encaminhada ao Hospital Celso Ramos para cuidados médicos.</p>
-<p>A vítima conseguiu caminhar até o supermercado para pedir ajuda e não reconhece o autor do ataque.</p>
-<p>Imagens de videomonitoramento registraram a entrada e saída do suspeito na residência, mas ele ainda não foi localizado.</p>
-<p>O caso foi registrado como tentativa de homicídio doloso e está sob investigação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Véspera de Natal terá calor intenso e risco de temporais em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/vespera-de-natal-tera-calor-intenso-e-risco-de-temporais-em-santa-catarina/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 00:37:03 GMT</pubDate>
+    <pubDate>Wed, 24 Dec 2025 03:04:00 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320979]]></guid>
-    <description><![CDATA[Santa Catarina deve registrar calor intenso e aumento da instabilidade no dia da véspera de Natal, com possibilidade de temporais.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131188]]></guid>
+    <description><![CDATA[Balneário Camboriú encerra a temporada de Natal com um evento gratuito que inclui concerto, apresentações circenses e ações culturais no Ocean Place.]]></description>
     <content:encoded><![CDATA[
-<p>A instabilidade atmosférica deve se intensificar ao longo do dia, elevando o risco de temporais em diversas regiões do estado.</p>
-<p>As condições climáticas podem provocar alagamentos e enxurradas, especialmente em áreas urbanas e com drenagem comprometida.</p>
-<p>Há também a possibilidade de danos na rede elétrica devido à intensidade dos ventos e precipitações.</p>
-<p>O calor intenso registrado durante o dia contribui para a formação de nuvens carregadas e aumento da instabilidade.</p>
-<p>Recomenda-se atenção às condições climáticas e adoção de medidas preventivas para minimizar impactos.</p>
+<p>No dia 28 de dezembro, das 15h às 18h, o estacionamento do Ocean Place, localizado na Avenida Atlântica, será palco de um concerto natalino aberto ao público.</p>
+<p>O evento contará com a apresentação da ADBLU Orquestra, de Blumenau, em formato pocket com dez músicos, além de apresentações de artistas circenses.</p>
+<p>A programação inclui também a partilha de experiências dos músicos e artistas sobre suas trajetórias, destacando a importância da música e da arte circense como ferramentas culturais.</p>
+<p>A iniciativa tem o objetivo de aproximar o público da arte e incentivar o interesse pela música, reforçando o espírito natalino na cidade.</p>
+<p>O evento é gratuito e não exige retirada prévia de ingressos, sendo aberto a todos que comparecerem durante o horário previsto.</p>
     ]]></content:encoded>
   </item>
 </channel>
