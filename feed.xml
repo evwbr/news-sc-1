@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 24 Dec 2025 00:38:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 01:38:18 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,36 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Idoso morre em sequência de acidentes causada por carro na contramão na BR-101 em SC]]></title>
-    <link>https://visornoticias.com.br/carro-na-contramao-provoca-sequencia-de-acidentes-e-idoso-morre-na-br-101-em-sc/</link>
+    <title><![CDATA[Homem é esfaqueado após invasão domiciliar em Florianópolis]]></title>
+    <link>https://jornalrazao.com/seguranca/homem-invade-casa-e-da-facada-nas-costas-de-morador-em-florianopolis/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 23 Dec 2025 23:42:45 GMT</pubDate>
+    <pubDate>Wed, 24 Dec 2025 01:11:01 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320986]]></guid>
-    <description><![CDATA[Um acidente envolvendo três veículos resultou na morte de um idoso e deixou outros dois motoristas feridos na BR-101, em Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173377]]></guid>
+    <description><![CDATA[Um homem foi esfaqueado nas costas durante uma invasão em sua residência no bairro Rio Tavares, em Florianópolis.]]></description>
     <content:encoded><![CDATA[
-<p>Um carro trafegando na contramão provocou uma sequência de acidentes na BR-101, envolvendo três veículos.</p>
-<p>O impacto resultou na morte de um idoso e ferimentos em outros dois motoristas.</p>
-<p>As autoridades de trânsito estão no local para atendimento e controle do tráfego.</p>
+<p>O incidente ocorreu na noite de terça-feira, quando a vítima foi atendida após dar entrada ferida no estacionamento de um supermercado às margens da Rodovia Francisco Magno Vieira.</p>
+<p>A vítima estava consciente e orientada no momento do atendimento inicial pelo Corpo de Bombeiros Militar, sendo posteriormente encaminhada ao Hospital Celso Ramos para cuidados médicos.</p>
+<p>A vítima conseguiu caminhar até o supermercado para pedir ajuda e não reconhece o autor do ataque.</p>
+<p>Imagens de videomonitoramento registraram a entrada e saída do suspeito na residência, mas ele ainda não foi localizado.</p>
+<p>O caso foi registrado como tentativa de homicídio doloso e está sob investigação.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Véspera de Natal terá calor intenso e risco de temporais em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/vespera-de-natal-tera-calor-intenso-e-risco-de-temporais-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 00:37:03 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=320979]]></guid>
+    <description><![CDATA[Santa Catarina deve registrar calor intenso e aumento da instabilidade no dia da véspera de Natal, com possibilidade de temporais.]]></description>
+    <content:encoded><![CDATA[
+<p>A instabilidade atmosférica deve se intensificar ao longo do dia, elevando o risco de temporais em diversas regiões do estado.</p>
+<p>As condições climáticas podem provocar alagamentos e enxurradas, especialmente em áreas urbanas e com drenagem comprometida.</p>
+<p>Há também a possibilidade de danos na rede elétrica devido à intensidade dos ventos e precipitações.</p>
+<p>O calor intenso registrado durante o dia contribui para a formação de nuvens carregadas e aumento da instabilidade.</p>
+<p>Recomenda-se atenção às condições climáticas e adoção de medidas preventivas para minimizar impactos.</p>
     ]]></content:encoded>
   </item>
 </channel>
