@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 24 Dec 2025 16:38:13 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 17:38:24 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,78 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Jovem de 25 anos morre em acidente na SC-355 em Fraiburgo]]></title>
-    <link>https://jornalrazao.com/seguranca/jovem-de-25-anos-e-identificado-como-vitima-de-acidente-fatal-na-sc-355/</link>
+    <title><![CDATA[Morre José João Correia, ex-vereador e ex-vice-prefeito de Itapema]]></title>
+    <link>https://visornoticias.com.br/morre-jose-joao-correia-o-santo-ex-vereador-e-ex-vice-prefeito-de-itapema/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 16:06:56 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173410]]></guid>
-    <description><![CDATA[Um acidente fatal envolvendo um carro e um caminhão foi registrado na madrugada na SC-355, em Fraiburgo, no Meio-Oeste de Santa Catarina.]]></description>
+    <pubDate>Wed, 24 Dec 2025 17:30:57 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321143]]></guid>
+    <description><![CDATA[José João Correia, conhecido como “Santo”, faleceu. Ele teve atuação destacada na política e no serviço público municipal de Itapema.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu por volta das 4h na localidade de Papuã, quando um VW/Gol colidiu frontalmente com um caminhão-trator Volvo que tracionava um semi-reboque.</p>
-<p>O condutor do carro, de 25 anos, ficou preso às ferragens e não resistiu aos ferimentos, sendo constatado o óbito no local.</p>
-<p>O motorista do caminhão, de 28 anos, não sofreu ferimentos e permaneceu no local para prestar esclarecimentos às autoridades.</p>
-<p>Equipes do Corpo de Bombeiros, Polícia Militar Rodoviária, Polícia Científica, Instituto Médico Legal e Polícia Civil atenderam a ocorrência, realizando o desencarceramento, perícia técnica e controle da cena.</p>
-<p>As circunstâncias do acidente estão sob investigação pelas autoridades competentes.</p>
+<p>José João Correia foi vereador e vice-prefeito de Itapema, contribuindo por décadas para a administração local.</p>
+<p>Além da carreira política, ele dedicou muitos anos ao serviço público municipal.</p>
+<p>Sua trajetória marcou a história política da cidade, com atuação reconhecida pela comunidade.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é atacado com faca durante invasão a residência em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/homem-invade-residencia-durante-a-noite-e-ataca-morador-com-faca-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 17:27:58 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321142]]></guid>
+    <description><![CDATA[Um homem foi atacado com uma faca durante uma invasão a sua residência durante a noite em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O morador conseguiu caminhar até um estabelecimento localizado às margens da rodovia após o ataque.</p>
+<p>O autor do ataque fugiu do local e não foi localizado até o momento.</p>
+<p>As circunstâncias da invasão e o estado de saúde da vítima não foram divulgados.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Mulher de 25 anos morre após ataque de pitbull no quintal de casa]]></title>
+    <link>https://visornoticias.com.br/mulher-de-25-anos-morre-apos-ataque-de-pitbull-no-quintal-de-casa/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 17:04:46 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321136]]></guid>
+    <description><![CDATA[Uma mulher de 25 anos morreu após ser atacada por um pitbull no quintal de sua residência.]]></description>
+    <content:encoded><![CDATA[
+<p>O ataque ocorreu no quintal da casa da vítima.</p>
+<p>A mulher sofreu ferimentos graves e não resistiu aos ferimentos, falecendo no local.</p>
+<p>As circunstâncias do ataque ainda estão sendo apuradas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem de 25 anos morre em acidente na SC-355 após colisão com caminhão]]></title>
+    <link>https://visornoticias.com.br/identificado-jovem-que-morreu-em-acidente-em-sc-apos-carro-entrar-sob-caminhao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 16:46:45 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321132]]></guid>
+    <description><![CDATA[Um homem de 25 anos morreu em um acidente na SC-355 após o carro em que estava colidir frontalmente com um caminhão.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu quando o entrou sob a parte traseira do caminhão, resultando em uma colisão frontal.</p>
+<p>A vítima não resistiu aos ferimentos e morreu no local do acidente.</p>
+<p>As circunstâncias que levaram à colisão ainda estão sendo investigadas pelas autoridades competentes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Menina de 11 anos apresenta sintomas após consumir doce distribuído por Papai Noel]]></title>
+    <link>https://visornoticias.com.br/menina-de-11-anos-apresenta-sintomas-apos-consumir-doce-distribuido-por-papai-noel/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 16:35:14 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321131]]></guid>
+    <description><![CDATA[Uma menina de 11 anos apresentou sintomas após consumir um doce que continha comprimidos em seu interior.]]></description>
+    <content:encoded><![CDATA[
+<p>A criança recebeu doces distribuídos por um Papai Noel em evento local.</p>
+<p>Após consumir o doce, a menina começou a apresentar sintomas que motivaram atendimento médico.</p>
+<p>Comprimidos foram encontrados dentro dos doces entregues durante a ação.</p>
+<p>As autoridades investigam a origem dos comprimidos e as circunstâncias da distribuição.</p>
     ]]></content:encoded>
   </item>
 </channel>
