@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 24 Dec 2025 09:38:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 11:38:18 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,48 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Uso de folhas de louro para atrair prosperidade em 2026]]></title>
-    <link>https://visornoticias.com.br/3-simpatias-com-folhas-de-louro-para-atrair-prosperidade-em-2026/</link>
+    <title><![CDATA[Colisão entre dois veículos deixa motorista ferida na BR-470 em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/batida-entre-dois-carros-deixa-motorista-ferida-na-br-470-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 24 Dec 2025 09:00:08 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/3-simpatias-com-folhas-de-louro-para-atrair-prosperidade-em-2026/]]></guid>
-    <description><![CDATA[Folhas de louro são tradicionalmente utilizadas em rituais para atrair prosperidade, proteção e sorte.]]></description>
+    <pubDate>Wed, 24 Dec 2025 11:28:32 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321056]]></guid>
+    <description><![CDATA[Uma colisão envolvendo dois carros resultou em uma motorista ferida na BR-470, em Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>A planta é empregada em diferentes práticas que buscam melhorar a situação financeira e pessoal no ano seguinte.</p>
-<p>Entre as aplicações, destacam-se métodos que envolvem o uso das folhas em ambientes domésticos ou pessoais.</p>
-<p>Essas práticas fazem parte de tradições culturais que associam o louro a energias positivas e proteção.</p>
-<p>O uso das folhas de louro pode variar</p>
+<p>A condutora de um dos veículos foi encaminhada ao hospital para atendimento médico.</p>
+<p>Os demais envolvidos no acidente recusaram atendimento no local.</p>
+<p>As circunstâncias da colisão ainda não foram detalhadas pelas autoridades.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[sai da pista e capota na BR-470 durante a madrugada em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/carro-sai-da-pista-e-capota-na-br-470-durante-a-madrugada-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 11:11:49 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321041]]></guid>
+    <description><![CDATA[Um carro saiu da pista e capotou na BR-470 durante a madrugada em Santa Catarina. O motorista foi encontrado consciente fora do e recusou encaminhamento hospitalar após atendimento dos bombeiros.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na BR-470, envolvendo um que saiu da pista e capotou durante a madrugada.</p>
+<p>O motorista foi localizado consciente fora do carro no local do acidente.</p>
+<p>Após receber atendimento dos bombeiros, o condutor optou por não ser encaminhado ao hospital.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Operação Verão intensifica policiamento em Itapema, Porto Belo e Bombinhas]]></title>
+    <link>https://jornalrazao.com/seguranca/operacao-verao-reforca-policiamento-em-itapema-porto-belo-e-bombinhas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 24 Dec 2025 11:03:23 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173383]]></guid>
+    <description><![CDATA[Policiais militares iniciaram a primeira fase da Operação Verão nas cidades de Itapema, Porto Belo e Bombinhas, com o objetivo de reforçar a segurança durante o aumento do fluxo turístico na região.]]></description>
+    <content:encoded><![CDATA[
+<p>A ação conta com a participação de policiais recém-formados e militares de diferentes regiões do estado, distribuídos estrategicamente para atender à maior movimentação de moradores e visitantes no litoral norte de Santa Catarina.</p>
+<p>As atividades incluem a instalação de barreiras policiais, patrulhamento com motocicletas e reforço do policiamento preventivo nas praias, focando nos locais com maior concentração de pessoas para prevenir crimes e manter a ordem pública.</p>
+<p>Está previsto o envio de novos policiais para a região na próxima semana, o que deve elevar o efetivo da operação para 49 militares durante o período do Réveillon.</p>
+<p>A Operação Verão terá continuidade até 22 de fevereiro, garantindo presença policial reforçada ao longo de toda a temporada na Costa Esmeralda.</p>
     ]]></content:encoded>
   </item>
 </channel>
