@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 25 Dec 2025 09:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Dec 2025 11:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,36 +21,34 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Opções de pratos vegetarianos para a ceia de Natal]]></title>
-    <link>https://visornoticias.com.br/13-opcoes-de-comidas-vegetarianas-para-o-natal/</link>
+    <title><![CDATA[Incêndio destrói estrutura de choperia no bairro Morretes, em Itapema]]></title>
+    <link>https://jornalrazao.com/seguranca/incendio/incendio-destroi-estrutura-de-choperia-no-bairro-morretes-emitapema/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 25 Dec 2025 09:20:50 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/13-opcoes-de-comidas-vegetarianas-para-o-natal/]]></guid>
-    <description><![CDATA[É possível preparar uma ceia de Natal com pratos variados e saborosos utilizando apenas alimentos de origem vegetal.]]></description>
+    <pubDate>Thu, 25 Dec 2025 11:15:23 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173448]]></guid>
+    <description><![CDATA[Um incêndio atingiu uma choperia no bairro Morretes, em Itapema, na tarde desta quarta-feira.]]></description>
     <content:encoded><![CDATA[
-<p>A culinária vegetariana oferece diversas alternativas para a ceia natalina, com pratos que agradam diferentes paladares.</p>
-<p>Ingredientes como legumes, verduras, grãos e frutas podem ser combinados para criar refeições nutritivas e saborosas.</p>
-<p>Essas opções permitem uma celebração mais inclusiva para quem segue dietas sem produtos de origem animal.</p>
-<p>Além de diversificar o cardápio, os pratos vegetarianos podem contribuir para uma alimentação mais saudável durante as festas.</p>
+<p>O fogo começou por volta das 14h na Rua 420, onde funciona o estabelecimento comercial, que estava fechado no momento do incidente.</p>
+<p>Equipes do Corpo de Bombeiros de Itapema e Balneário Camboriú atuaram no combate às chamas, utilizando várias linhas de ataque e cerca de 30 mil litros de água.</p>
+<p>O combate ao incêndio foi realizado exclusivamente do lado de fora do imóvel devido ao risco de colapso estrutural e à presença de cilindros de CO₂ no interior.</p>
+<p>Após o controle do fogo, a Defesa Civil municipal avaliou a estrutura e não recomendou a interdição do imóvel.</p>
+<p>O local foi entregue sob responsabilidade do proprietário, que deve manter o isolamento até a realização da perícia para apurar as causas do incêndio.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Rituais para atrair prosperidade financeira em 2026]]></title>
-    <link>https://visornoticias.com.br/6-simpatias-para-conquistar-prosperidade-financeira-em-2026/</link>
+    <title><![CDATA[Acidente entre carro e moto é registrado na BR-470 em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/acidente-de-carro-e-moto-e-registrado-na-br-470-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 25 Dec 2025 09:00:09 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/6-simpatias-para-conquistar-prosperidade-financeira-em-2026/]]></guid>
-    <description><![CDATA[Diversos rituais são realizados com o objetivo de atrair prosperidade financeira no início do ano novo.]]></description>
+    <pubDate>Thu, 25 Dec 2025 11:15:04 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321267]]></guid>
+    <description><![CDATA[Um acidente envolvendo um carro e uma motocicleta foi registrado no km 94 da BR-470, em Santa Catarina. Não houve feridos na ocorrência.]]></description>
     <content:encoded><![CDATA[
-<p>Práticas tradicionais buscam promover a abundância e o sucesso financeiro ao longo do ano.</p>
-<p>Esses rituais envolvem elementos simbólicos e ações específicas que representam a atração de dinheiro.</p>
-<p>A realização desses procedimentos é comum em diferentes culturas e pode variar</p>
-<p>O foco principal é iniciar o ano com energias positivas voltadas para o crescimento econômico pessoal.</p>
-<p>A adoção dessas práticas ocorre geralmente na virada do ano, momento considerado propício para mudanças.</p>
-<p>Embora não haja comprovação científica, muitas pessoas recorrem a esses rituais como forma de motivação.</p>
+<p>O acidente mobilizou bombeiros voluntários e a Polícia Rodoviária Federal para atendimento no local.</p>
+<p>Apesar do impacto entre os veículos, nenhum dos envolvidos sofreu ferimentos.</p>
+<p>As equipes realizaram os procedimentos necessários para garantir a segurança no trecho da rodovia.</p>
     ]]></content:encoded>
   </item>
 </channel>
