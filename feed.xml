@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 25 Dec 2025 22:35:48 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 26 Dec 2025 00:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,20 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é morto a facadas em Itapema na véspera de Natal]]></title>
-    <link>https://portalmenina.com.br/jovem-e-morto-a-facadas-em-plena-luz-do-dia-na-vespera-de-natal-em-itapema/</link>
+    <title><![CDATA[Menina de 1 ano entrega panetone a coletores de lixo em Brusque]]></title>
+    <link>https://jornalrazao.com/especiais/menina-1-ano-presenteia-coletores-natal-brusque/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 25 Dec 2025 21:18:28 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131306]]></guid>
-    <description><![CDATA[Um homem foi assassinado a facadas na tarde da véspera de Natal em Itapema, no bairro Morretes.]]></description>
+    <pubDate>Fri, 26 Dec 2025 00:03:41 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173510]]></guid>
+    <description><![CDATA[Uma criança de 1 ano e 9 meses participou de uma ação de reconhecimento aos coletores de resíduos no bairro São Pedro, em Brusque.]]></description>
     <content:encoded><![CDATA[
-<p>O crime ocorreu por volta das 15h49 na Rua 440 e mobilizou equipes da Guarda Municipal e da Polícia Militar.</p>
-<p>Ao chegarem ao local, as autoridades constataram que a vítima já estava sem vida, apresentando ferimentos causados por golpes de faca.</p>
-<p>O suspeito fugiu pela Rua 450, no bairro Jardim Praia Mar, mas foi localizado e detido pouco tempo depois durante buscas na região.</p>
-<p>O homem detido permaneceu em silêncio durante a abordagem, recebeu voz de prisão e foi encaminhado à Delegacia de Polícia Civil.</p>
-<p>A área do crime foi isolada para a realização da perícia e remoção do corpo pela Polícia Científica.</p>
-<p>A Polícia Civil investiga as circunstâncias e a motivação do homicídio.</p>
+<p>A mãe da criança adquiriu um panetone para presentear os profissionais durante a passagem do caminhão de coleta pela rua onde moram.</p>
+<p>A menina demonstrou entusiasmo ao acenar e acompanhar o trabalho dos coletores, permanecendo na calçada durante a entrega do presente.</p>
+<p>O gesto teve como objetivo valorizar o trabalho dos coletores e transmitir uma lição de respeito e reconhecimento desde a infância.</p>
+<p>A ação ocorreu em um momento próximo ao Natal, reforçando o espírito de gratidão e solidariedade na comunidade local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Câmera registra atropelamento de jovem em Camboriú]]></title>
+    <link>https://jornalrazao.com/seguranca/carro-avanca-e-prensa-jovem-contra-parede/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 25 Dec 2025 23:39:28 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173504]]></guid>
+    <description><![CDATA[Imagens de uma câmera de segurança mostram o momento em que um atropela um jovem em Camboriú, prensando-o contra a parede de um comércio.]]></description>
+    <content:encoded><![CDATA[
+<p>O incidente ocorreu quando o jovem estava encostado ao lado da parede de um estabelecimento comercial e foi atingido por um Volkswagen Fox.</p>
+<p>O vídeo indica que a condutora acelerou no momento em que deveria frear, resultando no atropelamento e no impacto contra a parede.</p>
+<p>Apesar do susto, o jovem conseguiu se levantar e caminhar alguns metros sem apresentar sinais visíveis de ferimentos.</p>
+<p>A motorista permaneceu dentro do por alguns segundos até conseguir pará-lo completamente e, em seguida, desceu do carro.</p>
+<p>Não há informações adicionais sobre as circunstâncias que levaram ao atropelamento ou sobre medidas tomadas após o ocorrido.</p>
     ]]></content:encoded>
   </item>
 </channel>
