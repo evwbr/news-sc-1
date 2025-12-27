@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 27 Dec 2025 10:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 11:35:57 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,54 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Último sábado do ano terá sol, calor e possibilidade de pancadas de chuva em Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/ultimo-sabado-do-ano-sera-de-sol-calor-e-pancadas-de-chuva-em-bc/</link>
+    <title><![CDATA[Polícia Militar apreende quase R$ 120 mil e drogas em operação contra tráfico em Camboriú]]></title>
+    <link>https://jornalrazao.com/seguranca/quase-r-120-mil-drogas-e-confusao-pm-desmantela-esquema-de-trafico-em-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 27 Dec 2025 10:18:29 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131457]]></guid>
-    <description><![CDATA[O último sábado do ano em Balneário Camboriú será de tempo abafado, com sol e aumento da instabilidade no período da tarde e noite, quando podem ocorrer pancadas de chuva com trovoadas.]]></description>
+    <pubDate>Sat, 27 Dec 2025 11:26:54 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173584]]></guid>
+    <description><![CDATA[Dois homens foram presos em Camboriú durante ação policial que resultou na apreensão de dinheiro, drogas e materiais relacionados ao tráfico.]]></description>
     <content:encoded><![CDATA[
-<p>A previsão indica sol ao longo do dia, com muitas nuvens pela manhã e maior chance de chuva isolada e passageira entre a tarde e a noite.</p>
-<p>As temperaturas devem variar entre 24°C e 33°C, com umidade relativa do ar em torno de 69%, contribuindo para a sensação de calor.</p>
-<p>O cenário é característico do verão, com calor intenso e possibilidade de temporais rápidos no período noturno.</p>
-<p>Quem pretende aproveitar o dia ao ar livre deve ficar atento às mudanças no tempo, especialmente no final do dia.</p>
-<p>A rede hoteleira da cidade registra ocupação de 85%, mantendo vagas disponíveis para o Réveillon.</p>
+<p>A Polícia Militar prendeu dois homens, de 22 e 25 anos, suspeitos de envolvimento com tráfico de drogas e associação para o tráfico em Camboriú.</p>
+<p>A operação teve início após atendimento a uma rixa na Rua Roma, onde um dos suspeitos foi abordado conduzindo uma motoneta branca com 83 gramas de substância análoga à maconha e R$ 480 em dinheiro.</p>
+<p>Durante buscas, os policiais localizaram o fico e um cigarro eletrônico.</p>
+<p>No momento da prisão, um dos suspeitos resistiu e causou danos ao patrimônio público, resultando em lesões leves a dois policiais e a necessidade de reforço policial.</p>
+<p>Na delegacia, foram encontrados mais entorpecentes com um dos homens, além da motoneta utilizada para entregas, que foi apreendida como instrumento do crime.</p>
+<p>A contagem oficial do dinheiro apreendido totalizou R$ 118.502,00. Ambos foram autuados por tráfico de drogas, associação para o tráfico, contrabando, dano ao patrimônio público, resistência e desacato, permanecendo à disposição da Polícia Civil.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Calor acima de 36°C e previsão de temporais marcam o fim de semana em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/calor-acima-de-36c-e-previsao-de-temporais-marcam-o-fim-de-semana-em-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 11:25:16 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321644]]></guid>
+    <description><![CDATA[Santa Catarina deve registrar temperaturas superiores a 36°C e condições para temporais entre sexta-feira e segunda-feira.]]></description>
+    <content:encoded><![CDATA[
+<p>A Defesa Civil emitiu alertas para o aumento das temperaturas e a possibilidade de chuvas intensas no estado.</p>
+<p>Além do calor elevado, há previsão de raios e possibilidade de granizo durante o período.</p>
+<p>As condições climáticas devem se estender do final da semana até o início da próxima.</p>
+<p>As autoridades recomendam atenção às mudanças no tempo e aos avisos emitidos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Polícia Militar prende dois suspeitos e apreende quase R$ 120 mil em operação contra tráfico em Santa Catarina]]></title>
+    <link>https://portalmenina.com.br/acao-da-pm-desarticula-esquema-de-trafico-prende-dois-suspeitos-e-apreende-quase-r-120-mil-em-dinheiro/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 11:02:28 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131463]]></guid>
+    <description><![CDATA[Dois homens foram detidos durante ação da Polícia Militar que resultou na apreensão de drogas, dinheiro e objetos relacionados ao tráfico em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>A Polícia Militar realizou uma operação que culminou na prisão de dois homens, de 22 e 25 anos, suspeitos de envolvimento com tráfico de drogas e associação para o tráfico.</p>
+<p>A abordagem inicial ocorreu após um chamado para uma rixa, quando um dos suspeitos foi encontrado em uma motoneta com 83 gramas de maconha e dinheiro em espécie.</p>
+<p>Durante a ação, os policiais localizaram o</p>
+<p>O total de dinheiro apreendido foi contabilizado em R$ 118.502. Durante a condução, um dos detidos apresentou resistência e causou danos à viatura, além de lesionar dois policiais.</p>
+<p>Na delegacia, foram encontradas mais porções de maconha, cocaína e dinheiro com um dos suspeitos. A motoneta utilizada nas entregas também foi apreendida.</p>
+<p>Ambos os homens foram encaminhados à Delegacia de Polícia e permanecem à disposição da Justiça para os procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 </channel>
