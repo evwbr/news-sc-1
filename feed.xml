@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 27 Dec 2025 15:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 17:36:15 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,115 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Tráfego lento em trechos da BR-101 no Litoral Norte de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/filas-se-formam-em-varios-trechos-da-br-101-no-litoral-norte-de-sc/</link>
+    <title><![CDATA[Avião de pequeno porte cai no mar em Copacabana]]></title>
+    <link>https://visornoticias.com.br/aviao-de-pequeno-porte-cai-no-mar-em-copacabana/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 27 Dec 2025 14:59:59 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321679]]></guid>
-    <description><![CDATA[Trechos da BR-101 no Litoral Norte de Santa Catarina apresentam lentidão devido ao volume elevado de veículos e ocorrências pontuais.]]></description>
+    <pubDate>Sat, 27 Dec 2025 17:28:57 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321697]]></guid>
+    <description><![CDATA[Uma aeronave de pequeno porte caiu no mar em Copacabana e afundou. Equipes de bombeiros realizam buscas na região.]]></description>
     <content:encoded><![CDATA[
-<p>O tráfego na BR-101 no Litoral Norte de Santa Catarina apresenta lentidão em diversos pontos neste sábado.</p>
-<p>Cidades como Joinville, Araquari, Penha, Itajaí, Balneário Camboriú e Itapema registram filas em seus trechos da rodovia.</p>
-<p>O aumento no fluxo de veículos, aliado a ocorrências pontuais, contribui para a formação das filas.</p>
-<p>Motoristas enfrentam redução na velocidade e maior tempo de deslocamento ao longo do dia.</p>
+<p>O avião caiu no mar próximo à orla de Copacabana. A aeronave afundou após o impacto.</p>
+<p>Bombeiros foram acionados para realizar buscas por possíveis ocupantes da aeronave.</p>
+<p>As operações de resgate continuam no local, com o objetivo de localizar e socorrer eventuais sobreviventes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem com mandado por tráfico é preso em abordagem em Itapema]]></title>
+    <link>https://visornoticias.com.br/homem-com-mandado-por-trafico-e-preso-durante-abordagem-em-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 17:25:20 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321696]]></guid>
+    <description><![CDATA[Um homem de 37 anos foi preso durante uma abordagem em Itapema por conta de um mandado de prisão relacionado a tráfico de drogas.]]></description>
+    <content:encoded><![CDATA[
+<p>A prisão ocorreu após a identificação de uma ordem judicial expedida pelo Tribunal de Justiça do Mato Grosso do Sul.</p>
+<p>O homem foi detido no momento da abordagem e encaminhado às autoridades competentes.</p>
+<p>A ação faz parte das operações de segurança realizadas na região para cumprimento de mandados judiciais.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Cigarros eletrônicos e maços ilegais são apreendidos em comércio de Itapema]]></title>
+    <link>https://visornoticias.com.br/cigarros-eletronicos-e-macos-ilegais-sao-apreendidos-em-comercio-de-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 17:05:18 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321691]]></guid>
+    <description><![CDATA[Produtos ilícitos foram apreendidos em um estabelecimento comercial em Itapema após denúncia.]]></description>
+    <content:encoded><![CDATA[
+<p>Cigarros eletrônicos e maços de cigarro ilegais foram apreendidos em um comércio da cidade de Itapema.</p>
+<p>A ação ocorreu após uma denúncia sobre a venda dos produtos ilícitos no local.</p>
+<p>As autoridades realizaram a fiscalização e recolheram os itens irregulares.</p>
+<p>O estabelecimento foi notificado e as medidas legais cabíveis foram adotadas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Acidente entre dois carros deixa dez mortos em rodovia]]></title>
+    <link>https://visornoticias.com.br/grave-acidente-entre-dois-carros-mata-dez-pessoas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 16:52:21 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321688]]></guid>
+    <description><![CDATA[Colisão frontal entre dois veículos resultou em dez mortes e interdição da rodovia para resgate.]]></description>
+    <content:encoded><![CDATA[
+<p>Dois carros colidiram de frente em uma rodovia, causando um grave acidente.</p>
+<p>Os veículos pegaram fogo após a colisão, dificultando o trabalho das equipes de resgate.</p>
+<p>A rodovia precisou ser interditada para a realização dos procedimentos de atendimento e remoção das vítimas.</p>
+<p>Dez pessoas morreram em decorrência do acidente.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é preso por porte ilegal de arma durante abordagem na BR-101 em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/abordagem-na-br-101-termina-com-homem-preso-por-porte-ilegal-de-arma-em-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 16:47:22 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321685]]></guid>
+    <description><![CDATA[Uma pistola calibre 9 mm foi apreendida em uma caminhonete durante uma abordagem no km 164 da BR-101 em Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante uma fiscalização na BR-101, agentes encontraram uma pistola calibre 9 mm dentro de uma caminhonete.</p>
+<p>O foi abordado no km 164 da rodovia, onde a arma foi localizada.</p>
+<p>O homem que estava no foi preso por porte ilegal de arma.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Abordagem policial a adolescente em Içara gera controvérsia após divulgação de vídeos]]></title>
+    <link>https://jornalrazao.com/seguranca/mae-acusa-a-pmsc-mas-video-desmente-em-icara/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 16:38:03 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173627]]></guid>
+    <description><![CDATA[Vídeos divulgados sobre abordagem policial a um adolescente em Içara, Santa Catarina, apresentam versões divergentes sobre o ocorrido, gerando repercussão nas redes sociais.]]></description>
+    <content:encoded><![CDATA[
+<p>Uma abordagem policial envolvendo um adolescente de 17 anos em Içara, no Sul de Santa Catarina, foi registrada em vídeos que circulam nas redes sociais, provocando debate sobre a conduta dos agentes envolvidos.</p>
+<p>A mãe do jovem publicou um vídeo no qual alega que o filho foi agredido e coagido durante a abordagem, enquanto imagens gravadas por um dos policiais mostram o adolescente em conversa tranquila com os agentes, sem evidências de violência física.</p>
+<p>No vídeo oficial, o policial orienta o jovem sobre a infração relacionada à bicicleta motorizada e questiona se ele necessita de atendimento médico, o que foi recusado pelo adolescente, que confirmou ter caído durante a tentativa de fuga.</p>
+<p>A Polícia Militar</p>
+<p>Após a divulgação do vídeo oficial, a reação nas redes sociais mudou, com críticas à inicial apresentada pela família e apontamentos sobre possíveis contradições no relato.</p>
+<p>Especialistas ressaltam que falsas acusações contra agentes públicos configuram crime, enquanto as autoridades continuam analisando o caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Governador de SC deixa residência antes de almoço com ministro do STF em evento reservado]]></title>
+    <link>https://jornalrazao.com/politica/toffoli-do-stf-almoca-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 27 Dec 2025 15:59:56 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173622]]></guid>
+    <description><![CDATA[O governador de Santa Catarina foi fotografado saindo de uma residência no Balneário Rincão antes do início de um almoço que contou com a presença do ministro do Supremo Tribunal Federal Dias Toffoli e outras lideranças políticas.]]></description>
+    <content:encoded><![CDATA[
+<p>O governador de Santa Catarina esteve em uma casa no Balneário Rincão, no Sul do estado, onde foi realizado um evento com a participação de autoridades políticas e empresariais.</p>
+<p>Antes do início do almoço reservado, o governador deixou o local de forma discreta, sem participar da confraternização principal que contou com a presença do ministro do STF Dias Toffoli.</p>
+<p>O encontro reuniu outras lideranças políticas, entre elas presidentes de assembleias legislativas, deputados federais, prefeitos e ex-prefeitos da região, além do anfitrião e seu pai, empresário e médico.</p>
+<p>O evento teve segurança reforçada e não permitiu a realização de fotos ou vídeos dentro da residência,</p>
+<p>A visita do ministro do STF ocorre em meio a repercussões nacionais relacionadas a investigações envolvendo o caso Banco Master, que está sob análise da Justiça.</p>
+<p>O ministro teria permanecido na residência do anfitrião e há informações sobre uma viagem ao Uruguai durante o fim de semana.</p>
     ]]></content:encoded>
   </item>
 </channel>
