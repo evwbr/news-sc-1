@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 27 Dec 2025 14:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 15:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,51 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Incêndio em resíduos atinge prédio abandonado em Itapema]]></title>
-    <link>https://visornoticias.com.br/incendio-em-residuos-atinge-predio-abandonado-e-mobiliza-bombeiros-em-itapema/</link>
+    <title><![CDATA[Tráfego lento em trechos da BR-101 no Litoral Norte de Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/filas-se-formam-em-varios-trechos-da-br-101-no-litoral-norte-de-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 27 Dec 2025 14:23:19 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321673]]></guid>
-    <description><![CDATA[Um incêndio em resíduos acumulados em frente a uma obra abandonada mobilizou o Corpo de Bombeiros em Itapema.]]></description>
+    <pubDate>Sat, 27 Dec 2025 14:59:59 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321679]]></guid>
+    <description><![CDATA[Trechos da BR-101 no Litoral Norte de Santa Catarina apresentam lentidão devido ao volume elevado de veículos e ocorrências pontuais.]]></description>
     <content:encoded><![CDATA[
-<p>O fogo teve início nos resíduos acumulados em frente ao prédio abandonado localizado na região da Meia Praia.</p>
-<p>As chamas provocaram a queda parcial do forro do edifício.</p>
-<p>O Corpo de Bombeiros foi acionado para controlar o incêndio e evitar a propagação das chamas.</p>
-<p>Não foram divulgadas informações sobre vítimas ou danos adicionais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem condenado por homicídio é preso em Bombinhas após três meses foragido]]></title>
-    <link>https://jornalrazao.com/seguranca/primo-do-jogador-allan-destaque-do-brasileirao-e-preso-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 27 Dec 2025 14:14:48 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173609]]></guid>
-    <description><![CDATA[Um homem condenado por homicídio foi localizado e preso em Bombinhas, no litoral de Santa Catarina, após permanecer foragido por cerca de três meses.]]></description>
-    <content:encoded><![CDATA[
-<p>Jordan Elias Espíndola, natural de Primavera (PA), possuía mandados de prisão em aberto por homicídio e regressão de regime relacionada a crime de tráfico de drogas.</p>
-<p>Ele foi condenado a cumprir pena de 10 anos e 6 meses de reclusão pelo assassinato ocorrido na comunidade Vila Aparecida, em Florianópolis.</p>
-<p>A prisão ocorreu após ação da Companhia de Ações Táticas Especiais (CATE) do BOPE, que localizou o homem durante a temporada de verão em Bombinhas.</p>
-<p>No momento da abordagem, Jordan estava acompanhado de familiares, incluindo parentes próximos a um jogador de futebol profissional.</p>
-<p>Durante o período em que esteve foragido, ele teria mantido uma rotina de lazer, frequentando praias e convivendo com familiares na região.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem morre após ser esfaqueado durante briga familiar em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/homem-morre-apos-ser-esfaqueado-durante-briga-familiar-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 27 Dec 2025 14:01:52 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321669]]></guid>
-    <description><![CDATA[Um homem foi esfaqueado no abdômen durante uma briga familiar e não resistiu aos ferimentos após ser levado ao hospital.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu durante uma discussão entre familiares em Santa Catarina.</p>
-<p>A vítima foi atingida por uma facada no abdômen.</p>
-<p>Após ser socorrida, a vítima foi encaminhada ao hospital, onde veio a falecer.</p>
-<p>As circunstâncias que levaram à briga ainda estão sendo apuradas.</p>
+<p>O tráfego na BR-101 no Litoral Norte de Santa Catarina apresenta lentidão em diversos pontos neste sábado.</p>
+<p>Cidades como Joinville, Araquari, Penha, Itajaí, Balneário Camboriú e Itapema registram filas em seus trechos da rodovia.</p>
+<p>O aumento no fluxo de veículos, aliado a ocorrências pontuais, contribui para a formação das filas.</p>
+<p>Motoristas enfrentam redução na velocidade e maior tempo de deslocamento ao longo do dia.</p>
     ]]></content:encoded>
   </item>
 </channel>
