@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 28 Dec 2025 01:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 28 Dec 2025 02:35:55 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,37 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Criança é atendida após afogamento em piscina residencial em Camboriú]]></title>
-    <link>https://portalmenina.com.br/crianca-se-afoga-em-piscina-em-camboriu-e-recebe-atendimento-do-corpo-de-bombeiros/</link>
+    <title><![CDATA[Defesa Civil emite alerta vermelho para Navegantes e Blumenau devido a temporal]]></title>
+    <link>https://jornalrazao.com/meioambiente/urgente-defesa-civil-emite-alerta-vermelho-para-navegantes-e-blumenau/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 00:57:14 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131488]]></guid>
-    <description><![CDATA[Uma criança de dois anos recebeu atendimento do Corpo de Bombeiros após incidente de afogamento em piscina de condomínio no bairro Santa Regina, em Camboriú.]]></description>
+    <pubDate>Sun, 28 Dec 2025 02:18:23 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173663]]></guid>
+    <description><![CDATA[Temporal intenso causou alagamentos, enxurradas e riscos de deslizamentos em cidades de Santa Catarina, levando à emissão de alerta vermelho para Navegantes e Blumenau.]]></description>
     <content:encoded><![CDATA[
-<p>O atendimento ocorreu no início da noite de sábado, quando a guarnição do 13º Batalhão de Bombeiros foi acionada para prestar socorro pré-hospitalar.</p>
-<p>A criança foi encontrada consciente, porém com quadro de letargia, e apresentava sinais de submersão, incluindo perda momentânea de consciência, cianose e episódio de vômito.</p>
-<p>Durante a avaliação, foram registrados frequência cardíaca de 130 batimentos por minuto e saturação de oxigênio em 98%.</p>
-<p>Os bombeiros realizaram monitoramento contínuo e cuidados para manutenção da temperatura corporal antes de encaminhar a criança ao Hospital Cirúrgico de Camboriú para avaliação médica especializada.</p>
-<p>Os pais acompanharam a criança durante o transporte para o hospital.</p>
+<p>A noite deste sábado foi marcada por um forte temporal que provocou alagamentos severos, enxurradas e riscos de deslizamentos em diversas cidades de Santa Catarina.</p>
+<p>A rápida intensificação da chuva e o volume extremo registrado em curto intervalo de tempo motivaram a emissão de alerta vermelho para Navegantes e Blumenau.</p>
+<p>O alerta também abrange municípios do Litoral Norte e do Vale do Itajaí, incluindo Itajaí, Ilhota, Gaspar, Barra Velha, Balneário Piçarras, Penha, Luiz Alves, Massaranduba, São João do Itaperiú e Indaial.</p>
+<p>Em algumas regiões, o acumulado de chuva ultrapassou 75 mm em menos de uma hora, causando enxurradas rápidas, transbordamento de córregos e alagamentos urbanos.</p>
+<p>Além da chuva intensa, o alerta inclui riscos de raios, rajadas fortes de vento e deslizamentos de terra, especialmente em áreas de encosta e regiões com solo encharcado.</p>
+<p>Em Navegantes, ruas do bairro Escalvados ficaram completamente alagadas, com forte correnteza e veículos ilhados. Em Blumenau, diversos bairros registraram pontos de alagamento e aquaplanagem em vias importantes, incluindo a BR 101.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Proibição de esportes na faixa de areia em Itapema gera debate nas redes sociais]]></title>
+    <link>https://jornalrazao.com/geral/video-influenciador-debate-proibicao-esportes-praia-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 28 Dec 2025 02:06:40 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173660]]></guid>
+    <description><![CDATA[A fiscalização municipal em Itapema aplicou a proibição de jogos na faixa de areia durante a alta temporada,]]></description>
+    <content:encoded><![CDATA[
+<p>Durante a alta temporada, entre 15 de dezembro e 31 de março, a prática de esportes na faixa de areia em Itapema é proibida das 8h às 19h, exceto em áreas esportivas demarcadas e cercadas.</p>
+<p>Um vídeo publicado por um influenciador local mostrou uma abordagem da fiscalização que solicitou o encerramento de um jogo de bola na praia, com base na legislação municipal.</p>
+<p>A gerou reações diversas, com parte do público defendendo a fiscalização para garantir segurança e convivência, enquanto outros consideraram a medida excessiva em situações pontuais.</p>
+<p>O debate evidencia o equilíbrio necessário entre a organização do espaço público e a liberdade dos frequentadores durante o período de maior movimento nas praias do litoral catarinense.</p>
+<p>Autoridades municipais reforçam que a legislação está em vigor e deve ser cumprida, independentemente das opiniões divergentes sobre sua aplicação.</p>
     ]]></content:encoded>
   </item>
 </channel>
