@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 28 Dec 2025 17:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 28 Dec 2025 18:35:59 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,49 +21,65 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Dois presos em flagrante após ataque armado em comunidade de Florianópolis]]></title>
-    <link>https://visornoticias.com.br/ataque-armado-em-comunidade-de-florianopolis-termina-com-dois-presos-em-flagrante/</link>
+    <title><![CDATA[Bombeiros de Santa Catarina reforçam importância das bandeiras de sinalização nas praias]]></title>
+    <link>https://jornalrazao.com/seguranca/bombeiros-sc-explicam-cores-bandeiras-praias/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 17:28:14 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321900]]></guid>
-    <description><![CDATA[Dois homens foram detidos em flagrante após um ataque armado em uma comunidade de Florianópolis, em área conhecida por disputas relacionadas ao tráfico de drogas.]]></description>
-    <content:encoded><![CDATA[
-<p>A ação policial ocorreu após disparos serem registrados na região. Durante a abordagem, foram apreendidas armas e celulares com os suspeitos.</p>
-<p>A comunidade onde o incidente aconteceu é marcada por conflitos envolvendo o tráfico de entorpecentes.</p>
-<p>Os detidos foram encaminhados para a delegacia para os procedimentos legais cabíveis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Adolescente de 13 anos morre afogado em rio de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/adolescente-de-13-anos-morre-afogado-ao-entrar-em-rio-enquanto-pescava-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 16:42:16 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321894]]></guid>
-    <description><![CDATA[Um adolescente de 13 anos morreu afogado após entrar em um rio enquanto pescava em Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>O jovem estava à margem do rio quando entrou na água e avançou cerca de 15 metros.</p>
-<p>Ele acabou se afogando no local.</p>
-<p>Equipes de resgate foram acionadas para atender a ocorrência.</p>
-<p>O caso ocorreu em uma área de Santa Catarina.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Temporal causa alagamentos e desalojamento de famílias em cidade de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/temporal-provoca-alagamentos-e-deixa-familias-desalojadas-em-cidade-de-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 16:39:36 GMT</pubDate>
+    <pubDate>Sun, 28 Dec 2025 18:23:08 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321893]]></guid>
-    <description><![CDATA[Chuva intensa provocou alagamentos e deslocamento de moradores em município catarinense.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173696]]></guid>
+    <description><![CDATA[O Corpo de Bombeiros Militar de Santa Catarina destaca a importância da atenção às bandeiras instaladas nas praias para indicar as condições do mar e prevenir acidentes.]]></description>
     <content:encoded><![CDATA[
-<p>A cidade registrou 70 milímetros de chuva em menos de uma hora, o que resultou em alagamentos em diversas áreas.</p>
-<p>Famílias foram desalojadas devido ao volume de água acumulado nas residências.</p>
-<p>A Defesa Civil está avaliando a possibilidade de decretar situação de emergência para o município.</p>
-<p>As equipes de atendimento seguem monitorando os pontos críticos e prestando suporte às pessoas afetadas.</p>
+<p>As bandeiras retangulares nos postos de guarda-vidas sinalizam o nível de risco para banho de mar. A bandeira verde indica risco baixo, a amarela alerta para atenção redobrada devido a correntezas e ondas mais fortes, e a vermelha sinaliza perigo, recomendando não entrar no mar.</p>
+<p>A bandeira lilás indica a presença de águas-vivas, exigindo cuidado especial dos banhistas, enquanto a bandeira preta informa que o posto de guarda-vidas está desativado, recomendando evitar o banho de mar nessas áreas.</p>
+<p>Além das bandeiras retangulares, as bandeiras triangulares fincadas na areia demarcam as correntes de retorno, consideradas um dos maiores perigos nas praias catarinenses, onde o banho é desaconselhado devido à força da água.</p>
+<p>Os bombeiros orientam que os banhistas observem sempre a sinalização, busquem informações com os guarda-vidas e respeitem os avisos para garantir a segurança durante o banho de mar.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Cobrança por guarda-sol e disputa por espaço geram reclamações na Praia de Laranjeiras, em Balneário Camboriú]]></title>
+    <link>https://jornalrazao.com/geral/turistas-se-revoltam-com-cobranca-e-disputa-por-espaco-em-bc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 28 Dec 2025 18:21:09 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173690]]></guid>
+    <description><![CDATA[Turistas relataram dificuldades para utilizar a faixa de areia da Praia de Laranjeiras devido à instalação antecipada de guarda-sóis e cadeiras destinadas à locação, com cobrança de valores elevados pelo uso dos equipamentos.]]></description>
+    <content:encoded><![CDATA[
+<p>Na Praia de Laranjeiras, em Balneário Camboriú, visitantes têm encontrado obstáculos para usufruir livremente da faixa de areia em função da ocupação por guarda-sóis e cadeiras alugados. Equipamentos são instalados cedo e, em alguns casos, há cobrança de até R$ 200 pelo uso do guarda-sol.</p>
+<p>Espaços ocupados por esses equipamentos permanecem reservados mesmo quando não estão sendo utilizados, limitando a disponibilidade para outros banhistas. A situação tem gerado insatisfação entre os frequentadores da praia.</p>
+<p>A legislação vigente permite a locação de guarda-sóis e cadeiras, mas não autoriza a privatização da faixa de areia nem a exclusão de outros usuários do espaço público. Reclamações sobre a ocupação irregular são comuns durante a temporada de verão em praias concorridas de Santa Catarina.</p>
+<p>Internautas destacaram que a praia é um espaço público e que não há obrigação de pagamento para permanência na areia. Também sugeriram que situações semelhantes sejam comunicadas às autoridades locais para verificação e eventual intervenção.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Ligações irregulares de esgoto são identificadas em Itapema]]></title>
+    <link>https://visornoticias.com.br/ligacoes-irregulares-de-esgoto-sao-identificadas-em-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 28 Dec 2025 18:16:31 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321906]]></guid>
+    <description><![CDATA[Ramais de esgoto conectados à rede de drenagem pluvial foram identificados em Itapema, resultando no despejo direto no mar.]]></description>
+    <content:encoded><![CDATA[
+<p>A prefeitura de Itapema iniciou a apuração das ligações irregulares de esgoto que desembocam na rede de drenagem pluvial da cidade.</p>
+<p>Essas conexões inadequadas têm causado o lançamento de esgoto diretamente no mar, gerando preocupações ambientais.</p>
+<p>Medidas estão sendo adotadas para conter o impacto ambiental e corrigir as irregularidades encontradas.</p>
+<p>A ação visa proteger a qualidade da água e preservar o meio ambiente local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Corpo é encontrado em rio após afogamento no Oeste de SC]]></title>
+    <link>https://visornoticias.com.br/corpo-e-encontrado-em-rio-apos-afogamento-no-oeste-de-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 28 Dec 2025 17:54:28 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321907]]></guid>
+    <description><![CDATA[O corpo de um homem foi localizado em um rio no Oeste de Santa Catarina após ele desaparecer em um incidente de afogamento.]]></description>
+    <content:encoded><![CDATA[
+<p>As buscas foram retomadas na manhã de domingo para localizar o homem desaparecido.</p>
+<p>O corpo foi encontrado durante as operações de resgate no rio.</p>
+<p>As circunstâncias do afogamento ainda estão sendo apuradas.</p>
     ]]></content:encoded>
   </item>
 </channel>
