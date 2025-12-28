@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 28 Dec 2025 14:36:17 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 28 Dec 2025 15:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,160 +21,52 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Pai e filho morrem afogados em rio durante tentativa de resgate]]></title>
-    <link>https://visornoticias.com.br/pai-tenta-salvar-filho-e-ambos-morrem-afogados-em-rio/</link>
+    <title><![CDATA[Carreta pega fogo na BR-101 em Santa Catarina e parte da carga é saqueada]]></title>
+    <link>https://visornoticias.com.br/carreta-pega-fogo-na-br-101-em-sc-e-parte-da-carga-e-saqueada/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:33:36 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321875]]></guid>
-    <description><![CDATA[Pai e filho desapareceram em rio e foram encontrados mortos no dia seguinte.]]></description>
-    <content:encoded><![CDATA[
-<p>Um homem e seu filho morreram afogados em um rio após o pai tentar salvar o filho.</p>
-<p>Ambos desapareceram durante o incidente e os corpos foram localizados no dia seguinte.</p>
-<p>As circunstâncias exatas do ocorrido ainda não foram detalhadas pelas autoridades.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Desfile de Natal em Balneário Camboriú reúne artistas locais]]></title>
-    <link>https://visornoticias.com.br/desfile-natal-balneario-camboriu-22/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:02:35 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321799]]></guid>
-    <description><![CDATA[Evento natalino em Balneário Camboriú contou com a participação de 50 artistas regionais na Avenida Atlântica.]]></description>
-    <content:encoded><![CDATA[
-<p>O desfile de Natal fez parte da programação do Viva o Natal BC 2025 em Balneário Camboriú.</p>
-<p>Cinquenta artistas locais participaram das apresentações realizadas na Avenida Atlântica.</p>
-<p>A iniciativa</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Alerta de temporais é emitido para Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/alerta-temporais-2/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:02:12 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321805]]></guid>
-    <description><![CDATA[A Defesa Civil emitiu um alerta para temporais previstos em Balneário Camboriú durante o fim de semana.]]></description>
-    <content:encoded><![CDATA[
-<p>A previsão indica possibilidade de chuva intensa na região.</p>
-<p>Há risco de alagamentos em áreas vulneráveis da cidade.</p>
-<p>Ventos fortes também são esperados, podendo causar transtornos.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Natal em Balneário Camboriú encerra 12 desfiles na Avenida Atlântica]]></title>
-    <link>https://visornoticias.com.br/natal-balneario-camboriu-17/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:01:44 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321808]]></guid>
-    <description><![CDATA[O evento de Natal em Balneário Camboriú realizou 12 desfiles na Avenida Atlântica, com participação expressiva de artistas e carros alegóricos.]]></description>
-    <content:encoded><![CDATA[
-<p>Cada desfile contou com cerca de 50 artistas e cinco carros alegóricos.</p>
-<p>Os desfiles percorreram aproximadamente sete quilômetros ao longo da orla da cidade.</p>
-<p>A programação de Natal incluiu um total de 12 desfiles realizados na Avenida Atlântica.</p>
-<p>O evento reuniu moradores e turistas para acompanhar as apresentações na principal via da orla.</p>
-<p>As atividades fazem parte da celebração natalina promovida pela cidade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Alterações no trânsito durante o Réveillon em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/transito-reveillon-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:01:09 GMT</pubDate>
+    <pubDate>Sun, 28 Dec 2025 15:08:01 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321815]]></guid>
-    <description><![CDATA[O trânsito na região central de Balneário Camboriú sofrerá alterações durante as celebrações de Réveillon.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321885]]></guid>
+    <description><![CDATA[Um incêndio em uma carreta na BR-101, no Norte de Santa Catarina, causou bloqueio temporário da rodovia e congestionamento na região.]]></description>
     <content:encoded><![CDATA[
-<p>Motoristas são orientados a evitar a área central da cidade durante o evento.</p>
-<p>Recomenda-se que os condutores planejem seus deslocamentos para minimizar transtornos.</p>
-<p>As mudanças visam garantir a segurança e a fluidez do tráfego durante as festividades.</p>
+<p>O fogo na carreta provocou o bloqueio da BR-101 por aproximadamente 30 minutos, afetando o tráfego local.</p>
+<p>Durante o incidente, parte da carga transportada foi saqueada.</p>
+<p>O congestionamento se formou devido à interrupção no fluxo de veículos causada pelo incêndio.</p>
+<p>As autoridades atuaram para controlar a situação e restabelecer a circulação na rodovia.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Prefeitura distribui abafadores de ruído em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/abafadores-ruido-reveillon-balneario-camboriu/</link>
+    <title><![CDATA[Laguna decreta situação de emergência após temporal causar danos em toda a cidade]]></title>
+    <link>https://visornoticias.com.br/laguna-decreta-situacao-de-emergencia-apos-temporal-causar-danos-em-toda-a-cidade/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:00:56 GMT</pubDate>
+    <pubDate>Sun, 28 Dec 2025 14:58:10 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321816]]></guid>
-    <description><![CDATA[A prefeitura de Balneário Camboriú iniciou a distribuição de abafadores de ruído durante evento local.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321882]]></guid>
+    <description><![CDATA[A cidade de Laguna decretou situação de emergência após um vendaval atingir todos os bairros, causando diversos danos.]]></description>
     <content:encoded><![CDATA[
-<p>A iniciativa tem como objetivo tornar o evento mais inclusivo para todos os participantes.</p>
-<p>Os abafadores de ruído foram disponibilizados gratuitamente para o público presente.</p>
-<p>A medida busca atender pessoas sensíveis a sons altos, promovendo maior conforto durante as atividades.</p>
+<p>O temporal que atingiu Laguna foi caracterizado como um fenômeno típico de verão.</p>
+<p>A Defesa Civil de Santa Catarina descartou a ocorrência de microexplosão durante o evento.</p>
+<p>Os danos foram registrados em diferentes áreas da cidade, afetando infraestrutura e residências.</p>
+<p>Medidas emergenciais foram adotadas para atender as demandas da população afetada.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Réveillon em Itajaí conta com esquema de segurança reforçado]]></title>
-    <link>https://visornoticias.com.br/reveillon-itajai/</link>
+    <title><![CDATA[Incêndio em carreta causa interdição e saque de carga na BR-101 em Garuva]]></title>
+    <link>https://jornalrazao.com/seguranca/carreta-pega-fogo-br-101-garuva-carga-saqueada/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 14:00:45 GMT</pubDate>
+    <pubDate>Sun, 28 Dec 2025 14:52:14 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321823]]></guid>
-    <description><![CDATA[O Festival de Réveillon em Itajaí terá um esquema de segurança com 200 agentes e tecnologia de monitoramento.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173675]]></guid>
+    <description><![CDATA[Um incêndio em uma carreta provocou a interdição temporária da BR-101 em Garuva, no Norte de Santa Catarina, e resultou no saque de parte da carga transportada.]]></description>
     <content:encoded><![CDATA[
-<p>O evento de Réveillon em Itajaí contará com a atuação de 200 agentes dedicados à segurança.</p>
-<p>Além do efetivo humano, será utilizada tecnologia de monitoramento para garantir a segurança dos participantes.</p>
-<p>O esquema visa proporcionar um ambiente seguro durante as celebrações na cidade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Congestionamentos causam lentidão em rodovias de Santa Catarina neste domingo]]></title>
-    <link>https://visornoticias.com.br/congestionamentos-afetam-rodovias-de-santa-catarina-neste-domingo-alerta-prf/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 13:49:23 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=321861]]></guid>
-    <description><![CDATA[Trechos das rodovias BR-470, BR-376 e BR-101 registram lentidão devido ao alto fluxo de veículos e acidentes.]]></description>
-    <content:encoded><![CDATA[
-<p>O tráfego intenso nas rodovias BR-470, BR-376 e BR-101 tem provocado congestionamentos em diversos pontos do estado.</p>
-<p>Acidentes registrados em alguns trechos contribuem para a redução da velocidade dos veículos e aumento do tempo de viagem.</p>
-<p>Motoristas enfrentam lentidão principalmente nos horários de pico ao longo deste domingo.</p>
-<p>As condições das vias e o volume de veículos são fatores que influenciam diretamente no trânsito nas rodovias mencionadas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Alterações no trânsito e rotas alternativas em Balneário Camboriú para o Réveillon]]></title>
-    <link>https://portalmenina.com.br/saiba-as-alteracoes-bloqueios-e-rotas-alternativas-para-o-transito-no-reveillon-de-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 13:47:35 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131515]]></guid>
-    <description><![CDATA[Balneário Camboriú terá mudanças no trânsito durante a virada do ano, com bloqueios e rotas alternativas para facilitar o fluxo e garantir a segurança no evento de Réveillon.]]></description>
-    <content:encoded><![CDATA[
-<p>A região central de Balneário Camboriú terá alterações viárias a partir das 20h30, com bloqueio total da Avenida Atlântica entre as ruas 3000 e 1101 até as 4h do dia 1º de janeiro.</p>
-<p>No Pontal Norte, o bloqueio será entre a Avenida Osmar de Souza Nunes e a Rua Miguel Matte, enquanto a Avenida Brasil permanecerá aberta, mas com recomendação para evitar seu uso durante a virada.</p>
-<p>Após a meia-noite, as principais rotas de saída da cidade serão a Avenida do Estado, Rua 3000, Rua 3700, Quinta Avenida e Rua Dom Afonso, com controle de fluxo e operação em sentido único em trechos específicos.</p>
-<p>As ruas 2500 e 1101 funcionarão como corredores exclusivos para veículos de emergência e forças de segurança a partir das 20h30.</p>
-<p>A operação contará com 63 agentes de trânsito e equipes de apoio para organizar o tráfego e garantir a segurança durante o evento.</p>
-<p>Informações sobre bloqueios e rotas alternativas estarão disponíveis em plataformas digitais e aplicativos de navegação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Temporal causa danos em Laguna e microexplosão é investigada como possível causa]]></title>
-    <link>https://jornalrazao.com/meioambiente/microexplosao-temporal-estragos-laguna-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 28 Dec 2025 13:35:31 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173672]]></guid>
-    <description><![CDATA[Um forte temporal provocou danos em Laguna, no Litoral Sul de Santa Catarina, durante o sábado. A prefeitura avalia a adoção de situação de emergência enquanto equipes técnicas realizam o mapeamento dos impactos.]]></description>
-    <content:encoded><![CDATA[
-<p>Os maiores estragos foram registrados no bairro Mar Grosso, com destelhamentos, avarias em residências e comércios, queda de árvores e postes, além de interrupções no fornecimento de energia elétrica.</p>
-<p>Até o momento, não há registro de pessoas desabrigadas ou desalojadas, e cerca de dez ocorrências foram contabilizadas sem confirmação de vítimas.</p>
-<p>A Defesa Civil municipal trabalha com a hipótese de microexplosão como causa do fenômeno, que ainda depende de confirmação por meio de laudos técnicos e análise de imagens.</p>
-<p>Moradores afetados podem preencher um formulário para solicitar lonas e telhas, que também auxilia na avaliação técnica para orientar os atendimentos e reparos necessários.</p>
-<p>A Defesa Civil de Santa Catarina emitiu alerta para a tarde e noite de segunda-feira, com previsão de chuva intensa, descargas elétricas, rajadas de vento e queda de granizo em todas as regiões do estado, com risco moderado a alto para transtornos.</p>
+<p>O incidente ocorreu no km 1,1 da rodovia, quando um dos pneus da carreta estourou, iniciando o fogo que se alastrou rapidamente.</p>
+<p>O motorista conseguiu parar o no acostamento e desatrelar o caminhão-trator do semirreboque para evitar danos maiores.</p>
+<p>A carga, composta por aproximadamente 28 toneladas de carnes e derivados, foi parcialmente consumida pelas chamas.</p>
+<p>Durante o combate ao incêndio, parte da mercadoria foi saqueada.</p>
+<p>A pista ficou bloqueada por cerca de 30 minutos, causando um congestionamento de aproximadamente seis quilômetros.</p>
+<p>O motorista não sofreu ferimentos e o tráfego foi normalizado após a liberação da rodovia.</p>
     ]]></content:encoded>
   </item>
 </channel>
