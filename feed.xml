@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 29 Dec 2025 23:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 00:35:53 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,32 +21,32 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Chuva intensa registra 111 milímetros em Florianópolis e aciona alerta]]></title>
-    <link>https://visornoticias.com.br/chuva-intensa-registra-111-milimetros-e-coloca-florianopolis-em-alerta/</link>
+    <title><![CDATA[Temporais de verão elevam risco de alagamentos em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/temporais-de-verao-aumentam-risco-de-alagamentos-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 29 Dec 2025 23:18:10 GMT</pubDate>
+    <pubDate>Tue, 30 Dec 2025 00:15:24 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322192]]></guid>
-    <description><![CDATA[Florianópolis registrou 111 milímetros de chuva em curto período, volume considerado acima do normal para a região.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322199]]></guid>
+    <description><![CDATA[Instabilidades meteorológicas devem se intensificar entre segunda e terça-feira, com previsão de acumulados elevados de chuva no estado.]]></description>
     <content:encoded><![CDATA[
-<p>A prefeitura de Florianópolis orienta a população a evitar deslocamentos durante o período de chuva intensa.</p>
-<p>O Gabinete de Crise da cidade permanece ativado para monitorar a situação e coordenar ações de resposta.</p>
-<p>As autoridades acompanham os desdobramentos do evento para garantir a segurança dos moradores.</p>
+<p>A Defesa Civil emitiu alerta para as regiões litorâneas e o Vale do Itajaí devido ao aumento do risco de alagamentos.</p>
+<p>As condições climáticas indicam a possibilidade de temporais que podem causar transtornos nas áreas mencionadas.</p>
+<p>As autoridades recomendam atenção redobrada diante das previsões de chuvas intensas nos próximos dias.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Operação integrada de fiscalização é realizada no Caixa d’Aço em Porto Belo]]></title>
-    <link>https://visornoticias.com.br/fiscalizacao-integrada-marca-operacao-no-caixa-daco-em-porto-belo/</link>
+    <title><![CDATA[Animais são resgatados em Porto Belo após denúncia de maus-tratos]]></title>
+    <link>https://visornoticias.com.br/cachorros-sao-resgatados-apos-denuncia-de-maus-tratos-em-porto-belo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 29 Dec 2025 22:40:18 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322189]]></guid>
-    <description><![CDATA[Uma operação conjunta envolvendo a Marinha do Brasil, polícias e órgãos municipais está em andamento no Caixa d’Aço, em Porto Belo.]]></description>
+    <pubDate>Mon, 29 Dec 2025 23:42:10 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322195]]></guid>
+    <description><![CDATA[Dois cães e uma ave silvestre foram recolhidos por autoridades após denúncia de maus-tratos em Porto Belo.]]></description>
     <content:encoded><![CDATA[
-<p>A ação de fiscalização integrada tem como objetivo garantir a segurança e o cumprimento das normas durante a temporada de verão.</p>
-<p>A operação conta com a participação de diferentes órgãos para ampliar o alcance das atividades de controle na região.</p>
-<p>As atividades de fiscalização devem continuar ao longo de toda a temporada, buscando preservar a ordem e a segurança no local.</p>
+<p>Dois cães e uma ave silvestre foram retirados de uma residência em Porto Belo após uma denúncia relacionada a maus-tratos.</p>
+<p>O Grupo de Operações com Cães (GOR) realizou o resgate dos animais no local.</p>
+<p>O tutor dos animais foi conduzido à delegacia para os procedimentos legais cabíveis.</p>
     ]]></content:encoded>
   </item>
 </channel>
