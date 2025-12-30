@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 30 Dec 2025 00:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 02:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,32 +21,20 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Temporais de verão elevam risco de alagamentos em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/temporais-de-verao-aumentam-risco-de-alagamentos-em-santa-catarina/</link>
+    <title><![CDATA[Enchente histórica causa destruição em Treze Tílias]]></title>
+    <link>https://jornalrazao.com/meioambiente/enchente-temporal-treze-tilias-meio-oeste-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 30 Dec 2025 00:15:24 GMT</pubDate>
+    <pubDate>Tue, 30 Dec 2025 02:16:28 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322199]]></guid>
-    <description><![CDATA[Instabilidades meteorológicas devem se intensificar entre segunda e terça-feira, com previsão de acumulados elevados de chuva no estado.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173846]]></guid>
+    <description><![CDATA[Um temporal intenso na noite de segunda-feira provocou enchentes, enxurradas e danos significativos em Treze Tílias, no Meio Oeste de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>A Defesa Civil emitiu alerta para as regiões litorâneas e o Vale do Itajaí devido ao aumento do risco de alagamentos.</p>
-<p>As condições climáticas indicam a possibilidade de temporais que podem causar transtornos nas áreas mencionadas.</p>
-<p>As autoridades recomendam atenção redobrada diante das previsões de chuvas intensas nos próximos dias.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Animais são resgatados em Porto Belo após denúncia de maus-tratos]]></title>
-    <link>https://visornoticias.com.br/cachorros-sao-resgatados-apos-denuncia-de-maus-tratos-em-porto-belo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 29 Dec 2025 23:42:10 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322195]]></guid>
-    <description><![CDATA[Dois cães e uma ave silvestre foram recolhidos por autoridades após denúncia de maus-tratos em Porto Belo.]]></description>
-    <content:encoded><![CDATA[
-<p>Dois cães e uma ave silvestre foram retirados de uma residência em Porto Belo após uma denúncia relacionada a maus-tratos.</p>
-<p>O Grupo de Operações com Cães (GOR) realizou o resgate dos animais no local.</p>
-<p>O tutor dos animais foi conduzido à delegacia para os procedimentos legais cabíveis.</p>
+<p>A chuva começou por volta das 17h30 e rapidamente transformou ruas em rios, invadindo residências e estabelecimentos comerciais. A força da enxurrada causou danos em vias públicas, incluindo a abertura de crateras e interdições.</p>
+<p>Diversas famílias ficaram desalojadas e foram acolhidas em casas de parentes, com o ginásio municipal preparado para atendimento emergencial. Não houve registro de mortes ou feridos durante o evento.</p>
+<p>Equipes dos bombeiros voluntários e da Defesa Civil atuaram no resgate e orientação da população, priorizando a segurança das pessoas. Treinamentos prévios contribuíram para a resposta rápida à situação.</p>
+<p>Os danos materiais incluem prejuízos em residências, ruas e interrupções nos serviços de energia elétrica, internet e telefonia. A ligação com municípios vizinhos foi afetada por quedas de árvores e problemas nas vias.</p>
+<p>O levantamento dos estragos ainda está em andamento, especialmente em áreas rurais. A prefeitura avalia a possibilidade de decretar situação de emergência, enquanto o governo estadual e cidades vizinhas oferecem apoio.</p>
+<p>Moradores enfrentam dificuldades para retomar a rotina em meio a lama e ruas danificadas, expressando surpresa diante da intensidade da enchente.</p>
     ]]></content:encoded>
   </item>
 </channel>
