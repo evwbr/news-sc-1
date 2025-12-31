@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 31 Dec 2025 10:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 11:35:55 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Embarcação fica à deriva e é resgatada em Balneário Camboriú]]></title>
-    <link>https://jornalrazao.com/seguranca/embarcacao-fica-a-deriva-por-horas-e-e-resgatada-em-balneario-camboriu/</link>
+    <title><![CDATA[Operação integrada reforça segurança durante Réveillon em Santa Catarina]]></title>
+    <link>https://jornalrazao.com/seguranca/seg/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 10:10:52 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 11:33:50 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173948]]></guid>
-    <description><![CDATA[Uma embarcação de lazer ficou à deriva por cerca de quatro horas entre as praias do Estaleirinho e do Estaleiro, em Balneário Camboriú, e foi resgatada pelo Corpo de Bombeiros.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173951]]></guid>
+    <description><![CDATA[A segurança pública em Santa Catarina foi intensificada durante as celebrações de Réveillon por meio de uma operação integrada da Polícia Militar, com foco na prevenção e resposta rápida a incidentes.]]></description>
     <content:encoded><![CDATA[
-<p>A ocorrência foi registrada no início da tarde, quando a guarnição do Grupamento de Busca e Salvamento foi acionada para atender a um chamado de embarcação sem propulsão.</p>
-<p>No local, os bombeiros encontraram um barco de 32 pés com dois tripulantes a bordo, que havia saído de Porto Belo com destino à Marina VIP, no Rio Camboriú.</p>
-<p>O barco apresentou problemas na bomba de combustível, o que causou a perda da propulsão e deixou a embarcação à deriva por aproximadamente quatro horas.</p>
-<p>Os ocupantes não apresentavam ferimentos, mas estavam cansados e com sinais de fadiga devido ao tempo prolongado em alto-mar.</p>
-<p>Após avaliação, a equipe realizou o reboque da embarcação até a Marina VIP, onde a ocorrência foi encerrada sem registro de vítimas ou danos adicionais.</p>
+<p>A operação foi coordenada pelo 12º Batalhão de Polícia Militar, que atuou com policiamento ostensivo, especializado e atividades de inteligência ao longo do período festivo.</p>
+<p>O planejamento das ações envolveu análise de dados, mapeamento de áreas com maior fluxo de pessoas e definição de estratégias específicas para diferentes locais.</p>
+<p>Equipes foram distribuídas em pontos estratégicos, incluindo áreas de eventos, praias e vias de acesso, com monitoramento constante e uso de recursos tecnológicos.</p>
+<p>As atividades de inteligência integraram-se ao policiamento ostensivo para identificar situações suspeitas e agir preventivamente.</p>
+<p>A integração entre as modalidades de policiamento contribuiu para a preservação da ordem pública e a segurança de moradores e visitantes durante o Réveillon.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura de Florianópolis anuncia concurso público com mais de 40 vagas e salários de até R$ 21 mil]]></title>
+    <link>https://visornoticias.com.br/prefeitura-de-florianopolis-abre-concurso-publico-com-mais-de-40-cargos-e-salarios-de-ate-r-21-mil/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 31 Dec 2025 11:15:43 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322627]]></guid>
+    <description><![CDATA[A Prefeitura de Florianópolis lançou edital para concurso público com oportunidades em diversos níveis de escolaridade e salários que chegam a R$ 21 mil.]]></description>
+    <content:encoded><![CDATA[
+<p>O concurso oferece vagas para cargos que exigem níveis fundamental, médio e superior de escolaridade.</p>
+<p>As inscrições para o processo seletivo estão abertas entre 15 de janeiro e 19 de fevereiro.</p>
+<p>Os salários variam</p>
+<p>O edital detalha os requisitos e as etapas do concurso para os interessados.</p>
     ]]></content:encoded>
   </item>
 </channel>
