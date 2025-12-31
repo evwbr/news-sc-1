@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 31 Dec 2025 15:36:26 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 16:36:01 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,160 +21,52 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Bondinho do Papai Noel realiza passeios temáticos em Lages durante o Natal]]></title>
-    <link>https://visornoticias.com.br/natal-lages-2/</link>
+    <title><![CDATA[Advogado ligado a desembargador do TJSC é investigado por denúncias envolvendo estrangeiros]]></title>
+    <link>https://jornalrazao.com/justica/marido-de-desembargador-do-tjsc-e-alvo-de-denuncias-por-supostos-golpes/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:16:46 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322565]]></guid>
-    <description><![CDATA[O Bondinho do Papai Noel circula pelas ruas de Lages, oferecendo passeios temáticos para famílias durante a programação natalina da cidade.]]></description>
-    <content:encoded><![CDATA[
-<p>O Bondinho do Papai Noel está em operação nas ruas de Lages, proporcionando uma experiência temática para os moradores e visitantes.</p>
-<p>O passeio temático integra as atividades organizadas para celebrar o Natal na cidade.</p>
-<p>Famílias têm a oportunidade de participar do trajeto, que percorre diferentes pontos do município.</p>
-<p>A iniciativa busca promover o espírito natalino e incentivar a participação da comunidade nas festividades locais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Novo parquinho é instalado no Pontal Norte em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/parquinho-pontal-norte/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:16:32 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322575]]></guid>
-    <description><![CDATA[Um novo parquinho foi instalado na área de areia da Praia Central, no Pontal Norte, em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>A instalação do parquinho ocorreu recentemente na região do Pontal Norte, próxima à Praia Central.</p>
-<p>O equipamento foi colocado diretamente sobre a areia, proporcionando uma nova opção de lazer para moradores e visitantes.</p>
-<p>A iniciativa visa ampliar as áreas de recreação na orla da cidade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Prefeitura adota medidas de segurança para crianças no Réveillon de Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/reveillon-balneario-camboriu-protecao-infantil/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:16:17 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322581]]></guid>
-    <description><![CDATA[A Prefeitura implementou ações específicas para garantir a proteção infantil durante as comemorações de Réveillon em Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>Medidas de segurança foram reforçadas para atender crianças durante as festividades de Ano Novo na cidade.</p>
-<p>A iniciativa visa proporcionar um ambiente mais seguro para os menores que participam dos eventos públicos.</p>
-<p>As ações incluem monitoramento e suporte especializado para prevenir incidentes envolvendo crianças.</p>
-<p>O reforço na proteção faz parte do planejamento da Prefeitura para os eventos de grande público na região.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Balneário Camboriú amplia prazo para entrega de protetores de ouvido]]></title>
-    <link>https://visornoticias.com.br/protetor-ouvido-balneario-camboriu-reveillon/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:16:11 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322584]]></guid>
-    <description><![CDATA[A Prefeitura de Balneário Camboriú prorrogou o prazo para a entrega de protetores de ouvido destinados a pessoas com hipersensibilidade sonora e autismo durante as comemorações de Réveillon.]]></description>
-    <content:encoded><![CDATA[
-<p>O protetor de ouvido é uma medida adotada para garantir maior conforto e segurança a indivíduos com sensibilidade auditiva durante os eventos festivos.</p>
-<p>A iniciativa visa atender especialmente pessoas com autismo e outras condições que causam hipersensibilidade ao som.</p>
-<p>A extensão do prazo possibilita que um número maior de pessoas tenha acesso ao equipamento antes das celebrações de Ano Novo.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Nova cooperativa de reciclagem inicia atividades em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/cooperativa-reciclagem-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:16:09 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322586]]></guid>
-    <description><![CDATA[Uma nova cooperativa de reciclagem começou a operar no Centro de Valorização de Materiais de Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>A cooperativa está dedicada à triagem e comercialização de resíduos sólidos.</p>
-<p>As atividades visam contribuir para a gestão adequada dos materiais recicláveis na cidade.</p>
-<p>O Centro de Valorização de Materiais oferece infraestrutura para o desenvolvimento das ações da cooperativa.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Prefeitura de Balneário Camboriú recebe devolução de duodécimo da Câmara de Vereadores]]></title>
-    <link>https://visornoticias.com.br/devolucao-duodecimo-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:15:51 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322590]]></guid>
-    <description><![CDATA[A Prefeitura de Balneário Camboriú recebeu a devolução de parte do duodécimo repassado pela Câmara de Vereadores, totalizando R$ 6,6 milhões.]]></description>
-    <content:encoded><![CDATA[
-<p>O valor devolvido corresponde a recursos que não foram utilizados pela Câmara de Vereadores durante o exercício financeiro.</p>
-<p>A devolução faz parte da gestão orçamentária da Câmara, que buscou otimizar o uso dos recursos públicos.</p>
-<p>Com a devolução, a Prefeitura poderá direcionar os recursos para outras áreas e projetos municipais.</p>
-<p>A medida reflete o controle e a responsabilidade fiscal adotados pelos órgãos públicos locais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Balneário Camboriú distribui abafadores para pessoas com autismo na Praia Central]]></title>
-    <link>https://visornoticias.com.br/abafador-autismo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:15:43 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322597]]></guid>
-    <description><![CDATA[A prefeitura de Balneário Camboriú iniciou a distribuição de abafadores para pessoas com Transtorno do Espectro Autista (TEA) na Praia Central.]]></description>
-    <content:encoded><![CDATA[
-<p>Ao todo, 500 abafadores estão sendo entregues para auxiliar na redução de estímulos sonoros para pessoas com autismo.</p>
-<p>A iniciativa visa proporcionar maior conforto e inclusão durante a permanência na área da Praia Central.</p>
-<p>A distribuição ocorre em pontos específicos da região, facilitando o acesso dos beneficiados.</p>
-<p>O uso do abafador pode contribuir para o bem-estar e a qualidade de vida das pessoas com TEA em ambientes com grande movimentação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Prefeitura de Balneário Camboriú divulga regras para Réveillon na Praia Central]]></title>
-    <link>https://visornoticias.com.br/balneario-camboriu-reveillon-regras-praia/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:15:37 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322598]]></guid>
-    <description><![CDATA[A administração municipal estabeleceu normas para a celebração da virada do ano na Praia Central de Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>As regras foram definidas para garantir a organização e a segurança durante as festividades de Réveillon na praia.</p>
-<p>Medidas específicas foram adotadas para o controle do público e para a preservação do espaço público durante o evento.</p>
-<p>A iniciativa visa proporcionar um ambiente adequado para os participantes, respeitando as normas vigentes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Quatro jovens desaparecem simultaneamente em São José, Grande Florianópolis]]></title>
-    <link>https://jornalrazao.com/seguranca/desaparecidos/misterio-em-sc-quatro-jovens-desaparecem-ao-mesmo-tempo-na-grande-florianopolis/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 15:06:16 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 16:02:22 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173974]]></guid>
-    <description><![CDATA[Quatro jovens naturais de Minas Gerais desapareceram na madrugada de domingo em São José, na Grande Florianópolis, mobilizando equipes de segurança e familiares na busca por informações.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173978]]></guid>
+    <description><![CDATA[Dois processos disciplinares foram abertos contra um advogado por supostas cobranças indevidas feitas a estrangeiros, envolvendo valores que teriam sido pagos sob falsas alegações de taxas judiciais.]]></description>
     <content:encoded><![CDATA[
-<p>Os jovens, com idades entre 19 e 28 anos, haviam se mudado recentemente para Santa Catarina em busca de trabalho, residindo na região há poucos meses. O último contato confirmado ocorreu por volta da meia-noite de domingo.</p>
-<p>Imagens de câmeras de segurança registraram três dos quatro jovens caminhando em frente ao prédio onde dois deles moravam, por volta das 3h da madrugada. Após esse momento, não há mais registros dos desaparecidos.</p>
-<p>O imóvel onde residiam foi encontrado aberto horas depois, aumentando a preocupação das famílias. Nenhum dos jovens retornou ao local ou fez contato com amigos e parentes desde então.</p>
-<p>O caso foi registrado pela Polícia Militar e está sob investigação da Polícia Civil, por meio da Delegacia de Pessoas Desaparecidas, que busca esclarecer as circunstâncias do desaparecimento.</p>
-<p>Familiares relataram a angústia diante da falta de informações e iniciaram uma campanha para divulgar o caso. As autoridades reforçam a importância de qualquer informação que possa ajudar na localização dos jovens.</p>
+<p>O advogado responde a procedimentos disciplinares na Ordem dos Advogados do Brasil, Seccional do Espírito Santo, por denúncias relacionadas a condutas contra dois estrangeiros, um italiano e um norte-americano.</p>
+<p>Em ambos os casos, os clientes teriam sido levados a pagar valores diretamente ao advogado, sob a justificativa de custas judiciais ou taxas obrigatórias, sem que esses valores tenham sido formalmente recolhidos ao Judiciário.</p>
+<p>No processo envolvendo o cidadão italiano, o advogado teria solicitado pagamentos parcelados em euros para um suposto processo de naturalização brasileira, procedimento que,</p>
+<p>Documentos apresentados indicam que a guia de pagamento enviada continha número de processo pertencente a outro caso, o que gerou suspeitas de falsificação documental.</p>
+<p>A relação familiar do advogado com um desembargador do Tribunal de Justiça de Santa Catarina tem chamado atenção, embora não haja indícios de envolvimento do magistrado nos fatos.</p>
+<p>A Ordem dos Advogados do Brasil instaurou os procedimentos disciplinares considerando indícios de falta de prestação de contas, cobrança indevida e uso de documentos com aparência de autenticidade, mas inverídico.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Motociclista de 19 anos é abordado após realizar manobra perigosa na BR-101 em Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/jovem-de-19-anos-realiza-manobra-superman-na-br-101-e-e-abordado-pela-prf-em-balneario-camboriu/</link>
+    <title><![CDATA[Programação do Réveillon 2026 no Litoral Norte de Santa Catarina inclui queima de fogos e shows]]></title>
+    <link>https://portalmenina.com.br/de-navegantes-a-itapema-veja-a-programacao-do-reveillon-2026-nas-cidades-da-regiao/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 14:43:17 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 14:23:18 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131839]]></guid>
-    <description><![CDATA[Um jovem de 19 anos foi abordado pela Polícia Rodoviária Federal após ser flagrado realizando uma manobra arriscada na BR-101, em Balneário Camboriú.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131834]]></guid>
+    <description><![CDATA[Cidades do Litoral Norte de Santa Catarina preparam eventos para a virada de ano, com queima de fogos e apresentações musicais para celebrar 2026.]]></description>
     <content:encoded><![CDATA[
-<p>O motociclista conduzia a moto deitado sobre o banco, sustentando-se apenas pelo guidão, movimento conhecido como 'Superman'.</p>
-<p>A abordagem ocorreu em um trecho com grande fluxo de veículos durante a temporada de verão, realizada por agentes do Grupo de Motociclismo Regional da PRF.</p>
-<p>Durante a ação, foi constatado que o condutor utilizava chinelos, equipamento inadequado para condução e que compromete o controle do .</p>
-<p>O motociclista foi autuado por dirigir fazendo malabarismo, infração gravíssima, e por conduzir a motocicleta sem calçado adequado, infração média, totalizando multas superiores a R$ 420.</p>
-<p>Além das penalidades financeiras, o condutor responderá a processo de suspensão do direito de dirigir.</p>
+<p>Itajaí realiza programação musical gratuita desde o dia 26 de dezembro, com shows ao lado do Centreventos. A virada contará com cerca de 12 minutos de queima de fogos na Avenida Beira-Rio, distribuídos entre duas balsas e o Molhe da Barra, com espetáculo de baixo estampido.</p>
+<p>Itapema terá aproximadamente 12 minutos de queima de fogos em seis balsas ao longo da orla, incluindo a Meia Praia e a região Central. O evento contará com fogos no topo de um edifício no bairro Ilhota e no novo píer Oporto, ampliando os pontos de observação na cidade.</p>
+<p>Navegantes realizará queima de fogos sincronizada com Itajaí, com visibilidade nos molhes do Pontal e do Gravatá. A programação musical será dividida entre a Arena de Eventos no Pontal e a Praça Marília Soares no Gravatá, com apresentações antes e após a meia-noite.</p>
+<p>Balneário Camboriú organizará um espetáculo pirotécnico de aproximadamente 15 minutos na Praia Central, com oito balsas distribuídas ao longo da orla. A prefeitura implementou reforço nos serviços públicos e equipes de emergência, além de distribuir abafadores de ruído para pessoas com Transtorno do Espectro Autista.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Defesa Civil registra 27 ocorrências após fortes chuvas em Blumenau]]></title>
+    <link>https://portalmenina.com.br/defesa-civil-registra-27-ocorrencias-apos-fortes-chuvas-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 31 Dec 2025 13:45:00 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=131816]]></guid>
+    <description><![CDATA[Fortes chuvas causaram 27 ocorrências em Blumenau, incluindo deslizamentos, alagamentos e quedas de árvores, afetando diversas regiões do município.]]></description>
+    <content:encoded><![CDATA[
+<p>Quatro lagoas romperam no bairro Itoupava Central, invadindo residências próximas e causando danos significativos.</p>
+<p>No bairro Itoupavazinha, um deslizamento de terra derrubou um muro que atingiu cinco veículos, levando à interdição preventiva de residências na área.</p>
+<p>Uma queda de árvore na Vila Itoupava provocou a interrupção no fornecimento de energia elétrica, afetando uma residência com paciente acamado que depende de aparelhos.</p>
+<p>Durante o temporal, uma árvore caiu sobre um carro ocupado por um casal e duas crianças no bairro Salto do Norte. Os ocupantes conseguiram sair do antes da chegada do socorro.</p>
     ]]></content:encoded>
   </item>
 </channel>
