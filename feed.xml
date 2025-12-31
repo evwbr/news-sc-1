@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 31 Dec 2025 00:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 03:35:49 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,20 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Previsão do tempo indica risco de temporais e ventos fortes em Santa Catarina no Réveillon e início de 2026]]></title>
-    <link>https://visornoticias.com.br/veja-previsao-do-tempo-para-o-reveillon-e-o-primeiro-dia-de-2026-em-sc/</link>
+    <title><![CDATA[Equipes de emergência atuam para evitar tragédia em prédio de Itapema na véspera do Réveillon]]></title>
+    <link>https://jornalrazao.com/seguranca/nao-vamos-desistir-as-vesperas-do-reveillon-equipes-tentam-impedir-tragedia-em-itapema/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 30 Dec 2025 23:52:40 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 03:04:46 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322504]]></guid>
-    <description><![CDATA[O Réveillon e o primeiro dia de 2026 em Santa Catarina apresentam condições meteorológicas que podem incluir temporais, alagamentos e ventos fortes em várias regiões do estado.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=173939]]></guid>
+    <description><![CDATA[Equipes de segurança e resgate trabalham há várias horas em um prédio na Meia Praia, em Itapema, com o objetivo de evitar uma situação de risco iminente.]]></description>
     <content:encoded><![CDATA[
-<p>As condições climáticas para o período indicam a possibilidade de temporais em diversas áreas de Santa Catarina.</p>
-<p>Há risco de alagamentos decorrentes das chuvas intensas previstas para o Réveillon e o início do ano novo.</p>
-<p>Ventos fortes também podem ocorrer, aumentando os riscos para as regiões afetadas.</p>
-<p>A combinação desses fatores requer atenção das autoridades e da população para possíveis impactos.</p>
-<p>As condições meteorológicas podem variar entre as regiões do estado durante o período.</p>
+<p>A operação envolve a Guarda Municipal, Polícia Militar e Corpo de Bombeiros, que adotam uma abordagem cautelosa e focada na preservação da vida.</p>
+<p>Desde o início da noite, a área ao redor do prédio foi parcialmente isolada para garantir a segurança das equipes e dos moradores próximos.</p>
+<p>Um profissional especializado conduz as negociações, enquanto as demais forças mantêm o controle do perímetro e oferecem suporte operacional.</p>
+<p>A ação prolongada reflete a escolha por um procedimento baseado no diálogo e na paciência, sem o uso de força.</p>
+<p>O episódio ocorre em um momento delicado, na véspera do Ano Novo, período que pode intensificar fragilidades emocionais.</p>
+<p>Até o momento, não há confirmação sobre o desfecho da ocorrência, que permanece em andamento.</p>
     ]]></content:encoded>
   </item>
 </channel>
