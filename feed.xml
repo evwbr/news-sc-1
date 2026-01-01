@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 01 Jan 2026 20:35:52 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 22:35:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,34 +21,17 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Mulher trans morre após intervenção em agressão no Centro de cidade de SC]]></title>
-    <link>https://visornoticias.com.br/mulher-trans-morre-ao-defender-vitimas/</link>
+    <title><![CDATA[Homem morre após choque elétrico ao tentar desligar motor de piscina em Pomerode]]></title>
+    <link>https://jornalrazao.com/seguranca/homem-morre-choque-eletrico-piscina-pomerode/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 01 Jan 2026 20:11:40 GMT</pubDate>
+    <pubDate>Thu, 01 Jan 2026 22:14:52 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323049]]></guid>
-    <description><![CDATA[Uma mulher trans faleceu após tentar defender vítimas de agressão no Centro de uma cidade de Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174061]]></guid>
+    <description><![CDATA[Um homem de 52 anos morreu após sofrer uma descarga elétrica ao tentar desligar o motor de uma piscina em sua residência em Pomerode, no Vale do Itajaí.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu no Centro da cidade e resultou na morte da mulher trans que interveio na situação.</p>
-<p>A polícia local está conduzindo as investigações para apurar as circunstâncias do crime.</p>
-<p>Não foram divulgados detalhes adicionais sobre os envolvidos ou motivação do ataque.</p>
-<p>As autoridades seguem com os procedimentos para esclarecer os fatos e identificar os responsáveis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Mulher trans morre após ataque com arma branca no Centro de São João Batista]]></title>
-    <link>https://horadeportobelo.com.br/2026/01/01/mulher-trans-morre-apos-ataque-com-arma-branca-no-centro-de-sao-joao-batista/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 01 Jan 2026 19:47:36 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20554]]></guid>
-    <description><![CDATA[Uma mulher trans foi vítima de ataque com arma branca na madrugada de quinta-feira no Centro de São João Batista e não resistiu aos ferimentos.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu na rua Clotilde Mazera e mobilizou a Polícia Militar, o Corpo de Bombeiros e o Serviço de Atendimento Móvel de Urgência (Samu).</p>
-<p>A vítima foi socorrida e levada ao Hospital Monsenhor José Locks, onde veio a falecer.</p>
-<p>O autor do ataque ainda não foi localizado e as autoridades continuam investigando o caso.</p>
-<p>Há informações iniciais de que a vítima teria intervido para proteger uma mulher e uma criança durante uma situação de agressão, mas as circunstâncias permanecem sob apuração.</p>
+<p>O incidente ocorreu na tarde de quinta-feira, na Rua Ribeirão Solto. A vítima havia acabado de sair da piscina quando recebeu o choque elétrico e entrou em parada cardiorrespiratória.</p>
+<p>Equipes de resgate, incluindo bombeiros, SAMU e helicóptero, foram acionadas para atender a ocorrência. Manobras de reanimação foram realizadas por vários minutos, mas o homem não respondeu aos procedimentos.</p>
+<p>O óbito foi confirmado no local pelo médico da equipe aérea. A Polícia Civil e a Polícia Científica foram acionadas para realizar os levantamentos e iniciar a investigação do caso.</p>
     ]]></content:encoded>
   </item>
 </channel>
