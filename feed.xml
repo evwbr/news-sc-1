@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 31 Dec 2025 23:35:48 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 04:35:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,32 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é detido por furto em supermercado no bairro Vila Nova]]></title>
-    <link>https://horadeportobelo.com.br/2025/12/31/homem-e-preso-por-furto-pela-guarda-municipal-2/</link>
+    <title><![CDATA[Réveillon reúne mais de um milhão de pessoas na Praia Central de Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/virada-do-ano-atrai-mais-de-um-milhao-de-pessoas-a-praia-central-de-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 31 Dec 2025 22:41:36 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20542]]></guid>
-    <description><![CDATA[Um homem foi detido pela Guarda Municipal após ser acusado de furtar produtos em um supermercado no bairro Vila Nova.]]></description>
+    <pubDate>Thu, 01 Jan 2026 03:51:51 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322857]]></guid>
+    <description><![CDATA[A Praia Central de Balneário Camboriú recebeu uma grande concentração de público para a celebração da virada do ano.]]></description>
     <content:encoded><![CDATA[
-<p>Durante patrulhamento preventivo, agentes da Guarda Municipal foram acionados por populares que relataram um furto em um supermercado da região.</p>
-<p>O suspeito foi localizado nos fundos do Palco das Artes e apresentou resistência durante a abordagem, sendo necessário o uso de algemas.</p>
-<p>Testemunhas informaram que o homem teria ocultado três peças de carne e uma bebida alcoólica, deixando o estabelecimento sem pagar pelos produtos.</p>
-<p>Funcionários perceberam a ação e o suspeito tentou fugir pelos fundos do supermercado, dispensando os itens durante a fuga.</p>
-<p>Imagens do sistema de videomonitoramento confirmaram a autoria do furto pelo indivíduo, que foi conduzido à Delegacia de Polícia para os procedimentos legais.</p>
+<p>O evento contou com um show de fogos de artifício coreografado que durou 15 minutos.</p>
+<p>A queima de fogos atraiu uma multidão à orla da cidade, consolidando a festa como uma das maiores da região.</p>
+<p>A celebração ocorreu em um ambiente de grande movimentação, com público estimado em mais de um milhão de pessoas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Incêndio atinge gerador de energia em Governador Celso Ramos]]></title>
+    <link>https://visornoticias.com.br/incendio-atinge-gerador-de-energia-e-mobiliza-bombeiros-em-governador-celso-ramos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 01 Jan 2026 03:39:00 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=322854]]></guid>
+    <description><![CDATA[Um incêndio atingiu um gerador de energia em Governador Celso Ramos, mobilizando o Corpo de Bombeiros local.]]></description>
+    <content:encoded><![CDATA[
+<p>O fogo ficou restrito a um dos equipamentos e não comprometeu o abastecimento elétrico da cidade.</p>
+<p>A ação rápida dos bombeiros evitou a propagação das chamas para outras áreas.</p>
+<p>Não houve registro de feridos durante o incidente.</p>
     ]]></content:encoded>
   </item>
 </channel>
