@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 01 Jan 2026 18:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 19:36:02 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,51 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Primeiros bebês de 2026 nascem no Hospital Santo Antônio em Itapema]]></title>
-    <link>https://visornoticias.com.br/primeiros-bebes-de-2026-nascem-no-hospital-santo-antonio-em-itapema/</link>
+    <title><![CDATA[Limpeza pós-Ano-Novo em Florianópolis retira 31 toneladas de lixo]]></title>
+    <link>https://visornoticias.com.br/limpeza-pos-ano-novo-retira-31-toneladas-lixo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 01 Jan 2026 18:23:19 GMT</pubDate>
+    <pubDate>Thu, 01 Jan 2026 19:13:44 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323038]]></guid>
-    <description><![CDATA[Os primeiros bebês de 2026 nasceram nas primeiras horas do dia 1º de janeiro no Hospital Santo Antônio, em Itapema.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323044]]></guid>
+    <description><![CDATA[Mais de 400 pessoas participaram de um mutirão para a limpeza da cidade após as comemorações de Ano-Novo.]]></description>
     <content:encoded><![CDATA[
-<p>Naian e Maria Luiza nasceram no início do ano no Hospital Santo Antônio.</p>
-<p>As mães passaram bem após os partos, que ocorreram por meio de parto normal e cesariana.</p>
-<p>O hospital registrou os primeiros nascimentos do ano em sua unidade.</p>
+<p>O mutirão de limpeza em Florianópolis recolheu 31 toneladas de lixo em poucas horas.</p>
+<p>A ação mobilizou mais de 400 voluntários para a retirada dos resíduos acumulados nas ruas e espaços públicos.</p>
+<p>O trabalho foi realizado logo após as festividades de Ano-Novo, contribuindo para a recuperação da limpeza urbana.</p>
+<p>A iniciativa</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Família autoriza doação de órgãos após morte de homem atropelado em Blumenau]]></title>
+    <link>https://jornalrazao.com/seguranca/homem-morre-atropelamento-blumenau-doacao-orgaos/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 01 Jan 2026 19:11:13 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174058]]></guid>
+    <description><![CDATA[João Luiz Domingos Alves Junior, de 35 anos, morreu após ser atropelado no bairro Vorstadt, em Blumenau. A família autorizou a doação de órgãos.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu no final de dezembro na rua Itajaí, quando João foi atingido por um em um trecho urbano da via. Ele sofreu ferimentos graves e foi internado no Hospital Santa Isabel desde o dia 28.</p>
+<p>O motorista envolvido fugiu do local sem prestar socorro. Imagens de câmeras de segurança auxiliaram na identificação do condutor, um jovem de 25 anos, residente em Gaspar.</p>
+<p>Após a confirmação da morte cerebral nesta quinta-feira, a família decidiu autorizar a doação dos órgãos. João deixa esposa e quatro filhos pequenos.</p>
+<p>A Polícia Civil segue investigando a dinâmica do acidente e a responsabilidade penal do motorista, que já prestou depoimento.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Mulher trans morre ao proteger mãe e filha durante ataque em São João Batista]]></title>
+    <link>https://jornalrazao.com/seguranca/mulher-trans-e-morta-ao-proteger-mae-e-filha/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 01 Jan 2026 18:49:47 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174053]]></guid>
+    <description><![CDATA[Uma mulher trans foi morta após intervir para proteger uma mãe e sua filha durante um ataque em uma residência em São João Batista, Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O incidente ocorreu quando um homem iniciou agressões contra a mulher e a criança dentro do imóvel. A vítima interveio para defender as duas, conseguindo retirá-las da casa em segurança.</p>
+<p>Após garantir a saída das vítimas, a mulher fechou a porta e permaneceu sozinha com o agressor, tentando impedir que o ataque continuasse contra as outras pessoas.</p>
+<p>Ela foi atingida por diversos golpes de faca e socorrida em estado grave, mas não resistiu aos ferimentos e faleceu no hospital.</p>
+<p>A Polícia Militar atendeu a ocorrência, isolou o local e iniciou os procedimentos legais. O caso é tratado como homicídio consumado, com indícios de que a vítima agiu para proteger outras pessoas.</p>
+<p>As motivações e circunstâncias do crime estão sob investigação pelas autoridades locais.</p>
     ]]></content:encoded>
   </item>
 </channel>
