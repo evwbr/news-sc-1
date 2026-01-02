@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 01 Jan 2026 22:35:50 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 02:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,38 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem morre após choque elétrico ao tentar desligar motor de piscina em Pomerode]]></title>
-    <link>https://jornalrazao.com/seguranca/homem-morre-choque-eletrico-piscina-pomerode/</link>
+    <title><![CDATA[Homem faz gestos simulando arma e ameaça motoristas durante conflito no trânsito em Porto Belo]]></title>
+    <link>https://jornalrazao.com/seguranca/confusao-transito-porto-belo-ameacas-video-2026/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 01 Jan 2026 22:14:52 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174061]]></guid>
-    <description><![CDATA[Um homem de 52 anos morreu após sofrer uma descarga elétrica ao tentar desligar o motor de uma piscina em sua residência em Pomerode, no Vale do Itajaí.]]></description>
+    <pubDate>Fri, 02 Jan 2026 02:05:05 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174077]]></guid>
+    <description><![CDATA[Um desentendimento no trânsito no centro de Porto Belo, Litoral Norte de Santa Catarina, envolveu ameaças e gestos simulando o uso de arma de fogo, gerando tensão entre motoristas na via pública.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu na tarde de quinta-feira, na Rua Ribeirão Solto. A vítima havia acabado de sair da piscina quando recebeu o choque elétrico e entrou em parada cardiorrespiratória.</p>
-<p>Equipes de resgate, incluindo bombeiros, SAMU e helicóptero, foram acionadas para atender a ocorrência. Manobras de reanimação foram realizadas por vários minutos, mas o homem não respondeu aos procedimentos.</p>
-<p>O óbito foi confirmado no local pelo médico da equipe aérea. A Polícia Civil e a Polícia Científica foram acionadas para realizar os levantamentos e iniciar a investigação do caso.</p>
+<p>O incidente ocorreu em meio ao trânsito intenso característico do início do ano, com longas filas em direção a Bombinhas.</p>
+<p>Imagens registradas mostram um homem exaltado discutindo com outros motoristas, realizando gestos como se estivesse sacando uma arma e proferindo ameaças.</p>
+<p>A situação teria começado após um longo período de espera com o trânsito parado, quando um motorista desceu do para verificar o motivo da lentidão.</p>
+<p>Durante o conflito, houve empurrões, gritos e tentativas de intervenção por parte de outras pessoas presentes no local.</p>
+<p>Não há informações oficiais sobre registro de ocorrência ou atuação policial relacionada ao episódio.</p>
+<p>O caso gerou questionamentos sobre a fiscalização no trânsito e a necessidade de maior presença das autoridades para evitar situações semelhantes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Moradores de Itapema e Porto Belo enfrentam apagão de mais de quatro horas]]></title>
+    <link>https://jornalrazao.com/geral/panelaco-apos-falta-de-energia-em-itapema-e-porto-belo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 02 Jan 2026 01:47:42 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174073]]></guid>
+    <description><![CDATA[Bairros de Itapema e Porto Belo ficaram sem energia elétrica por mais de quatro horas, provocando interrupções em residências, prédios e serviços essenciais.]]></description>
+    <content:encoded><![CDATA[
+<p>A falta de energia afetou principalmente os bairros Meia Praia, Andorinha e Castelo Branco, em Itapema, e o bairro Perequê, em Porto Belo.</p>
+<p>Por volta das 22h10, mais de seis mil unidades consumidoras estavam sem energia em Itapema, todas classificadas como interrupções acidentais, sem desligamento programado.</p>
+<p>Elevadores pararam de funcionar, resultando em dezenas de chamados ao Corpo de Bombeiros para resgatar pessoas presas, com registros em diversos bairros e ruas da cidade.</p>
+<p>Em um dos casos, um edifício foi evacuado após moradores relatarem fumaça em um andar alto associada à queda de energia, sem confirmação de incêndio de grandes proporções.</p>
+<p>A demora no restabelecimento do fornecimento motivou protestos com panelaço em diferentes pontos das cidades durante a noite.</p>
+<p>Até o momento, não foram divulgadas informações detalhadas sobre as causas da interrupção ou o horário da normalização completa do serviço.</p>
     ]]></content:encoded>
   </item>
 </channel>
