@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 02 Jan 2026 15:35:48 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 16:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,34 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Guarda Municipal encerra baile funk ao ar livre na Meia Praia, em Itapema]]></title>
-    <link>https://jornalrazao.com/seguranca/fim-da-farra-gm-acaba-com-baile-funk-ao-ar-livre-na-meia-praia-em-itapema/</link>
+    <title><![CDATA[Dois são baleados em ataque a tiros em Penha]]></title>
+    <link>https://jornalrazao.com/seguranca/duas-pessoas-baleadas-penha-marical-relato-mae/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 02 Jan 2026 15:09:56 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174116]]></guid>
-    <description><![CDATA[A Guarda Municipal de Itapema interrompeu um baile funk ao ar livre na Meia Praia durante a virada do ano devido à grande aglomeração e riscos à ordem pública.]]></description>
+    <pubDate>Fri, 02 Jan 2026 16:24:51 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174119]]></guid>
+    <description><![CDATA[Dois homens foram atingidos por disparos de arma de fogo na noite de quinta-feira em Penha, no Litoral Norte de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O evento informal reuniu mais de 500 pessoas em um local conhecido por esse tipo de festa, com consumo intenso de bebidas alcoólicas e uso de substâncias entorpecentes.</p>
-<p>Durante a intervenção, parte do público resistiu à dispersão e adotou comportamento hostil, arremessando objetos contra os agentes, o que elevou o risco de distúrbio civil.</p>
-<p>A Guarda Municipal utilizou spray de agente químico e, diante da persistência da resistência, munição de elastômero para conter a desordem e restabelecer a ordem pública.</p>
-<p>A ação resultou na dispersão gradual do público e na retomada da normalidade no local, sem necessidade de medidas mais gravosas, preservando a integridade física dos envolvidos.</p>
-<p>Posteriormente, a guarnição da ROMU identificou outra aglomeração nas proximidades da rua 271, onde também houve resistência e uso de spray químico e disparos de elastômero para garantir a segurança dos agentes.</p>
+<p>O ataque ocorreu por volta das 22h50 na Rua Lourival de Souza, na localidade do Mariscal. Dois homens em uma motocicleta passaram pelo local e efetuaram vários disparos contra um adolescente de 17 anos e um jovem de 20 anos.</p>
+<p>Após o ataque, os suspeitos fugiram do local. Equipes do Corpo de Bombeiros Militar e do Serviço de Atendimento Móvel de Urgência prestaram atendimento às vítimas, que foram encaminhadas ao Pronto Atendimento de Penha.</p>
+<p>Um dos feridos foi atingido na perna, enquanto o outro sofreu perfuração na cabeça. A área do crime foi isolada para preservação da cena até a chegada da Polícia Civil, que iniciou as investigações.</p>
+<p>O jovem de 20 anos possui antecedentes criminais, incluindo registros por desobediência, resistência, posse ou porte de drogas, dano, tráfico de drogas, roubo e suspeita de homicídio.</p>
+<p>A investigação busca esclarecer a autoria e a motivação dos disparos. Até o momento, ninguém foi preso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista embriagado colide em veículos e é detido em Porto Belo]]></title>
+    <link>https://visornoticias.com.br/homem-bebado-ao-volante-bate-em-carros-tenta-fugir-e-acaba-preso-em-porto-belo/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 02 Jan 2026 16:17:18 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323134]]></guid>
+    <description><![CDATA[Condutor sem habilitação envolvido em acidente tentou fugir do local e foi submetido ao teste do bafômetro com resultado positivo.]]></description>
+    <content:encoded><![CDATA[
+<p>Um motorista sem habilitação causou um acidente ao colidir em outros veículos em Porto Belo.</p>
+<p>Após o incidente, o condutor tentou fugir do local, mas foi detido pelas autoridades.</p>
+<p>O teste do bafômetro realizado no motorista</p>
     ]]></content:encoded>
   </item>
 </channel>
