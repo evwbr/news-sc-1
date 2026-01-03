@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 03 Jan 2026 22:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Jan 2026 23:35:48 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,37 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Venezuelanos em Blumenau realizam manifestação após prisão de Nicolás Maduro]]></title>
-    <link>https://jornalrazao.com/geral/venezuelanos-refugiados-em-sc-respondem-jornalista/</link>
+    <title><![CDATA[Corpo de mulher que caiu em rio de SC é encontrado; criança de 9 anos permanece desaparecida]]></title>
+    <link>https://visornoticias.com.br/corpo-de-mae-que-caiu-em-rio-de-sc-e-encontrado-filha-de-9-anos-segue-desaparecida/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 21:53:56 GMT</pubDate>
+    <pubDate>Sat, 03 Jan 2026 23:29:51 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174247]]></guid>
-    <description><![CDATA[Imigrantes venezuelanos em Blumenau, Santa Catarina, realizaram uma manifestação pacífica em resposta à da prisão de Nicolás Maduro, expressando alívio e esperança.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323376]]></guid>
+    <description><![CDATA[O corpo de uma mulher foi localizado após operação de resgate em um rio de Santa Catarina. As buscas pela filha dela, de 9 anos, continuam.]]></description>
     <content:encoded><![CDATA[
-<p>Dezenas de venezuelanos se reuniram em via pública no município de Blumenau para manifestar-se após a da prisão do presidente da Venezuela, Nicolás Maduro, em uma operação conduzida pelos Estados Unidos.</p>
-<p>O grupo expressou emoções como alívio e esperança, repetindo frases como “caiu Maduro” e “somos livres” durante o ato, que ocorreu de forma pacífica e contou com apoio de brasileiros que passavam pelo local.</p>
-<p>Participantes relataram experiências de fuga forçada, fome e perseguição política na Venezuela, destacando que muitos deixaram o país às pressas e enfrentaram dificuldades ao chegar ao Brasil.</p>
-<p>Santa Catarina foi mencionada como um estado que ofereceu oportunidades de trabalho e recomeço para os imigrantes, especialmente na construção civil, contribuindo para a integração dessas pessoas.</p>
-<p>O sentimento predominante entre os manifestantes foi de liberdade e esperança, com a prisão de Maduro sendo vista como um marco para o fim do medo e a possibilidade de reconstrução do país.</p>
-<p>Registros semelhantes foram observados em outras cidades brasileiras e no exterior, indicando reações imediatas entre comunidades venezuelanas diante da .</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Acidente entre caminhão e ônibus na BR-116 em Pelotas deixa 11 mortos]]></title>
-    <link>https://visornoticias.com.br/identificadas-as-11-vitimas-de-acidente-entre-caminhao-e-onibus-na-br-116-em-pelotas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 21:35:00 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323360]]></guid>
-    <description><![CDATA[Um acidente envolvendo um caminhão e um ônibus na BR-116, em Pelotas, resultou na morte de 11 pessoas e deixou outras 11 feridas.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu no sul do Rio Grande do Sul, envolvendo um caminhão e um ônibus na rodovia BR-116.</p>
-<p>Onze pessoas morreram em decorrência da colisão entre os veículos.</p>
-<p>Outras 11 pessoas ficaram feridas e receberam atendimento médico.</p>
-<p>As autoridades trabalham para identificar as vítimas e prestar assistência aos feridos.</p>
-<p>As circunstâncias que levaram ao acidente ainda estão sendo investigadas.</p>
+<p>Uma operação de resgate foi realizada para localizar as vítimas que caíram em um rio no estado de Santa Catarina.</p>
+<p>O corpo da mulher foi encontrado durante as buscas, que envolveram equipes especializadas.</p>
+<p>A criança de 9 anos, filha da mulher, ainda não foi localizada e as buscas permanecem em andamento.</p>
+<p>As autoridades seguem empenhadas na procura pela menina, utilizando recursos disponíveis para o resgate.</p>
     ]]></content:encoded>
   </item>
 </channel>
