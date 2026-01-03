@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 03 Jan 2026 01:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Jan 2026 09:35:53 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Mulher fica presa entre pedras no molhe de Itajaí e mobiliza bombeiros]]></title>
-    <link>https://jornalrazao.com/seguranca/mulher-presa-pedras-molhe-atalai-itajai/</link>
+    <title><![CDATA[Sugestões de nomes para gatos que costumam miar com frequência]]></title>
+    <link>https://visornoticias.com.br/seu-gato-gosta-de-miar-confira-10-nomes-que-combinam-com-ele/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 00:38:44 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174165]]></guid>
-    <description><![CDATA[Uma mulher ficou presa entre blocos rochosos no molhe do Atalaia, em Itajaí, e foi resgatada por equipes do Corpo de Bombeiros após operação de difícil acesso.]]></description>
+    <pubDate>Sat, 03 Jan 2026 09:10:08 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/seu-gato-gosta-de-miar-confira-10-nomes-que-combinam-com-ele/]]></guid>
+    <description><![CDATA[Proprietários de gatos que apresentam comportamento vocal podem encontrar opções de nomes que refletem essa característica.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu na noite de sexta-feira, quando a vítima não conseguiu se deslocar devido à compressão dos membros inferiores pelas pedras.</p>
-<p>Equipes do 7º Batalhão de Bombeiros Militar e guarda-vidas foram acionadas para realizar o resgate, que exigiu intervenção técnica especializada.</p>
-<p>Foi montado um palco operacional para garantir a segurança da vítima e dos socorristas durante o procedimento, que utilizou técnicas de levantamento progressivo.</p>
-<p>Ferramentas elétricas e almofadas pneumáticas foram empregadas para abrir e estabilizar os blocos rochosos ao longo da operação.</p>
-<p>Após cerca de uma hora e vinte minutos, a mulher foi retirada em segurança, imobilizada e encaminhada ao Hospital Marieta Konder Bornhausen para avaliação médica.</p>
+<p>Gatos que miam frequentemente demonstram uma forma de comunicação ativa com seus tutores.</p>
+<p>Nomes que remetem a sons ou à vocalização podem ser uma escolha adequada para esses animais.</p>
+<p>A escolha do nome pode levar em consideração o comportamento e a personalidade do gato.</p>
+<p>Inspirações criativas para nomes podem ajudar a fortalecer o vínculo entre o animal e o dono.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Alimentos e bebidas que auxiliam na recuperação após a ressaca]]></title>
+    <link>https://visornoticias.com.br/ressaca-veja-alimentos-e-bebidas-para-recuperar-o-bem-estar/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 09:01:01 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/ressaca-veja-alimentos-e-bebidas-para-recuperar-o-bem-estar/]]></guid>
+    <description><![CDATA[Pequenas escolhas alimentares podem contribuir para a recuperação do organismo após o consumo excessivo de álcool.]]></description>
+    <content:encoded><![CDATA[
+<p>Após o consumo exagerado de bebidas alcoólicas, o corpo necessita de nutrientes para se reequilibrar e recuperar o bem-estar.</p>
+<p>A ingestão de alimentos ricos em água e eletrólitos pode ajudar a hidratar o organismo e repor minerais perdidos.</p>
+<p>Bebidas como água e chás naturais são recomendadas para auxiliar na hidratação e na eliminação de toxinas.</p>
+<p>Alimentos leves e de fácil digestão podem facilitar o processo de recuperação e minimizar desconfortos.</p>
+<p>A adoção de uma alimentação equilibrada após o consumo de álcool contribui para a restauração das funções corporais.</p>
     ]]></content:encoded>
   </item>
 </channel>
