@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 03 Jan 2026 16:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Jan 2026 17:36:06 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,82 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Corpo decapitado é encontrado em área de mata em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/crime-chocante-em-sc-corpo-sem-cabeca-e-encontrado-em-area-de-mata/</link>
+    <title><![CDATA[Incêndio em fábrica mobiliza bombeiros por mais de oito horas em Timbó]]></title>
+    <link>https://visornoticias.com.br/fabrica-pega-fogo-e-bombeiros-lutam-por-8h/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 16:27:16 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323300]]></guid>
-    <description><![CDATA[Um corpo sem cabeça foi localizado em uma área de mata na tarde desta quinta-feira em Santa Catarina.]]></description>
+    <pubDate>Sat, 03 Jan 2026 17:28:01 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323311]]></guid>
+    <description><![CDATA[Um incêndio em uma fábrica em Timbó mobilizou equipes de bombeiros por mais de oito horas para controlar as chamas.]]></description>
     <content:encoded><![CDATA[
-<p>Equipes policiais foram acionadas para atender a ocorrência após a descoberta do corpo.</p>
-<p>As autoridades realizam diligências para identificar a vítima e esclarecer as circunstâncias do crime.</p>
-<p>O local permanece isolado para a realização de perícia técnica.</p>
-<p>Não há informações adicionais sobre suspeitos ou motivação do crime até o momento.</p>
+<p>O combate ao fogo contou com o apoio de equipes de cinco cidades da região.</p>
+<p>As operações foram intensas e prolongadas devido à extensão do incêndio.</p>
+<p>Não há informações sobre vítimas ou a causa do incêndio.</p>
+<p>As autoridades continuam monitorando o local para evitar novos focos de fogo.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista embriagado provoca sequência de acidentes no Centro de Tijucas e é detido por moradores]]></title>
+    <link>https://jornalrazao.com/seguranca/moradores-impedem-motorista-de-fugir-apos-sequencia-de-acidentes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 17:06:13 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174221]]></guid>
+    <description><![CDATA[Um motorista embriagado causou danos a veículos e a uma propriedade particular após perder o controle da direção no Centro de Tijucas. Ele foi contido por moradores antes da chegada da polícia.]]></description>
+    <content:encoded><![CDATA[
+<p>Na noite de sexta-feira, uma caminhonete perdeu o controle na Rua Marechal Deodoro, subiu na calçada e colidiu contra a mureta de uma propriedade particular, destruindo o muro.</p>
+<p>Após o primeiro acidente, o condutor tentou deixar o local em marcha à ré e atingiu lateralmente outro que trafegava pela via.</p>
+<p>Moradores que estavam nas proximidades intervieram e impediram a fuga do motorista, que apresentava sinais de embriaguez.</p>
+<p>Um ocupante do fugiu do local e não foi localizado. O motorista detido foi encaminhado à Delegacia de Polícia Civil para os procedimentos legais.</p>
+<p>O condutor alegou ter sido agredido antes da chegada da polícia, mas não apresentava lesões aparentes. Ele colaborou durante o atendimento e não houve necessidade do uso de algemas.</p>
+<p>A ocorrência foi registrada e segue sob investigação das autoridades competentes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Operação Recomeço Itajaí completa um ano com nova ação integrada]]></title>
+    <link>https://visornoticias.com.br/operacao-recomeco-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 16:39:16 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323225]]></guid>
+    <description><![CDATA[A Operação Recomeço Itajaí completou um ano e realizou uma nova ação integrada nos bairros Cidade Nova e Nossa Senhora das Graças.]]></description>
+    <content:encoded><![CDATA[
+<p>A iniciativa visa promover melhorias e reforçar a segurança nas regiões atendidas.</p>
+<p>A ação integrada envolveu diferentes setores para ampliar a eficácia das intervenções.</p>
+<p>Os bairros Cidade Nova e Nossa Senhora das Graças foram os focos da operação mais recente.</p>
+<p>A operação tem como objetivo principal contribuir para a qualidade de vida da população local.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Guarda Municipal de Chapecó registra mais de 16 mil ocorrências em 2025]]></title>
+    <link>https://visornoticias.com.br/guarda-municipal-chapeco/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 16:39:08 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323233]]></guid>
+    <description><![CDATA[A Guarda Municipal de Chapecó registrou mais de 16 mil ocorrências ao longo de 2025, com variações nos tipos de atendimento realizados.]]></description>
+    <content:encoded><![CDATA[
+<p>O balanço anual da Guarda Municipal de Chapecó indica uma redução nos atendimentos gerais em comparação a períodos anteriores.</p>
+<p>Por outro lado, houve um aumento no número de veículos recuperados pela corporação durante o ano.</p>
+<p>Esses dados refletem as ações e prioridades da Guarda Municipal no município ao longo de 2025.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[São José convoca aprovados do concurso para curso de formação da guarda municipal]]></title>
+    <link>https://visornoticias.com.br/concurso-guarda-municipal/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 16:38:53 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323241]]></guid>
+    <description><![CDATA[A prefeitura de São José autorizou o início do curso de formação para 26 agentes aprovados no concurso da guarda municipal.]]></description>
+    <content:encoded><![CDATA[
+<p>O curso de formação foi autorizado para os candidatos aprovados no concurso público da guarda municipal de São José.</p>
+<p>Ao todo, 26 agentes foram convocados para participar do treinamento.</p>
+<p>A iniciativa visa preparar os novos agentes para o exercício das funções na guarda municipal.</p>
     ]]></content:encoded>
   </item>
 </channel>
