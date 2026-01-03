@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 03 Jan 2026 19:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Jan 2026 20:35:52 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,32 +21,48 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Frente fria provoca ventos fortes e queda de temperatura em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/frente-fria-chega-com-rajadas-de-80-km/</link>
+    <title><![CDATA[Corpo de idoso desaparecido é encontrado no rio Itajaí-Mirim em Brusque]]></title>
+    <link>https://visornoticias.com.br/corpo-de-idoso-desaparecido-e-encontrado/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 19:21:31 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323335]]></guid>
-    <description><![CDATA[Uma frente fria atingiu Santa Catarina, causando rajadas de vento de até 80 km/h e queda nas temperaturas no estado.]]></description>
+    <pubDate>Sat, 03 Jan 2026 20:09:40 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323343]]></guid>
+    <description><![CDATA[O corpo de um idoso desaparecido desde quinta-feira foi localizado no rio Itajaí-Mirim, em Brusque.]]></description>
     <content:encoded><![CDATA[
-<p>Imagens registradas na Serra do Rio do Rastro mostram a intensidade dos ventos durante a passagem da frente fria.</p>
-<p>A Defesa Civil emitiu alertas para áreas costeiras devido ao risco associado aos ventos fortes.</p>
-<p>As condições climáticas provocaram mudanças significativas no tempo, com redução das temperaturas em diversas regiões do estado.</p>
+<p>Valdir Kohler estava desaparecido desde quinta-feira, 1º de junho.</p>
+<p>O corpo foi encontrado na manhã de sábado, 3 de junho, no bairro Dom Joaquim.</p>
+<p>As circunstâncias do desaparecimento e da localização do corpo não foram detalhadas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Frente fria altera padrão de chuva em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/fim-da-sequencia-de-chuva-frente-fria-muda-o-tempo-em-santa-catarina/</link>
+    <title><![CDATA[Alta demanda pressiona abastecimento de água em Itajaí e Navegantes]]></title>
+    <link>https://visornoticias.com.br/alta-demanda-pressiona-abastecimento-de-agua/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 18:39:46 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323331]]></guid>
-    <description><![CDATA[A instabilidade climática diminui neste sábado em Santa Catarina, com possibilidade de temporais isolados e mar agitado.]]></description>
+    <pubDate>Sat, 03 Jan 2026 20:05:23 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323344]]></guid>
+    <description><![CDATA[O aumento no consumo de água durante o verão tem causado pressão no abastecimento em Itajaí e Navegantes.]]></description>
     <content:encoded><![CDATA[
-<p>A sequência de chuva que atingiu Santa Catarina apresenta redução neste sábado.</p>
-<p>Há risco de temporais isolados e condições de mar agitado na região.</p>
-<p>Para domingo e segunda-feira, a previsão indica predomínio de sol no estado.</p>
+<p>Diversos bairros das cidades enfrentam dificuldades no fornecimento de água devido à alta demanda registrada nesta estação.</p>
+<p>A população está sendo orientada a adotar medidas de economia para evitar o agravamento da situação.</p>
+<p>As autoridades locais acompanham o cenário para buscar soluções que garantam o abastecimento regular.</p>
+<p>O período de verão, caracterizado por temperaturas elevadas, contribui para o aumento do consumo de água nas regiões afetadas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Primeiro nascimento de 2026 registrado em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/balneario-camboriu-registra-o-primeiro-nascimento-de-2026/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sat, 03 Jan 2026 19:48:02 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323337]]></guid>
+    <description><![CDATA[A cidade de Balneário Camboriú registrou o primeiro nascimento do ano na unidade de saúde recentemente estadualizada pelo Governo de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>O nascimento ocorreu na unidade de saúde que passou por recente mudança administrativa para a gestão estadual.</p>
+<p>O bebê, chamado Sofia, foi o primeiro a nascer em 2026 na cidade.</p>
+<p>A unidade de saúde tem recebido investimentos para aprimorar o atendimento à população local.</p>
     ]]></content:encoded>
   </item>
 </channel>
