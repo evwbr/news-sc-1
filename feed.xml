@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 03 Jan 2026 15:35:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Jan 2026 16:35:49 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,20 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Incêndio destrói indústria de portas em Timbó]]></title>
-    <link>https://portalmenina.com.br/incendio-de-grandes-proporcoes-destroi-industria-de-portas-em-timbo/</link>
+    <title><![CDATA[Corpo decapitado é encontrado em área de mata em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/crime-chocante-em-sc-corpo-sem-cabeca-e-encontrado-em-area-de-mata/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 03 Jan 2026 15:02:37 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132039]]></guid>
-    <description><![CDATA[Um incêndio de grandes proporções atingiu uma indústria de portas no bairro Industrial, em Timbó, durante a madrugada.]]></description>
+    <pubDate>Sat, 03 Jan 2026 16:27:16 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323300]]></guid>
+    <description><![CDATA[Um corpo sem cabeça foi localizado em uma área de mata na tarde desta quinta-feira em Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O Corpo de Bombeiros Militar foi acionado por volta de 1h39 para atender a ocorrência na Rua Castro Alves.</p>
-<p>Devido à intensidade das chamas, equipes de municípios vizinhos foram mobilizadas para reforçar o combate ao fogo.</p>
-<p>Ao todo, 27 bombeiros utilizaram 11 viaturas e três retroescavadeiras no trabalho de contenção.</p>
-<p>O combate ao incêndio, controle da propagação e rescaldo duraram cerca de oito horas, com o uso de aproximadamente 140 mil litros de água.</p>
-<p>As equipes conseguiram evitar que as chamas atingissem um galpão adjacente da mesma empresa.</p>
-<p>As causas do incêndio ainda não foram divulgadas.</p>
+<p>Equipes policiais foram acionadas para atender a ocorrência após a descoberta do corpo.</p>
+<p>As autoridades realizam diligências para identificar a vítima e esclarecer as circunstâncias do crime.</p>
+<p>O local permanece isolado para a realização de perícia técnica.</p>
+<p>Não há informações adicionais sobre suspeitos ou motivação do crime até o momento.</p>
     ]]></content:encoded>
   </item>
 </channel>
