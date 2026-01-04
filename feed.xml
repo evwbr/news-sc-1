@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 04 Jan 2026 18:35:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Jan 2026 19:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,17 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Mulher é agredida por ex-companheiro em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/mulher-espancada-por-ex-companheiro-que-nao/</link>
+    <title><![CDATA[Leilão do Porto de Itajaí prevê investimentos de R$ 920 milhões até 2029]]></title>
+    <link>https://visornoticias.com.br/leilao-do-porto-de-itajai-tera-r-920-milhoes/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 04 Jan 2026 18:08:46 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323537]]></guid>
-    <description><![CDATA[Uma mulher foi agredida pelo ex-companheiro que não aceitava o término do relacionamento. O homem foi preso após tentativa de suicídio.]]></description>
+    <pubDate>Sun, 04 Jan 2026 18:45:05 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323544]]></guid>
+    <description><![CDATA[O leilão do Porto de Itajaí inclui um plano de investimentos que totaliza R$ 920 milhões até o ano de 2029.]]></description>
     <content:encoded><![CDATA[
-<p>A vítima havia registrado ameaças e solicitado medidas protetivas contra o ex-companheiro.</p>
-<p>O agressor foi detido pela polícia depois de tentar tirar a própria vida.</p>
-<p>O caso ocorreu em Santa Catarina e está sob investigação das autoridades locais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Fiscalização na Praia Brava multa comércios e orienta banhistas em Itajaí]]></title>
-    <link>https://visornoticias.com.br/fiscalizacao-na-praia-brava-multa-comercios/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 04 Jan 2026 17:47:22 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323538]]></guid>
-    <description><![CDATA[Quatro estabelecimentos comerciais foram multados durante ação de fiscalização na Praia Brava, em Itajaí. A operação também removeu estruturas irregulares e reforçou as regras de uso da faixa de areia.]]></description>
-    <content:encoded><![CDATA[
-<p>A fiscalização ocorreu na Praia Brava com o objetivo de garantir o cumprimento das normas locais para o uso da faixa de areia.</p>
-<p>Durante a ação, quatro comércios foram autuados por irregularidades relacionadas às suas estruturas na orla.</p>
-<p>Além das multas, as equipes removeram construções que não estavam em conformidade com as regulamentações vigentes.</p>
-<p>Banhistas receberam orientações sobre as regras para utilização da praia, visando a segurança e o ordenamento do espaço público.</p>
+<p>O projeto aprovado contempla a construção de um novo terminal e a ampliação da infraestrutura existente no porto.</p>
+<p>Os recursos serão destinados para modernização e expansão das operações portuárias.</p>
+<p>As melhorias visam aumentar a capacidade e eficiência do porto ao longo dos próximos anos.</p>
     ]]></content:encoded>
   </item>
 </channel>
