@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 04 Jan 2026 11:35:48 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Jan 2026 12:35:52 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Temperaturas sobem e temporais típicos de verão são previstos em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/frio-da-tregua-e-calor-retorna-em-sc/</link>
+    <title><![CDATA[Corpo encontrado no mar é identificado como pescador desaparecido]]></title>
+    <link>https://visornoticias.com.br/corpo-encontrado-no-mar-e-identificado/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 04 Jan 2026 11:26:29 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323449]]></guid>
-    <description><![CDATA[Após período de frio, as temperaturas começam a aumentar em Santa Catarina, com possibilidade de temporais isolados a partir de quarta-feira.]]></description>
+    <pubDate>Sun, 04 Jan 2026 12:17:42 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323458]]></guid>
+    <description><![CDATA[O corpo localizado no mar foi identificado como o de um pescador que estava desaparecido após uma saída para pesca no Litoral Norte de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>As temperaturas em Santa Catarina apresentam elevação após um período de frio na região.</p>
-<p>A partir de quarta-feira, há previsão de temporais isolados, característicos do verão na região.</p>
-<p>As condições indicam um retorno do calor, acompanhado por instabilidades climáticas típicas da estação.</p>
+<p>O pescador fazia parte de um grupo que desapareceu durante uma atividade de pesca na região.</p>
+<p>As buscas foram realizadas após o desaparecimento dos pescadores.</p>
+<p>O corpo foi encontrado no mar e posteriormente identificado.</p>
+<p>As circunstâncias do desaparecimento ainda estão sendo analisadas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Drones são utilizados no combate ao tráfico em Balneário Camboriú]]></title>
+    <link>https://visornoticias.com.br/drones-auxiliam-combate-ao-trafico-em-bc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 04 Jan 2026 11:47:40 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323453]]></guid>
+    <description><![CDATA[A Guarda Municipal de Balneário Camboriú incorporou drones para reforçar o monitoramento tático no combate ao tráfico de drogas.]]></description>
+    <content:encoded><![CDATA[
+<p>A tecnologia dos drones tem ampliado a capacidade de resposta das equipes de segurança na cidade.</p>
+<p>Os equipamentos permitem um acompanhamento mais eficiente das áreas com maior incidência de crimes.</p>
+<p>A utilização dos drones integra as ações da Guarda Municipal, proporcionando maior agilidade e precisão nas operações.</p>
+<p>O monitoramento aéreo contribui para a identificação de atividades suspeitas e apoio nas intervenções.</p>
+<p>Essa estratégia visa fortalecer o combate ao tráfico e aumentar a segurança pública em Balneário Camboriú.</p>
     ]]></content:encoded>
   </item>
 </channel>
