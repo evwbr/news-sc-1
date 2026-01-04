@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 04 Jan 2026 19:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Jan 2026 20:36:05 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,69 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Leilão do Porto de Itajaí prevê investimentos de R$ 920 milhões até 2029]]></title>
-    <link>https://visornoticias.com.br/leilao-do-porto-de-itajai-tera-r-920-milhoes/</link>
+    <title><![CDATA[Moradora de condomínio em Bombinhas manifesta insatisfação com avanço da restinga na praia]]></title>
+    <link>https://jornalrazao.com/geral/moradora-de-condominio-de-luxo-em-sc-quer-que-prefeitura-tire-restinga/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 04 Jan 2026 18:45:05 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323544]]></guid>
-    <description><![CDATA[O leilão do Porto de Itajaí inclui um plano de investimentos que totaliza R$ 920 milhões até o ano de 2029.]]></description>
+    <pubDate>Sun, 04 Jan 2026 20:20:54 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174288]]></guid>
+    <description><![CDATA[Moradora do Residencial Varandas do Atlântico, em Bombinhas, expressa preocupação com o crescimento da vegetação de restinga na faixa de areia em frente ao condomínio.]]></description>
     <content:encoded><![CDATA[
-<p>O projeto aprovado contempla a construção de um novo terminal e a ampliação da infraestrutura existente no porto.</p>
-<p>Os recursos serão destinados para modernização e expansão das operações portuárias.</p>
-<p>As melhorias visam aumentar a capacidade e eficiência do porto ao longo dos próximos anos.</p>
+<p>A moradora enviou um vídeo e mensagens relatando que a vegetação teria avançado sobre a área de areia disponível, especialmente durante períodos de maré alta, reduzindo o espaço para circulação e lazer.</p>
+<p>Ela mencionou que houve uma intervenção parcial anterior na área, que melhorou temporariamente a situação, mas que o crescimento da restinga voltou a ocorrer, sendo classificado como excessivo.</p>
+<p>A moradora solicita uma nova atuação do poder público municipal, alegando abandono da área.</p>
+<p>A restinga é considerada vegetação de preservação permanente e protegida por legislação ambiental, devido às suas funções na fixação da areia, redução da erosão, proteção contra o avanço do mar e preservação da biodiversidade.</p>
+<p>Qualquer manejo ou supressão da restinga depende de autorização dos órgãos ambientais competentes e deve ocorrer apenas em situações previstas em lei.</p>
+<p>Especialistas destacam que a presença da restinga em municípios litorâneos como Bombinhas é um fator de proteção natural diante do aumento do nível do mar e da intensificação de ressacas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Ressaca no litoral catarinense aumenta risco no mar até segunda-feira]]></title>
+    <link>https://visornoticias.com.br/ressaca-no-litoral-catarinense-eleva-risco/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 04 Jan 2026 19:55:34 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323548]]></guid>
+    <description><![CDATA[O litoral de Santa Catarina enfrenta condições de ressaca, com ondas de até 3 metros próximas à costa, elevando o risco no mar até o início da próxima semana.]]></description>
+    <content:encoded><![CDATA[
+<p>A região da Grande Florianópolis está sob alerta devido à presença de ondas altas, que podem atingir até 3 metros de altura.</p>
+<p>As condições marítimas adversas devem permanecer até segunda-feira, aumentando os riscos para atividades no mar.</p>
+<p>Recomenda-se cautela para banhistas, pescadores e navegantes durante este período.</p>
+<p>As autoridades monitoram a situação para garantir a segurança da população e orientar sobre os cuidados necessários.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Polícia Militar realiza fiscalização e aplica multas a motociclistas em Camboriú]]></title>
+    <link>https://visornoticias.com.br/fiscalizacao-da-pm-aborda-motociclistas-e-aplica-multas-no-bairro-em-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 04 Jan 2026 19:50:09 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323543]]></guid>
+    <description><![CDATA[A Polícia Militar realizou uma operação no bairro Monte Alegre, abordando motociclistas e aplicando multas por irregularidades.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante a ação, 57 veículos foram abordados pela equipe policial.</p>
+<p>Seis motocicletas foram removidas devido a irregularidades constatadas durante a fiscalização.</p>
+<p>A operação teve como objetivo garantir a segurança no trânsito e o cumprimento das normas de circulação no bairro.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Adolescente de 15 anos é morto em Cunha Porã com sinais de violência extrema]]></title>
+    <link>https://jornalrazao.com/seguranca/adolescente-assassinado-crime-brutal-cunha-pora-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 04 Jan 2026 19:42:57 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174279]]></guid>
+    <description><![CDATA[Um jovem de 15 anos foi encontrado morto em uma área de mata no distrito de Primeiro de Janeiro, em Cunha Porã, com sinais de violência extrema, incluindo decapitação.]]></description>
+    <content:encoded><![CDATA[
+<p>O corpo do adolescente foi localizado após denúncia à Polícia Militar, que confirmou a ausência da cabeça no local do crime.</p>
+<p>Equipes da Polícia Militar, Polícia Civil, Polícia Científica e Corpo de Bombeiros realizaram buscas e encontraram a cabeça enterrada a cerca de 60 centímetros de profundidade no dia seguinte.</p>
+<p>Quatro suspeitos foram identificados e autuados por homicídio qualificado e ocultação de cadáver; dois foram presos em flagrante e dois se apresentaram posteriormente.</p>
+<p>As investigações apontam que o crime pode estar relacionado a uma dívida de drogas ou a uma discussão entre a vítima e um dos envolvidos.</p>
+<p>Durante o inquérito, foi relatado que os autores teriam registrado imagens com a cabeça da vítima, evidenciando a gravidade e frieza do crime.</p>
+<p>Os suspeitos foram encaminhados ao Presídio de Maravilha, onde permanecem à disposição da Justiça, enquanto as investigações continuam em andamento.</p>
     ]]></content:encoded>
   </item>
 </channel>
