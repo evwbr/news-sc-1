@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 05 Jan 2026 08:35:48 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 09:35:56 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,47 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Integrante de facção morre em confronto durante operação policial na Grande Florianópolis]]></title>
-    <link>https://visornoticias.com.br/disciplina-de-faccao-morre-em-confronto-durante-operacao-policial-na-grande-florianopolis/</link>
+    <title><![CDATA[Tempo seco predomina em Santa Catarina; frente fria altera o clima a partir de quarta-feira]]></title>
+    <link>https://visornoticias.com.br/tempo-seco-predomina-em-sc-frente-fria-muda-o-clima-a-partir-de-quarta/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 08:26:09 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323591]]></guid>
-    <description><![CDATA[Um homem morreu em confronto com a polícia durante uma operação realizada na Grande Florianópolis.]]></description>
+    <pubDate>Mon, 05 Jan 2026 09:09:24 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323601]]></guid>
+    <description><![CDATA[Santa Catarina deve registrar tempo seco no início da semana, com mudanças climáticas previstas a partir de quarta-feira devido à chegada de uma frente fria.]]></description>
     <content:encoded><![CDATA[
-<p>A ação policial foi desencadeada após denúncia de uso de um imóvel para armazenamento de drogas e armas.</p>
-<p>Durante a operação, houve troca de tiros entre os policiais e os suspeitos no local.</p>
-<p>O homem que morreu era identificado como integrante de uma facção criminosa.</p>
-<p>As autoridades continuam com as investigações para identificar outros envolvidos e apreender materiais ilícitos.</p>
+<p>O estado de Santa Catarina apresenta condições de tempo seco nos primeiros dias da semana.</p>
+<p>A previsão indica mar agitado na região costeira, com possibilidade de alagamentos em áreas próximas ao litoral.</p>
+<p>A partir de quarta-feira, a chegada de uma frente fria deve provocar mudanças no clima, incluindo temporais isolados em algumas localidades.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Acidente com jet ski resulta em morte em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/acidente-com-jet-ski-mata-uma-pessoa-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 08:57:46 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323598]]></guid>
+    <description><![CDATA[Um acidente envolvendo um jet ski causou a morte de uma pessoa em Santa Catarina, enquanto outra ficou ferida.]]></description>
+    <content:encoded><![CDATA[
+<p>Equipes de resgate e um helicóptero da Polícia Militar foram acionados para atender a ocorrência.</p>
+<p>Uma das vítimas sofreu ferimentos e recebeu atendimento no local do acidente.</p>
+<p>As circunstâncias que levaram ao acidente ainda não foram divulgadas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é preso por tráfico de drogas próximo a escola em Itajaí]]></title>
+    <link>https://visornoticias.com.br/homem-e-preso-por-trafico-de-drogas-proximo-a-escola-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 08:31:13 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323594]]></guid>
+    <description><![CDATA[Um homem foi detido por tráfico de drogas nas proximidades de uma escola em Itajaí após ser flagrado entregando entorpecentes em um .]]></description>
+    <content:encoded><![CDATA[
+<p>Durante a abordagem, foram encontrados mais de 150 gramas de cocaína na residência do suspeito.</p>
+<p>A prisão ocorreu em uma área próxima a uma instituição de ensino, reforçando a atenção das autoridades na região.</p>
+<p>O homem foi encaminhado às autoridades competentes para os procedimentos legais cabíveis.</p>
     ]]></content:encoded>
   </item>
 </channel>
