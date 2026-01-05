@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 05 Jan 2026 14:36:19 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 15:36:07 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,156 +21,70 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem causa tumulto durante missa em igreja no Centro de Brusque]]></title>
-    <link>https://jornalrazao.com/seguranca/cabelo-na-boca-morador-de-rua-invade-igreja-e-agarra-crianca-em-brusque/</link>
+    <title><![CDATA[Moradores de Florianópolis deslocam carro irregular para liberar passagem de ônibus]]></title>
+    <link>https://jornalrazao.com/seguranca/floripa-nunca-decepciona-moradores-guincham-carro-com-as-proprias-maos/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:28:09 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174364]]></guid>
-    <description><![CDATA[Um homem provocou confusão durante uma celebração na Igreja Matriz São Luís Gonzaga, no Centro de Brusque, na noite de domingo.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu nos momentos finais da missa, durante a bênção, quando crianças se aproximavam do altar.</p>
-<p>O homem se aproximou das crianças de forma considerada perturbadora, puxou o cabelo de uma mulher que segurava uma criança e apresentou comportamento agressivo, incluindo ameaças ao presépio da igreja.</p>
-<p>Fiéis presentes intervieram para conter o homem e acionaram a Polícia Militar, que compareceu ao local e controlou a situação.</p>
-<p>Após ser ouvido, o homem foi liberado no local após o registro de um boletim de ocorrência por perturbação, devido à ausência de testemunhas dispostas a formalizar representação.</p>
-<p>O episódio gerou preocupação entre os presentes, especialmente famílias com crianças, e repercutiu nas redes sociais, com pedidos por maior segurança em espaços públicos.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Jeep Compass combina conforto urbano e desempenho em estradas de terra no interior]]></title>
-    <link>https://visornoticias.com.br/jeep-compass-para-quem-mora-no-interior-conforto-urbano-e-aptidao-para-estradas-de-terra/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:26:37 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323788]]></guid>
-    <description><![CDATA[O Jeep Compass apresenta características que atendem às necessidades de moradores de regiões interiores, oferecendo conforto para uso urbano e capacidade para enfrentar estradas não asfaltadas.]]></description>
-    <content:encoded><![CDATA[
-<p>Em áreas do interior do Brasil, onde as condições das vias podem variar entre asfaltadas e de terra, a escolha do deve considerar tanto o desempenho em centros urbanos quanto a aptidão para terrenos irregulares.</p>
-<p>O Jeep Compass é projetado para proporcionar conforto durante deslocamentos em cidades, ao mesmo tempo em que oferece recursos que facilitam a condução em estradas de terra.</p>
-<p>Essa combinação torna o modelo uma opção adequada para quem necessita de mobilidade eficiente em diferentes tipos de vias, comuns em localidades interioranas.</p>
-<p>Além do aspecto funcional, o também atende às expectativas de conforto e segurança dos usuários que vivem em regiões com infraestrutura viária diversificada.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Grupo Koch inicia processo seletivo para 240 vagas em novas lojas no Litoral Norte]]></title>
-    <link>https://visornoticias.com.br/grupo-koch-abre-processo-seletivo-com-240-vagas-para-novas-lojas-no-litoral-norte/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:23:05 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323805]]></guid>
-    <description><![CDATA[O Grupo Koch abriu processo seletivo para preencher 240 vagas em unidades localizadas em Camboriú e Balneário Camboriú.]]></description>
-    <content:encoded><![CDATA[
-<p>A seleção ocorrerá entre os dias 6 e 8 de janeiro.</p>
-<p>As vagas são destinadas para novas lojas que serão inauguradas no Litoral Norte de Santa Catarina.</p>
-<p>O processo seletivo visa atender à demanda de contratação para as unidades nas cidades de Camboriú e Balneário Camboriú.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Florianópolis proíbe uso de dinheiro no embarque de ônibus a partir desta segunda]]></title>
-    <link>https://visornoticias.com.br/nova-regra-proibe-dinheiro-no-embarque-onibus/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:18:20 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323795]]></guid>
-    <description><![CDATA[A partir desta segunda-feira, o pagamento em dinheiro não será mais aceito no embarque de ônibus fora dos terminais em Florianópolis.]]></description>
-    <content:encoded><![CDATA[
-<p>O uso de cartões e bilhetes digitais passa a ser obrigatório para o pagamento das passagens em pontos de embarque fora dos terminais.</p>
-<p>A medida visa modernizar o sistema de transporte público e agilizar o processo de embarque dos passageiros.</p>
-<p>A proibição do uso de dinheiro no embarque não se aplica aos terminais de ônibus, onde outras formas de pagamento continuam disponíveis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Jovem motociclista morre em acidente com trator na SC-163 em Iporã do Oeste]]></title>
-    <link>https://visornoticias.com.br/identificado-jovem-motociclista-que-morreu-em-acidente-com-trator-na-sc-163/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:10:37 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 15:08:21 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323793]]></guid>
-    <description><![CDATA[Um motociclista de 24 anos morreu após colisão com um trator na SC-163, no interior de Iporã do Oeste.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174372]]></guid>
+    <description><![CDATA[Um estacionado em local proibido na Barra da Lagoa, em Florianópolis, foi retirado por moradores para permitir a passagem de um ônibus bloqueado.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu na noite de domingo, envolvendo uma motocicleta e um trator na rodovia SC-163.</p>
-<p>A vítima, um jovem de 24 anos, não resistiu aos ferimentos e faleceu no local.</p>
-<p>As circunstâncias da colisão ainda estão sendo apuradas pelas autoridades competentes.</p>
+<p>O carro estava estacionado em uma área com sinalização de proibição, impedindo o trânsito do transporte coletivo. Moradores se reuniram e levantaram o com as próprias mãos para deslocá-lo alguns metros e liberar a via.</p>
+<p>O motorista do automóvel não foi localizado no momento da ação. A iniciativa ocorreu diante da impossibilidade do ônibus seguir o trajeto e da presença de pedestres na via.</p>
+<p>A atitude gerou opiniões divergentes, com parte da população apoiando a mobilização para garantir a circulação e evitar atrasos, enquanto outros questionaram a possibilidade de danos ao e a ausência de intervenção oficial.</p>
+<p>Até o momento, não há informações sobre registro de ocorrência, aplicação de multa ou responsabilização por eventuais danos ao carro. As autoridades municipais e de trânsito não se manifestaram sobre o caso.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Jovem desaparecido no Pico do Paraná é encontrado com vida]]></title>
-    <link>https://visornoticias.com.br/jovem-desaparecido-no-pico-do-parana-e-encontrado-com-vida/</link>
+    <title><![CDATA[Moradores reúnem placas de veículos perdidas em estrada com más condições na Grande Florianópolis]]></title>
+    <link>https://jornalrazao.com/geral/moradores-procuram-por-donos-de-placas-perdidas-em-estrada/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 14:02:56 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323790]]></guid>
-    <description><![CDATA[Um jovem que estava desaparecido no Pico do Paraná foi localizado com vida na manhã desta segunda-feira.]]></description>
-    <content:encoded><![CDATA[
-<p>O resgate ocorreu durante a manhã, envolvendo equipes especializadas na região do Pico do Paraná.</p>
-<p>A localização do jovem foi confirmada pelas autoridades responsáveis pelo atendimento emergencial.</p>
-<p>Uma coletiva de imprensa está prevista para o meio-dia para fornecer mais detalhes sobre a operação de resgate.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Itajaí realiza 2º Festival de Terno de Reis na Rua Hercílio Luz]]></title>
-    <link>https://visornoticias.com.br/festival-terno-reis-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 13:38:19 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 14:50:06 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323562]]></guid>
-    <description><![CDATA[Itajaí promove a segunda edição do Festival de Terno de Reis, evento que reúne grupos de cinco cidades para celebrar a tradição cultural açoriana.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174366]]></guid>
+    <description><![CDATA[Placas de veículos têm sido encontradas ao longo da Estrada Geral, no acesso à Praia da Pinheira, em Palhoça, devido às condições precárias da via, que apresentam buracos e desníveis.]]></description>
     <content:encoded><![CDATA[
-<p>O festival ocorre na Rua Hercílio Luz e destaca a cultura açoriana por meio das apresentações dos grupos participantes.</p>
-<p>A iniciativa busca valorizar as manifestações culturais locais e regionais, promovendo a integração entre as cidades envolvidas.</p>
-<p>O evento reúne grupos de cinco cidades, que apresentam suas tradições durante a programação do festival.</p>
+<p>A Estrada Geral, localizada às margens da BR-101, apresenta problemas de infraestrutura que afetam a segurança dos motoristas, especialmente em dias de chuva.</p>
+<p>Buracos profundos e lama na via têm causado impactos que resultam na perda de placas de veículos durante a passagem, além de outros danos aos automóveis.</p>
+<p>Moradores da região passaram a recolher as placas encontradas na estrada e as deixam reunidas em um ponto específico para facilitar a recuperação pelos proprietários.</p>
+<p>Até o momento, cerca de 40 placas foram recolhidas nesse local, evidenciando a frequência do problema e a necessidade de melhorias na via.</p>
+<p>Motoristas relatam que após períodos chuvosos o trecho se torna ainda mais perigoso, com poças d'água que escondem buracos e aumentam o risco de danos aos veículos.</p>
+<p>A estrada é utilizada tanto por moradores locais quanto por quem se dirige à Praia da Pinheira, funcionando como rota alternativa à BR-101, sem registros recentes de manutenção.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Criciúma recebe reconhecimento nacional por transparência pública]]></title>
-    <link>https://visornoticias.com.br/transparencia-em-criciuma-2/</link>
+    <title><![CDATA[Itajaí é a terceira cidade de Santa Catarina que mais gerou empregos em 2025]]></title>
+    <link>https://portalmenina.com.br/itajai-e-a-terceira-cidade-de-santa-catarina-que-mais-gerou-empregos-em-2025/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 13:35:15 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323716]]></guid>
-    <description><![CDATA[Criciúma alcançou índice de 95,23% no Programa Nacional de Transparência Pública, destacando-se entre as cidades avaliadas.]]></description>
+    <pubDate>Mon, 05 Jan 2026 13:31:47 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132143]]></guid>
+    <description><![CDATA[Itajaí ficou em terceiro lugar no ranking de municípios de Santa Catarina com maior geração de empregos em 2025, com 6.373 vagas preenchidas.]]></description>
     <content:encoded><![CDATA[
-<p>O município de Criciúma foi reconhecido com selos nacionais que atestam a transparência na gestão pública.</p>
-<p>O índice obtido no programa reflete o compromisso da administração local com a divulgação de informações e a prestação de contas à população.</p>
-<p>A avaliação considera critérios relacionados à acessibilidade e qualidade dos dados disponibilizados pelos órgãos públicos.</p>
-<p>Esse reconhecimento posiciona Criciúma como referência em transparência entre as cidades brasileiras.</p>
+<p>Santa Catarina registrou mais de 106 mil novas vagas de trabalho preenchidas ao longo de 2025.</p>
+<p>Florianópolis liderou o ranking estadual, com 7.606 vagas geradas, seguida por Joinville, que contabilizou 7.454 novas contratações.</p>
+<p>Além de Itajaí, outras cidades da região também apresentaram crescimento na geração de empregos, como Itapema, Navegantes, Camboriú e Balneário Camboriú.</p>
+<p>Os setores de comércio e reparação de veículos automotores, assim como o agronegócio, foram os que mais contrataram durante o ano.</p>
+<p>O ranking das dez cidades com maior número de vagas geradas inclui ainda Blumenau, Chapecó, Palhoça, São José, Brusque, Jaraguá do Sul e Jaguaruna.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Prefeitura de Criciúma avança em negociações para obras públicas]]></title>
-    <link>https://visornoticias.com.br/obras-criciuma-2/</link>
+    <title><![CDATA[Mortes nas rodovias federais de SC caem 62% durante feriado de Ano Novo, mas acidentes aumentam]]></title>
+    <link>https://portalmenina.com.br/operacao-ano-novo-mortes-caem-62-nas-rodovias-federais-de-sc-mas-numero-de-acidentes-aumenta/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 13:34:40 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323717]]></guid>
-    <description><![CDATA[A prefeitura de Criciúma realizou reunião para tratar da cessão de área e da liberação de recursos para obras na cidade.]]></description>
+    <pubDate>Mon, 05 Jan 2026 13:16:21 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132139]]></guid>
+    <description><![CDATA[Operação de fiscalização nas rodovias federais de Santa Catarina registrou redução significativa no número de mortes, apesar do aumento nos acidentes e feridos em comparação ao feriado anterior.]]></description>
     <content:encoded><![CDATA[
-<p>A reunião abordou a cessão da área da Cecrisa para a realização de obras públicas em Criciúma.</p>
-<p>Também foram discutidas questões relacionadas à liberação de verbas destinadas aos projetos.</p>
-<p>As negociações seguem em andamento para viabilizar a execução das obras na cidade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Criciúma firma termo para egressos do Universidade Gratuita SC]]></title>
-    <link>https://visornoticias.com.br/universidade-gratuita-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 13:34:04 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323723]]></guid>
-    <description><![CDATA[Egressos do programa Universidade Gratuita SC em Criciúma realizarão contrapartida social no município.]]></description>
-    <content:encoded><![CDATA[
-<p>A cidade de Criciúma estabeleceu um termo para os egressos do programa Universidade Gratuita SC.</p>
-<p>Os participantes do programa deverão cumprir uma contrapartida social no município.</p>
-<p>A medida visa fortalecer a relação entre os formandos e a comunidade local.</p>
+<p>A operação de fiscalização nas rodovias federais de Santa Catarina durante o feriado de Ano Novo ocorreu entre os dias 30 de dezembro e 4 de janeiro. No período, foram contabilizados 134 acidentes, representando um aumento de 13% em relação ao feriado anterior, quando ocorreram 118 acidentes.</p>
+<p>O número de pessoas feridas também apresentou crescimento, passando de 153 para 159 casos, um aumento de 4%. Em contrapartida, o número de mortes no local dos acidentes caiu 62%, com três óbitos registrados contra oito no mesmo período do ano anterior.</p>
+<p>As mortes ocorreram nas rodovias BR-470, em Trombudo Central e Brunópolis, e BR-282, em Águas Mornas. Duas vítimas faleceram em colisões frontais e uma em atropelamento de pedestre.</p>
+<p>Durante a operação, foram realizadas mais de 9.300 abordagens, nas quais foram constatadas diversas infrações de trânsito. Entre as infrações registradas, destacam-se o uso inadequado do cinto de segurança, com mais de 460 casos, e o excesso de velocidade, com 660 registros.</p>
+<p>Outras infrações frequentes incluíram ultrapassagens em locais proibidos, embriaguez ao volante e uso de celular enquanto dirigia. Também foram identificados 51 casos de crianças transportadas sem cadeirinha.</p>
     ]]></content:encoded>
   </item>
 </channel>
