@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 05 Jan 2026 10:36:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 11:36:12 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,115 +21,101 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[BOPE intensifica monitoramento após morte de integrante de facção em São José]]></title>
-    <link>https://jornalrazao.com/seguranca/bope-monitora-ameacas-apos-morte-de-disciplina-de-faccao-na-grande-florianopolis/</link>
+    <title><![CDATA[Acidente na BR-116 deixa seis mortos após carreta tombar sobre van]]></title>
+    <link>https://visornoticias.com.br/tentativa-de-assalto-a-carreta-termina-em-acidente-com-seis-mortos-na-br-116/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 10:33:44 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174332]]></guid>
-    <description><![CDATA[Mensagens com tom de ameaça e luto foram identificadas nas redes sociais após operação policial na comunidade Dona Wanda, em São José.]]></description>
+    <pubDate>Mon, 05 Jan 2026 11:33:09 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323665]]></guid>
+    <description><![CDATA[Uma carreta tombou sobre uma van na BR-116, resultando na morte de seis pessoas. O acidente ocorreu após a carreta recuar na rodovia.]]></description>
     <content:encoded><![CDATA[
-<p>O BOPE realizou uma operação na comunidade Dona Wanda, em São José, que resultou na morte de um homem apontado como disciplina do PGC, grupo criminoso atuante na região.</p>
-<p>Após o confronto, foram publicadas mensagens nas redes sociais com expressões de revolta e ameaças atribuídas a pessoas ligadas ao homem morto, conhecido como 'Califa'.</p>
-<p>As postagens incluem imagens e textos que demonstram o vínculo entre o indivíduo e integrantes do grupo, além de promessas de vingança.</p>
-<p>A Polícia Militar intensificou o monitoramento das redes sociais para prevenir possíveis ações de retaliação contra agentes de segurança e evitar novos confrontos.</p>
-<p>O homem morto exercia função estratégica na facção, responsável por impor regras e manter o controle interno na comunidade.</p>
-<p>As forças de segurança reforçaram que operações continuam em andamento para garantir a segurança da população e dos policiais, mantendo o combate ao crime organizado na região.</p>
+<p>A carreta teria sido alvo de uma tentativa de assalto antes de descer de ré na rodovia.</p>
+<p>O tombou sobre uma van que transportava fiéis de volta de um culto.</p>
+<p>Seis pessoas morreram em decorrência do acidente na BR-116.</p>
+<p>As circunstâncias exatas que levaram ao tombamento da carreta ainda são investigadas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Dois homens são presos por tráfico de drogas em Biguaçu]]></title>
-    <link>https://jornalrazao.com/seguranca/tatico-desmonta-ponto-de-trafico-e-prende-dois-criminosos-em-biguacu/</link>
+    <title><![CDATA[Buscas por jovem desaparecido no Pico Paraná avançam para áreas fora das trilhas]]></title>
+    <link>https://visornoticias.com.br/buscas-por-jovem-desaparecido-no-pico-parana-entram-em-nova-fase-fora-das-trilhas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 10:17:08 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 11:15:36 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323658]]></guid>
+    <description><![CDATA[As buscas pelo jovem desaparecido no Pico Paraná passaram a focar em áreas de mata, após a conclusão da varredura dos caminhos oficiais.]]></description>
+    <content:encoded><![CDATA[
+<p>Equipes de resgate encerraram a inspeção das trilhas oficiais do Pico Paraná.</p>
+<p>Os esforços agora estão concentrados em regiões de mata fechada, utilizando técnicas de rapel e apoio de drones.</p>
+<p>A mudança na estratégia visa ampliar o alcance das buscas em locais de difícil acesso.</p>
+<p>Os recursos tecnológicos e especializados foram mobilizados para aumentar a eficiência das operações.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[sai da pista e fica lateralizado na BR-470 em Gaspar]]></title>
+    <link>https://jornalrazao.com/seguranca/carro-sai-da-pista-fica-lateralizado-e-mobiliza-resgate-na-br-470-em-gaspar/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 11:08:29 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174336]]></guid>
+    <description><![CDATA[Um carro saiu da pista e ficou lateralizado às margens da BR-470 em Gaspar, mobilizando equipes de resgate e atendimento pré-hospitalar.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na madrugada em Gaspar, no bairro Margem Esquerda, próximo ao trevo de acesso ao município.</p>
+<p>O envolvido foi um Ford Fiesta com um homem de 50 anos, condutor, e uma mulher de 78 anos, passageira.</p>
+<p>Ambos foram encontrados conscientes e orientados dentro do carro, sem ferimentos aparentes no primeiro atendimento.</p>
+<p>Devido à posição lateralizada do fora da pista, as equipes utilizaram ferramentas de desencarceramento para retirar as vítimas com segurança.</p>
+<p>O motorista foi encaminhado ao Hospital de Gaspar pela equipe dos bombeiros, enquanto a passageira foi levada ao hospital por uma equipe do SAMU.</p>
+<p>A Polícia Rodoviária Federal realizou os procedimentos legais e sinalizou a rodovia durante o atendimento. Não houve registro de mortes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Via em cidade de SC é bloqueada para obras de drenagem e pavimentação]]></title>
+    <link>https://visornoticias.com.br/obras-de-drenagem-e-pavimentacao-provocam-bloqueio-total-de-via-em-cidade-de-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 10:48:12 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323649]]></guid>
+    <description><![CDATA[Uma via em Santa Catarina está totalmente interditada para a realização de obras de drenagem e pavimentação, com previsão de término em 12 de janeiro.]]></description>
+    <content:encoded><![CDATA[
+<p>O bloqueio total da via ocorre para permitir a execução dos serviços de infraestrutura urbana.</p>
+<p>As intervenções incluem melhorias no sistema de drenagem e a pavimentação do trecho afetado.</p>
+<p>Durante o período de interdição, linhas de ônibus que passam pela região tiveram seus itinerários modificados.</p>
+<p>A previsão é que as obras sejam concluídas até o dia 12 de janeiro, quando o trânsito será normalizado.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motociclista morre após colisão com trator na SC-163]]></title>
+    <link>https://visornoticias.com.br/motociclista-de-24-anos-morre-apos-acidente-com-trator-na-sc-163/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 10:33:27 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323645]]></guid>
+    <description><![CDATA[Um motociclista de 24 anos faleceu em um acidente envolvendo um trator na SC-163.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu durante uma manobra de conversão do maquinário agrícola na rodovia SC-163.</p>
+<p>Devido ao ocorrido, o trânsito precisou ser desviado por uma estrada rural próxima ao local.</p>
+<p>As autoridades responsáveis realizaram o atendimento da ocorrência e organizaram o desvio para garantir a segurança no trecho.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem é conduzido à delegacia por porte ilegal de munições em Itajaí]]></title>
+    <link>https://portalmenina.com.br/jovem-e-conduzido-a-delegacia-por-porte-ilegal-de-municoes-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 10:09:30 GMT</pubDate>
   <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174326]]></guid>
-    <description><![CDATA[Operação do 24º Batalhão de Polícia Militar resultou na prisão de dois suspeitos e apreensão de entorpecentes no bairro Saveiro, em Biguaçu.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132109]]></guid>
+    <description><![CDATA[Um jovem de 18 anos foi levado à delegacia após a apreensão de 16 munições de uso restrito durante abordagem policial no bairro São Vicente, em Itajaí.]]></description>
     <content:encoded><![CDATA[
-<p>Durante a madrugada de domingo, uma ação policial no bairro Saveiro, em Biguaçu, levou à prisão de dois homens por tráfico de drogas.</p>
-<p>Foram apreendidos aproximadamente 380 gramas de maconha, 437 pedras de crack e 101 petecas de cocaína, todos fracionados e prontos para venda.</p>
-<p>Além dos entorpecentes, também foi recolhido dinheiro proveniente da atividade criminosa.</p>
-<p>Os suspeitos foram encaminhados à Central de Plantão Policial de São José, onde foram realizados os procedimentos legais cabíveis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Ressaca provoca alagamentos e interdição de avenida no Litoral Norte de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/forte-ressaca-invade-residencias-e-interdita-avenida-no-litoral-norte-de-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 10:15:29 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323639]]></guid>
-    <description><![CDATA[O avanço do mar causou alagamentos em vias e bairros de município no Litoral Norte de Santa Catarina, resultando na interdição de uma avenida.]]></description>
-    <content:encoded><![CDATA[
-<p>O mar avançou sobre áreas urbanas, afetando residências e vias públicas no município.</p>
-<p>Uma avenida precisou ser interditada devido ao alagamento causado pela ressaca.</p>
-<p>O município já havia declarado estado de emergência em função de eventos climáticos recentes.</p>
-<p>As autoridades acompanham a situação para avaliar os danos e orientar a população.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Consulado da Itália inaugura guichê consular em Florianópolis em janeiro de 2026]]></title>
-    <link>https://visornoticias.com.br/consulado-da-italia-abre-guiche-consular-em-florianopolis-a-partir-de-janeiro-de-2026/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 09:42:35 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323634]]></guid>
-    <description><![CDATA[O Consulado da Itália iniciará atendimento em Florianópolis a partir de janeiro de 2026, com foco na emissão de passaportes.]]></description>
-    <content:encoded><![CDATA[
-<p>O novo guichê consular funcionará mediante agendamento prévio.</p>
-<p>O serviço será destinado exclusivamente à emissão de passaportes para cidadãos italianos.</p>
-<p>A iniciativa visa facilitar o acesso aos serviços consulares na região de Florianópolis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Dia Mundial do Braille destaca importância da acessibilidade e inovação]]></title>
-    <link>https://visornoticias.com.br/dia-mundial-do-braille-como-o-letramento-tatil-continua-transformando-vidas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 09:40:07 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/dia-mundial-do-braille-como-o-letramento-tatil-continua-transformando-vidas/]]></guid>
-    <description><![CDATA[O Dia Mundial do Braille reforça a relevância do letramento tátil na promoção da inclusão social.]]></description>
-    <content:encoded><![CDATA[
-<p>A data é marcada por reflexões sobre a acessibilidade para pessoas com deficiência visual.</p>
-<p>O Braille é fundamental para garantir o direito à leitura e à educação desse público.</p>
-<p>Iniciativas voltadas à inovação buscam ampliar o acesso a recursos táteis e tecnológicos.</p>
-<p>O letramento tátil contribui para a autonomia e a participação plena na sociedade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Oportunidades de Emprego em Santa Catarina - 05/01/2025]]></title>
-    <link>https://portalmenina.com.br/bolsa-de-empregos-05-01-2025/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 09:34:39 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132107]]></guid>
-    <description><![CDATA[Diversas vagas de trabalho estão disponíveis em Santa Catarina para diferentes áreas, incluindo serviços gerais, cozinha e recepção.]]></description>
-    <content:encoded><![CDATA[
-<p>Há vagas abertas para mensageiro, camareira, recepcionista, cozinheiro, garçom, auxiliar de cozinha, chef executivo e serviços gerais.</p>
-<p>Oportunidades específicas para auxiliar de serviços gerais estão disponíveis, incluindo três vagas para atuação em condomínio.</p>
-<p>Candidatos interessados podem entrar em contato pelos números fornecidos para obter mais informações sobre as vagas.</p>
-<p>Além das vagas, há pessoas se oferecendo para trabalhar, como um soldador com experiência em mig, tig, eletrodo e lataria de automóveis, e uma caseira com experiência em sítios e manejo de animais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Corpo de pescador desaparecido é encontrado em Balneário Barra do Sul]]></title>
-    <link>https://portalmenina.com.br/mensagem-do-dia-05-01-2026/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 09:29:49 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132102]]></guid>
-    <description><![CDATA[O corpo de um pescador desaparecido foi localizado a 15 km da costa em Balneário Barra do Sul, enquanto outra vítima segue desaparecida.]]></description>
-    <content:encoded><![CDATA[
-<p>O corpo de um pescador desaparecido foi encontrado a 15 km da costa em Balneário Barra do Sul.</p>
-<p>Uma segunda vítima ainda não foi localizada na mesma região.</p>
-<p>Em Itajaí, fiscalização na Praia Brava aplicou quatro multas e removeu estruturas irregulares.</p>
-<p>As ações visam garantir o cumprimento das normas ambientais e de segurança na área.</p>
+<p>A ação ocorreu durante rondas da Polícia Militar na região do Bambuzal, conhecida pelo intenso tráfico de drogas.</p>
+<p>Dois indivíduos foram abordados após serem vistos em atitude suspeita, e um deles tentou esconder um objeto no bolso.</p>
+<p>Com um homem de 28 anos foi encontrada maconha em quantidade compatível com uso pessoal.</p>
+<p>O jovem de 18 anos autorizou a entrada dos policiais em sua residência, onde foram localizadas cerca de 1 grama de maconha e 16 munições de diferentes calibres.</p>
+<p>Ele</p>
+<p>O jovem foi conduzido à delegacia por posse ilegal de munição, enquanto o outro envolvido foi encaminhado como testemunha e recebeu Auto de Infração Administrativa por posse de droga para uso pessoal em local público.</p>
     ]]></content:encoded>
   </item>
 </channel>
