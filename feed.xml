@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 05 Jan 2026 22:36:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 23:35:53 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,64 +21,50 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Pesquisa indica aumento da preferência por imóveis sustentáveis]]></title>
-    <link>https://visornoticias.com.br/pesquisa-revela-nova-preferencia-do-comprador-por-imoveis-sustentaveis/</link>
+    <title><![CDATA[Polícia Militar impede realização de corrida na Praia Central de Balneário Camboriú]]></title>
+    <link>https://jornalrazao.com/seguranca/toguro-corrida-praia-balneario-camboriu-interrompida-pm/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 22:29:18 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323919]]></guid>
-    <description><![CDATA[Compradores de imóveis demonstram maior interesse por propriedades que oferecem integração com a natureza e áreas verdes.]]></description>
-    <content:encoded><![CDATA[
-<p>Levantamento recente destaca que a sustentabilidade tornou-se um fator importante na decisão de compra de imóveis.</p>
-<p>A presença de áreas verdes e a conexão com o ambiente natural estão entre as principais prioridades dos compradores.</p>
-<p>Essa tendência reflete uma mudança no mercado imobiliário, que passa a valorizar características ambientais nas propriedades.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Caminhão em chamas bloqueia BR-101 no Morro dos Cavalos, em Palhoça]]></title>
-    <link>https://visornoticias.com.br/caminhao-pega-fogo-no-morro-dos-cavalos-e-bloqueia-totalmente-a-br-101/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 22:04:14 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323915]]></guid>
-    <description><![CDATA[Um caminhão pegou fogo no Morro dos Cavalos, em Palhoça, causando a interdição total da BR-101 nos dois sentidos.]]></description>
-    <content:encoded><![CDATA[
-<p>O incêndio no provocou o bloqueio completo da rodovia, impedindo o tráfego de veículos na região.</p>
-<p>Não há previsão para a liberação da pista até o momento.</p>
-<p>Equipes de emergência atuam no local para controlar as chamas e liberar a via.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Caminhão pega fogo no Morro dos Cavalos e bloqueia trânsito na BR-101]]></title>
-    <link>https://jornalrazao.com/seguranca/caminhao-pega-fogo-morro-dos-cavalos-palhoca/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 21:48:07 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 23:14:14 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174423]]></guid>
-    <description><![CDATA[Um caminhão incendiou-se no trecho do Morro dos Cavalos, em Palhoça, causando bloqueio total da pista no sentido norte da BR-101.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174427]]></guid>
+    <description><![CDATA[A Polícia Militar interveio para impedir a realização de uma corrida na Praia Central de Balneário Camboriú, organizada por um influenciador digital, com o objetivo de evitar aglomerações e riscos à segurança pública.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu na tarde desta segunda-feira, resultando em congestionamento significativo na rodovia.</p>
-<p>A fila de veículos chegou a se estender até a região próxima ao pedágio.</p>
-<p>O motorista conseguiu deixar o caminhão antes que as chamas se alastrassem, sem registro de feridos.</p>
-<p>Equipes de atendimento foram acionadas para controlar o incêndio e liberar a pista.</p>
-<p>O trânsito permanece impactado no local enquanto os trabalhos continuam.</p>
+<p>Na tarde desta segunda-feira, a Polícia Militar esteve na Praia Central de Balneário Camboriú para orientar a interrupção de uma corrida e da distribuição de camisetas promovidas por um influenciador digital.</p>
+<p>A ação reuniu um grande número de pessoas, o que motivou a intervenção das autoridades para evitar aglomerações em uma das áreas mais movimentadas da cidade.</p>
+<p>O organizador da atividade reconheceu a decisão das autoridades e manifestou a intenção de promover futuramente uma corrida de rua regularizada no município, com estrutura adequada e autorização oficial.</p>
+<p>Ele também agradeceu o tratamento recebido pelos policiais durante a intervenção e</p>
+<p>Até o momento, não há posicionamento oficial da Prefeitura de Balneário Camboriú sobre a autorização de eventos esportivos promovidos pelo influenciador.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Jovem de 19 anos é resgatado após cinco dias perdido em trilha na Mata Atlântica]]></title>
-    <link>https://visornoticias.com.br/video-mostra-jovem-chegando-em-chacara-para-pedir-ajuda-apos-cinco-dias-perdido-em-trilha/</link>
+    <title><![CDATA[Motorista é preso por transportar plástico reciclado por passagem irregular na fronteira de SC]]></title>
+    <link>https://visornoticias.com.br/contrabando-motorista-e-preso-ao-transportar-plastico-reciclado-pela-fronteira-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 05 Jan 2026 21:36:30 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 23:05:05 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323912]]></guid>
-    <description><![CDATA[Um jovem de 19 anos caminhou cerca de 20 km pela Mata Atlântica antes de pedir ajuda em uma chácara na região de Antonina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323926]]></guid>
+    <description><![CDATA[Um caminhão com aproximadamente 11 toneladas de plástico reciclado foi apreendido ao entrar no país por uma passagem irregular na fronteira com a Argentina em Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O jovem esteve perdido por cinco dias em uma trilha na Mata Atlântica.</p>
-<p>Após percorrer aproximadamente 20 km, ele conseguiu chegar a uma chácara para solicitar socorro.</p>
-<p>O resgate foi realizado após o pedido de ajuda na propriedade rural.</p>
+<p>O transportava cerca de 11 toneladas de plástico reciclado quando foi interceptado na região de fronteira entre Santa Catarina e a Argentina.</p>
+<p>A entrada do material ocorreu por uma passagem não autorizada, caracterizando contrabando.</p>
+<p>O motorista do caminhão foi detido pelas autoridades locais durante a ação.</p>
+<p>As autoridades seguem com os procedimentos legais relacionados ao caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Caminhão com carga de copos descartáveis pega fogo na BR-101]]></title>
+    <link>https://visornoticias.com.br/caminhao-que-pegou-fogo-na-br-101-transportava-copos-descartaveis/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 05 Jan 2026 22:44:37 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=323922]]></guid>
+    <description><![CDATA[Um caminhão que transportava copos descartáveis foi destruído por um incêndio na BR-101. Não houve vítimas no incidente.]]></description>
+    <content:encoded><![CDATA[
+<p>O foi completamente consumido pelas chamas durante o incêndio na rodovia.</p>
+<p>O tráfego na BR-101 foi interrompido temporariamente, mas começou a ser liberado após o controle do fogo.</p>
+<p>As causas do incêndio ainda não foram divulgadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
