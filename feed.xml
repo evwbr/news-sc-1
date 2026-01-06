@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 06 Jan 2026 13:36:14 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 14:35:55 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,146 +21,51 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Cão morre eletrocutado após cerca elétrica cair em creche de Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/cerca-eletrica-de-creche-cai-e-mata-cao-em-bc/</link>
+    <title><![CDATA[Homem é amarrado por familiares após furto em residência no Norte de Santa Catarina]]></title>
+    <link>https://jornalrazao.com/seguranca/homem-e-amarrado-e-agredido-apos-furtar-itens-da-propria-familia/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 13:25:27 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 14:17:33 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324182]]></guid>
-    <description><![CDATA[Um cão da raça dogue alemão morreu eletrocutado após encostar nos fios de uma cerca elétrica que caiu em uma creche em Balneário Camboriú.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174468]]></guid>
+    <description><![CDATA[Um homem foi imobilizado por familiares após furtar itens em uma residência no bairro Jardim Itália, em Matos Costa.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu quando a cerca elétrica da creche caiu, entrando em contato com o animal.</p>
-<p>A tutora do cão</p>
-<p>As circunstâncias exatas que levaram à queda da cerca elétrica ainda não foram detalhadas.</p>
+<p>A Polícia Militar foi acionada na madrugada e encontrou o homem com as mãos amarradas por uma camiseta, cercado por parentes.</p>
+<p>O furto envolveu peças de um aparelho de som automotivo pertencente a um primo do suspeito, guardado na garagem da avó.</p>
+<p>Durante a tentativa de impedir o furto, houve luta corporal, e o homem foi contido e amarrado pelos familiares.</p>
+<p>Todos os envolvidos foram encaminhados à Delegacia da Polícia Civil de Porto União para registro e providências legais.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Operação policial em Balneário Camboriú resulta em prisões e apreensão de drogas]]></title>
-    <link>https://visornoticias.com.br/operacao-policial-termina-com-tres-presos-e-grande-apreensao-de-drogas-em-balneario-camboriu/</link>
+    <title><![CDATA[Grupo Mixtura recebe apoio do Fundo Social para ações culturais em Bombinhas]]></title>
+    <link>https://visornoticias.com.br/grupo-mixtura-e-contemplado-pelo-fundo-social-e-reforca-preservacao-da-cultura-acoriana-em-bombinhas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 13:24:47 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324178]]></guid>
-    <description><![CDATA[Três pessoas foram presas durante uma operação policial que também resultou na apreensão de entorpecentes e materiais relacionados ao tráfico em Balneário Camboriú.]]></description>
+    <pubDate>Tue, 06 Jan 2026 14:11:43 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324190]]></guid>
+    <description><![CDATA[O Grupo Mixtura utilizou recursos do Fundo Social para desenvolver novos materiais e preservar trajes tradicionais da cultura açoriana em Bombinhas.]]></description>
     <content:encoded><![CDATA[
-<p>A ação policial foi realizada com o objetivo de combater o tráfico de drogas na região.</p>
-<p>Durante a operação, foram apreendidos diversos entorpecentes e materiais utilizados no comércio ilegal.</p>
-<p>Três indivíduos foram detidos e encaminhados às autoridades competentes para os procedimentos legais.</p>
-<p>A iniciativa faz parte das medidas contínuas para reduzir a criminalidade e o tráfico de drogas na cidade.</p>
+<p>O financiamento possibilitou a criação de uma nova identidade visual para o grupo.</p>
+<p>Foram produzidas camisetas comemorativas para fortalecer a presença do grupo em eventos culturais.</p>
+<p>Os recursos também foram destinados à manutenção dos trajes tradicionais utilizados nas apresentações.</p>
+<p>As ações visam valorizar e preservar a cultura açoriana na região de Bombinhas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Sagui é registrado próximo a câmera de monitoramento em residência]]></title>
-    <link>https://visornoticias.com.br/sagui-e-flagrado-investigando-camera-de-monitoramento-em-residencia/</link>
+    <title><![CDATA[Criança de 5 anos morre em acidente na BR-376, no Paraná]]></title>
+    <link>https://jornalrazao.com/seguranca/guard-rail-atravessa-bmw-e-mata-crianca-de-5-anos-que-voltava-do-litoral-catarinense/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 13:19:36 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324177]]></guid>
-    <description><![CDATA[Um sagui foi filmado observando a lente de uma câmera de monitoramento por quase dois minutos em uma residência.]]></description>
-    <content:encoded><![CDATA[
-<p>O animal silvestre chamou a atenção ao se aproximar da câmera instalada na propriedade.</p>
-<p>Durante o período, o sagui permaneceu atento à lente do equipamento.</p>
-<p>O registro demonstra a interação do sagui com objetos presentes no ambiente urbano.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Detento foge de presídio em Santa Catarina e utiliza furtado na fuga]]></title>
-    <link>https://visornoticias.com.br/detento-escapa-de-presidio-em-sc-e-foge/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 13:02:29 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 13:47:31 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324171]]></guid>
-    <description><![CDATA[Um detento com extensa ficha criminal escapou de uma cela de triagem em um presídio de Santa Catarina e fugiu em um carro furtado.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174459]]></guid>
+    <description><![CDATA[Uma criança de 5 anos faleceu após um acidente envolvendo um automóvel na BR-376, em Tibagi, no Paraná.]]></description>
     <content:encoded><![CDATA[
-<p>O homem estava custodiado em uma cela de triagem quando conseguiu escapar da unidade prisional.</p>
-<p>Após a fuga, ele utilizou um que havia sido furtado para se evadir do local.</p>
-<p>A polícia realiza buscas para localizar o detento, que permanece foragido.</p>
-<p>As autoridades reforçaram a segurança na região para tentar conter a fuga e evitar novos incidentes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Três pessoas são presas em Santa Catarina após anúncio de itens furtados na internet]]></title>
-    <link>https://visornoticias.com.br/anuncio-de-itens-furtados-na-internet-leva-a-prisao-de-tres-pessoas-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 12:54:45 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324167]]></guid>
-    <description><![CDATA[Uma negociação simulada pela vítima resultou na prisão de três pessoas em Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>A Polícia Militar realizou uma operação após a vítima anunciar itens furtados na internet.</p>
-<p>A negociação foi simulada pela própria vítima para identificar os suspeitos.</p>
-<p>Três pessoas foram detidas durante a ação policial relacionada ao caso.</p>
-<p>As autoridades continuam investigando o caso para esclarecer todos os detalhes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem desaparece no Centro de Pomerode]]></title>
-    <link>https://portalmenina.com.br/homem-desaparece-no-centro-de-pomerode-e-familia-pede-ajuda-para-localiza-lo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 12:53:59 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132223]]></guid>
-    <description><![CDATA[Amilton Afonso Alves está desaparecido desde a noite de sábado, quando foi visto pela última vez no Centro de Pomerode.]]></description>
-    <content:encoded><![CDATA[
-<p>Amilton Afonso Alves foi visto pela última vez por volta das 23h30 no Centro de Pomerode, conduzindo um Saveiro prata com placa MDS-0901.</p>
-<p>Ele saiu com a intenção de ir até uma propriedade do casal em Rio dos Cedros e não foi mais localizado desde então.</p>
-<p>Familiares e amigos buscam informações que possam ajudar a encontrar Amilton e o .</p>
-<p>Qualquer informação pode ser comunicada às autoridades pelos telefones 190, 181 ou diretamente pelo contato disponibilizado pela família.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Porto de Santa Catarina amplia capacidade operacional com novos equipamentos]]></title>
-    <link>https://visornoticias.com.br/porto-de-sc-recebe-novos-equipamentos-e-amplia-capacidade-de-operacao/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 12:51:03 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324165]]></guid>
-    <description><![CDATA[O porto de Santa Catarina incorporou novos guindastes e sistemas de automação para aumentar a produtividade e a segurança nas operações.]]></description>
-    <content:encoded><![CDATA[
-<p>O terminal portuário investiu em equipamentos modernos para otimizar o processo de carga e descarga.</p>
-<p>A implementação dos novos guindastes visa acelerar o fluxo de mercadorias e reduzir o tempo de operação.</p>
-<p>Além disso, a automação dos sistemas contribui para a segurança dos trabalhadores e a eficiência das atividades.</p>
-<p>Com essas melhorias, o porto busca atender a demanda crescente e fortalecer sua posição logística na região.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Três homens são presos na BR-101 com carros clonados e objetos furtados em Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/quadrilha-e-flagrada-na-br-101-com-carros-clonados-e-eletronicos-furtados-de-casas-em-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 12:45:39 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174446]]></guid>
-    <description><![CDATA[A Polícia Rodoviária Federal recuperou dois veículos furtados e apreendeu diversos objetos provenientes de furtos em residências de Itajaí durante uma ação na BR-101.]]></description>
-    <content:encoded><![CDATA[
-<p>A operação ocorreu na tarde de segunda-feira e resultou na prisão de três homens suspeitos de integrar uma quadrilha especializada em crimes contra o patrimônio.</p>
-<p>Os policiais receberam informações sobre um VW/Gol furtado no Norte de Santa Catarina que circulava com placas clonadas e era utilizado em furtos a residências em Itajaí.</p>
-<p>Além do VW/Gol, um Nissan/Versa, também furtado de uma das casas invadidas, foi localizado e abordado na rodovia federal.</p>
-<p>Durante a abordagem, o motorista do Nissan tentou fugir a pé, mas foi detido com apoio da Guarda Municipal de Itajaí e confessou a participação nos furtos recentes nos bairros Cordeiros e Espinheiros.</p>
-<p>Nos veículos foram encontrados diversos objetos furtados, como televisão, computadores, celulares, joias e perfumes, além das placas originais do VW/Gol ocultas no interior do carro.</p>
-<p>Os três suspeitos foram encaminhados à Central de Plantão Policial de Itajaí, onde o flagrante foi registrado, e os veículos e objetos serão devolvidos aos proprietários após os procedimentos legais.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Quadrilha é presa com veículos e objetos furtados na BR-101 em Itajaí]]></title>
-    <link>https://visornoticias.com.br/quadrilha-e-presa-com-veiculos-e-objetos/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 12:40:32 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324158]]></guid>
-    <description><![CDATA[Grupo foi detido com dois carros roubados e diversos itens furtados em Itajaí.]]></description>
-    <content:encoded><![CDATA[
-<p>Dois veículos roubados foram apreendidos com um grupo na BR-101, em Itajaí.</p>
-<p>Além dos carros, foram encontrados dezenas de objetos furtados de residências nos bairros Cordeiros e Espinheiros.</p>
-<p>A ação resultou na prisão dos envolvidos, que estavam em posse dos itens ilícitos.</p>
-<p>As autoridades conduziram os suspeitos para a delegacia para os procedimentos legais.</p>
+<p>O acidente ocorreu na manhã de segunda-feira, em um trecho da rodovia entre os quilômetros 419 e 421, no sentido Norte.</p>
+<p>O , um BMW, saiu da pista e colidiu contra uma defensa metálica, que atravessou a lataria do carro e atingiu a criança.</p>
+<p>Apesar do atendimento rápido das equipes de socorro, a criança não resistiu aos ferimentos e foi confirmada a morte no local.</p>
+<p>Os pais da criança estavam no ; o pai não sofreu ferimentos e a mãe recebeu atendimento médico.</p>
+<p>O motorista realizou teste do bafômetro com resultado negativo para álcool. As causas do acidente ainda estão sendo investigadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
