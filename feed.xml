@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 06 Jan 2026 15:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 16:35:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Café com Propósito abre inscrições para encontros em Itapema em 2026]]></title>
-    <link>https://visornoticias.com.br/cafe-com-proposito-tem-vagas-aberta/</link>
+    <title><![CDATA[Menino de 12 anos desaparece próximo a cachoeira em Palhoça, SC]]></title>
+    <link>https://jornalrazao.com/seguranca/menino-12-anos-desaparecido-cascata-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 14:43:47 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324198]]></guid>
-    <description><![CDATA[Evento profissional inicia calendário de encontros em Santa Catarina para o ano de 2026.]]></description>
+    <pubDate>Tue, 06 Jan 2026 16:21:06 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174471]]></guid>
+    <description><![CDATA[Um menino de 12 anos está desaparecido desde a tarde desta segunda-feira em Palhoça, na Grande Florianópolis, após ser visto pela última vez próximo a uma cascata na região da Usina Hidrelétrica do Rio Imaruí.]]></description>
     <content:encoded><![CDATA[
-<p>O Café com Propósito abriu vagas para sua programação de encontros em Itapema.</p>
-<p>A iniciativa marca o começo do calendário de eventos profissionais no estado de Santa Catarina para 2026.</p>
-<p>Os encontros têm como objetivo promover networking e troca de experiências entre os participantes.</p>
+<p>O garoto estava com um grupo de crianças na localidade de Colônia Santana, onde brincavam e andavam de bicicleta. Em determinado momento, ele se afastou do grupo e subiu em direção à mata após demonstrar receio de entrar em um trecho mais fundo da água.</p>
+<p>Os amigos relataram ter visto uma van branca passando pelo local pouco depois do desaparecimento. A bicicleta do menino foi encontrada caída próxima à área da cascata.</p>
+<p>Ele saiu de casa na tarde do mesmo dia, informando que iria jogar bola e circular com amigos, e não portava celular no momento do desaparecimento. A família registrou boletim de ocorrência por desaparecimento.</p>
+<p>As informações sobre o paradeiro do menino ainda são desconhecidas, e a família solicita ajuda da população para obter qualquer dado que possa contribuir para a localização.</p>
     ]]></content:encoded>
   </item>
 </channel>
