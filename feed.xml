@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 11:36:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 12:36:17 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,67 +21,131 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Incêndio durante a madrugada em Serra de SC resulta em morte de família]]></title>
-    <link>https://visornoticias.com.br/familia-morre-apos-incendio-destruir-residencia-durante-a-madrugada-em-serra-de-sc/</link>
+    <title><![CDATA[Jovem morre em acidente na BR-101 em Itajaí]]></title>
+    <link>https://visornoticias.com.br/identificada-jovem-morta-em-acidente-na-br/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 11:20:50 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 12:21:27 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324546]]></guid>
+    <description><![CDATA[Uma jovem de 18 anos morreu em um acidente envolvendo uma motocicleta e uma carreta na BR-101 em Itajaí.]]></description>
+    <content:encoded><![CDATA[
+<p>A vítima estava na garupa da motocicleta no momento da colisão com a carreta na rodovia.</p>
+<p>O acidente resultou na morte da jovem, que foi identificada posteriormente.</p>
+<p>As circunstâncias que levaram à colisão ainda estão sendo apuradas pelas autoridades competentes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Denúncia de venda de atestados médicos em Santa Catarina é investigada]]></title>
+    <link>https://visornoticias.com.br/empresario-denuncia-suposta-venda-de-atestados-medicos-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 12:15:12 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324553]]></guid>
+    <description><![CDATA[Uma clínica médica em Santa Catarina está sob investigação após denúncia de emissão irregular de atestados médicos.]]></description>
+    <content:encoded><![CDATA[
+<p>A denúncia aponta que a clínica estava fechada na data em que os atestados foram emitidos.</p>
+<p>O Conselho Regional de Medicina de Santa Catarina iniciou uma apuração sobre o caso.</p>
+<p>As autoridades avaliam a autenticidade dos documentos e as circunstâncias da emissão.</p>
+<p>O caso envolve possíveis irregularidades que podem comprometer a validade dos atestados.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Rompimento de rede compromete abastecimento de água em Porto Belo]]></title>
+    <link>https://visornoticias.com.br/rompimento-afeta-abastecimento-de-agua/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 12:09:56 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324505]]></guid>
-    <description><![CDATA[Um incêndio destruiu uma residência na Serra de Santa Catarina durante a madrugada, causando a morte de três pessoas.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324554]]></guid>
+    <description><![CDATA[O fornecimento de água no bairro Jardim Dourado, em Porto Belo, apresenta baixa pressão devido ao rompimento de uma rede.]]></description>
     <content:encoded><![CDATA[
-<p>O fogo atingiu uma casa onde um pai, uma mãe e a filha foram encontrados carbonizados.</p>
-<p>Outras residências próximas também foram afetadas pelas chamas.</p>
-<p>As circunstâncias do incêndio estão sendo investigadas pelas autoridades competentes.</p>
+<p>O incidente afetou a distribuição de água na região do bairro Jardim Dourado.</p>
+<p>Moradores enfrentam redução na pressão da água desde o ocorrido.</p>
+<p>Equipes técnicas atuam para identificar o ponto de ruptura e realizar os reparos necessários.</p>
+<p>A normalização do abastecimento dependerá da conclusão dos serviços de manutenção.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Reformas estruturais em escolas de Balneário Camboriú iniciam durante as férias escolares]]></title>
-    <link>https://portalmenina.com.br/reformas-estruturais-em-escolas-de-balneario-camboriu-comecam-em-duas-unidades-durante-as-ferias/</link>
+    <title><![CDATA[Aposta de Santa Catarina acerta os 15 números da Lotofácil e recebe prêmio de mais de R$ 535 mil]]></title>
+    <link>https://visornoticias.com.br/aposta-de-sc-crava-os-15-numeros-da-lotofacil-e-divide-premio-milionario/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 11:03:50 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 12:07:17 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132329]]></guid>
-    <description><![CDATA[Obras de reforma em seis Centros Educacionais Municipais de Balneário Camboriú começaram no início de janeiro, aproveitando o período de férias escolares para minimizar impactos.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324551]]></guid>
+    <description><![CDATA[Um jogo simples realizado em Santa Catarina acertou todas as dezenas do concurso 3580 da Lotofácil, resultando em um prêmio superior a R$ 535 mil.]]></description>
     <content:encoded><![CDATA[
-<p>As intervenções começaram nas unidades Dona Lili, no bairro da Barra, e Tomaz Francisco Garcia, no bairro dos Municípios, com serviços que incluem troca de coberturas e melhorias no sistema de drenagem pluvial.</p>
-<p>No Centro Educacional Municipal Professor Armando César Ghislandi, estão previstas também novas instalações elétricas como parte das reformas.</p>
-<p>Os trabalhos fazem parte de uma licitação dividida em três lotes, com investimentos que somam aproximadamente R$2,7 milhões, distribuídos entre as empresas responsáveis pelas obras.</p>
-<p>Além dos Centros Educacionais Municipais, reformas em sete Núcleos de Educação Infantil também estão em andamento, abrangendo melhorias nas coberturas, sistemas elétricos e de drenagem.</p>
-<p>As obras nos Núcleos de Educação Infantil começaram em novembro de 2025 e seguem ao longo de janeiro, com investimento total de cerca de R$1,7 milhão.</p>
+<p>O apostador de Santa Catarina acertou as 15 dezenas sorteadas no concurso 3580 da Lotofácil.</p>
+<p>O prêmio recebido pela aposta ultrapassou R$ 535 mil.</p>
+<p>O valor corresponde à divisão do prêmio milionário entre os ganhadores do concurso.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Ministério Público investiga aumento de casos de diarreia no litoral de Florianópolis]]></title>
-    <link>https://visornoticias.com.br/ministerio-publico-investiga-possivel-surto-de-virose-no-litoral-de-florianopolis/</link>
+    <title><![CDATA[Decoração e atrações de Natal permanecem abertas no Parque Vila Germânica até domingo]]></title>
+    <link>https://portalmenina.com.br/decoracao-e-atracoes-de-natal-seguem-abertas-no-parque-vila-germanica-ate-domingo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 10:55:43 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 11:50:42 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132341]]></guid>
+    <description><![CDATA[A programação natalina no Parque Vila Germânica, em Blumenau, segue com atividades e atrações disponíveis ao público até o dia 11 de janeiro.]]></description>
+    <content:encoded><![CDATA[
+<p>A Vila de Natal está aberta diariamente das 8h à meia-noite, oferecendo decoração temática e opções de lazer para todas as idades.</p>
+<p>A Casa do Papai Noel recebe visitantes de segunda a sexta-feira, das 17h às 21h45, e aos finais de semana, das 10h às 21h45.</p>
+<p>Oficinas de artesanato, o Mercado de Natal e a praça de alimentação funcionam em horários similares, com venda de produtos artesanais e alimentos.</p>
+<p>O parque de diversões opera durante as férias escolares, com brinquedos como roda-gigante, carrossel e carrinho bate-bate, aberto de segunda a sexta-feira das 17h às 22h, e aos finais de semana das 10h às 22h.</p>
+<p>A programação cultural acontece no palco do Setor 2 às 20h, com apresentações musicais previstas até o dia 11 de janeiro.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Incêndio em residência na Serra de Santa Catarina deixa três mortos]]></title>
+    <link>https://jornalrazao.com/seguranca/tragedia-na-serra-incendio-mata-casal-e-filha-adolescente-durante-a-madrugada/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 11:50:08 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324474]]></guid>
-    <description><![CDATA[Autoridades iniciaram investigação sobre o aumento de casos de diarreia no litoral de Florianópolis durante a alta temporada.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174555]]></guid>
+    <description><![CDATA[Um incêndio ocorrido na madrugada em Painel, na Serra de Santa Catarina, resultou na morte de três pessoas, incluindo um casal e a filha adolescente.]]></description>
     <content:encoded><![CDATA[
-<p>O número de casos de diarreia apresentou crescimento no litoral de Florianópolis durante o período de alta temporada.</p>
-<p>A investigação busca avaliar a possível relação entre o aumento dos casos e fatores como balneabilidade das praias e condições de saneamento.</p>
-<p>O levantamento considera também os impactos das chuvas recentes na região, que podem ter influenciado a qualidade da água.</p>
-<p>As autoridades acompanham a situação para identificar as causas e propor medidas de prevenção e controle.</p>
+<p>O fogo teve início por volta das 2h30 em uma casa de madeira localizada na Rua Major Serafim, no centro de Painel. A residência onde o incêndio começou tinha cerca de 150 metros quadrados.</p>
+<p>As vítimas foram encontradas carbonizadas dentro do imóvel principal, que fazia parte de um terreno com três casas. Entre os mortos estão um homem de 36 anos, sua companheira e a filha do casal, de 17 anos.</p>
+<p>As chamas se espalharam rapidamente e atingiram as outras duas casas no mesmo terreno. Moradores de outras residências conseguiram deixar o local antes que o fogo se alastrasse.</p>
+<p>Bombeiros utilizaram aproximadamente 12 mil litros de água para controlar o incêndio, que foi extinto após várias horas de trabalho. Uma quarta casa vizinha teve parte da lateral atingida, mas estava desocupada no momento.</p>
+<p>A área foi isolada para os procedimentos legais e equipes da Polícia Científica realizaram perícia para apurar as causas do incêndio. A Polícia Militar e a Polícia Civil também atuaram na ocorrência.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Jovem de 18 anos morre em acidente na BR-101 em Itajaí]]></title>
-    <link>https://portalmenina.com.br/jovem-de-18-anos-morre-apos-acidente-na-br-101-em-itajai-e-a-primeira-morte-do-ano-no-transito-da-cidade/</link>
+    <title><![CDATA[Mulher de 25 anos morre após agressão em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/mulher-espancada-pelo-ex-companheiro-morre-no-hospital-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 10:43:16 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132325]]></guid>
-    <description><![CDATA[Uma jovem de 18 anos morreu em um acidente envolvendo uma motocicleta na BR-101, em Itajaí, marcando a primeira morte no trânsito da rodovia no ano.]]></description>
+    <pubDate>Wed, 07 Jan 2026 11:40:32 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324540]]></guid>
+    <description><![CDATA[Uma mulher de 25 anos faleceu em hospital após ser agredida pelo ex-companheiro no estado de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu por volta das 17h30 no km 114,3 da BR-101, no bairro Salseiros, sentido Norte.</p>
-<p>O condutor da motocicleta sofreu ferimentos graves e foi encaminhado ao hospital.</p>
-<p>A passageira da motocicleta não resistiu aos ferimentos e morreu no local.</p>
-<p>Equipes da Arteris Litoral Sul prestaram atendimento e o trânsito ficou bloqueado até o término da ocorrência.</p>
-<p>A identidade da vítima e as causas do acidente não foram divulgadas.</p>
+<p>A vítima havia registrado ameaças e solicitado medidas protetivas contra o agressor.</p>
+<p>O ex-companheiro da mulher morreu após uma tentativa de suicídio.</p>
+<p>As circunstâncias do caso estão sendo investigadas pelas autoridades locais.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Incêndio provocado por explosão de botijão de gás destrói duas casas em Blumenau]]></title>
+    <link>https://portalmenina.com.br/homem-em-surto-explode-botijao-de-gas-e-incendeia-duas-casas-em-blumenau/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 11:19:05 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132330]]></guid>
+    <description><![CDATA[Um incêndio causado pela explosão de um botijão de gás resultou na destruição total de duas residências em Blumenau. O incidente envolveu um homem de 32 anos que apresentava comportamento alterado no momento dos fatos.]]></description>
+    <content:encoded><![CDATA[
+<p>O homem danificou a mangueira de gás e provocou a explosão ao acender um fósforo, iniciando o incêndio que consumiu sua casa e uma residência vizinha.</p>
+<p>O Corpo de Bombeiros enfrentou dificuldades para combater as chamas devido ao difícil acesso ao local, situado no final de uma escadaria.</p>
+<p>As equipes conseguiram impedir que o fogo atingisse outras três casas próximas, preservando essas residências.</p>
+<p>O homem não sofreu ferimentos físicos, foi atendido pelo Serviço de Atendimento Móvel de Urgência (SAMU) e encaminhado a um hospital sob escolta.</p>
+<p>Após o atendimento, ele foi colocado sob custódia da Polícia Civil para responder pelos danos causados.</p>
+<p>No combate ao incêndio, foram utilizados 14 mil litros de água, com apoio de um caminhão-pipa do Serviço Autônomo Municipal de Água e Esgoto (SAMAE).</p>
     ]]></content:encoded>
   </item>
 </channel>
