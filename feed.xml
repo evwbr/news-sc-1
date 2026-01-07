@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 06 Jan 2026 23:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 00:35:50 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,34 +21,32 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Estudo nacional detalha impactos do vírus Zika no desenvolvimento infantil]]></title>
-    <link>https://visornoticias.com.br/estudo-nacional-consolida-impactos-do-virus-zika-no-desenvolvimento-infantil/</link>
+    <title><![CDATA[Temperaturas sobem e temporais isolados são previstos em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/calor-volta-a-ganhar-forca-e-pode-provocar-temporais-isolados-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 22:58:34 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324355]]></guid>
-    <description><![CDATA[Pesquisa realizada com 843 crianças amplia o entendimento sobre o espectro da microcefalia associada ao vírus Zika e contribui para as respostas do Sistema Único de Saúde.]]></description>
+    <pubDate>Tue, 06 Jan 2026 23:57:44 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324372]]></guid>
+    <description><![CDATA[Santa Catarina registra aumento nas temperaturas, com máximas acima de 30°C em todas as regiões.]]></description>
     <content:encoded><![CDATA[
-<p>Um estudo nacional avaliou os efeitos do vírus Zika no desenvolvimento infantil, envolvendo 843 crianças.</p>
-<p>A pesquisa definiu com mais precisão o espectro da microcefalia relacionada à infecção pelo vírus.</p>
-<p>Os resultados obtidos fornecem subsídios para aprimorar as estratégias de atendimento e acompanhamento pelo Sistema Único de Saúde.</p>
-<p>O estudo contribui para a ampliação do conhecimento sobre as consequências do vírus Zika na saúde infantil.</p>
+<p>Nesta quarta-feira, as temperaturas ultrapassam os 30°C em todas as regiões do estado.</p>
+<p>As regiões do Oeste e do Litoral Sul podem alcançar até 34°C durante o dia.</p>
+<p>O aumento do calor pode provocar temporais isolados em algumas áreas de Santa Catarina.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Motociclista morre em acidente na BR-101 em Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/grave-acidente-br-101-itajai-morte-transito-2026/</link>
+    <title><![CDATA[Dois adolescentes ficam gravemente feridos após atropelamento em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/dois-adolescentes-ficam-gravemente-feridos-apos-serem-atropelados-por-carro-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 22:49:22 GMT</pubDate>
+    <pubDate>Tue, 06 Jan 2026 23:42:36 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174533]]></guid>
-    <description><![CDATA[Um acidente envolvendo uma motocicleta resultou na morte de uma pessoa na BR-101, em Itajaí.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324367]]></guid>
+    <description><![CDATA[Dois adolescentes ficaram gravemente feridos após serem atropelados enquanto estavam em uma bicicleta em Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu no bairro Salseiros, no sentido Norte da rodovia.</p>
-<p>A vítima, uma motociclista, faleceu no local do acidente.</p>
-<p>O incidente causou o bloqueio total da pista principal e da marginal, provocando congestionamento na região.</p>
-<p>Equipes da Polícia Rodoviária Federal atenderam a ocorrência e realizam a investigação das causas do acidente.</p>
+<p>O acidente envolveu um carro e uma bicicleta com dois adolescentes. Equipes de resgate, incluindo bombeiros, SAMU e o helicóptero Arcanjo, foram mobilizadas para atender as vítimas.</p>
+<p>Os adolescentes foram socorridos e encaminhados para atendimento médico. As circunstâncias do atropelamento ainda estão sendo apuradas.</p>
+<p>O local do acidente recebeu atendimento imediato para garantir a segurança e o suporte necessário às vítimas.</p>
     ]]></content:encoded>
   </item>
 </channel>
