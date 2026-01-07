@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 01:35:57 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 08:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,37 +21,17 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Vídeo registra motociclista realizando manobras na BR-101 antes de colisão em Porto Belo]]></title>
-    <link>https://jornalrazao.com/seguranca/video-mostra-que-motociclista-fazia-manobras-na-br-101/</link>
+    <title><![CDATA[Mulher morre em acidente com motocicleta na BR-101 em Itajaí]]></title>
+    <link>https://visornoticias.com.br/mulher-morre-em-grave-acidente-com-motocicleta-na-br-101-em-itajai/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 01:30:51 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174548]]></guid>
-    <description><![CDATA[Imagens mostram motociclista trafegando de forma imprudente momentos antes de acidente envolvendo carro na BR-101, em Porto Belo, no Litoral Norte de Santa Catarina.]]></description>
+    <pubDate>Wed, 07 Jan 2026 08:28:19 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324376]]></guid>
+    <description><![CDATA[Uma mulher morreu em um acidente envolvendo uma motocicleta na BR-101, em Itajaí.]]></description>
     <content:encoded><![CDATA[
-<p>Um vídeo divulgado recentemente registra o motociclista realizando manobras perigosas e avançando entre veículos em tráfego intenso na BR-101, em Porto Belo.</p>
-<p>As imagens indicam que o condutor da motocicleta acelerava em meio ao trânsito, reduzindo o tempo de reação em caso de retenção na pista.</p>
-<p>O acidente envolveu uma colisão entre a motocicleta e um carro, resultando em várias fraturas para o motociclista, que sobreviveu ao impacto.</p>
-<p>O trecho da rodovia voltou a ser foco de atenção após outro acidente registrado horas depois do ocorrido.</p>
-<p>As circunstâncias do acidente estão sob análise das autoridades competentes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Acidente entre motocicleta e carro na BR-101 em Porto Belo deixa jovem ferido]]></title>
-    <link>https://jornalrazao.com/seguranca/fila-parou-do-nada-jovem-sofre-grave-acidente-na-br-101-em-porto-belo-video/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 00:56:18 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174544]]></guid>
-    <description><![CDATA[Um acidente envolvendo uma motocicleta e um automóvel na BR-101, em Porto Belo, resultou em ferimentos para o motociclista e gerou discussões sobre segurança no trânsito.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu em um trecho da BR-101 no Litoral Norte de Santa Catarina, envolvendo uma motocicleta que colidiu contra a traseira de um carro.</p>
-<p>Imagens registradas mostram o momento da colisão, que teria sido causada por uma fila de veículos formada nas proximidades do pedágio.</p>
-<p>O motociclista sofreu ferimentos na perna e recebeu atendimento médico, apresentando recuperação estável.</p>
-<p>Não há informações sobre ferimentos graves para o motorista do automóvel envolvido no acidente.</p>
-<p>Horas após o ocorrido, outro acidente foi registrado no mesmo trecho da rodovia, destacando preocupações sobre a segurança na região.</p>
-<p>As circunstâncias do acidente estão sendo investigadas, enquanto o episódio reforça a importância do respeito às normas de trânsito e da atenção redobrada em vias movimentadas.</p>
+<p>O acidente ocorreu no sentido Norte da rodovia.</p>
+<p>O trecho foi totalmente bloqueado, causando congestionamento no local.</p>
+<p>Equipes de emergência atenderam a ocorrência.</p>
     ]]></content:encoded>
   </item>
 </channel>
