@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 18:36:08 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 19:35:58 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,84 +21,48 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é detido após tentativa de fuga no mar na Praia do Campeche, em Florianópolis]]></title>
-    <link>https://jornalrazao.com/seguranca/vendedor-ambulante-detido-fuga-mar-praia-campeche-florianopolis/</link>
+    <title><![CDATA[Brasileiros iniciam temporada 2026 do tênis de mesa no Catar]]></title>
+    <link>https://visornoticias.com.br/temporada-2026-do-tenis-de-mesa-comeca-com-brasileiros-no-catar/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 18:15:53 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174597]]></guid>
-    <description><![CDATA[Um homem foi detido na Praia do Campeche, em Florianópolis, após tentar fugir de uma abordagem e entrar no mar. Durante a ação, foram encontrados R$ 6 mil em dinheiro com o suspeito.]]></description>
-    <content:encoded><![CDATA[
-<p>O homem estava nas dunas do Campeche quando percebeu a aproximação da equipe de fiscalização da Prefeitura de Florianópolis e tentou fugir.</p>
-<p>Durante a abordagem, ele teria agredido um fiscal e correu em direção ao mar, sendo acompanhado por agentes de segurança até ser detido.</p>
-<p>Com o suspeito, foram encontrados R$ 6 mil em dinheiro guardados em uma pochete.</p>
-<p>Há suspeita de que o homem tenha descartado drogas no mar durante a fuga, informação que está sendo investigada.</p>
-<p>O detido, natural de Minas Gerais, foi encaminhado pela Polícia Militar de Santa Catarina e pela Guarda Municipal.</p>
-<p>Ele deve responder por resistência, desobediência e agressão ao fiscal, enquanto as autoridades continuam as ações de fiscalização nas praias da capital.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Feliz Natal em Itapema encerra 2025 com desfiles e vila temática]]></title>
-    <link>https://visornoticias.com.br/feliz-natal-em-itapema-encerra-2025/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 17:55:13 GMT</pubDate>
-  <category><![CDATA[Eventos]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324752]]></guid>
-    <description><![CDATA[Evento de Natal em Itapema contou com desfiles, vila temática e envolvimento da comunidade local.]]></description>
-    <content:encoded><![CDATA[
-<p>A programação de Natal em Itapema incluiu atrações no Centro e nos bairros da cidade.</p>
-<p>As atividades tiveram como objetivo incentivar o comércio e promover a cultura local.</p>
-<p>Desfiles e uma vila temática foram organizados para marcar o encerramento das festividades de 2025.</p>
-<p>A participação popular foi destacada durante os eventos realizados na cidade.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Polícia Militar recupera portão furtado em Itajaí e devolve ao proprietário]]></title>
-    <link>https://jornalrazao.com/seguranca/pm-escolta-satisfatoria-devolucao-portao-furtado-itajai/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 17:36:30 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174592]]></guid>
-    <description><![CDATA[Dois moradores em situação de rua foram abordados pela Polícia Militar enquanto transportavam um portão furtado no bairro Cidade Nova, em Itajaí.]]></description>
-    <content:encoded><![CDATA[
-<p>A Polícia Militar foi acionada após o furto de um portão em uma residência no bairro Cidade Nova. Durante rondas na região, os policiais localizaram dois homens em situação de rua carregando o objeto subtraído.</p>
-<p>Após a abordagem, a equipe acompanhou os indivíduos até a casa do proprietário para a devolução do portão, garantindo a restituição imediata do bem.</p>
-<p>Moradores do bairro relataram que a região tem registrado uma sequência de furtos, atribuída à circulação de usuários de drogas. A ação da Polícia Militar recebeu elogios de residentes locais.</p>
-<p>Não houve informações sobre detenção ou encaminhamento dos envolvidos após a devolução do portão.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Samae mantém abastecimento de água em Brusque com ações contínuas]]></title>
-    <link>https://visornoticias.com.br/abastecimento-de-agua-brusque-3/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 17:34:07 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324348]]></guid>
-    <description><![CDATA[Equipes do Samae de Brusque permaneceram em atividade durante o recesso para assegurar o fornecimento de água na cidade.]]></description>
-    <content:encoded><![CDATA[
-<p>O Samae de Brusque adotou medidas contínuas para garantir o abastecimento de água durante o período de recesso.</p>
-<p>Equipes permaneceram em campo para monitorar e atuar em eventuais demandas relacionadas ao fornecimento.</p>
-<p>As ações visam manter a regularidade do serviço e atender à população sem interrupções.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Motociclista sofre acidente após manobras perigosas na BR-101 em Porto Belo]]></title>
-    <link>https://portalmenina.com.br/es-tu-superman-motociclista-sofre-acidente-apos-manobras-perigosas-na-br-101-em-porto-belo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 17:16:13 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 19:17:53 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132392]]></guid>
-    <description><![CDATA[Um motociclista perdeu o controle do e colidiu na traseira de um automóvel na BR-101, em Porto Belo, após realizar manobras perigosas em alta velocidade.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324764]]></guid>
+    <description><![CDATA[Atletas brasileiros participam do WTT Champions Doha enfrentando adversários entre os 30 melhores do mundo.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu na terça-feira, 6, próximo à praça de pedágio, no sentido Tijucas, envolvendo um grupo de motociclistas que trafegava entre caminhões e veículos de passeio em meio ao fluxo intenso de veículos.</p>
-<p>Durante o trajeto, um dos motociclistas realizou a manobra conhecida como 'superman', na qual o condutor deita sobre a motocicleta com o corpo estendido.</p>
-<p>Ao retornar à posição normal de condução, o motociclista perdeu o controle da moto e colidiu na traseira de um automóvel que seguia à frente.</p>
-<p>O impacto causou apreensão entre os demais motoristas que transitavam pela rodovia e foi registrado em vídeo por um dos integrantes do grupo.</p>
-<p>O episódio reforça os riscos associados a manobras perigosas e excesso de velocidade em rodovias federais.</p>
+<p>A temporada 2026 do tênis de mesa teve início com a participação de jogadores brasileiros no WTT Champions Doha, no Catar.</p>
+<p>Os competidores do Brasil enfrentaram adversários que estão entre os 30 melhores do ranking mundial.</p>
+<p>A competição reúne atletas de alto nível, marcando o começo do calendário internacional da modalidade para o ano.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Mulher é agredida e tem corpo coberto com combustível em área rural de Curitibanos]]></title>
+    <link>https://visornoticias.com.br/mulher-e-agredida-e-tem-corpo-coberto/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 19:11:32 GMT</pubDate>
+  <category><![CDATA[Eventos]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324770]]></guid>
+    <description><![CDATA[Uma mulher foi agredida pelo companheiro e teve o corpo coberto com combustível em uma área rural de Curitibanos.]]></description>
+    <content:encoded><![CDATA[
+<p>A vítima enviou um pedido de ajuda à família após o ataque.</p>
+<p>O caso ocorreu em uma região rural do município de Curitibanos.</p>
+<p>As circunstâncias e o estado de saúde da mulher não foram detalhados.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Totens de emergência no Pontal Norte de Balneário Camboriú registram chamadas indevidas]]></title>
+    <link>https://visornoticias.com.br/totens-de-emergencia-viram-alvo-de-trotes-bc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 18:32:39 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324765]]></guid>
+    <description><![CDATA[Chamadas indevidas realizadas aos totens de emergência no Pontal Norte de Balneário Camboriú têm prejudicado o atendimento a ocorrências reais.]]></description>
+    <content:encoded><![CDATA[
+<p>Totens de emergência localizados no Pontal Norte de Balneário Camboriú têm sido alvo de chamadas indevidas.</p>
+<p>Essas ligações atrapalham o atendimento a situações de emergência que demandam intervenção imediata.</p>
+<p>As chamadas realizadas ao número 153 podem ser rastreadas para identificar a origem dos trotes.</p>
+<p>O uso inadequado dos totens compromete a eficiência dos serviços de segurança pública na região.</p>
     ]]></content:encoded>
   </item>
 </channel>
