@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 10:36:01 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 11:36:03 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,99 +21,67 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Motorista fica ferido após reagir a assalto durante corrida em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/motorista-fica-ferido-apos-reagir-a-assalto-durante-corrida-em-sc/</link>
+    <title><![CDATA[Incêndio durante a madrugada em Serra de SC resulta em morte de família]]></title>
+    <link>https://visornoticias.com.br/familia-morre-apos-incendio-destruir-residencia-durante-a-madrugada-em-serra-de-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 10:18:49 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 11:20:50 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324437]]></guid>
-    <description><![CDATA[Um motorista ficou ferido após reagir a uma tentativa de assalto durante uma corrida em Santa Catarina. Os suspeitos fugiram levando o celular da vítima.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324505]]></guid>
+    <description><![CDATA[Um incêndio destruiu uma residência na Serra de Santa Catarina durante a madrugada, causando a morte de três pessoas.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu durante uma corrida, quando o motorista foi abordado por suspeitos que tentaram roubar seus pertences.</p>
-<p>Ao tentar reagir, o motorista acabou ferido no confronto.</p>
-<p>Os suspeitos fugiram do local levando o celular da vítima.</p>
-<p>O atendimento ao motorista foi realizado pelo Serviço de Atendimento Móvel de Urgência (Samu).</p>
-<p>A Polícia Militar foi acionada para atender a ocorrência e realizar buscas pelos suspeitos.</p>
+<p>O fogo atingiu uma casa onde um pai, uma mãe e a filha foram encontrados carbonizados.</p>
+<p>Outras residências próximas também foram afetadas pelas chamas.</p>
+<p>As circunstâncias do incêndio estão sendo investigadas pelas autoridades competentes.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Idoso morre após cair na Barragem do Pinhal em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/idoso-morre-apos-veiculo-cair-na-barragem-do-pinhal-em-santa-catarina/</link>
+    <title><![CDATA[Reformas estruturais em escolas de Balneário Camboriú iniciam durante as férias escolares]]></title>
+    <link>https://portalmenina.com.br/reformas-estruturais-em-escolas-de-balneario-camboriu-comecam-em-duas-unidades-durante-as-ferias/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 10:02:09 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324433]]></guid>
-    <description><![CDATA[Um homem de 75 anos foi encontrado morto após o em que estava cair na Barragem do Pinhal.]]></description>
+    <pubDate>Wed, 07 Jan 2026 11:03:50 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132329]]></guid>
+    <description><![CDATA[Obras de reforma em seis Centros Educacionais Municipais de Balneário Camboriú começaram no início de janeiro, aproveitando o período de férias escolares para minimizar impactos.]]></description>
     <content:encoded><![CDATA[
-<p>O homem estava desaparecido desde sábado.</p>
-<p>O carro foi localizado submerso na barragem.</p>
-<p>O corpo foi encontrado no banco do motorista.</p>
+<p>As intervenções começaram nas unidades Dona Lili, no bairro da Barra, e Tomaz Francisco Garcia, no bairro dos Municípios, com serviços que incluem troca de coberturas e melhorias no sistema de drenagem pluvial.</p>
+<p>No Centro Educacional Municipal Professor Armando César Ghislandi, estão previstas também novas instalações elétricas como parte das reformas.</p>
+<p>Os trabalhos fazem parte de uma licitação dividida em três lotes, com investimentos que somam aproximadamente R$2,7 milhões, distribuídos entre as empresas responsáveis pelas obras.</p>
+<p>Além dos Centros Educacionais Municipais, reformas em sete Núcleos de Educação Infantil também estão em andamento, abrangendo melhorias nas coberturas, sistemas elétricos e de drenagem.</p>
+<p>As obras nos Núcleos de Educação Infantil começaram em novembro de 2025 e seguem ao longo de janeiro, com investimento total de cerca de R$1,7 milhão.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Orientações para utilização das notas do ENEM em processos seletivos e programas educacionais]]></title>
-    <link>https://visornoticias.com.br/como-usar-as-notas-do-enem-proximos-passos-segundo-especialistas/</link>
+    <title><![CDATA[Ministério Público investiga aumento de casos de diarreia no litoral de Florianópolis]]></title>
+    <link>https://visornoticias.com.br/ministerio-publico-investiga-possivel-surto-de-virose-no-litoral-de-florianopolis/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 09:50:08 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/como-usar-as-notas-do-enem-proximos-passos-segundo-especialistas/]]></guid>
-    <description><![CDATA[As notas do Exame Nacional do Ensino Médio (ENEM) podem ser utilizadas em diversas oportunidades acadêmicas e educacionais.]]></description>
+    <pubDate>Wed, 07 Jan 2026 10:55:43 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324474]]></guid>
+    <description><![CDATA[Autoridades iniciaram investigação sobre o aumento de casos de diarreia no litoral de Florianópolis durante a alta temporada.]]></description>
     <content:encoded><![CDATA[
-<p>Os resultados do ENEM são aceitos em processos de inscrição para universidades públicas e privadas em todo o país.</p>
-<p>Além do ingresso em instituições de ensino superior, as notas podem ser utilizadas para concorrer a bolsas de estudo e programas de financiamento estudantil.</p>
-<p>Alguns programas educacionais também utilizam as notas do exame como critério de seleção para participação.</p>
-<p>É importante que os candidatos verifiquem os prazos e requisitos específicos de cada instituição ou programa para garantir a correta utilização das notas.</p>
+<p>O número de casos de diarreia apresentou crescimento no litoral de Florianópolis durante o período de alta temporada.</p>
+<p>A investigação busca avaliar a possível relação entre o aumento dos casos e fatores como balneabilidade das praias e condições de saneamento.</p>
+<p>O levantamento considera também os impactos das chuvas recentes na região, que podem ter influenciado a qualidade da água.</p>
+<p>As autoridades acompanham a situação para identificar as causas e propor medidas de prevenção e controle.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Foragido por estelionato é preso em Balneário Camboriú durante férias]]></title>
-    <link>https://visornoticias.com.br/foragido-por-estelionato-e-preso-em-predio-de-luxo-durante-ferias-em-balneario-camboriu/</link>
+    <title><![CDATA[Jovem de 18 anos morre em acidente na BR-101 em Itajaí]]></title>
+    <link>https://portalmenina.com.br/jovem-de-18-anos-morre-apos-acidente-na-br-101-em-itajai-e-a-primeira-morte-do-ano-no-transito-da-cidade/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 09:44:17 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324429]]></guid>
-    <description><![CDATA[Um homem procurado pela Justiça do Pará foi detido em um prédio de luxo no centro de Balneário Camboriú.]]></description>
+    <pubDate>Wed, 07 Jan 2026 10:43:16 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132325]]></guid>
+    <description><![CDATA[Uma jovem de 18 anos morreu em um acidente envolvendo uma motocicleta na BR-101, em Itajaí, marcando a primeira morte no trânsito da rodovia no ano.]]></description>
     <content:encoded><![CDATA[
-<p>A prisão ocorreu enquanto o indivíduo estava de férias na cidade.</p>
-<p>Ele é acusado de estelionato e estava foragido da Justiça do Pará.</p>
-<p>A localização e detenção aconteceram em um edifício residencial de alto padrão.</p>
-<p>O caso envolveu a cooperação entre as autoridades locais e de outros estados.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Circo itinerante é investigado após denúncia de exploração de menores em Navegantes]]></title>
-    <link>https://portalmenina.com.br/mensagem-do-dia-07-01-2026/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 09:27:44 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132322]]></guid>
-    <description><![CDATA[Denúncia sobre exploração de menores em circo itinerante em Navegantes motivou investigação. Em Camboriú, teve vidro quebrado durante serviço de roçagem realizado por empresa terceirizada.]]></description>
-    <content:encoded><![CDATA[
-<p>Uma denúncia envolvendo exploração de menores em um circo itinerante em Navegantes está sendo apurada pelas autoridades locais.</p>
-<p>Em Camboriú, um teve o vidro quebrado durante a realização de um serviço de roçagem feito por uma empresa terceirizada.</p>
-<p>As circunstâncias do incidente em Camboriú ainda estão sendo analisadas para determinar as responsabilidades.</p>
-<p>As investigações sobre a denúncia em Navegantes seguem em andamento para esclarecer os fatos.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Oportunidades de Emprego em Santa Catarina]]></title>
-    <link>https://portalmenina.com.br/bolsa-de-empregos-07-01-2026/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 09:22:40 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132320]]></guid>
-    <description><![CDATA[Diversas vagas de emprego estão disponíveis em Santa Catarina, abrangendo áreas como serviços gerais, recursos humanos, zeladoria e contabilidade.]]></description>
-    <content:encoded><![CDATA[
-<p>Há três vagas abertas para auxiliar de serviços gerais em condomínio. Os interessados podem entrar em contato pelo telefone 99241-5305.</p>
-<p>Posições para assistente de recursos humanos e analista de departamento pessoal também estão disponíveis, com currículos sendo recebidos via WhatsApp no número 98498-1214.</p>
-<p>A vaga para zelador está aberta, com envio de currículos pelo WhatsApp no número 98888-0303.</p>
-<p>Além disso, há oportunidades para analista fiscal e analista contábil, com currículos sendo encaminhados para o e-mail realcontabil@realcontabil.cnt.br.</p>
-<p>Pessoas que se oferecem para trabalhar incluem Fabiana, para cuidadora de idosos, e Patrícia, para serviços gerais, com contatos disponíveis para ambos.</p>
+<p>O acidente ocorreu por volta das 17h30 no km 114,3 da BR-101, no bairro Salseiros, sentido Norte.</p>
+<p>O condutor da motocicleta sofreu ferimentos graves e foi encaminhado ao hospital.</p>
+<p>A passageira da motocicleta não resistiu aos ferimentos e morreu no local.</p>
+<p>Equipes da Arteris Litoral Sul prestaram atendimento e o trânsito ficou bloqueado até o término da ocorrência.</p>
+<p>A identidade da vítima e as causas do acidente não foram divulgadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
