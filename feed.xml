@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 08:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 09:35:56 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,50 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Mulher morre em acidente com motocicleta na BR-101 em Itajaí]]></title>
-    <link>https://visornoticias.com.br/mulher-morre-em-grave-acidente-com-motocicleta-na-br-101-em-itajai/</link>
+    <title><![CDATA[Homem é preso em operação da Polícia Federal por crimes sexuais contra crianças]]></title>
+    <link>https://visornoticias.com.br/operacao-da-policia-federal-resulta-em-prisao-de-homem-por-crimes-sexuais-contra-criancas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Wed, 07 Jan 2026 08:28:19 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324376]]></guid>
-    <description><![CDATA[Uma mulher morreu em um acidente envolvendo uma motocicleta na BR-101, em Itajaí.]]></description>
+    <pubDate>Wed, 07 Jan 2026 09:27:22 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324415]]></guid>
+    <description><![CDATA[Durante operação da Polícia Federal, um homem foi detido em flagrante por armazenamento de material ilícito relacionado a crimes sexuais contra crianças.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu no sentido Norte da rodovia.</p>
-<p>O trecho foi totalmente bloqueado, causando congestionamento no local.</p>
-<p>Equipes de emergência atenderam a ocorrência.</p>
+<p>A prisão ocorreu durante o cumprimento de mandados em três cidades de Santa Catarina.</p>
+<p>O investigado foi detido no momento em que armazenava o material ilícito.</p>
+<p>A ação faz parte de uma operação mais ampla da Polícia Federal voltada ao combate de crimes sexuais contra crianças.</p>
+<p>As investigações continuam para identificar outros envolvidos e aprofundar o caso.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Espinafre com ricota: opções de lanches para o café da tarde]]></title>
+    <link>https://visornoticias.com.br/espinafre-com-ricota-4-lanches-deliciosos-e-saudaveis-para-o-cafe-da-tarde/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 09:20:43 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/espinafre-com-ricota-4-lanches-deliciosos-e-saudaveis-para-o-cafe-da-tarde/]]></guid>
+    <description><![CDATA[A combinação de espinafre com ricota oferece cremosidade e nutrientes em preparações para o café da tarde.]]></description>
+    <content:encoded><![CDATA[
+<p>O espinafre é um alimento rico em vitaminas e minerais, que pode ser combinado com ricota para criar lanches saborosos.</p>
+<p>A ricota acrescenta uma textura cremosa e é uma de proteínas, complementando os benefícios do espinafre.</p>
+<p>Essas preparações podem ser consumidas no café da tarde, proporcionando uma opção nutritiva e agradável.</p>
+<p>A combinação é versátil e pode ser adaptada em diferentes receitas para atender a variados paladares.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Calor intenso precede temporais e possibilidade de ciclone em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/calor-acima-de-35c-antecede-temporais-e-risco-de-ciclone-em-santa-catarina/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Wed, 07 Jan 2026 09:06:19 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324409]]></guid>
+    <description><![CDATA[Santa Catarina enfrenta temperaturas superiores a 35°C antes da chegada de uma frente fria que deve provocar chuva e temporais no estado.]]></description>
+    <content:encoded><![CDATA[
+<p>Nos próximos dias, uma frente fria avançará sobre Santa Catarina, trazendo instabilidade climática para a região.</p>
+<p>As temperaturas elevadas, acima de 35°C, antecedem a chegada do sistema, que deve provocar chuvas intensas e temporais.</p>
+<p>O fim de semana deve permanecer instável em todo o estado, com condições favoráveis ao desenvolvimento de fenômenos meteorológicos severos.</p>
+<p>Há também risco de formação de ciclone na área, o que pode agravar as condições climáticas nos próximos dias.</p>
     ]]></content:encoded>
   </item>
 </channel>
