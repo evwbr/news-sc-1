@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Wed, 07 Jan 2026 00:35:50 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 01:35:57 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,32 +21,37 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Temperaturas sobem e temporais isolados são previstos em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/calor-volta-a-ganhar-forca-e-pode-provocar-temporais-isolados-em-santa-catarina/</link>
+    <title><![CDATA[Vídeo registra motociclista realizando manobras na BR-101 antes de colisão em Porto Belo]]></title>
+    <link>https://jornalrazao.com/seguranca/video-mostra-que-motociclista-fazia-manobras-na-br-101/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 23:57:44 GMT</pubDate>
+    <pubDate>Wed, 07 Jan 2026 01:30:51 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324372]]></guid>
-    <description><![CDATA[Santa Catarina registra aumento nas temperaturas, com máximas acima de 30°C em todas as regiões.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174548]]></guid>
+    <description><![CDATA[Imagens mostram motociclista trafegando de forma imprudente momentos antes de acidente envolvendo carro na BR-101, em Porto Belo, no Litoral Norte de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>Nesta quarta-feira, as temperaturas ultrapassam os 30°C em todas as regiões do estado.</p>
-<p>As regiões do Oeste e do Litoral Sul podem alcançar até 34°C durante o dia.</p>
-<p>O aumento do calor pode provocar temporais isolados em algumas áreas de Santa Catarina.</p>
+<p>Um vídeo divulgado recentemente registra o motociclista realizando manobras perigosas e avançando entre veículos em tráfego intenso na BR-101, em Porto Belo.</p>
+<p>As imagens indicam que o condutor da motocicleta acelerava em meio ao trânsito, reduzindo o tempo de reação em caso de retenção na pista.</p>
+<p>O acidente envolveu uma colisão entre a motocicleta e um carro, resultando em várias fraturas para o motociclista, que sobreviveu ao impacto.</p>
+<p>O trecho da rodovia voltou a ser foco de atenção após outro acidente registrado horas depois do ocorrido.</p>
+<p>As circunstâncias do acidente estão sob análise das autoridades competentes.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Dois adolescentes ficam gravemente feridos após atropelamento em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/dois-adolescentes-ficam-gravemente-feridos-apos-serem-atropelados-por-carro-em-sc/</link>
+    <title><![CDATA[Acidente entre motocicleta e carro na BR-101 em Porto Belo deixa jovem ferido]]></title>
+    <link>https://jornalrazao.com/seguranca/fila-parou-do-nada-jovem-sofre-grave-acidente-na-br-101-em-porto-belo-video/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 06 Jan 2026 23:42:36 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324367]]></guid>
-    <description><![CDATA[Dois adolescentes ficaram gravemente feridos após serem atropelados enquanto estavam em uma bicicleta em Santa Catarina.]]></description>
+    <pubDate>Wed, 07 Jan 2026 00:56:18 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174544]]></guid>
+    <description><![CDATA[Um acidente envolvendo uma motocicleta e um automóvel na BR-101, em Porto Belo, resultou em ferimentos para o motociclista e gerou discussões sobre segurança no trânsito.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente envolveu um carro e uma bicicleta com dois adolescentes. Equipes de resgate, incluindo bombeiros, SAMU e o helicóptero Arcanjo, foram mobilizadas para atender as vítimas.</p>
-<p>Os adolescentes foram socorridos e encaminhados para atendimento médico. As circunstâncias do atropelamento ainda estão sendo apuradas.</p>
-<p>O local do acidente recebeu atendimento imediato para garantir a segurança e o suporte necessário às vítimas.</p>
+<p>O acidente ocorreu em um trecho da BR-101 no Litoral Norte de Santa Catarina, envolvendo uma motocicleta que colidiu contra a traseira de um carro.</p>
+<p>Imagens registradas mostram o momento da colisão, que teria sido causada por uma fila de veículos formada nas proximidades do pedágio.</p>
+<p>O motociclista sofreu ferimentos na perna e recebeu atendimento médico, apresentando recuperação estável.</p>
+<p>Não há informações sobre ferimentos graves para o motorista do automóvel envolvido no acidente.</p>
+<p>Horas após o ocorrido, outro acidente foi registrado no mesmo trecho da rodovia, destacando preocupações sobre a segurança na região.</p>
+<p>As circunstâncias do acidente estão sendo investigadas, enquanto o episódio reforça a importância do respeito às normas de trânsito e da atenção redobrada em vias movimentadas.</p>
     ]]></content:encoded>
   </item>
 </channel>
