@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Thu, 08 Jan 2026 08:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 09:35:56 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,49 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Corpo de mulher é encontrado boiando em rio na zona rural de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/corpo-de-mulher-e-encontrado-boiando-em-rio-na-zona-rural-de-santa-catarina/</link>
+    <title><![CDATA[Frente fria provoca temporais e ventos fortes em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/calor-intenso-da-lugar-a-temporais-e-ventos-fortes-em-santa-catarina/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 08 Jan 2026 08:23:38 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324828]]></guid>
-    <description><![CDATA[O corpo de uma mulher foi localizado em um rio na zona rural de Santa Catarina. A remoção do corpo contou com o auxílio de uma embarcação.]]></description>
+    <pubDate>Thu, 08 Jan 2026 09:11:26 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=324859]]></guid>
+    <description><![CDATA[Santa Catarina enfrenta mudança no clima com a chegada de uma frente fria e sistema de baixa pressão, que aumentam o risco de temporais entre quinta e domingo.]]></description>
     <content:encoded><![CDATA[
-<p>O corpo da mulher foi encontrado boiando no rio e retirado da água com o auxílio de uma embarcação.</p>
-<p>A identidade da mulher ainda não foi divulgada.</p>
-<p>A causa da morte também não foi informada até o momento.</p>
+<p>A região deve registrar queda nas temperaturas após período de calor intenso.</p>
+<p>A combinação da frente fria com um sistema de baixa pressão eleva a possibilidade de alagamentos e destelhamentos.</p>
+<p>Ventos fortes também são esperados durante o período, podendo causar transtornos à população.</p>
+<p>As condições climáticas adversas devem se estender até o final do domingo.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Raças de cães pequenas e brancas ganham popularidade entre famílias]]></title>
+    <link>https://visornoticias.com.br/dose-de-fofura-7-racas-de-cachorro-pequenas-e-brancas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 08 Jan 2026 09:10:34 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/dose-de-fofura-7-racas-de-cachorro-pequenas-e-brancas/]]></guid>
+    <description><![CDATA[Cães de porte pequeno e pelagem branca são reconhecidos pela aparência delicada e personalidade marcante.]]></description>
+    <content:encoded><![CDATA[
+<p>Esses cães são frequentemente escolhidos por famílias devido ao tamanho compacto e ao temperamento amigável.</p>
+<p>A pelagem branca confere um aspecto elegante e delicado, que agrada a muitos tutores.</p>
+<p>Além da aparência, esses cães apresentam características que os tornam companheiros ideais para ambientes domésticos.</p>
+<p>A popularidade dessas raças tem crescido em diversas regiões, refletindo a preferência por animais de estimação com essas características.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Protetor solar: momento adequado para reaplicação]]></title>
+    <link>https://visornoticias.com.br/protetor-solar-saiba-o-momento-certo-de-reaplicar/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Thu, 08 Jan 2026 09:10:12 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/protetor-solar-saiba-o-momento-certo-de-reaplicar/]]></guid>
+    <description><![CDATA[A reaplicação correta do protetor solar é fundamental para garantir proteção eficaz contra os danos causados pelo sol durante o verão.]]></description>
+    <content:encoded><![CDATA[
+<p>O uso adequado do protetor solar contribui para a prevenção de problemas dermatológicos relacionados à exposição solar.</p>
+<p>Reaplicar o produto no momento certo mantém a eficácia da proteção ao longo do dia.</p>
+<p>Especialistas recomendam atenção ao tempo de exposição e à atividade realizada para determinar a frequência da reaplicação.</p>
     ]]></content:encoded>
   </item>
 </channel>
