@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 09 Jan 2026 00:35:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 01:36:07 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,48 +21,20 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Procon de Palhoça realiza atendimentos presenciais apenas com agendamento em janeiro]]></title>
-    <link>https://visornoticias.com.br/procon-palhoca-atendimento-agendamento-janeiro/</link>
+    <title><![CDATA[Gestante é atingida por caminhonete ao atravessar SC-410 em Tijucas]]></title>
+    <link>https://jornalrazao.com/seguranca/gestante-atropelada-sc-410-tijucas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 08 Jan 2026 23:39:36 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325403]]></guid>
-    <description><![CDATA[Durante o mês de janeiro, o Procon de Palhoça atenderá o público presencialmente somente mediante agendamento prévio.]]></description>
+    <pubDate>Fri, 09 Jan 2026 01:08:48 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174751]]></guid>
+    <description><![CDATA[Uma mulher grávida foi atingida por uma caminhonete enquanto tentava atravessar a SC-410, em Tijucas.]]></description>
     <content:encoded><![CDATA[
-<p>O atendimento presencial no Procon de Palhoça estará disponível exclusivamente para quem realizar agendamento antecipado.</p>
-<p>A medida visa organizar o fluxo de atendimento durante o período de janeiro.</p>
-<p>Os interessados devem buscar os canais oficiais para realizar o agendamento e garantir o atendimento.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Furtos em carros são registrados em Palhoça]]></title>
-    <link>https://visornoticias.com.br/alerta-furtos-carros-palhoca/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 08 Jan 2026 23:39:27 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325400]]></guid>
-    <description><![CDATA[Autoridades alertam moradores e visitantes sobre aumento de furtos em veículos na região de Palhoça, com maior incidência nas áreas de praia.]]></description>
-    <content:encoded><![CDATA[
-<p>A cidade de Palhoça tem registrado casos de furtos em carros, principalmente nas proximidades das praias.</p>
-<p>Os incidentes têm ocorrido com maior frequência, afetando tanto moradores quanto turistas que visitam a região.</p>
-<p>Recomenda-se atenção redobrada e cuidados para evitar prejuízos relacionados a esses crimes.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Temperaturas caem pela manhã e temporais ganham força em Santa Catarina nesta sexta-feira]]></title>
-    <link>https://visornoticias.com.br/temperaturas-caem-pela-manha-e-temporais-ganham-forca-em-santa-catarina-nesta-sexta-feira/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Thu, 08 Jan 2026 23:39:04 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325410]]></guid>
-    <description><![CDATA[Santa Catarina registra queda nas temperaturas durante a manhã, seguida por aumento da intensidade dos temporais ao longo do dia.]]></description>
-    <content:encoded><![CDATA[
-<p>As temperaturas apresentaram queda nas primeiras horas da sexta-feira em diversas regiões do estado.</p>
-<p>Durante a tarde, o calor retorna, contribuindo para a formação de tempestades mais intensas.</p>
-<p>Ventos com rajadas de até 70 km/h foram registrados na região do Grande Oeste catarinense.</p>
-<p>Há risco moderado a alto para alagamentos e destelhamentos em áreas afetadas pelos temporais.</p>
+<p>O acidente ocorreu no bairro Nova Descoberta, na noite de quinta-feira, envolvendo uma caminhonete Ford Ranger que seguia no sentido Canelinha–Tijucas.</p>
+<p>A vítima, de 43 anos, foi atingida pelo retrovisor do ao tentar atravessar a rodovia.</p>
+<p>Equipes do Corpo de Bombeiros foram acionadas por volta das 20h46 para prestar atendimento.</p>
+<p>A mulher apresentava escoriações e suspeita de fratura no membro inferior esquerdo, sendo encaminhada ao Hospital de Canelinha para avaliação médica.</p>
+<p>A Polícia Militar esteve no local para realizar os levantamentos iniciais e registrar a ocorrência.</p>
+<p>As circunstâncias do atropelamento estão sob análise das autoridades competentes.</p>
     ]]></content:encoded>
   </item>
 </channel>
