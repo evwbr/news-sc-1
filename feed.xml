@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 09 Jan 2026 18:36:08 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 19:36:14 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,99 +21,128 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[furtado em Camboriú é recuperado pela Polícia Militar]]></title>
-    <link>https://portalmenina.com.br/pm-recupera-veiculo-furtado-ha-quase-duas-semanas-em-camboriu/</link>
+    <title><![CDATA[Litoral de Santa Catarina conta com 169 pontos próprios para banho]]></title>
+    <link>https://visornoticias.com.br/litoral-de-sc-tem-169-pontos-proprios-para-banho-diz-ima/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 18:26:12 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 19:15:23 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325676]]></guid>
+    <description><![CDATA[Relatório recente indica que 169 locais no litoral de Santa Catarina estão adequados para banho, destacando a importância de cuidados após períodos de chuva intensa.]]></description>
+    <content:encoded><![CDATA[
+<p>O litoral de Santa Catarina possui 169 pontos considerados próprios para banho,</p>
+<p>O relatório destaca a necessidade de atenção especial após chuvas intensas, que podem afetar a qualidade da água.</p>
+<p>As condições dos locais são monitoradas para garantir a segurança dos banhistas.</p>
+<p>Recomenda-se que a população observe as orientações sobre o uso das praias, especialmente em períodos de chuva.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Primeira corrida de rua do Vivapark Porto Belo será realizada em formato noturno]]></title>
+    <link>https://visornoticias.com.br/primeira-corrida-de-rua-do-vivapark-porto-belo-estreia-em-abril-em-formato-noturno/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 19:15:18 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325678]]></guid>
+    <description><![CDATA[A Night Run Vivapark está marcada para o dia 11 de abril, com percursos de 4 e 8 km e modalidade kids.]]></description>
+    <content:encoded><![CDATA[
+<p>A corrida de rua do Vivapark Porto Belo terá sua primeira edição em formato noturno.</p>
+<p>O evento contará com percursos de 4 e 8 quilômetros, além de uma categoria para crianças.</p>
+<p>As inscrições para a prova já estão abertas, com vagas limitadas para os participantes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Previsão do tempo indica calor e temporais de verão em Itajaí]]></title>
+    <link>https://visornoticias.com.br/tempo-em-itajai-2/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 18:58:59 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325517]]></guid>
+    <description><![CDATA[A previsão do tempo para Itajaí aponta para o retorno de temperaturas elevadas e ocorrência de temporais típicos do verão entre quinta e sábado.]]></description>
+    <content:encoded><![CDATA[
+<p>O calor deve predominar nos próximos dias em Itajaí, com aumento da umidade e possibilidade de temporais localizados.</p>
+<p>Entre quinta e sábado, as condições atmosféricas favorecem a formação de pancadas de chuva acompanhadas de trovoadas.</p>
+<p>No domingo, a chegada de uma frente fria deve alterar o cenário meteorológico, trazendo mudanças nas condições do tempo.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Câmara de Itajaí apresenta balanço de ações e devolução de verba]]></title>
+    <link>https://visornoticias.com.br/camara-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 18:58:50 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325513]]></guid>
+    <description><![CDATA[A Câmara de Itajaí divulgou o balanço das atividades realizadas em 2025, destacando a devolução de recursos ao Executivo e o aumento no atendimento ao público.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante o ano de 2025, a Câmara de Itajaí realizou diversas ações voltadas para a melhoria dos serviços prestados à população.</p>
+<p>Foi efetuada a devolução de R$ 20 milhões ao Executivo municipal, reforçando o compromisso com a responsabilidade fiscal.</p>
+<p>Além disso, foram implementados projetos que visam aprimorar a gestão e ampliar o acesso dos cidadãos aos serviços legislativos.</p>
+<p>O atendimento ao público registrou crescimento, refletindo o esforço da Câmara em aproximar a população das atividades legislativas.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é preso em Camboriú por mandado relacionado a crime sexual]]></title>
+    <link>https://portalmenina.com.br/homem-e-preso-em-camboriu-por-mandado-relacionado-a-crime-sexual/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 18:58:45 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132614]]></guid>
-    <description><![CDATA[Um automóvel registrado como furtado foi localizado e apreendido pela Polícia Militar em Camboriú, quase duas semanas após o crime.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132618]]></guid>
+    <description><![CDATA[Um homem de 46 anos foi preso em Camboriú após o cumprimento de um mandado de prisão relacionado ao crime de violação sexual mediante fraude.]]></description>
     <content:encoded><![CDATA[
-<p>O foi encontrado na Rua José João Custódio durante uma ação policial na noite de quinta-feira.</p>
-<p>Trata-se de um automóvel modelo CAOACHERY/Tiggo 3X Plus TA, que havia sido furtado no dia 29 de dezembro.</p>
-<p>Após a confirmação da restrição de furto por meio de consulta ao sistema, o carro foi apreendido e encaminhado à Delegacia de Polícia.</p>
-<p>Na delegacia, foram realizados os procedimentos legais para a restituição do ao proprietário.</p>
+<p>O mandado de prisão foi cumprido pelo 12º Batalhão da Polícia Militar durante ações de rotina na manhã desta sexta-feira.</p>
+<p>O suspeito foi localizado e abordado na Rua São João, no bairro São Francisco de Assis, sem oferecer resistência.</p>
+<p>Ele foi informado sobre seus direitos constitucionais e encaminhado ao Presídio Regional de Itajaí para os procedimentos legais.</p>
+<p>A ocorrência transcorreu de forma tranquila, sem necessidade do uso de algemas.</p>
+<p>A Polícia Militar mantém atuação contínua no cumprimento de determinações judiciais visando a manutenção da ordem pública.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Cadela idosa morre após resgate em Balneário Piçarras com quadro clínico grave]]></title>
-    <link>https://visornoticias.com.br/cadela-idosa-infestada-de-larvas-morre-apos-resgate-em-balneario-picarras/</link>
+    <title><![CDATA[Câmara de Itajaí devolve R$ 24,4 milhões à prefeitura]]></title>
+    <link>https://visornoticias.com.br/camara-itajai-devolve-recursos/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 18:07:40 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325622]]></guid>
-    <description><![CDATA[Animal foi encontrado com infestação de larvas e não resistiu ao tratamento veterinário. Responsável pelo animal foi detido.]]></description>
+    <pubDate>Fri, 09 Jan 2026 18:58:43 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325509]]></guid>
+    <description><![CDATA[A Câmara de Itajaí devolveu R$ 24,4 milhões à prefeitura referentes à gestão financeira de 2025.]]></description>
     <content:encoded><![CDATA[
-<p>Uma cadela idosa foi resgatada em Balneário Piçarras em estado crítico, apresentando infestação de larvas.</p>
-<p>O animal recebeu atendimento veterinário, mas não resistiu às condições clínicas apresentadas.</p>
-<p>O responsável pelo animal foi detido pelas autoridades locais.</p>
-<p>O caso chamou atenção para as condições de maus-tratos e abandono de animais na região.</p>
+<p>O montante devolvido inclui economia do duodécimo e rendimentos financeiros obtidos ao longo do ano.</p>
+<p>A devolução faz parte da gestão dos recursos públicos pela Câmara durante o exercício de 2025.</p>
+<p>Os valores retornados à prefeitura poderão ser utilizados em outras áreas da administração municipal.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Encomenda com 2,2 kg de cocaína é apreendida em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/encomenda-com-cocaina-avaliada-em-r-100-mil/</link>
+    <title><![CDATA[Vazamento de esgoto afeta Canal do Marambaia e interdita trecho da Avenida Atlântica]]></title>
+    <link>https://visornoticias.com.br/vazamento-de-esgoto-atinge-canal-do-marambaia/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 17:52:42 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325631]]></guid>
-    <description><![CDATA[Uma encomenda contendo 2,2 kg de cocaína foi interceptada em Santa Catarina durante uma ação integrada.]]></description>
-    <content:encoded><![CDATA[
-<p>A droga estava escondida em uma encomenda destinada ao Rio Grande do Sul.</p>
-<p>A apreensão faz parte de uma operação conjunta entre órgãos de segurança.</p>
-<p>O valor estimado da cocaína apreendida é de aproximadamente R$ 100 mil.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Polícia Militar localiza cemitério clandestino ligado a facção em São José]]></title>
-    <link>https://jornalrazao.com/seguranca/bope-descobre-cemiterio-de-faccao-com-varios-corpos-florianopolis/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 17:50:31 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174805]]></guid>
-    <description><![CDATA[Uma operação da Polícia Militar em São José resultou na descoberta de um cemitério clandestino associado a uma facção criminosa na região do morro da Boa Vista.]]></description>
-    <content:encoded><![CDATA[
-<p>Durante a manhã, equipes do BPChoque, BOPE e Canil realizaram buscas em uma área de mata fechada no morro da Boa Vista, onde encontraram indícios de ocultação de cadáveres.</p>
-<p>Escavações no local revelaram ao menos três corpos enterrados a profundidade entre um metro e um metro e meio.</p>
-<p>A Polícia Civil e a Polícia Científica foram acionadas para conduzir os trabalhos de perícia, identificação das vítimas e investigação das circunstâncias das mortes.</p>
-<p>A operação também resultou na localização de um suspeito em uma residência na mesma região, que foi reconhecido por vítimas de um sequestro ocorrido no início do mês.</p>
-<p>Durante as buscas na residência, foram apreendidas drogas e munições, e o suspeito foi encaminhado para os procedimentos legais.</p>
-<p>As ações fazem parte de um esforço integrado para combater crimes como sequestros, homicídios e tráfico de drogas na Grande Florianópolis.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem é preso por descumprimento de medida protetiva e ameaça em Blumenau]]></title>
-    <link>https://portalmenina.com.br/embriagado-homem-desafia-medida-protetiva-ameaca-ex-companheira-e-acaba-preso-em-blumenau/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 17:46:13 GMT</pubDate>
+    <pubDate>Fri, 09 Jan 2026 18:58:39 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132605]]></guid>
-    <description><![CDATA[Um homem de 29 anos foi detido na madrugada por descumprir medida protetiva e ameaçar a ex-companheira em Blumenau.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325649]]></guid>
+    <description><![CDATA[Um vazamento de esgoto atingiu o Canal do Marambaia, resultando na interdição de um trecho da Avenida Atlântica para realização de serviço emergencial.]]></description>
     <content:encoded><![CDATA[
-<p>A prisão ocorreu por volta da 1h em frente a uma lanchonete no bairro Itoupava Norte.</p>
-<p>O homem apresentava sinais de embriaguez e causava transtornos no local.</p>
-<p>Durante a abordagem, foi confirmada a existência de uma medida protetiva em favor da ex-companheira, de 44 anos.</p>
-<p>Ele também ameaçou uma amiga da vítima antes da intervenção policial.</p>
-<p>O suspeito recebeu voz de prisão em flagrante e foi encaminhado à Delegacia de Polícia Civil para os procedimentos legais.</p>
+<p>Equipes trabalham para localizar o ponto exato do vazamento que comprometeu o Canal do Marambaia.</p>
+<p>A interdição da Avenida Atlântica foi necessária para garantir a segurança e facilitar o acesso dos técnicos ao local.</p>
+<p>O serviço emergencial visa conter o vazamento e minimizar os impactos ambientais na região.</p>
+<p>Ainda não há previsão para a conclusão dos reparos e liberação do trecho interditado.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Homem mata esposa e filha a facadas e morre em confronto com a PM em SC]]></title>
-    <link>https://visornoticias.com.br/homem-mata-esposa-e-filha-a-facadas-e-morre-em-confronto-com-a-pm-em-sc/</link>
+    <title><![CDATA[Defesa Civil de Santa Catarina distribui mais de 8 mil itens a municípios afetados por temporais]]></title>
+    <link>https://visornoticias.com.br/defesa-civil-sc-entrega-itens-humanitarios/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 17:40:33 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325626]]></guid>
-    <description><![CDATA[Um homem matou a esposa e a filha a facadas dentro da residência da família em Santa Catarina e morreu após confronto com a Polícia Militar.]]></description>
+    <pubDate>Fri, 09 Jan 2026 18:58:34 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325506]]></guid>
+    <description><![CDATA[A Defesa Civil de Santa Catarina entregou mais de 8 mil itens de assistência humanitária a municípios atingidos por eventos climáticos extremos.]]></description>
     <content:encoded><![CDATA[
-<p>O crime ocorreu no interior da residência onde a família morava.</p>
-<p>A Polícia Militar foi acionada e realizou uma abordagem ao suspeito.</p>
-<p>Durante a intervenção, o homem reagiu e acabou morto em confronto com os policiais.</p>
+<p>A Secretaria da Proteção e Defesa Civil de Santa Catarina realizou a distribuição de materiais para auxiliar municípios afetados por temporais.</p>
+<p>Foram entregues itens como telhas, cestas básicas e colchões para 21 municípios do estado.</p>
+<p>A ação visa atender às necessidades das comunidades impactadas pelas condições climáticas adversas.</p>
+<p>A entrega dos materiais faz parte das medidas de resposta e apoio às regiões atingidas.</p>
     ]]></content:encoded>
   </item>
 </channel>
