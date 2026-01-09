@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Fri, 09 Jan 2026 15:35:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 16:35:59 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,52 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Governo de Porto Belo realiza atendimento itinerante para IPTU 2026 nos bairros]]></title>
-    <link>https://horadeportobelo.com.br/2026/01/09/governo-de-porto-belo-tera-atendimento-nos-bairros-para-retirada-do-iptu-2026-e-outros-servicos-2/</link>
+    <title><![CDATA[Dia do Astronauta destaca rotina e desafios das missões espaciais]]></title>
+    <link>https://visornoticias.com.br/dia-do-astronauta-o-que-e-mito-e-o-que-e-verdade-no-trabalho-fora-da-terra/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Fri, 09 Jan 2026 14:57:57 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20641]]></guid>
-    <description><![CDATA[A Secretaria de Finanças de Porto Belo promove atendimento itinerante para facilitar o acesso aos serviços relacionados ao IPTU 2026, levando o atendimento aos bairros do município.]]></description>
+    <pubDate>Fri, 09 Jan 2026 16:30:59 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325610]]></guid>
+    <description><![CDATA[Comemorado em 9 de janeiro no Brasil, o Dia do Astronauta ressalta aspectos reais e científicos do trabalho no espaço.]]></description>
     <content:encoded><![CDATA[
-<p>O atendimento itinerante oferece serviços como consulta de débitos, emissão de boletos, negociações, atualização cadastral e orientações sobre isenção do IPTU.</p>
-<p>Contribuintes que possuem cadastro de isenção devem comparecer com a documentação necessária para atualização.</p>
-<p>O atendimento ocorre em diversos bairros, com horários específicos para cada local, e o serviço no Centro Administrativo permanece disponível de segunda a sexta-feira, das 8h às 14h.</p>
-<p>Além do atendimento presencial, os serviços do IPTU podem ser acessados por meio de aplicativo, oficial, WhatsApp e e-mail.</p>
-<p>Os horários do atendimento itinerante estão sujeitos a alterações em função das condições climáticas.</p>
+<p>A data é dedicada a reconhecer a atuação dos profissionais que realizam missões fora da Terra.</p>
+<p>O trabalho dos astronautas envolve treinamento rigoroso e adaptação a condições adversas no ambiente espacial.</p>
+<p>Durante as missões, eles enfrentam desafios como a microgravidade, que afeta o corpo humano de diversas formas.</p>
+<p>Além das atividades científicas, os astronautas realizam manutenção e experimentos que contribuem para avanços tecnológicos.</p>
+<p>A rotina inclui períodos de isolamento e comunicação limitada com a Terra, exigindo preparo psicológico.</p>
+<p>A celebração reforça a importância da ciência e da tecnologia no desenvolvimento das viagens espaciais.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura de Balneário Camboriú apreende 650 patinetes por irregularidades]]></title>
+    <link>https://visornoticias.com.br/prefeitura-de-bc-apreende-650-patinetes/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 16:30:09 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325609]]></guid>
+    <description><![CDATA[A prefeitura de Balneário Camboriú realizou a apreensão de 650 patinetes elétricos de uma empresa que operava sem credenciamento.]]></description>
+    <content:encoded><![CDATA[
+<p>Os veículos foram recolhidos devido à falta de autorização para funcionamento na cidade.</p>
+<p>Além da ausência de credenciamento, os patinetes estavam causando obstrução nos passeios públicos.</p>
+<p>A ação visa garantir a segurança e a organização do espaço urbano para os pedestres.</p>
+<p>Medidas administrativas podem ser adotadas para regularizar a situação da empresa responsável.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Discussão política ocorre na Praia Central de Balneário Camboriú]]></title>
+    <link>https://jornalrazao.com/geral/discussao-politica-praia-central-balneario-camboriu/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Fri, 09 Jan 2026 16:21:47 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174788]]></guid>
+    <description><![CDATA[Uma abordagem com político gerou uma discussão entre influenciadores e banhistas na Praia Central de Balneário Camboriú, no litoral de Santa Catarina.]]></description>
+    <content:encoded><![CDATA[
+<p>Durante a ação, influenciadores utilizaram totens com imagens do presidente Luiz Inácio Lula da Silva e do ministro do Supremo Tribunal Federal Alexandre de Moraes para provocar debates políticos com pessoas na orla.</p>
+<p>Um grupo de banhistas reagiu à abordagem, defendendo o presidente Lula e fazendo críticas ao ex-presidente Jair Bolsonaro.</p>
+<p>A troca de provocações ocorreu em público, na faixa de areia, e atraiu a atenção de outros frequentadores da praia.</p>
+<p>O clima ficou tenso por alguns momentos, com elevação do tom de voz e acusações entre os envolvidos.</p>
     ]]></content:encoded>
   </item>
 </channel>
