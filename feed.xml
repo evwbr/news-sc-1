@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 10 Jan 2026 12:36:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 13:35:58 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,101 +21,68 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Temporal com raios causa morte de 26 bovinos em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/rebanho-e-atingido-por-raios-e-26-bovinos-morrem-durante-temporal-em-sc/</link>
+    <title><![CDATA[Temporal provoca queda de energia em Itapema e Porto Belo]]></title>
+    <link>https://visornoticias.com.br/temporal-causa-falta-de-energia-em-13-mil-residencias-em-itapema-e-porto-belo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 12:30:06 GMT</pubDate>
+    <pubDate>Sat, 10 Jan 2026 13:22:16 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325927]]></guid>
-    <description><![CDATA[Um produtor rural registrou a morte de 26 bovinos após um temporal com raios em Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325937]]></guid>
+    <description><![CDATA[Cerca de 13 mil residências ficaram sem energia elétrica em Itapema e Porto Belo devido a um temporal.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu durante uma tempestade que atingiu a região, resultando na morte dos animais por descarga elétrica.</p>
-<p>O produtor rural sofreu um prejuízo estimado em cerca de R$ 100 mil devido à perda do rebanho.</p>
-<p>As condições do temporal dificultaram a proteção dos animais, que estavam expostos no momento da ocorrência.</p>
-<p>Medidas para evitar prejuízos semelhantes em situações futuras estão sendo avaliadas.</p>
+<p>A interrupção no fornecimento de energia ocorreu após um objeto de obra atingir a rede elétrica durante ventos e chuva.</p>
+<p>O temporal afetou a região, causando transtornos para os moradores das duas cidades.</p>
+<p>Equipes técnicas foram mobilizadas para restabelecer o serviço o mais rápido possível.</p>
+<p>A situação impactou o funcionamento de residências e estabelecimentos comerciais nas áreas afetadas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Homem é preso por maus-tratos a animais e posse ilegal de armas em Blumenau]]></title>
-    <link>https://jornalrazao.com/seguranca/caes-famintos-filhotes-mortos-e-armas-homem-e-preso-por-maus-tratos-em-blumenau/</link>
+    <title><![CDATA[Motociclista é interceptado após desobedecer ordem de parada em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/motociclista-tenta-fugir-de-abordagem-policial-e-e-interceptado-em-cidade-de-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 12:25:16 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174891]]></guid>
-    <description><![CDATA[Um homem foi preso em flagrante em Blumenau por maus-tratos a animais e posse ilegal de armas de fogo durante uma operação policial.]]></description>
+    <pubDate>Sat, 10 Jan 2026 13:06:26 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325933]]></guid>
+    <description><![CDATA[Durante a madrugada, um motociclista tentou fugir de uma abordagem policial e foi interceptado em uma cidade de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>Durante a ação, foram encontrados 12 cães em condições degradantes, incluindo filhotes mortos e animais desnutridos com feridas pelo corpo. Os cães estavam em um ambiente sem abrigo adequado e sem acesso a água limpa.</p>
-<p>No mesmo local, 12 aves silvestres foram resgatadas, mantidas ilegalmente em cativeiro em condições inadequadas, configurando crime ambiental.</p>
-<p>Foram apreendidas duas espingardas e diversas munições de calibres variados, além de carne de caça que será submetida a perícia.</p>
-<p>O homem foi autuado por maus-tratos a cães, guarda ilegal de fauna silvestre e posse irregular de arma de fogo.</p>
-<p>Os animais resgatados foram encaminhados ao setor de Bem-Estar Animal da Prefeitura e recebem atendimento veterinário com apoio de uma instituição local.</p>
+<p>O condutor não obedeceu à ordem de parada durante a ação policial.</p>
+<p>Após a interceptação, a motocicleta foi removida do local.</p>
+<p>A ocorrência foi registrada pelas autoridades responsáveis pela fiscalização no município.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Temporal provoca quedas de árvores e destelhamentos no Oeste de Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/temporal-causa-quedas-de-arvores-e-destelhamentos-no-oeste-catarinense/</link>
+    <title><![CDATA[Raios atingem rebanho e causam morte de 26 bovinos em Urupema, SC]]></title>
+    <link>https://jornalrazao.com/seguranca/tragedia-no-campo-raios-atingem-rebanho-e-matam-26-bovinos-durante-temporal-em-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 12:02:32 GMT</pubDate>
+    <pubDate>Sat, 10 Jan 2026 12:44:31 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325923]]></guid>
-    <description><![CDATA[Um temporal registrado no Oeste catarinense causou quedas de árvores e destelhamentos em diferentes pontos da região.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174894]]></guid>
+    <description><![CDATA[Um temporal com forte atividade elétrica provocou a morte de 26 bovinos em uma propriedade rural de Urupema, na Serra catarinense.]]></description>
     <content:encoded><![CDATA[
-<p>As quedas de árvores afetaram vias públicas, dificultando o trânsito em algumas áreas.</p>
-<p>Além disso, a rede de energia elétrica foi comprometida em determinados locais devido aos impactos do temporal.</p>
-<p>Equipes de manutenção foram acionadas para realizar os reparos necessários e restabelecer os serviços.</p>
-<p>Não foram divulgados dados sobre danos materiais mais extensos ou vítimas decorrentes do evento climático.</p>
+<p>O incidente ocorreu durante uma trovoada intensa na tarde de quinta-feira, quando descargas elétricas atingiram o rebanho que estava em área de pastagem.</p>
+<p>Foram contabilizadas 14 vacas adultas e 12 bezerros mortos em decorrência das descargas elétricas.</p>
+<p>Não houve registro de feridos entre os trabalhadores da propriedade rural.</p>
+<p>Equipes municipais estiveram no local para verificar a situação e prestar apoio ao produtor rural.</p>
+<p>A administração municipal acompanha o caso e avalia medidas de assistência diante do prejuízo causado pela perda dos animais.</p>
+<p>O episódio ocorreu em um período de instabilidade climática na região serrana, caracterizado por chuvas fortes, rajadas de vento e elevada incidência de raios.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Homem é encontrado morto em estado de decomposição em residência]]></title>
-    <link>https://visornoticias.com.br/tio-de-suzane-von-richthofen-e-encontrado-morto-em-estado-de-decomposicao-em-casa/</link>
+    <title><![CDATA[Tempo permanece instável em Blumenau com possibilidade de chuva intensa no fim de semana]]></title>
+    <link>https://portalmenina.com.br/tempo-segue-instavel-em-blumenau-com-risco-de-chuva-intensa-durante-o-fim-de-semana/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 11:51:30 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=325917]]></guid>
-    <description><![CDATA[Corpo de homem foi localizado após vizinhos notarem ausência por dois dias.]]></description>
+    <pubDate>Sat, 10 Jan 2026 12:06:08 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132635]]></guid>
+    <description><![CDATA[A atuação de uma frente fria mantém o tempo instável em Blumenau, com previsão de pancadas de chuva e trovoadas durante o sábado e o domingo.]]></description>
     <content:encoded><![CDATA[
-<p>Um homem foi encontrado morto em sua residência em estado avançado de decomposição.</p>
-<p>O corpo foi descoberto após vizinhos estranharem a ausência do morador por dois dias.</p>
-<p>As circunstâncias da morte ainda não foram esclarecidas pelas autoridades.</p>
-<p>O local foi isolado para a realização de perícia e investigação.</p>
-<p>Não há informações adicionais sobre a identidade da vítima ou causas do óbito.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem é esfaqueado durante incidente em residência no centro de Tijucas]]></title>
-    <link>https://jornalrazao.com/seguranca/argentino-cheira-cocaina-surta-e-tenta-matar-amigo-a-facadas-em-tijucas/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 11:47:09 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174884]]></guid>
-    <description><![CDATA[Um homem foi esfaqueado na noite de sexta-feira em uma residência na região central de Tijucas. O suspeito foi detido pela Polícia Militar nas proximidades do local do crime.]]></description>
-    <content:encoded><![CDATA[
-<p>O incidente ocorreu por volta das 21h34 na Rua Navegantes. A vítima foi socorrida pelo Corpo de Bombeiros e encaminhada ao Hospital de Tijucas.</p>
-<p>O homem sofreu ferimentos nos braços e um corte na perna, conseguiu sair da residência e pedir ajuda a vizinhos.</p>
-<p>A Polícia Militar localizou o suspeito próximo ao local do crime e apreendeu a faca utilizada no ataque.</p>
-<p>O suspeito recebeu voz de prisão por tentativa de homicídio e foi encaminhado à Delegacia de Polícia Civil. Também foi registrada a posse de droga para uso pessoal.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Homem é preso por tráfico de drogas após reagir a abordagem em Porto Belo]]></title>
-    <link>https://jornalrazao.com/seguranca/homem-reage-a-abordagem-bate-em-viatura-e-e-preso-por-trafico-em-porto-belo/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 11:38:00 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174881]]></guid>
-    <description><![CDATA[Um homem foi detido em flagrante por tráfico de drogas, resistência, receptação qualificada e dano ao patrimônio público em Porto Belo, no Litoral Norte de Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>A prisão ocorreu durante uma ação conjunta da Polícia Civil, Polícia Militar e Guarda Municipal na tarde de uma sexta-feira. A operação teve início após monitoramento nas proximidades de um supermercado da cidade.</p>
-<p>Durante a ação, foi identificado um Honda Civic preto envolvido em movimentação suspeita. Dois indivíduos receberam um material do condutor do automóvel, que posteriormente foi confirmado como cocaína destinada ao consumo.</p>
-<p>O foi localizado próximo a um posto de combustíveis, onde o condutor foi abordado. Ele desobedeceu às ordens e colidiu com uma viatura descaracterizada ao acionar a marcha à ré, causando danos ao patrimônio público.</p>
-<p>Após o uso controlado da força para conter o suspeito, foram apreendidos 16 gramas de cocaína, 84 gramas de maconha, R$ 1.017 em dinheiro, três televisores e dois aparelhos celulares. Os televisores foram indicados como pagamento por entorpecentes, configurando receptação qualificada.</p>
-<p>O homem foi conduzido à delegacia e autuado em flagrante pelos crimes mencionados, permanecendo à disposição da Justiça.</p>
+<p>Neste sábado, a cidade pode registrar pancadas de chuva a qualquer momento, com maior intensidade no início da manhã e entre a tarde e a noite.</p>
+<p>Há possibilidade de temporais isolados e de chuva intensa em curto período, com breves períodos de melhoria entre o fim da manhã e o início da tarde, quando o sol pode aparecer.</p>
+<p>As temperaturas devem variar entre 30°C e 32°C, com sensação de abafamento, e os ventos sopram fracos, de oeste.</p>
+<p>No domingo, a frente fria permanece semi-estacionada sobre Santa Catarina, com chuva fraca e intercalada com momentos de melhoria durante a madrugada e manhã.</p>
+<p>A partir da tarde, as pancadas de chuva com trovoadas retornam, mantendo o risco de chuva intensa, enquanto as temperaturas oscilam entre 22°C e 24°C nas mínimas e entre 29°C e 31°C nas máximas.</p>
     ]]></content:encoded>
   </item>
 </channel>
