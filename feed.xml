@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sat, 10 Jan 2026 15:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 16:35:51 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,34 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Motociclista é abordado após tentativa de fuga em Indaial]]></title>
-    <link>https://portalmenina.com.br/motociclista-foge-de-abordagem-policial-e-tem-veiculo-apreendido-em-indaial/</link>
+    <title><![CDATA[Motocicletas são apreendidas por irregularidades em Balneário Camboriú]]></title>
+    <link>https://portalmenina.com.br/motociclista-e-flagrado-cortando-giro-e-tem-moto-apreendida-em-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 14:32:41 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132658]]></guid>
-    <description><![CDATA[Um motociclista não habilitado foi abordado pela Polícia Militar após tentativa de fuga no bairro Estados, em Indaial.]]></description>
+    <pubDate>Sat, 10 Jan 2026 15:42:10 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132667]]></guid>
+    <description><![CDATA[Duas motocicletas foram removidas ao pátio em Balneário Camboriú durante ação de fiscalização por irregularidades como adulteração do escapamento e documentação vencida.]]></description>
     <content:encoded><![CDATA[
-<p>A ocorrência aconteceu na madrugada de sábado, por volta da 0h.</p>
-<p>O condutor tentou fugir da abordagem policial, mas foi alcançado e autuado</p>
-<p>A motocicleta foi apreendida e recolhida ao pátio conveniado.</p>
+<p>Agentes de trânsito realizaram abordagens em duas motocicletas em diferentes pontos da cidade. A primeira ocorrência ocorreu na Avenida do Estado, onde uma Yamaha/XJ6 foi parada após o ruído excessivo ser ouvido a distância.</p>
+<p>Durante a verificação, foi constatado que a motocicleta estava sem paralama traseiro, o que contraria as normas de segurança. O foi autuado e removido ao pátio.</p>
+<p>A segunda abordagem aconteceu na Avenida Martin Luther, onde uma Honda/CG 150 Titan foi flagrada cortando giro em frente à guarnição. O condutor foi abordado após ordem de parada.</p>
+<p>Foi verificado que o condutor possuía a CNH vencida e que a motocicleta apresentava licenciamento irregular. Além disso, o escapamento do estava adulterado.</p>
+<p>Diante das irregularidades, a motocicleta também foi removida ao pátio para regularização.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Colisão entre carro e caminhão na BR-470, em Navegantes, deixa passageira presa às ferragens]]></title>
-    <link>https://portalmenina.com.br/carro-desvia-para-acostamento-e-colide-com-caminhao-na-br-470-em-navegantes-vitima-ficou-encarcerada/</link>
+    <title><![CDATA[Homem é preso em Balneário Camboriú por descumprir medida protetiva]]></title>
+    <link>https://portalmenina.com.br/apos-descumprimir-medida-protetiva-homem-e-preso-em-balneario-camboriu/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sat, 10 Jan 2026 13:43:51 GMT</pubDate>
+    <pubDate>Sat, 10 Jan 2026 14:44:29 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132650]]></guid>
-    <description><![CDATA[Um acidente envolvendo um carro e um caminhão na BR-470, em Navegantes, resultou em uma passageira presa às ferragens e outras pessoas feridas.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132662]]></guid>
+    <description><![CDATA[Um homem de 43 anos foi detido na madrugada deste sábado em Balneário Camboriú por descumprir uma medida protetiva.]]></description>
     <content:encoded><![CDATA[
-<p>O acidente ocorreu na tarde de sexta-feira no bairro Pedreiras e envolveu um Chevrolet Onix e um caminhão Mercedes-Benz.</p>
-<p>A passageira do carro ficou presa às ferragens e foi resgatada pelos Bombeiros Voluntários de Ilhota, sendo posteriormente encaminhada pelo Samu para atendimento médico.</p>
-<p>Duas crianças que estavam no sofreram escoriações leves e foram levadas ao Hospital Pequeno Anjo, em Itajaí, junto com o motorista, pai das crianças.</p>
-<p>O condutor do caminhão também foi encaminhado para atendimento hospitalar no Hospital Marieta.</p>
+<p>A Guarda Municipal atendeu a ocorrência por volta da 1h após uma mulher acionar a Central relatando que o ex-marido estava na mesma via pública onde ela se encontrava.</p>
+<p>A guarnição realizou buscas e localizou o homem no endereço informado, que confirmou ser ex-companheiro da vítima.</p>
+<p>Diante da situação, ele foi detido e encaminhado à Central de Plantão Policial para os procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 </channel>
