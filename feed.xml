@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 09:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 11:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,36 +21,35 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Sobremesas geladas para o verão]]></title>
-    <link>https://visornoticias.com.br/7-sobremesas-geladas-para-curtir-o-verao/</link>
+    <title><![CDATA[Tempo permanece instável em Santa Catarina com risco de temporais e granizo neste domingo]]></title>
+    <link>https://visornoticias.com.br/tempo-segue-instavel-em-sc-com-risco-de-temporais-e-granizo-neste-domingo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 09:20:37 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/7-sobremesas-geladas-para-curtir-o-verao/]]></guid>
-    <description><![CDATA[Receitas de doces refrescantes são opções para os dias quentes da estação.]]></description>
+    <pubDate>Sun, 11 Jan 2026 11:20:58 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326070]]></guid>
+    <description><![CDATA[Santa Catarina enfrenta condições meteorológicas instáveis neste domingo, com possibilidade de temporais e granizo em diversas regiões do estado.]]></description>
     <content:encoded><![CDATA[
-<p>Sobremesas geladas são uma alternativa popular para amenizar o calor do verão.</p>
-<p>Diversas receitas combinam ingredientes frescos e técnicas simples para criar doces saborosos.</p>
-<p>Essas preparações podem incluir frutas, cremes e outros elementos que proporcionam frescor.</p>
-<p>A escolha de sobremesas frias contribui para o conforto térmico durante os dias mais quentes.</p>
-<p>Além do sabor, as sobremesas geladas podem ser uma opção prática para diferentes ocasiões.</p>
+<p>A Defesa Civil emitiu alertas para chuva intensa, rajadas de vento e alagamentos, especialmente entre a Grande Florianópolis e o Norte do estado.</p>
+<p>As condições climáticas indicam a possibilidade de temporais localizados, que podem causar transtornos à população dessas áreas.</p>
+<p>Recomenda-se atenção redobrada aos moradores das regiões afetadas devido ao risco de eventos meteorológicos adversos.</p>
+<p>As autoridades acompanham a situação para orientar e tomar medidas necessárias em caso de emergências.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Alimentos que costumam agradar o paladar dos cães]]></title>
-    <link>https://visornoticias.com.br/9-sabores-que-os-cachorros-mais-gostam/</link>
+    <title><![CDATA[Embarcação é apreendida por superlotação durante operação na Baía do Caixa D’Aço]]></title>
+    <link>https://horadeportobelo.com.br/2026/01/11/operacao-de-seguranca-no-caixa-daco-resulta-na-apreensao-de-embarcacao-por-superlotacao/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 09:10:09 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 11:06:17 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/9-sabores-que-os-cachorros-mais-gostam/]]></guid>
-    <description><![CDATA[Conheça alguns alimentos que são geralmente apreciados pelos cães e orientações para oferecê-los de maneira segura.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20670]]></guid>
+    <description><![CDATA[Uma operação de segurança realizada na Baía do Caixa D’Aço, em Porto Belo, resultou na apreensão de uma embarcação que transportava mais pessoas do que o permitido.]]></description>
     <content:encoded><![CDATA[
-<p>Diversos alimentos podem ser incluídos na dieta dos cães para diversificar o paladar, desde que oferecidos com moderação e cuidados específicos.</p>
-<p>Carnes magras, como frango e carne bovina cozida, costumam ser bem aceitas pelos cães, desde que estejam sem temperos e ossos.</p>
-<p>Alguns vegetais, como cenoura e abóbora, também podem ser oferecidos, contribuindo para a alimentação equilibrada dos animais.</p>
-<p>É importante evitar alimentos tóxicos para os cães, como chocolate, cebola e uvas, que podem causar problemas de saúde.</p>
-<p>A introdução de novos alimentos deve ser feita gradualmente e observando possíveis reações adversas para garantir o bem-estar do animal.</p>
+<p>A fiscalização ocorreu com o objetivo de garantir a segurança dos usuários e preservar a ordem no local, conhecido por ser um ponto turístico da região.</p>
+<p>Durante a ação, foi constatado que a embarcação excedia a capacidade máxima de ocupantes estabelecida por normas técnicas e de segurança.</p>
+<p>A embarcação foi lacrada e apreendida, e os procedimentos legais foram adotados, com encaminhamento do caso à Polícia Civil.</p>
+<p>A operação contou com a participação da Fundação do Meio Ambiente de Porto Belo, Secretaria de Segurança Pública, Guarda Municipal, Polícia Militar, Polícia Civil e Marinha do Brasil.</p>
+<p>A fiscalização na Baía do Caixa D’Aço é realizada de forma constante para garantir a segurança dos frequentadores e a preservação ambiental.</p>
     ]]></content:encoded>
   </item>
 </channel>
