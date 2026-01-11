@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 16:35:50 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 17:35:52 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,19 +21,36 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é esfaqueado dentro de elevador em prédio residencial de Itapema]]></title>
-    <link>https://jornalrazao.com/seguranca/homem-esfaqueado-elevador-predio-itapema/</link>
+    <title><![CDATA[31º BPM realiza operação de intensificação do policiamento em Porto Belo e Itapema]]></title>
+    <link>https://horadeportobelo.com.br/2026/01/11/31o-bpm-realiza-operacao-custos-vitae/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 16:07:11 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 16:36:11 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174966]]></guid>
-    <description><![CDATA[Um homem foi atacado com golpes de faca dentro de um elevador em um prédio residencial de Itapema, no Litoral Norte de Santa Catarina.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20676]]></guid>
+    <description><![CDATA[O 31º Batalhão da Polícia Militar conduziu uma operação focada na intensificação do policiamento ostensivo e na repressão a crimes em Porto Belo e Itapema.]]></description>
     <content:encoded><![CDATA[
-<p>O ataque ocorreu na Rua 916 e foi registrado por câmeras de segurança do condomínio. Tanto o agressor quanto a vítima são moradores da cidade.</p>
-<p>O agressor, que residia no prédio havia cerca de dois meses, desferiu quatro golpes de faca contra a vítima, atingindo o tórax próximo ao coração.</p>
-<p>A vítima foi socorrida e sobreviveu ao ataque. A Polícia Militar foi acionada, realizou os primeiros atendimentos e iniciou as diligências para localizar o suspeito.</p>
-<p>Um boletim de ocorrência foi registrado na 3ª Companhia do 31º Batalhão da PM em Itapema. O caso foi enquadrado inicialmente como tentativa de homicídio doloso.</p>
-<p>As circunstâncias e a motivação do ataque estão sendo investigadas pelas autoridades.</p>
+<p>A operação concentrou ações em áreas com maiores índices de furto e roubo, especialmente em bares e locais com histórico de conflitos.</p>
+<p>Em Porto Belo, foi apreendida uma arma de fogo em um estabelecimento comercial, além de cigarros de origem estrangeira e unidades de cigarro eletrônico.</p>
+<p>Em Itapema, um homem de 42 anos foi abordado em um bar e identificado com mandado de prisão ativo, sendo encaminhado para os procedimentos legais.</p>
+<p>A iniciativa integra o Plano Semestral de Redução dos Indicadores, com o objetivo de aumentar a segurança e coibir práticas criminosas na região da Costa Esmeralda.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem morre após confronto com a polícia no Centro de Tijucas]]></title>
+    <link>https://portalmenina.com.br/homem-entra-em-confronto-com-a-policia-e-morre-baleado-no-centro-de-tijucas/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 11 Jan 2026 16:19:03 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132743]]></guid>
+    <description><![CDATA[Um homem de 37 anos morreu durante uma ação policial no bairro Centro, em Tijucas, após um confronto com agentes da Polícia Militar.]]></description>
+    <content:encoded><![CDATA[
+<p>A ocorrência foi registrada na tarde de sábado, por volta das 17h20, na rua Antônio Apolônio Vargas, em Tijucas.</p>
+<p>A polícia realizava monitoramento no local devido a denúncias relacionadas ao tráfico de drogas quando avistou um homem que fugiu para o interior de uma residência alvo das investigações.</p>
+<p>Durante a abordagem, um</p>
+<p>O Serviço de Atendimento Móvel de Urgência foi acionado e constatou o óbito no local. A vítima foi identificada como um homem natural de Joinville.</p>
+<p>Outras duas pessoas foram encontradas na residência, sem justificativa para estarem no local, e apresentavam indícios de uso de drogas.</p>
+<p>A Polícia Científica, a Polícia Civil e o Instituto Médico Legal estiveram no local para os procedimentos legais, e a arma utilizada foi apreendida.</p>
     ]]></content:encoded>
   </item>
 </channel>
