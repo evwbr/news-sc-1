@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 11:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 12:35:52 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,35 +21,47 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Tempo permanece instável em Santa Catarina com risco de temporais e granizo neste domingo]]></title>
-    <link>https://visornoticias.com.br/tempo-segue-instavel-em-sc-com-risco-de-temporais-e-granizo-neste-domingo/</link>
+    <title><![CDATA[Homem de 37 anos morre após confronto com a PM em Tijucas]]></title>
+    <link>https://visornoticias.com.br/homem-de-37-anos-morre-apos-confronto-com-a-pm-em-tijucas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 11:20:58 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326070]]></guid>
-    <description><![CDATA[Santa Catarina enfrenta condições meteorológicas instáveis neste domingo, com possibilidade de temporais e granizo em diversas regiões do estado.]]></description>
+    <pubDate>Sun, 11 Jan 2026 12:24:10 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326093]]></guid>
+    <description><![CDATA[Um homem de 37 anos morreu após um confronto com a Polícia Militar no Centro de Tijucas.]]></description>
     <content:encoded><![CDATA[
-<p>A Defesa Civil emitiu alertas para chuva intensa, rajadas de vento e alagamentos, especialmente entre a Grande Florianópolis e o Norte do estado.</p>
-<p>As condições climáticas indicam a possibilidade de temporais localizados, que podem causar transtornos à população dessas áreas.</p>
-<p>Recomenda-se atenção redobrada aos moradores das regiões afetadas devido ao risco de eventos meteorológicos adversos.</p>
-<p>As autoridades acompanham a situação para orientar e tomar medidas necessárias em caso de emergências.</p>
+<p>O incidente ocorreu na rua Antônio Apolônio Vargas, no Centro do município.</p>
+<p>A Polícia Militar esteve no local para atender à ocorrência.</p>
+<p>O homem foi atingido durante o confronto e não resistiu aos ferimentos.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Embarcação é apreendida por superlotação durante operação na Baía do Caixa D’Aço]]></title>
-    <link>https://horadeportobelo.com.br/2026/01/11/operacao-de-seguranca-no-caixa-daco-resulta-na-apreensao-de-embarcacao-por-superlotacao/</link>
+    <title><![CDATA[Rompimento de adutora afeta abastecimento de água em Porto Belo]]></title>
+    <link>https://visornoticias.com.br/rompimento-de-adutora-afeta-abastecimento-de-agua-em-porto-belo-neste-domingo/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 11:06:17 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20670]]></guid>
-    <description><![CDATA[Uma operação de segurança realizada na Baía do Caixa D’Aço, em Porto Belo, resultou na apreensão de uma embarcação que transportava mais pessoas do que o permitido.]]></description>
+    <pubDate>Sun, 11 Jan 2026 12:10:06 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326087]]></guid>
+    <description><![CDATA[Um rompimento em adutora na avenida Governador Celso Ramos impacta o fornecimento de água em Porto Belo.]]></description>
     <content:encoded><![CDATA[
-<p>A fiscalização ocorreu com o objetivo de garantir a segurança dos usuários e preservar a ordem no local, conhecido por ser um ponto turístico da região.</p>
-<p>Durante a ação, foi constatado que a embarcação excedia a capacidade máxima de ocupantes estabelecida por normas técnicas e de segurança.</p>
-<p>A embarcação foi lacrada e apreendida, e os procedimentos legais foram adotados, com encaminhamento do caso à Polícia Civil.</p>
-<p>A operação contou com a participação da Fundação do Meio Ambiente de Porto Belo, Secretaria de Segurança Pública, Guarda Municipal, Polícia Militar, Polícia Civil e Marinha do Brasil.</p>
-<p>A fiscalização na Baía do Caixa D’Aço é realizada de forma constante para garantir a segurança dos frequentadores e a preservação ambiental.</p>
+<p>O conserto da adutora está em andamento na avenida Governador Celso Ramos.</p>
+<p>A manutenção pode causar redução na pressão da água no bairro Vila Nova.</p>
+<p>O serviço visa restabelecer o abastecimento normal o mais breve possível.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motociclista morre em acidente com caminhão na rodovia Jorge Lacerda em Itajaí]]></title>
+    <link>https://visornoticias.com.br/motociclista-morre-apos-acidente-com-caminhao-na-rodovia-jorge-lacerda-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 11 Jan 2026 11:49:59 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326082]]></guid>
+    <description><![CDATA[Um motociclista de 49 anos morreu após colisão com um caminhão na rodovia Jorge Lacerda, em Itajaí.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na madrugada de domingo no bairro Santa Regina.</p>
+<p>A vítima, um homem de 49 anos, não resistiu aos ferimentos e faleceu no local.</p>
+<p>As circunstâncias do acidente ainda estão sendo apuradas pelas autoridades competentes.</p>
     ]]></content:encoded>
   </item>
 </channel>
