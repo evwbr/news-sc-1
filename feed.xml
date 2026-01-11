@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 19:35:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 20:35:58 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,18 +21,48 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Incêndio destrói borracharia em Itajaí e consome 10 mil litros de água no combate às chamas]]></title>
-    <link>https://visornoticias.com.br/incendio-destroi-borracharia-em-itajai-e-consome-10-mil-litros-de-agua-no-combate-as-chamas/</link>
+    <title><![CDATA[Operação em bares de Itapema e Porto Belo resulta em prisão e apreensão de arma]]></title>
+    <link>https://visornoticias.com.br/operacao-em-bares-de-itapema-e-porto-belo-prende-foragido-e-apreende-arma/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 18:45:15 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 20:24:32 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326144]]></guid>
-    <description><![CDATA[Um incêndio atingiu uma borracharia no bairro Cordeiros, em Itajaí, durante a madrugada deste domingo, causando danos a veículos e imóveis próximos.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326158]]></guid>
+    <description><![CDATA[Uma operação realizada em bares de Itapema e Porto Belo resultou na prisão de um foragido e na apreensão de uma arma de fogo.]]></description>
     <content:encoded><![CDATA[
-<p>O fogo consumiu completamente o estabelecimento, exigindo o uso de cerca de 10 mil litros de água para o combate às chamas.</p>
-<p>Além da borracharia, o incêndio provocou danos em veículos estacionados nas proximidades e em imóveis vizinhos.</p>
-<p>Equipes de combate a incêndio atuaram no local para controlar as chamas e evitar que o fogo se espalhasse para outras áreas.</p>
-<p>As causas do incêndio ainda não foram esclarecidas e as autoridades seguem investigando o caso.</p>
+<p>A ação foi direcionada a estabelecimentos com maior incidência de crimes nas cidades de Itapema e Porto Belo.</p>
+<p>Durante a operação, um indivíduo com mandado de prisão em aberto foi detido.</p>
+<p>Além da prisão, uma arma de fogo foi apreendida nos locais vistoriados.</p>
+<p>As medidas visam aumentar a segurança e reduzir a criminalidade na região.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Motorista morre após carro sair da pista e colidir com poste em rodovia de Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/motorista-de-59-anos-morre-apos-carro-sair-da-pista-e-bater-contra-poste-em-rodovia-de-sc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 11 Jan 2026 19:59:14 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326155]]></guid>
+    <description><![CDATA[Um motorista de 59 anos faleceu após o em que estava sair da pista e bater contra um poste na SC-477, em Benedito Novo.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu na rodovia SC-477, em Benedito Novo, envolvendo um carro que saiu da pista e colidiu contra um poste.</p>
+<p>O motorista, de 59 anos, não resistiu aos ferimentos e veio a óbito no local.</p>
+<p>O corpo da vítima será velado e sepultado em Doutor Pedrinho.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Suspeito de esfaquear morador em elevador é preso em Itapema]]></title>
+    <link>https://visornoticias.com.br/suspeito-de-esfaquear-morador-em-elevador-e-preso-em-itapema-e-diz-que-estava-em-surto/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Sun, 11 Jan 2026 19:37:48 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326152]]></guid>
+    <description><![CDATA[Um homem foi detido no prédio onde ocorreu um ataque a faca em um elevador, em Itapema. O caso é investigado como tentativa de homicídio.]]></description>
+    <content:encoded><![CDATA[
+<p>O suspeito foi localizado no próprio edifício onde o crime aconteceu. A vítima foi esfaqueada dentro do elevador do prédio.</p>
+<p>Após a prisão, o homem As circunstâncias que levaram ao incidente ainda são apuradas.</p>
+<p>Autoridades seguem com as investigações para esclarecer os detalhes do caso e as motivações do agressor.</p>
     ]]></content:encoded>
   </item>
 </channel>
