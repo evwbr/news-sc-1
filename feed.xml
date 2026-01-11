@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 18:35:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 19:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,18 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é esfaqueado dentro de elevador em prédio residencial de Itapema]]></title>
-    <link>https://visornoticias.com.br/homem-esfaqueado-em-elevador-predio-itapema/</link>
+    <title><![CDATA[Incêndio destrói borracharia em Itajaí e consome 10 mil litros de água no combate às chamas]]></title>
+    <link>https://visornoticias.com.br/incendio-destroi-borracharia-em-itajai-e-consome-10-mil-litros-de-agua-no-combate-as-chamas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 18:18:38 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 18:45:15 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326139]]></guid>
-    <description><![CDATA[Um homem foi esfaqueado dentro de um elevador em um prédio residencial na Rua 916, em Itapema. O ataque foi registrado por câmeras de segurança e a vítima sobreviveu.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326144]]></guid>
+    <description><![CDATA[Um incêndio atingiu uma borracharia no bairro Cordeiros, em Itajaí, durante a madrugada deste domingo, causando danos a veículos e imóveis próximos.]]></description>
     <content:encoded><![CDATA[
-<p>O incidente ocorreu dentro do elevador de um prédio localizado na Rua 916, em Itapema.</p>
-<p>As imagens das câmeras de segurança registraram o momento do ataque.</p>
-<p>A vítima foi esfaqueada, mas sobreviveu ao ataque.</p>
-<p>As circunstâncias que motivaram o ataque ainda não foram divulgadas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Creci intensifica fiscalização em condomínios para coibir exercício ilegal da profissão em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/creci-fiscaliza-condominios-combater-exercicio-ilegal/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 17:40:39 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326134]]></guid>
-    <description><![CDATA[O Conselho Regional de Corretores de Imóveis ampliou as ações de fiscalização em Santa Catarina, incluindo agora os condomínios residenciais na Operação Verão.]]></description>
-    <content:encoded><![CDATA[
-<p>A iniciativa visa combater o exercício ilegal da profissão de corretor de imóveis dentro dos condomínios do estado.</p>
-<p>As ações de fiscalização foram estendidas para garantir o cumprimento das normas profissionais e proteger os consumidores.</p>
-<p>O Conselho atua diretamente nos condomínios para identificar e coibir práticas irregulares relacionadas à intermediação imobiliária.</p>
+<p>O fogo consumiu completamente o estabelecimento, exigindo o uso de cerca de 10 mil litros de água para o combate às chamas.</p>
+<p>Além da borracharia, o incêndio provocou danos em veículos estacionados nas proximidades e em imóveis vizinhos.</p>
+<p>Equipes de combate a incêndio atuaram no local para controlar as chamas e evitar que o fogo se espalhasse para outras áreas.</p>
+<p>As causas do incêndio ainda não foram esclarecidas e as autoridades seguem investigando o caso.</p>
     ]]></content:encoded>
   </item>
 </channel>
