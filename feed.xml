@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 17:35:52 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 18:35:52 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,36 +21,33 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[31º BPM realiza operação de intensificação do policiamento em Porto Belo e Itapema]]></title>
-    <link>https://horadeportobelo.com.br/2026/01/11/31o-bpm-realiza-operacao-custos-vitae/</link>
+    <title><![CDATA[Homem é esfaqueado dentro de elevador em prédio residencial de Itapema]]></title>
+    <link>https://visornoticias.com.br/homem-esfaqueado-em-elevador-predio-itapema/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 16:36:11 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 18:18:38 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://horadeportobelo.com.br/?p=20676]]></guid>
-    <description><![CDATA[O 31º Batalhão da Polícia Militar conduziu uma operação focada na intensificação do policiamento ostensivo e na repressão a crimes em Porto Belo e Itapema.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326139]]></guid>
+    <description><![CDATA[Um homem foi esfaqueado dentro de um elevador em um prédio residencial na Rua 916, em Itapema. O ataque foi registrado por câmeras de segurança e a vítima sobreviveu.]]></description>
     <content:encoded><![CDATA[
-<p>A operação concentrou ações em áreas com maiores índices de furto e roubo, especialmente em bares e locais com histórico de conflitos.</p>
-<p>Em Porto Belo, foi apreendida uma arma de fogo em um estabelecimento comercial, além de cigarros de origem estrangeira e unidades de cigarro eletrônico.</p>
-<p>Em Itapema, um homem de 42 anos foi abordado em um bar e identificado com mandado de prisão ativo, sendo encaminhado para os procedimentos legais.</p>
-<p>A iniciativa integra o Plano Semestral de Redução dos Indicadores, com o objetivo de aumentar a segurança e coibir práticas criminosas na região da Costa Esmeralda.</p>
+<p>O incidente ocorreu dentro do elevador de um prédio localizado na Rua 916, em Itapema.</p>
+<p>As imagens das câmeras de segurança registraram o momento do ataque.</p>
+<p>A vítima foi esfaqueada, mas sobreviveu ao ataque.</p>
+<p>As circunstâncias que motivaram o ataque ainda não foram divulgadas.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Homem morre após confronto com a polícia no Centro de Tijucas]]></title>
-    <link>https://portalmenina.com.br/homem-entra-em-confronto-com-a-policia-e-morre-baleado-no-centro-de-tijucas/</link>
+    <title><![CDATA[Creci intensifica fiscalização em condomínios para coibir exercício ilegal da profissão em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/creci-fiscaliza-condominios-combater-exercicio-ilegal/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 16:19:03 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132743]]></guid>
-    <description><![CDATA[Um homem de 37 anos morreu durante uma ação policial no bairro Centro, em Tijucas, após um confronto com agentes da Polícia Militar.]]></description>
+    <pubDate>Sun, 11 Jan 2026 17:40:39 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326134]]></guid>
+    <description><![CDATA[O Conselho Regional de Corretores de Imóveis ampliou as ações de fiscalização em Santa Catarina, incluindo agora os condomínios residenciais na Operação Verão.]]></description>
     <content:encoded><![CDATA[
-<p>A ocorrência foi registrada na tarde de sábado, por volta das 17h20, na rua Antônio Apolônio Vargas, em Tijucas.</p>
-<p>A polícia realizava monitoramento no local devido a denúncias relacionadas ao tráfico de drogas quando avistou um homem que fugiu para o interior de uma residência alvo das investigações.</p>
-<p>Durante a abordagem, um</p>
-<p>O Serviço de Atendimento Móvel de Urgência foi acionado e constatou o óbito no local. A vítima foi identificada como um homem natural de Joinville.</p>
-<p>Outras duas pessoas foram encontradas na residência, sem justificativa para estarem no local, e apresentavam indícios de uso de drogas.</p>
-<p>A Polícia Científica, a Polícia Civil e o Instituto Médico Legal estiveram no local para os procedimentos legais, e a arma utilizada foi apreendida.</p>
+<p>A iniciativa visa combater o exercício ilegal da profissão de corretor de imóveis dentro dos condomínios do estado.</p>
+<p>As ações de fiscalização foram estendidas para garantir o cumprimento das normas profissionais e proteger os consumidores.</p>
+<p>O Conselho atua diretamente nos condomínios para identificar e coibir práticas irregulares relacionadas à intermediação imobiliária.</p>
     ]]></content:encoded>
   </item>
 </channel>
