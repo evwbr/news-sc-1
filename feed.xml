@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Sun, 11 Jan 2026 22:35:49 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 02:35:54 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,36 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Homem é preso em flagrante por furto de ferramentas no bairro Velha, Blumenau]]></title>
-    <link>https://portalmenina.com.br/suspeito-e-flagrado-carregando-ferramentas-furtadas-e-acaba-preso-pela-pm-no-bairro-velha/</link>
+    <title><![CDATA[Homem de 74 anos é preso após tentativa de homicídio contra pai de 94 em Palmitos]]></title>
+    <link>https://jornalrazao.com/seguranca/filho-tenta-matar-pai-motosserra-palmitos-sc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Sun, 11 Jan 2026 21:09:14 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132747]]></guid>
-    <description><![CDATA[Um homem de 31 anos foi detido após ser flagrado carregando ferramentas furtadas de um canteiro de obras no bairro Velha, em Blumenau.]]></description>
+    <pubDate>Mon, 12 Jan 2026 01:55:34 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174991]]></guid>
+    <description><![CDATA[Um homem de 74 anos foi detido após tentar matar o pai de 94 anos com uma motosserra em uma propriedade rural no interior de Palmitos, Oeste de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>A prisão ocorreu durante patrulhamento preventivo da Polícia Militar na região. O suspeito foi visto caminhando com diversos materiais de construção, apresentando nervosismo ao perceber a aproximação da viatura.</p>
-<p>Durante a abordagem, o homem não conseguiu justificar a procedência dos objetos. Diligências realizadas nas proximidades confirmaram que os itens haviam sido furtados de um canteiro de obras local.</p>
-<p>Foram recuperados extensões elétricas, uma furadeira de impacto, uma esmerilhadeira e um nível de alumínio. O homem recebeu voz de prisão e foi encaminhado à Central de Plantão Policial com as ferramentas apreendidas para os procedimentos legais.</p>
+<p>O incidente ocorreu na varanda da residência onde ambos moravam, durante uma discussão motivada por conflitos relacionados ao uso de herbicidas na propriedade.</p>
+<p>O idoso foi ameaçado e atingido pelo filho com a motosserra, sofrendo cortes na mão e no antebraço esquerdo, além de escoriações.</p>
+<p>Familiares presentes no local conseguiram intervir e impedir que o ataque tivesse um desfecho mais grave.</p>
+<p>A vítima recebeu atendimento médico após o ocorrido.</p>
+<p>A Polícia Civil localizou o suspeito em sua residência, onde ele foi preso em flagrante e o equipamento utilizado foi apreendido.</p>
+<p>O homem permanece à disposição da Justiça, que deverá determinar os próximos passos do processo.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Jovem de 22 anos morre em acidente na SC-108 em Blumenau]]></title>
+    <link>https://jornalrazao.com/seguranca/jovem-morre-acidente-sc-108-blumenau-poste/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 01:44:28 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=174987]]></guid>
+    <description><![CDATA[Um acidente envolvendo um carro e um poste resultou na morte de um jovem de 22 anos na Rodovia SC-108, em Blumenau.]]></description>
+    <content:encoded><![CDATA[
+<p>O acidente ocorreu no quilômetro 79 da SC-108, no início da tarde de domingo.</p>
+<p>O seguia no sentido Massaranduba–Blumenau quando o condutor perdeu o controle da direção e colidiu frontalmente contra um poste às margens da rodovia.</p>
+<p>O impacto foi violento e o motorista foi encontrado sem sinais vitais pela equipe de resgate.</p>
+<p>Foi constatado que o jovem não utilizava cinto de segurança no momento do acidente e que o automóvel estava com o licenciamento vencido.</p>
     ]]></content:encoded>
   </item>
 </channel>
