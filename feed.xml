@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 12 Jan 2026 21:35:47 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 22:35:57 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,67 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Secretaria da Pessoa Idosa oferece aulas gratuitas de ballet em Balneário Camboriú]]></title>
-    <link>https://visornoticias.com.br/secretaria-da-pessoa-idosa-passa-a-oferecer-aulas-gratuitas-de-ballet-em-balneario-camboriu/</link>
+    <title><![CDATA[Parto de emergência é realizado às margens da BR-101 em Joinville]]></title>
+    <link>https://visornoticias.com.br/prf-realiza-parto-de-emergencia-as-margens-da-br-101-em-joinville-veja-video/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 20:40:23 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326529]]></guid>
-    <description><![CDATA[Aulas de ballet gratuitas para a terceira idade são oferecidas em Balneário Camboriú pela Secretaria da Pessoa Idosa.]]></description>
+    <pubDate>Mon, 12 Jan 2026 22:21:36 GMT</pubDate>
+  <category><![CDATA[Trânsito]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326536]]></guid>
+    <description><![CDATA[Um bebê nasceu dentro do carro da família com o apoio de uma policial rodoviária formada em enfermagem.]]></description>
     <content:encoded><![CDATA[
-<p>As atividades são realizadas duas vezes por semana e continuam ao longo de todo o ano.</p>
-<p>O programa tem como objetivo promover a saúde e o bem-estar dos idosos por meio da dança.</p>
-<p>As aulas são gratuitas e abertas aos interessados da terceira idade na cidade.</p>
+<p>O parto ocorreu às margens da BR-101, em Joinville.</p>
+<p>A policial rodoviária que auxiliou no nascimento possui formação em enfermagem.</p>
+<p>O bebê nasceu dentro do da família durante a emergência.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[São José altera cálculo da taxa de coleta de lixo para refletir frequência do serviço]]></title>
+    <link>https://jornalrazao.com/meioambiente/sao-jose-altera-calculo-taxa-coleta-lixo-frequencia-servico/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 21:59:59 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=175075]]></guid>
+    <description><![CDATA[A Prefeitura de São José modificou o método de cálculo da taxa de coleta de lixo, ajustando os valores]]></description>
+    <content:encoded><![CDATA[
+<p>A mudança foi oficializada por meio de decreto publicado em dezembro, que redefine os valores da taxa</p>
+<p>Regiões com menor frequência de coleta passam a pagar valores reduzidos, enquanto áreas com maior número de coletas terão custos mais elevados.</p>
+<p>Por exemplo, um imóvel de 100 metros quadrados no bairro Sertão do Maruim, onde a coleta ocorre quatro vezes por semana, terá uma taxa anual de R$ 344.</p>
+<p>Já imóveis de tamanho semelhante nos bairros Kobrasol e Campinas, atendidos 12 vezes por semana, terão uma taxa anual de R$ 524.</p>
+<p>Antes da alteração, o valor da taxa era uniforme para todas as regiões, independentemente da quantidade de coletas realizadas.</p>
+<p>O novo modelo considera a frequência do serviço como principal critério para a definição dos valores cobrados dos contribuintes.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Prefeitura notifica empresa e determina suspensão de operação de patinetes em Balneário Camboriú]]></title>
+    <link>https://portalmenina.com.br/com-mais-de-1-500-patinetes-irregulares-pela-cidade-jet-recebe-notificacao-da-prefeitura-empresa-nao-podera-mais-operar-em-bc/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 21:38:41 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132837]]></guid>
+    <description><![CDATA[A empresa responsável pela operação de patinetes elétricos em Balneário Camboriú foi notificada pela prefeitura para interromper suas atividades devido à falta de credenciamento e irregularidades na circulação dos equipamentos.]]></description>
+    <content:encoded><![CDATA[
+<p>Mais de 1.500 patinetes elétricos foram identificados em circulação irregular pela cidade,</p>
+<p>Fiscalizações realizadas resultaram na apreensão de cerca de 650 patinetes, que estão armazenados em pátios de órgãos públicos, gerando questionamentos sobre o uso do espaço público.</p>
+<p>A empresa responsável não possui credenciamento para operar no município e foi formalmente notificada para retirar os equipamentos e suspender as atividades até a regularização.</p>
+<p>O processo de credenciamento está em análise técnica, com pendências documentais e exigência de redução do número de patinetes para até 500 unidades</p>
+<p>Apesar das notificações, a empresa continua operando de forma irregular,</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem investigado por tráfico é preso em operação em Itajaí]]></title>
+    <link>https://visornoticias.com.br/investigado-por-trafico-e-preso-durante-operacao-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 21:36:56 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326533]]></guid>
+    <description><![CDATA[Uma operação realizada em Itajaí resultou na prisão de um homem investigado por tráfico de drogas.]]></description>
+    <content:encoded><![CDATA[
+<p>A ação cumpriu uma decisão judicial que determinou o retorno do investigado ao sistema prisional federal.</p>
+<p>A operação foi conduzida pelas autoridades locais com o objetivo de cumprir mandados judiciais relacionados a investigações em curso.</p>
+<p>O homem foi localizado e preso durante a operação, que ocorreu na cidade de Itajaí.</p>
     ]]></content:encoded>
   </item>
 </channel>
