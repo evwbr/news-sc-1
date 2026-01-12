@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 12 Jan 2026 18:36:17 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 19:36:03 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,146 +21,65 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Tentativa de assalto em Florianópolis termina com suspeito detido após fuga inusitada em BMW]]></title>
-    <link>https://jornalrazao.com/seguranca/assalto-da-errado-e-suspeito-tenta-fuga-inusitada-de-bmw/</link>
+    <title><![CDATA[Homem é preso por tráfico na orla de Itapema]]></title>
+    <link>https://visornoticias.com.br/homem-e-preso-por-trafico-apos-acao-na-orla-de-itapema/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 18:16:08 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=175052]]></guid>
-    <description><![CDATA[Uma tentativa de assalto em Canasvieiras, no Norte da Ilha de Florianópolis, resultou na detenção do suspeito após uma perseguição e uma tentativa de fuga em um particular.]]></description>
-    <content:encoded><![CDATA[
-<p>Um homem abordou uma mulher na rua durante o dia e tentou realizar um assalto. A ação foi percebida por pessoas que estavam nas proximidades, que iniciaram uma perseguição ao suspeito.</p>
-<p>Entre os que perseguiram o homem estava um motoboy que trafegava pela via e abandonou sua motocicleta para ajudar na captura. O suspeito tentou escapar atravessando a pista e entrando em um carro BMW conversível que passava pelo local.</p>
-<p>O era ocupado por um homem e uma mulher, que pararam o carro logo após o suspeito entrar. O motorista pediu que ele saísse do automóvel, o que foi atendido, e o homem foi contido até a chegada da Polícia Militar.</p>
-<p>A Polícia Militar foi acionada, atendeu a ocorrência e conduziu o suspeito à delegacia para os procedimentos legais. Não foram registradas informações sobre feridos graves durante o incidente.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Acidente com vazamento de ácido sulfúrico bloqueia BR-280 em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/acidente-com-vazamento-de-acido-sulfurico-interdita-a-br-280-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 18:10:32 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326469]]></guid>
-    <description><![CDATA[Uma colisão entre dois veículos causou o derramamento de aproximadamente mil litros de ácido sulfúrico na BR-280, em Santa Catarina.]]></description>
-    <content:encoded><![CDATA[
-<p>O acidente ocorreu na tarde desta segunda-feira, envolvendo dois veículos que transportavam ácido sulfúrico.</p>
-<p>O impacto resultou no vazamento de cerca de mil litros da substância química sobre a pista.</p>
-<p>A rodovia BR-280 foi interditada para a realização dos procedimentos de limpeza e contenção do produto.</p>
-<p>Equipes especializadas atuaram no local para garantir a segurança e minimizar os riscos ambientais.</p>
-<p>O tráfego permanece bloqueado enquanto as operações de remoção e descontaminação são concluídas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Buscas continuam no Rio Itapocu por homem desaparecido em Jaraguá do Sul]]></title>
-    <link>https://visornoticias.com.br/operacao-segue-no-rio-itapocu-para-encontrar/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 18:05:47 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326456]]></guid>
-    <description><![CDATA[Equipes seguem realizando buscas no Rio Itapocu para localizar homem desaparecido em Jaraguá do Sul.]]></description>
-    <content:encoded><![CDATA[
-<p>Um homem desapareceu após entrar no Rio Itapocu, em Jaraguá do Sul.</p>
-<p>As buscas continuam na região do rio para tentar localizar a pessoa desaparecida.</p>
-<p>Equipes especializadas estão atuando no local para garantir a segurança e eficiência da operação.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Porto de São Francisco do Sul movimenta 17,5 milhões de toneladas e mantém liderança em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/porto-de-sao-francisco-do-sul-alcanca-175-milhoes-de-toneladas-e-lidera-em-sc/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 18:04:30 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 19:20:12 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326464]]></guid>
-    <description><![CDATA[O porto de São Francisco do Sul registrou movimentação de 17,5 milhões de toneladas, consolidando sua posição como o principal terminal portuário do estado.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326493]]></guid>
+    <description><![CDATA[Um homem com mandado de prisão em aberto foi detido no bairro Morretes, em Itapema, durante uma ação policial.]]></description>
     <content:encoded><![CDATA[
-<p>A movimentação de cargas no porto de São Francisco do Sul atingiu 17,5 milhões de toneladas.</p>
-<p>Esse volume reforça a liderança do terminal portuário em Santa Catarina.</p>
-<p>O desempenho destaca a importância do porto para a logística e economia da região.</p>
+<p>O suspeito foi localizado com drogas na bolsa e em sua residência.</p>
+<p>A prisão ocorreu após uma operação na orla da cidade.</p>
+<p>O homem foi conduzido para a delegacia para os procedimentos legais.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Mulher morre após se afogar em lagoa no Vale do Itajaí]]></title>
-    <link>https://jornalrazao.com/seguranca/mulher-morre-hospital-afogamento-lagoa-luiz-alves-sc/</link>
+    <title><![CDATA[Empresária captura peixe de 1,56 metro durante passeio de barco em lagoa de Linhares]]></title>
+    <link>https://visornoticias.com.br/passeio-de-barco-vira-pescaria-historica-apos-empresaria-fisgar-peixe-gigante/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 18:00:47 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 19:08:41 GMT</pubDate>
   <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=175049]]></guid>
-    <description><![CDATA[Uma mulher de 57 anos morreu após se afogar em uma lagoa no município de Luiz Alves, no Vale do Itajaí.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326488]]></guid>
+    <description><![CDATA[Um peixe de 1,56 metro foi capturado com vara simples durante um passeio de lazer em uma lagoa de Linhares.]]></description>
     <content:encoded><![CDATA[
-<p>O afogamento ocorreu na tarde de sábado em uma lagoa localizada na Rua Vereador Otto Wruck, na localidade de Braço Francês.</p>
-<p>A vítima foi retirada da água com vida e recebeu os primeiros atendimentos no local antes de ser encaminhada ao Hospital Marieta Konder Bornhausen, em Itajaí.</p>
-<p>Apesar das manobras de reanimação e do atendimento médico, a mulher não resistiu e o óbito foi confirmado por volta das 19h do mesmo dia.</p>
-<p>O velório foi realizado no salão da Comunidade São João Batista, na localidade de Serafim, em Luiz Alves.</p>
-<p>A morte causou comoção entre moradores da comunidade, que prestaram homenagens à família.</p>
+<p>Durante um passeio de barco em uma lagoa de Linhares, uma empresária fisgou um peixe de grande porte.</p>
+<p>O peixe mediu 1,56 metro e foi capturado utilizando uma vara simples.</p>
+<p>O evento chamou atenção pela dimensão do peixe e pela forma como foi capturado.</p>
+<p>A captura ocorreu durante uma volta de lazer, transformando o passeio em uma pescaria incomum.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Seis pessoas morrem em acidentes no Vale do Itajaí durante o fim de semana]]></title>
-    <link>https://visornoticias.com.br/quem-sao-seis-vitimas-de-acidentes-no-vale-do-itajai/</link>
+    <title><![CDATA[Manutenção na rede pode afetar abastecimento de água em Balneário Camboriú nesta segunda]]></title>
+    <link>https://visornoticias.com.br/manutencao-pode-afetar-agua-em-bc/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 17:57:14 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326406]]></guid>
-    <description><![CDATA[Seis vítimas fatais foram registradas em acidentes ocorridos no Vale do Itajaí entre sábado e domingo.]]></description>
+    <pubDate>Mon, 12 Jan 2026 18:46:15 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326487]]></guid>
+    <description><![CDATA[Serviço de manutenção na rede de água está programado para esta segunda-feira, podendo impactar o fornecimento em Balneário Camboriú.]]></description>
     <content:encoded><![CDATA[
-<p>As vítimas tinham idades entre 22 e 70 anos.</p>
-<p>Os acidentes foram registrados durante o fim de semana, entre sábado e domingo.</p>
-<p>As ocorrências envolveram diferentes tipos de acidentes na região do Vale do Itajaí.</p>
-<p>As autoridades locais registraram e investigam os casos para apurar as circunstâncias.</p>
-<p>Os acidentes resultaram em seis mortes, impactando a comunidade local.</p>
-<p>Medidas de segurança e prevenção são reforçadas após os incidentes.</p>
+<p>O conserto será realizado na Rua Emanuel Rebelo entre 15h20 e 18h.</p>
+<p>Durante o período, o abastecimento de água pode sofrer interrupções ou redução na pressão.</p>
+<p>A manutenção visa garantir a qualidade e continuidade do serviço de fornecimento de água na região.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Defesa Civil instala kits ponte em Papanduva e Monte Castelo]]></title>
-    <link>https://visornoticias.com.br/defesa-civil-sc-instala-pontes-papanduva-monte-castelo/</link>
+    <title><![CDATA[Microempreendedores Individuais de Blumenau Recebem Mensagens Falsas Sobre Cancelamento de CNPJ]]></title>
+    <link>https://portalmenina.com.br/falsos-avisos-de-cancelamento-de-cnpj-chegam-a-meis-de-blumenau/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 17:54:47 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 18:25:55 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326354]]></guid>
-    <description><![CDATA[Kits ponte foram instalados nos municípios de Papanduva e Monte Castelo para melhorar a infraestrutura de mobilidade.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132819]]></guid>
+    <description><![CDATA[Microempreendedores individuais (MEIs) de Blumenau têm recebido mensagens falsas informando sobre o suposto cancelamento de seus CNPJs, em um golpe que circula por aplicativos de mensagens e e-mails.]]></description>
     <content:encoded><![CDATA[
-<p>A instalação dos kits ponte visa reforçar a infraestrutura de mobilidade nas regiões atendidas.</p>
-<p>As ações buscam garantir maior segurança e acesso às comunidades locais do Planalto Norte.</p>
-<p>A medida contribui para a melhoria das condições de transporte e circulação nas áreas afetadas.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Programa de Obras de Balneário Camboriú registra 291 novas demandas]]></title>
-    <link>https://visornoticias.com.br/obras-balneario-camboriu/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 17:54:33 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326065]]></guid>
-    <description><![CDATA[O programa de obras em Balneário Camboriú concluiu seu]]></description>
-    <content:encoded><![CDATA[
-<p>O projeto percorreu todos os bairros da cidade durante o</p>
-<p>Ao final do ciclo, foram registradas 291 novas demandas para execução de obras.</p>
-<p>As ordens de serviço contemplam diferentes tipos de intervenções em infraestrutura urbana.</p>
-<p>O programa visa atender as necessidades identificadas nas diversas regiões do município.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Itajaí abre inscrições para concurso da realeza do Carnaval 2026]]></title>
-    <link>https://visornoticias.com.br/carnaval-itajai-2/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 17:54:24 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326068]]></guid>
-    <description><![CDATA[Estão abertas as inscrições para o concurso que escolherá a realeza do Carnaval de Itajaí em 2026.]]></description>
-    <content:encoded><![CDATA[
-<p>O município de Itajaí iniciou o processo de seleção para eleger os representantes oficiais do Carnaval de 2026.</p>
-<p>O concurso visa escolher os membros da realeza que irão representar a festa durante o evento.</p>
-<p>Interessados podem realizar a inscrição</p>
+<p>A Praça do Empreendedor de Blumenau identificou o envio de mensagens fraudulentas que alertam sobre o cancelamento de CNPJs de MEIs na região.</p>
+<p>Mais de 30 microempreendedores individuais relataram o recebimento dessas mensagens desde o início do ano.</p>
+<p>As mensagens contêm links suspeitos que podem comprometer a segurança dos destinatários.</p>
+<p>A orientação é que os empreendedores evitem clicar em links desconhecidos e busquem informações por meio de canais oficiais ou com contadores de confiança.</p>
+<p>O atendimento da Praça do Empreendedor está disponível para esclarecimentos por telefone e WhatsApp.</p>
     ]]></content:encoded>
   </item>
 </channel>
