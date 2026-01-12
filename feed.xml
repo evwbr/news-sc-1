@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Mon, 12 Jan 2026 16:36:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 17:36:11 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,52 +21,100 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Mais de 1 kg de drogas é apreendido e dois são presos em Bombinhas]]></title>
-    <link>https://visornoticias.com.br/mais-de-1-kg-de-drogas-e-apreendido-e-presos/</link>
+    <title><![CDATA[Santa Catarina permanece em alerta para tempestades após passagem de ciclone]]></title>
+    <link>https://visornoticias.com.br/santa-catarina-segue-em-alerta-para-tempestades-apos-passagem-de-ciclone/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 16:22:53 GMT</pubDate>
-  <category><![CDATA[Polícia]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326356]]></guid>
-    <description><![CDATA[A Polícia Militar realizou uma operação em Bombinhas que resultou na apreensão de mais de 1 kg de drogas e na prisão de duas pessoas.]]></description>
+    <pubDate>Mon, 12 Jan 2026 17:27:16 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326399]]></guid>
+    <description><![CDATA[O litoral de Santa Catarina continua sob alerta laranja devido à previsão de chuva intensa e ventos fortes após a passagem de um ciclone.]]></description>
     <content:encoded><![CDATA[
-<p>Durante a ação, foram fiscalizados comércios locais e abordadas 54 pessoas.</p>
-<p>Mandados de prisão foram cumpridos no decorrer da operação.</p>
-<p>A apreensão de drogas e as prisões fazem parte das medidas para combater o tráfico na região.</p>
+<p>O Instituto Nacional de Meteorologia mantém o alerta laranja para o litoral de Santa Catarina, além de São Paulo e Paraná.</p>
+<p>As condições meteorológicas indicam possibilidade de chuvas intensas e ventos que podem atingir até 100 km/h na região.</p>
+<p>As autoridades recomendam atenção redobrada para os moradores das áreas afetadas devido ao risco de tempestades.</p>
+<p>A passagem do ciclone contribuiu para a instabilidade climática que permanece sobre o estado.</p>
+<p>As previsões indicam que as condições adversas podem continuar nos próximos dias, exigindo monitoramento constante.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Justiça determina que SC não pode cobrar IPTU de imóveis em áreas de preservação permanente]]></title>
-    <link>https://jornalrazao.com/meioambiente/justica-decide-que-sc-nao-pode-cobrar-iptu-de-imoveis/</link>
+    <title><![CDATA[Trabalhador morre após queda de aproximadamente 15 metros em telhado em Santa Catarina]]></title>
+    <link>https://jornalrazao.com/seguranca/trabalhador-morre-queda-15-metros-coronel-freitas/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 16:06:16 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 17:17:02 GMT</pubDate>
   <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=175039]]></guid>
-    <description><![CDATA[Tribunal de Justiça de Santa Catarina confirmou que imóveis localizados integralmente em Áreas de Preservação Permanente (APP) estão isentos do pagamento de IPTU.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://jornalrazao.com/?p=175046]]></guid>
+    <description><![CDATA[Um homem de 53 anos morreu após cair de uma altura estimada em 15 metros enquanto realizava serviços em um telhado no Oeste de Santa Catarina.]]></description>
     <content:encoded><![CDATA[
-<p>A 3ª Câmara de Direito Público do Tribunal de Justiça de Santa Catarina manteve a anulação da cobrança de IPTU feita pelo município de Imbituba em um imóvel situado totalmente em APP.</p>
-<p>O entendimento é de que, por não ser possível utilizar o imóvel para construção, moradia ou exploração econômica, não há fato gerador para o imposto.</p>
-<p>O caso teve início após o proprietário receber a cobrança do imposto e ter o débito inscrito em dívida ativa, o que motivou a apresentação de embargos à execução fiscal.</p>
-<p>O município recorreu da decisão, alegando que a isenção dependeria de pedido administrativo formal e que a localização em APP não impediria a cobrança do IPTU.</p>
-<p>O Tribunal na legislação municipal.</p>
-<p>A decisão segue o entendimento consolidado do Superior Tribunal de Justiça e do próprio Tribunal de Justiça de Santa Catarina, que consideram indevida a cobrança de IPTU sobre imóveis totalmente indisponíveis para uso.</p>
+<p>O acidente ocorreu no município de Coronel Freitas, onde o trabalhador realizava atividades em um imóvel.</p>
+<p>Equipes de resgate foram acionadas pouco antes das 14h e, ao chegarem ao local, constataram que a vítima não apresentava sinais vitais.</p>
+<p>O homem sofreu múltiplas fraturas em decorrência da queda e a área foi isolada para os procedimentos necessários.</p>
+<p>A Polícia Científica realizou os levantamentos técnicos para apurar as circunstâncias do acidente.</p>
+<p>O corpo foi velado na noite do sábado e sepultado no domingo à tarde no cemitério da Linha Monte Alegre, em Chapecó.</p>
     ]]></content:encoded>
   </item>
 
   <item>
-    <title><![CDATA[Dois homens são detidos após tentativa de furto em condomínio de Balneário Camboriú]]></title>
-    <link>https://portalmenina.com.br/dupla-e-detida-apos-tentativa-de-furto-em-condominio-de-balneario-camboriu/</link>
+    <title><![CDATA[Mulher acusada de violar túmulo esfaqueia morador de rua em Santa Catarina]]></title>
+    <link>https://visornoticias.com.br/acusada-de-violar-tumulo-e-lamber-cranio/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 15:34:22 GMT</pubDate>
-  <category><![CDATA[Política]]></category>
-    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132804]]></guid>
-    <description><![CDATA[Dois homens foram detidos após tentativa de furto e arrombamento em um condomínio em Balneário Camboriú. A ação foi flagrada por um vigilante, que imobilizou os suspeitos até a chegada da Guarda Municipal.]]></description>
+    <pubDate>Mon, 12 Jan 2026 17:13:09 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326384]]></guid>
+    <description><![CDATA[Uma mulher suspeita de violar sepulturas em um cemitério de Santa Catarina esfaqueou um morador de rua na cidade.]]></description>
     <content:encoded><![CDATA[
-<p>A Guarda Municipal foi acionada para atender uma ocorrência de tentativa de furto e arrombamento em um condomínio próximo a uma igreja na cidade.</p>
-<p>No local, os agentes encontraram dois homens que já haviam sido imobilizados por um vigilante do condomínio.</p>
-<p>Imagens apresentadas pelo responsável pelo condomínio confirmaram o arrombamento do portão e a tentativa de furto de duas bicicletas.</p>
-<p>O arrombamento foi realizado com o uso de um objeto que também teria sido utilizado para ameaçar o vigilante que flagrou a ação.</p>
-<p>Os envolvidos foram conduzidos à delegacia para os procedimentos legais, sem o uso de algemas.</p>
+<p>A suspeita já havia sido apontada por envolvimento em furtos de objetos em túmulos, incluindo um crânio.</p>
+<p>O incidente ocorreu em uma área urbana da cidade, onde a mulher atacou o morador de rua com uma faca.</p>
+<p>As circunstâncias que levaram ao ataque ainda estão sendo apuradas pelas autoridades locais.</p>
+<p>A polícia investiga o caso para esclarecer os fatos e identificar as motivações do crime.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Suspeito é preso após ataque dentro de elevador em Itapema]]></title>
+    <link>https://visornoticias.com.br/policia-diz-nao-haver-relacao-entre-autor-e-vitima-ataque-itapema/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 17:12:22 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326375]]></guid>
+    <description><![CDATA[Um homem foi detido no prédio onde ocorreu um ataque dentro de um elevador em Itapema. A vítima permanece fora de risco.]]></description>
+    <content:encoded><![CDATA[
+<p>O suspeito foi preso no mesmo edifício onde o incidente aconteceu.</p>
+<p>A vítima do ataque não apresenta risco à vida.</p>
+<p>Não há relação conhecida entre o autor do ataque e a vítima.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Santa Catarina registra prisão de 29 prefeitos desde 2020, equivalente a quase 10% dos municípios]]></title>
+    <link>https://portalmenina.com.br/santa-catarina-registra-prisao-de-29-prefeitos-desde-2020-indice-chega-a-quase-10-dos-municipios/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 17:07:35 GMT</pubDate>
+  <category><![CDATA[Política]]></category>
+    <guid isPermaLink="false"><![CDATA[https://portalmenina.com.br/?p=132808]]></guid>
+    <description><![CDATA[Desde agosto de 2020, 29 prefeitos de Santa Catarina foram presos em investigações relacionadas a contratos públicos e suspeitas de corrupção, representando cerca de 9,81% dos municípios do estado.]]></description>
+    <content:encoded><![CDATA[
+<p>O número de prefeitos detidos corresponde a aproximadamente um em cada dez municípios catarinenses. O caso mais recente envolveu o prefeito de Garopaba, preso em operação que investiga suposto esquema de fraudes em contratos públicos, especialmente na coleta de lixo.</p>
+<p>A primeira prisão registrada nesse período foi a do prefeito de Major Vieira, detido durante a segunda fase de uma operação que apurou crimes como corrupção, fraude em licitações e lavagem de dinheiro. Desde então, diversas operações resultaram em prisões de gestores municipais em diferentes regiões do estado.</p>
+<p>Alguns prefeitos foram soltos posteriormente, outros foram condenados, renunciaram ou foram reeleitos após a prisão. Uma das operações com maior número de detenções foi a Operação Mensageiro, que concentrou 17 prisões relacionadas a irregularidades em contratos públicos na área de coleta de resíduos.</p>
+<p>Entre os partidos com prefeitos presos, o MDB lidera com oito casos, seguido pelo PP com seis, PL com cinco e PSD com quatro. Outros partidos também tiveram representantes detidos em investigações conduzidas por forças de segurança estaduais e federais, com acompanhamento do Ministério Público.</p>
+<p>As operações que resultaram nas prisões incluem Mensageiro, Et Pater Filium, Travessia, Limpeza Urbana, Terra Nostra, Fundraising, Caronte e Coleta Seletiva. Os dados indicam a frequência de investigações envolvendo gestores municipais em Santa Catarina nos últimos anos, principalmente relacionadas à gestão de contratos públicos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Fazzenda Park Resort registra aumento de 30% no faturamento e alcança 96% de ocupação em 2025]]></title>
+    <link>https://visornoticias.com.br/fazzenda-park-resort-fatura-30-a-mais/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Mon, 12 Jan 2026 16:47:11 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326374]]></guid>
+    <description><![CDATA[O Fazzenda Park Resort apresentou crescimento significativo no faturamento e alta taxa de ocupação no ano de 2025.]]></description>
+    <content:encoded><![CDATA[
+<p>O resort registrou um aumento de 30% no faturamento em comparação a períodos anteriores.</p>
+<p>A taxa de ocupação alcançou 96% ao longo do ano, refletindo a demanda pelo empreendimento.</p>
+<p>O desempenho destaca o resort no segmento de hotelaria de lazer nacional.</p>
+<p>A estrutura e a experiência oferecidas pelo resort foram fatores determinantes para os resultados obtidos.</p>
     ]]></content:encoded>
   </item>
 </channel>
