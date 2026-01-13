@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 13 Jan 2026 00:35:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 08:35:56 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,33 +21,17 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Terça-feira terá calor e possibilidade de temporais isolados em Santa Catarina]]></title>
-    <link>https://visornoticias.com.br/terca-feira-sera-de-calor-e-temporais-isolados-em-santa-catarina/</link>
+    <title><![CDATA[Incêndio atinge praça no bairro Cordeiros em Itajaí]]></title>
+    <link>https://visornoticias.com.br/incendio-atinge-praca-no-bairro-cordeiros-em-itajai/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 13 Jan 2026 00:02:33 GMT</pubDate>
+    <pubDate>Tue, 13 Jan 2026 08:28:54 GMT</pubDate>
   <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326566]]></guid>
-    <description><![CDATA[As temperaturas devem se aproximar dos 30°C, com risco moderado de chuva intensa e rajadas de vento a partir da tarde.]]></description>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326568]]></guid>
+    <description><![CDATA[Um incêndio atingiu a Praça Pedro Manoel Rescaroli, localizada no bairro Cordeiros, em Itajaí.]]></description>
     <content:encoded><![CDATA[
-<p>Santa Catarina terá uma terça-feira marcada por calor e condições para temporais isolados.</p>
-<p>As temperaturas máximas podem chegar próximas dos 30°C em várias regiões do estado.</p>
-<p>A partir da tarde, há possibilidade de chuva intensa acompanhada de rajadas de vento.</p>
-<p>O risco para esses eventos é considerado moderado, exigindo atenção da população.</p>
-    ]]></content:encoded>
-  </item>
-
-  <item>
-    <title><![CDATA[Deslizamento bloqueia completamente a SC-112 na Serra Catarinense]]></title>
-    <link>https://visornoticias.com.br/deslizamento-interdita-totalmente-a-sc-112-na-serra-catarinense/</link>
-    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Mon, 12 Jan 2026 23:44:09 GMT</pubDate>
-  <category><![CDATA[Trânsito]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326563]]></guid>
-    <description><![CDATA[Um deslizamento interditou totalmente a rodovia SC-112 na Serra Catarinense, no km 256, sem previsão de liberação do tráfego.]]></description>
-    <content:encoded><![CDATA[
-<p>A rodovia SC-112 está totalmente bloqueada no quilômetro 256 devido a um deslizamento de terra.</p>
-<p>O trânsito permanece interrompido e não há previsão para a liberação da via.</p>
-<p>Equipes responsáveis monitoram a situação para avaliar os próximos passos para a remoção do material e a retomada do tráfego.</p>
+<p>O fogo foi registrado na praça do bairro Cordeiros, causando danos na área pública.</p>
+<p>As autoridades iniciaram a apuração do caso para identificar as causas do incêndio.</p>
+<p>Imagens de câmeras de monitoramento estão sendo utilizadas para auxiliar nas investigações.</p>
     ]]></content:encoded>
   </item>
 </channel>
