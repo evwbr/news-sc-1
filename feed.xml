@@ -9,7 +9,7 @@
   <atom:link href="https://evwbr.github.io/news-sc-1/feed.xml" rel="self" type="application/rss+xml" />
   <link>https://evwbr.github.io/news-sc-1/</link>
   <description>Notícias locais reescritas com IA - Evo Web News</description>
-  <lastBuildDate>Tue, 13 Jan 2026 08:35:56 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 09:36:26 GMT</lastBuildDate>
   <language>pt-BR</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,17 +21,68 @@
     <height>32</height>
   </image>
   <item>
-    <title><![CDATA[Incêndio atinge praça no bairro Cordeiros em Itajaí]]></title>
-    <link>https://visornoticias.com.br/incendio-atinge-praca-no-bairro-cordeiros-em-itajai/</link>
+    <title><![CDATA[Maximalismo na decoração: combinação de arte, objetos e elementos afetivos]]></title>
+    <link>https://visornoticias.com.br/maximalismo-veja-como-unir-arte-objetos-e-afeto-na-decoracao-do-lar/</link>
     <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-    <pubDate>Tue, 13 Jan 2026 08:28:54 GMT</pubDate>
-  <category><![CDATA[Tempo]]></category>
-    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326568]]></guid>
-    <description><![CDATA[Um incêndio atingiu a Praça Pedro Manoel Rescaroli, localizada no bairro Cordeiros, em Itajaí.]]></description>
+    <pubDate>Tue, 13 Jan 2026 09:21:00 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/maximalismo-veja-como-unir-arte-objetos-e-afeto-na-decoracao-do-lar/]]></guid>
+    <description><![CDATA[O maximalismo é um estilo de decoração que enfatiza a mistura consciente de cores, texturas, estampas e referências pessoais para criar ambientes com personalidade.]]></description>
     <content:encoded><![CDATA[
-<p>O fogo foi registrado na praça do bairro Cordeiros, causando danos na área pública.</p>
-<p>As autoridades iniciaram a apuração do caso para identificar as causas do incêndio.</p>
-<p>Imagens de câmeras de monitoramento estão sendo utilizadas para auxiliar nas investigações.</p>
+<p>O estilo maximalista busca integrar diferentes elementos decorativos de forma harmoniosa, valorizando a diversidade visual.</p>
+<p>A combinação de arte, objetos e elementos afetivos contribui para a criação de espaços únicos e personalizados.</p>
+<p>Cores vibrantes, texturas variadas e estampas são características comuns nesse tipo de decoração.</p>
+<p>A proposta do maximalismo é fugir da simplicidade e explorar a riqueza dos detalhes para compor ambientes acolhedores e expressivos.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Santa Catarina registra calor intenso e possibilidade de temporais nesta semana]]></title>
+    <link>https://visornoticias.com.br/santa-catarina-enfrenta-semana-de-calor-intenso-e-risco-de-temporais-de-verao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 13 Jan 2026 09:15:49 GMT</pubDate>
+  <category><![CDATA[Tempo]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326633]]></guid>
+    <description><![CDATA[O estado de Santa Catarina enfrenta uma semana com altas temperaturas, sensação de abafamento e possibilidade de chuvas intensas em todas as regiões.]]></description>
+    <content:encoded><![CDATA[
+<p>As condições climáticas indicam calor elevado em Santa Catarina nos próximos dias.</p>
+<p>A sensação de abafamento deve ser constante em todas as regiões do estado.</p>
+<p>Há previsão de chuvas intensas que podem provocar temporais típicos do verão.</p>
+<p>As autoridades recomendam atenção às condições meteorológicas durante o período.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Cuidados essenciais para manter a pele saudável durante o verão]]></title>
+    <link>https://visornoticias.com.br/8-cuidados-para-garantir-uma-pele-saudavel-no-verao/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 13 Jan 2026 09:10:13 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/8-cuidados-para-garantir-uma-pele-saudavel-no-verao/]]></guid>
+    <description><![CDATA[Adotar hábitos simples pode ajudar a prevenir problemas comuns na pele durante o período de verão.]]></description>
+    <content:encoded><![CDATA[
+<p>A exposição ao sol é um dos principais fatores que afetam a saúde da pele no verão.</p>
+<p>É importante utilizar protetor solar regularmente para proteger a pele dos raios ultravioletas.</p>
+<p>Manter a pele hidratada contribui para evitar o ressecamento causado pelo calor e pelo vento.</p>
+<p>Evitar a exposição solar nos horários de pico pode reduzir o risco de queimaduras e outros danos.</p>
+<p>O uso de roupas adequadas e chapéus auxilia na proteção contra a radiação solar.</p>
+<p>A ingestão de água em quantidade suficiente ajuda a manter a pele hidratada e saudável.</p>
+    ]]></content:encoded>
+  </item>
+
+  <item>
+    <title><![CDATA[Homem é preso por tráfico de drogas em Itajaí]]></title>
+    <link>https://visornoticias.com.br/homem-e-preso-por-trafico-de-drogas-e-mandado-em-aberto-em-itajai/</link>
+    <dc:creator><![CDATA[Evo Web News]]></dc:creator>
+    <pubDate>Tue, 13 Jan 2026 09:04:38 GMT</pubDate>
+  <category><![CDATA[Polícia]]></category>
+    <guid isPermaLink="false"><![CDATA[https://visornoticias.com.br/?p=326574]]></guid>
+    <description><![CDATA[Um homem foi detido em Itajaí durante uma abordagem policial que resultou na apreensão de drogas, dinheiro e objetos.]]></description>
+    <content:encoded><![CDATA[
+<p>O suspeito tentou fugir ao ser abordado pela polícia, mas foi capturado em uma kitnet.</p>
+<p>Durante a ação, foram apreendidos entorpecentes, dinheiro e outros objetos relacionados ao tráfico.</p>
+<p>Além da prisão por tráfico, o homem possuía um mandado de prisão em aberto.</p>
+<p>A ocorrência foi registrada pelas autoridades locais, que seguem com as investigações.</p>
     ]]></content:encoded>
   </item>
 </channel>
